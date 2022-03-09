@@ -1,4 +1,4 @@
-### 102 - Michele Butcher-Jones - Community Interview - Michele Butcher-Jones
+### Michele Butcher-Jones - Community Interview - Michele Butcher-Jones
 
 **Nexcess:** [00:00:00] Oh, great. My website crashed again. I give up, don't give up on your dreams, Jordan, who are you? It's me. You from the future. Your professional website 
 
