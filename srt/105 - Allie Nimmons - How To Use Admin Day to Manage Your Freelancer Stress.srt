@@ -1,0 +1,2951 @@
+1
+00:00:27,255 --> 00:00:27,825
+Nexcess: Oh, great.
+
+2
+00:00:27,975 --> 00:00:29,535
+My website crashed again.
+
+3
+00:00:29,895 --> 00:00:35,505
+I give up, don't give up on your
+dreams, Jordan, who are you?
+
+4
+00:00:35,595 --> 00:00:36,105
+It's me.
+
+5
+00:00:36,645 --> 00:00:38,235
+You from the future.
+
+6
+00:00:38,535 --> 00:00:40,545
+Your professional website
+is not out of reach.
+
+7
+00:00:40,575 --> 00:00:41,895
+You just need Nexcess.
+
+8
+00:00:42,375 --> 00:00:45,525
+With Nexcess managed hosting, you
+get lightening fast load times
+
+9
+00:00:45,525 --> 00:00:49,635
+built-in performance monitoring and
+updates, and always awesome support.
+
+10
+00:00:49,695 --> 00:00:51,555
+24 7 365.
+
+11
+00:00:51,585 --> 00:00:52,425
+For all your projects.
+
+12
+00:00:52,710 --> 00:00:53,310
+Whoa.
+
+13
+00:00:53,520 --> 00:00:53,910
+Yeah.
+
+14
+00:00:57,285 --> 00:01:02,625
+Weglot: Discover Weglot the simple
+translation solution for your website.
+
+15
+00:01:02,985 --> 00:01:07,515
+All you have to do is add Weglot to
+your website, select the languages
+
+16
+00:01:07,515 --> 00:01:09,465
+that you need, and that's it.
+
+17
+00:01:09,675 --> 00:01:12,795
+Your website is now available
+in multiple languages.
+
+18
+00:02:13,775 --> 00:02:16,954
+Yoast: Do you know, the Yoast SEO,
+plugin, they're red, orange, and
+
+19
+00:02:16,954 --> 00:02:20,135
+green feedback bullets that help
+you optimize your posts for the web.
+
+20
+00:02:20,315 --> 00:02:22,204
+It runs on millions of websites.
+
+21
+00:02:22,655 --> 00:02:26,315
+We try to make SEO understandable
+and accessible to everyone.
+
+22
+00:02:28,530 --> 00:02:32,410
+Bluehost: Who says building an online
+store has to be hard with Bluehost
+
+23
+00:02:32,430 --> 00:02:34,890
+website builder it's more than just easy.
+
+24
+00:02:35,100 --> 00:02:37,050
+It's tell us your thing in smart AI.
+
+25
+00:02:37,050 --> 00:02:38,190
+We'll take it from there.
+
+26
+00:02:38,190 --> 00:02:40,470
+Easy it's WooCommerce friendly.
+
+27
+00:02:40,530 --> 00:02:43,950
+So you can add one of these
+or swap this for that easy.
+
+28
+00:02:44,190 --> 00:02:47,280
+It's set up shop in minutes
+with unlimited products.
+
+29
+00:02:47,340 --> 00:02:47,790
+Easy.
+
+30
+00:02:47,850 --> 00:02:52,230
+Whether you sell boots, books
+or bowls, it's create an online
+
+31
+00:02:52,230 --> 00:02:56,640
+store with Bluehost, easy build
+beyond boundaries with Bluehost.
+
+32
+00:02:58,440 --> 00:03:04,230
+Misty Combs: Welcome back next we welcome
+Allie Nimmons as presented for how to use
+
+33
+00:03:04,830 --> 00:03:06,180
+admin day to manage.
+
+34
+00:03:08,100 --> 00:03:11,670
+Cathy Tibbles: Allie Nimmons is a
+WordPress contributor video producer
+
+35
+00:03:11,700 --> 00:03:14,130
+writer, active community member.
+
+36
+00:03:14,580 --> 00:03:19,560
+WordPress became a primary
+professional focus for her in 2014.
+
+37
+00:03:19,890 --> 00:03:23,010
+When she taught herself website,
+design and development through
+
+38
+00:03:23,010 --> 00:03:27,330
+the software, she has spoken at
+WordCamps in Miami, Kent Lawson.
+
+39
+00:03:27,890 --> 00:03:31,910
+Austin or Lando Boston,
+New York city and Phoenix.
+
+40
+00:03:32,120 --> 00:03:38,090
+She has also spoken at WordCamp US,
+WordSesh EMA ,WP campus, Laravel
+
+41
+00:03:38,090 --> 00:03:40,640
+PHP and Fern tech conference.
+
+42
+00:03:40,940 --> 00:03:45,710
+The under, uh, she is currently a
+content freelancer, LinkedIn learning
+
+43
+00:03:45,710 --> 00:03:49,580
+course instructor and co-founder of
+the Underrepresented In Tech database
+
+44
+00:03:50,090 --> 00:03:53,390
+alleys, mildly obsessed with making
+lists, growing plants and knitting.
+
+45
+00:03:53,810 --> 00:03:57,100
+And she lives in Austin, Texas
+with her husband and cat.
+
+46
+00:03:57,500 --> 00:03:59,505
+We are so grateful to have you.
+
+47
+00:04:02,565 --> 00:04:04,635
+Allie Nimmons: Hello everyone.
+
+48
+00:04:04,695 --> 00:04:04,995
+Hello?
+
+49
+00:04:04,995 --> 00:04:05,625
+Hello.
+
+50
+00:04:05,625 --> 00:04:07,035
+Thank you so much for having me.
+
+51
+00:04:07,304 --> 00:04:11,355
+Uh, my, my, my camera's here and I have
+two screens, so I apologize if I'm not
+
+52
+00:04:11,655 --> 00:04:16,214
+making beautiful eye contact with you, but
+I'm so happy to be here with you today.
+
+53
+00:04:16,545 --> 00:04:20,805
+Uh, talking about how I use admin day
+to manage my stress as a freelancer.
+
+54
+00:04:21,255 --> 00:04:24,515
+Uh, and hopefully there's some things that
+you can take away from this presentation.
+
+55
+00:04:27,225 --> 00:04:31,575
+So I had a beautiful introduction just
+now, but just a little bit more about me.
+
+56
+00:04:31,815 --> 00:04:33,855
+I've been freelancing
+for about six years now.
+
+57
+00:04:34,305 --> 00:04:37,425
+Um, I've started a couple of
+businesses and I've worked at a
+
+58
+00:04:37,425 --> 00:04:41,445
+couple of businesses, but I think
+my primary heart is in freelancing
+
+59
+00:04:41,475 --> 00:04:42,855
+business, owning entrepreneurial.
+
+60
+00:04:43,424 --> 00:04:43,965
+Stuff.
+
+61
+00:04:44,505 --> 00:04:48,734
+Um, and I do struggle like a lot
+of us do, especially these days
+
+62
+00:04:48,974 --> 00:04:51,015
+with depression and anxiety.
+
+63
+00:04:51,075 --> 00:04:58,304
+And so I've been really cognizant about
+how I can work smarter, not harder
+
+64
+00:04:58,664 --> 00:04:59,685
+in order to deal with those things.
+
+65
+00:05:02,730 --> 00:05:05,640
+So this presentation is for you.
+
+66
+00:05:05,850 --> 00:05:11,310
+If you are a freelancer, a contractor,
+or a business owner, anywhere you
+
+67
+00:05:11,310 --> 00:05:15,960
+fall on that spectrum, um, this
+information should be helpful for you.
+
+68
+00:05:19,200 --> 00:05:21,480
+If you feel any of these things.
+
+69
+00:05:22,245 --> 00:05:24,225
+This presentation will be helpful for you.
+
+70
+00:05:24,435 --> 00:05:28,275
+If you're feeling that you have just way
+too much to do as you run your business.
+
+71
+00:05:28,305 --> 00:05:32,625
+If you're feeling as though you lack
+organization, or you lack the discipline
+
+72
+00:05:32,625 --> 00:05:36,015
+that you need to get things done, if
+you feel like things just keep falling
+
+73
+00:05:36,015 --> 00:05:38,895
+through the cracks and you can't get
+everything done that you want, if
+
+74
+00:05:38,895 --> 00:05:42,405
+you're new to freelancing and you're
+kind of finding your stride right now,
+
+75
+00:05:42,585 --> 00:05:45,525
+or if you feel like you don't have a
+reliable routine, these are things that.
+
+76
+00:05:46,030 --> 00:05:50,380
+We all struggle with no matter how
+long we've been doing, whatever it is
+
+77
+00:05:50,380 --> 00:05:54,250
+that we're doing, these are things that
+everyone feels and everyone encounters.
+
+78
+00:05:54,580 --> 00:05:59,260
+Uh, but there are ways to set yourself up
+for success and to minimize the effects of
+
+79
+00:05:59,260 --> 00:06:06,760
+these feelings, uh, as a result of those,
+um, feelings, you might additionally
+
+80
+00:06:06,760 --> 00:06:13,330
+feel overwhelmed, discouraged, lost,
+depressed, or anxious, and identify these
+
+81
+00:06:13,330 --> 00:06:15,150
+things because I think it's important to.
+
+82
+00:06:15,855 --> 00:06:19,305
+Naming these things and acknowledge
+that we are feeling them and kind of
+
+83
+00:06:19,305 --> 00:06:23,655
+sit with them for a moment and say,
+okay, you are in the passenger seat
+
+84
+00:06:23,655 --> 00:06:26,865
+of my car and I'm going to be driving.
+
+85
+00:06:26,925 --> 00:06:27,285
+Right.
+
+86
+00:06:27,555 --> 00:06:29,385
+My depression sits right here with me.
+
+87
+00:06:29,655 --> 00:06:34,275
+It's with me all throughout the day,
+but I'm the one driving my car on the
+
+88
+00:06:34,275 --> 00:06:35,245
+one, deciding where we're going to.
+
+89
+00:06:38,245 --> 00:06:40,915
+So you to be thinking to yourself,
+well, what the heck is admin day?
+
+90
+00:06:40,945 --> 00:06:41,695
+What does that mean?
+
+91
+00:06:41,695 --> 00:06:44,245
+What does that have to do
+with mental health in any way?
+
+92
+00:06:44,905 --> 00:06:49,405
+Any way, shape or form admin day is
+the one month, the one day a month,
+
+93
+00:06:49,435 --> 00:06:54,565
+rather that you set everything else
+aside and you treat yourself like your
+
+94
+00:06:54,565 --> 00:07:00,445
+most important customer or client, your
+most valued client, the person that you
+
+95
+00:07:00,445 --> 00:07:02,905
+have to focus on the most for this one.
+
+96
+00:07:03,795 --> 00:07:06,525
+It gives you a chance
+to prioritize yourself.
+
+97
+00:07:08,715 --> 00:07:14,955
+So really admin day is a day where you
+complete a series of tasks and those
+
+98
+00:07:14,955 --> 00:07:19,635
+tasks can include, uh, getting caught
+up with your bookkeeping or your taxes,
+
+99
+00:07:20,265 --> 00:07:25,965
+um, reviewing your website and making
+any updates, additions, maintenance, uh,
+
+100
+00:07:25,995 --> 00:07:29,835
+tasks, anything like that, to make sure
+that your website is as good as it can.
+
+101
+00:07:30,930 --> 00:07:34,560
+Uh, any social media planning or
+content creation that you want to do.
+
+102
+00:07:34,560 --> 00:07:38,190
+So scheduling out content or writing
+a blog post or working on a video,
+
+103
+00:07:38,580 --> 00:07:39,960
+any number of things like that?
+
+104
+00:07:40,740 --> 00:07:44,340
+Uh, cleaning, that's actually kind
+of my favorite part on admin day,
+
+105
+00:07:44,340 --> 00:07:46,350
+I will clean my whole desk area.
+
+106
+00:07:46,380 --> 00:07:48,210
+I would clean my computers.
+
+107
+00:07:48,480 --> 00:07:51,360
+I'll clean out my inbox, my email inbox.
+
+108
+00:07:51,360 --> 00:07:54,900
+I'll get rid of old files and to my
+trash and just kind of make sure that
+
+109
+00:07:54,900 --> 00:07:56,550
+I could start this month with a clean.
+
+110
+00:07:58,125 --> 00:08:01,035
+This might be a good time to sit down
+and do research on something that you've
+
+111
+00:08:01,035 --> 00:08:04,935
+been wanting to learn or take a class,
+take a workshops and things like that.
+
+112
+00:08:05,625 --> 00:08:11,565
+Um, accountability, we, I feel like
+a lot of people like the idea of how
+
+113
+00:08:11,715 --> 00:08:16,095
+having accountability calls with other
+people who run businesses, uh, and
+
+114
+00:08:16,095 --> 00:08:17,355
+we don't always have time for that.
+
+115
+00:08:17,355 --> 00:08:21,615
+So this is a good day to set an hour
+aside and chat with another business.
+
+116
+00:08:23,100 --> 00:08:26,820
+Or any reporting or analytics that
+you want to do looking back at the
+
+117
+00:08:26,820 --> 00:08:30,090
+previous month, seeing how things
+perform, seeing how things went.
+
+118
+00:08:30,480 --> 00:08:32,580
+So these are just examples.
+
+119
+00:08:32,580 --> 00:08:36,659
+This is just a starter list, depending on
+the kind of company that you've run, the
+
+120
+00:08:36,659 --> 00:08:40,740
+services you provide, the products you
+create, this, this list can definitely
+
+121
+00:08:40,740 --> 00:08:42,930
+change and flex depending on you.
+
+122
+00:08:45,350 --> 00:08:48,100
+Uh, this could also just
+be a day off, right?
+
+123
+00:08:48,130 --> 00:08:51,620
+This could also just be a day where
+you treat yourself to a really
+
+124
+00:08:51,620 --> 00:08:55,540
+fancy, expensive cup of coffee,
+where you go spend some time outside.
+
+125
+00:08:55,550 --> 00:08:57,110
+This is a picture of me on a hike.
+
+126
+00:08:57,260 --> 00:09:01,819
+I took a couple of months ago, whatever
+you feel like you don't normally have
+
+127
+00:09:01,850 --> 00:09:06,470
+time for anything that you feel could
+kind of give you a nice reset, uh, where
+
+128
+00:09:06,470 --> 00:09:08,660
+you can be kind of quiet and undisturbed.
+
+129
+00:09:08,990 --> 00:09:10,340
+Admin day is a really good time.
+
+130
+00:09:12,975 --> 00:09:16,275
+So the number one problem I hear
+when I talk to people about it's
+
+131
+00:09:16,275 --> 00:09:17,655
+like, well, I don't have time.
+
+132
+00:09:17,895 --> 00:09:18,735
+I don't have time.
+
+133
+00:09:18,735 --> 00:09:21,045
+I have client work to do I have this.
+
+134
+00:09:21,045 --> 00:09:21,645
+I have that.
+
+135
+00:09:21,645 --> 00:09:22,665
+I have a busy schedule.
+
+136
+00:09:22,665 --> 00:09:23,745
+I have all of these things to do.
+
+137
+00:09:23,745 --> 00:09:29,595
+How can I take a whole day off every
+month to just focus on these other things?
+
+138
+00:09:30,915 --> 00:09:31,935
+The solution is yes, you do.
+
+139
+00:09:33,135 --> 00:09:36,584
+Um, I promise you have time.
+
+140
+00:09:36,675 --> 00:09:37,214
+You can make.
+
+141
+00:09:38,235 --> 00:09:39,584
+For yourself, right?
+
+142
+00:09:39,735 --> 00:09:44,834
+You are the most important person you
+have to put on your own mask before
+
+143
+00:09:44,834 --> 00:09:47,805
+you can put on other people's masks
+that has a different connotation.
+
+144
+00:09:47,805 --> 00:09:48,435
+Now doesn't it.
+
+145
+00:09:48,464 --> 00:09:51,704
+But, uh, you have to help yourself
+before you can help others.
+
+146
+00:09:52,125 --> 00:09:57,225
+Uh, we waste a lot of time throughout
+the month with the negative effects
+
+147
+00:09:57,225 --> 00:09:59,444
+of not doing a lot of these things.
+
+148
+00:09:59,895 --> 00:10:05,295
+Uh, so if you can take a day for admin
+day, you can earn back some of that
+
+149
+00:10:05,295 --> 00:10:06,555
+time that you might ordinarily do.
+
+150
+00:10:07,589 --> 00:10:10,709
+Um, and also you always have
+time to seed your mental health.
+
+151
+00:10:10,740 --> 00:10:15,329
+I think that's kind of what big
+orange heart, uh, is all about, right.
+
+152
+00:10:15,329 --> 00:10:18,390
+Is taking that time for yourself
+and making sure that you're okay.
+
+153
+00:10:18,780 --> 00:10:21,510
+This is a really good,
+structured way to do that.
+
+154
+00:10:23,215 --> 00:10:27,175
+So some tips to make sure that your
+admin day can go smoothly and that you
+
+155
+00:10:27,175 --> 00:10:31,825
+can really commit to it, a block that
+day off, fully on your calendar so
+
+156
+00:10:31,825 --> 00:10:35,305
+that if you have a Calendly or anything
+like that, people can book time with
+
+157
+00:10:35,305 --> 00:10:38,185
+you for that day without you noticing.
+
+158
+00:10:38,485 --> 00:10:41,215
+I just happened to me once or twice
+if I forget to block a day off.
+
+159
+00:10:41,665 --> 00:10:44,605
+Uh, but yeah, block that whole thing
+off and make sure that nobody can book.
+
+160
+00:10:46,290 --> 00:10:49,949
+Communicate with other people in your
+life, friends, family, colleagues,
+
+161
+00:10:49,949 --> 00:10:54,630
+employees, whatever that this is your day
+to really focus on what you have to do.
+
+162
+00:10:55,140 --> 00:10:59,880
+Uh, and it has value beyond just
+keeping up with your business.
+
+163
+00:10:59,910 --> 00:11:01,199
+It has value for your mental health.
+
+164
+00:11:02,550 --> 00:11:03,540
+Be consistent.
+
+165
+00:11:03,870 --> 00:11:08,970
+So for example, I really like to do admin
+day, the first of every month, whatever
+
+166
+00:11:08,970 --> 00:11:10,560
+day of the week that happens to fall on.
+
+167
+00:11:11,010 --> 00:11:14,790
+If you decide I'm going to do every
+day or I'm going to do the last
+
+168
+00:11:14,790 --> 00:11:19,140
+Friday of the month, um, whatever you
+decide to do, just stick with that.
+
+169
+00:11:19,140 --> 00:11:19,780
+And there'll be a lot.
+
+170
+00:11:21,765 --> 00:11:24,945
+Uh, I really like to try to
+get out of my normal space.
+
+171
+00:11:25,185 --> 00:11:28,185
+So maybe I just work in a
+different place in my home.
+
+172
+00:11:28,575 --> 00:11:32,745
+Um, he used to like to go out to a
+coffee shop or a library or something,
+
+173
+00:11:32,985 --> 00:11:35,775
+but see if you can get out of your
+normal space just to shake things up a
+
+174
+00:11:35,775 --> 00:11:39,465
+little bit, um, especially, you know,
+working from home these days can feel
+
+175
+00:11:39,465 --> 00:11:40,925
+very monotonous and that can really.
+
+176
+00:11:42,705 --> 00:11:45,785
+Also keep a handy list of
+tasks throughout the month.
+
+177
+00:11:45,815 --> 00:11:50,705
+So maybe a sticky note on your computer
+or a note on your desktop or a Google
+
+178
+00:11:50,705 --> 00:11:55,055
+doc, somewhere that you can throughout
+the month say, oh, that's something that
+
+179
+00:11:55,055 --> 00:11:56,945
+I'd really like to tackle on admin day.
+
+180
+00:11:57,155 --> 00:11:57,995
+Let me write that down.
+
+181
+00:11:57,995 --> 00:11:59,645
+So I don't forget that way.
+
+182
+00:11:59,915 --> 00:12:04,085
+Admin day, you come to your computer and
+you see, I have this beautiful list of
+
+183
+00:12:04,085 --> 00:12:08,585
+things that I've curated throughout the
+previous month that I can now work on.
+
+184
+00:12:10,895 --> 00:12:16,625
+So I feel like there are both short and
+long-term benefits to blocking out and
+
+185
+00:12:16,625 --> 00:12:18,515
+planning and completing an admin day.
+
+186
+00:12:19,145 --> 00:12:25,685
+Um, these are the things that I feel
+the short-term benefits are that you
+
+187
+00:12:25,685 --> 00:12:28,235
+kind of regain control a little bit.
+
+188
+00:12:28,235 --> 00:12:31,655
+You can, like I said, have that hard
+reset and feel the rest of the month.
+
+189
+00:12:31,685 --> 00:12:35,105
+Like you have a plan that
+you are in control of things.
+
+190
+00:12:36,344 --> 00:12:37,785
+All those good feelings, right?
+
+191
+00:12:38,145 --> 00:12:40,245
+You have a positive start to your month.
+
+192
+00:12:40,245 --> 00:12:41,564
+You're in a good Headspace.
+
+193
+00:12:41,564 --> 00:12:43,005
+You're in a good place mentally.
+
+194
+00:12:43,214 --> 00:12:48,735
+And as you go into that next week or next
+day, you feel good about yourself, right?
+
+195
+00:12:48,735 --> 00:12:52,785
+You accomplish something, it's
+a confidence booster, right?
+
+196
+00:12:52,785 --> 00:12:56,295
+I feel kind of like a
+boss on admin day, right?
+
+197
+00:12:56,295 --> 00:12:57,795
+I'm I'm getting everything done.
+
+198
+00:12:57,795 --> 00:13:00,545
+I'm getting everything taken care of
+and looking at how much money I made.
+
+199
+00:13:00,564 --> 00:13:02,954
+I'm looking at, you know, my
+reports, my analytics, the
+
+200
+00:13:02,964 --> 00:13:04,185
+things that I've accomplished.
+
+201
+00:13:04,365 --> 00:13:05,535
+It makes me feel good about.
+
+202
+00:13:06,315 --> 00:13:08,445
+What it is you've accomplished
+in the past month.
+
+203
+00:13:08,565 --> 00:13:10,515
+And what did you hope to
+accomplish in the next month?
+
+204
+00:13:11,895 --> 00:13:14,475
+It also gives you a little
+bit of perspective, right?
+
+205
+00:13:14,775 --> 00:13:20,895
+If you have trouble kind of seeing
+the forest for the trees admin
+
+206
+00:13:20,895 --> 00:13:24,315
+day can give you a really good
+overview of what it is you're doing.
+
+207
+00:13:24,315 --> 00:13:26,895
+So you're not getting lost
+in the details as much, which
+
+208
+00:13:27,105 --> 00:13:28,155
+can cause us a lot of anxiety.
+
+209
+00:13:29,340 --> 00:13:33,780
+And like I said before, you have usually
+a little bit more time in the next month.
+
+210
+00:13:33,810 --> 00:13:36,030
+You might not be scrambling
+for things as much.
+
+211
+00:13:36,360 --> 00:13:41,010
+Um, you might not be stressing over,
+well, I have to get a blog post out this.
+
+212
+00:13:41,220 --> 00:13:42,750
+I don't have time, but
+I really want to do it.
+
+213
+00:13:42,960 --> 00:13:43,680
+It's already done.
+
+214
+00:13:43,680 --> 00:13:44,790
+You don't have to think about it.
+
+215
+00:13:53,064 --> 00:13:54,295
+The long-term benefits.
+
+216
+00:13:54,775 --> 00:13:57,175
+Um, and again, these are the
+things that I've experienced in.
+
+217
+00:13:57,175 --> 00:14:00,115
+I felt your experience
+may vary, obviously.
+
+218
+00:14:00,535 --> 00:14:04,405
+Um, but it's allowed me to build a
+lot of trust in myself, especially
+
+219
+00:14:04,435 --> 00:14:06,535
+if I'm able to be consistent with it.
+
+220
+00:14:06,805 --> 00:14:10,675
+I don't, I think I only missed
+one admin day last year in 2021.
+
+221
+00:14:11,095 --> 00:14:13,194
+Uh, and that felt really, really good.
+
+222
+00:14:13,935 --> 00:14:16,905
+Um, developing those strong habits, right?
+
+223
+00:14:16,905 --> 00:14:17,385
+It's great.
+
+224
+00:14:17,385 --> 00:14:20,115
+At the end of the year, to be able
+to look back and say, I did my
+
+225
+00:14:20,115 --> 00:14:23,955
+reporting every single month, and now
+I have a whole year's worth of data.
+
+226
+00:14:24,375 --> 00:14:26,505
+I'm just getting into those habits.
+
+227
+00:14:26,595 --> 00:14:31,095
+Definitely pays off in the long
+run again, saving time, right?
+
+228
+00:14:31,095 --> 00:14:32,895
+Save so much time throughout the year.
+
+229
+00:14:33,194 --> 00:14:35,025
+Uh, especially for
+things like bookkeeping.
+
+230
+00:14:35,444 --> 00:14:39,105
+When you go to sit down to do your taxes
+quarterly, yearly, however you do it.
+
+231
+00:14:39,405 --> 00:14:41,444
+Um, you don't have to scramble
+around and collect things.
+
+232
+00:14:41,444 --> 00:14:42,255
+You have everything in one.
+
+233
+00:14:43,425 --> 00:14:44,985
+It strengthens your business, right?
+
+234
+00:14:44,985 --> 00:14:47,415
+If you're able to get that content
+out, that you've been meaning to
+
+235
+00:14:47,415 --> 00:14:52,755
+write and get your stuff organized,
+it's going to help strengthen the
+
+236
+00:14:52,755 --> 00:14:54,465
+business in little ways here and there.
+
+237
+00:14:54,525 --> 00:14:59,865
+The more organized you can be and
+the more mentally fit you feel,
+
+238
+00:15:01,035 --> 00:15:04,575
+uh, and just logistically sets you
+up for success, getting all your
+
+239
+00:15:04,575 --> 00:15:06,225
+ducks in a row is never a bad thing.
+
+240
+00:15:11,255 --> 00:15:11,465
+So.
+
+241
+00:15:12,510 --> 00:15:15,630
+Admin day for me was only a couple
+of days ago, as I said, I usually
+
+242
+00:15:15,630 --> 00:15:16,530
+do it the first of the month.
+
+243
+00:15:16,530 --> 00:15:18,060
+So Tuesday was my admin day.
+
+244
+00:15:18,480 --> 00:15:20,340
+Uh, and just an example
+of this is what I did.
+
+245
+00:15:20,340 --> 00:15:22,500
+I, uh, did a lot of bookkeeping.
+
+246
+00:15:23,895 --> 00:15:25,845
+I cleaned everything up.
+
+247
+00:15:26,175 --> 00:15:26,595
+Right.
+
+248
+00:15:26,775 --> 00:15:28,694
+My favorite part, I scrubbed down my desk.
+
+249
+00:15:28,694 --> 00:15:30,105
+I just conducted everything.
+
+250
+00:15:30,555 --> 00:15:33,824
+Um, I moved in, I canceled a
+bunch of subscriptions because
+
+251
+00:15:33,885 --> 00:15:36,885
+I accidentally put a bunch of
+business stuff on my PayPal account.
+
+252
+00:15:36,885 --> 00:15:39,015
+And I was like, oh no, that needs to
+be in my business, blah, blah, blah.
+
+253
+00:15:39,285 --> 00:15:41,865
+And I didn't have time in the
+month to go back and fix it.
+
+254
+00:15:41,865 --> 00:15:42,525
+So I was able to do that.
+
+255
+00:15:43,355 --> 00:15:44,825
+Uh, it is tax season.
+
+256
+00:15:44,835 --> 00:15:48,815
+So I was working on my taxes and that
+was a very stressful and not fun.
+
+257
+00:15:49,265 --> 00:15:53,225
+Um, but what I did do that was really
+fun as I sat right over there behind
+
+258
+00:15:53,225 --> 00:15:58,055
+the camera, where I have a nice
+little, uh, seating area, and I read a
+
+259
+00:15:58,055 --> 00:16:01,505
+bunch of articles and blog posts that
+I'd been wanting to read throughout
+
+260
+00:16:01,505 --> 00:16:04,655
+the month, that I didn't have time
+to, uh, with a nice cup of tea.
+
+261
+00:16:04,655 --> 00:16:06,335
+And it was really, really relaxing.
+
+262
+00:16:06,335 --> 00:16:09,725
+So my previous admin day was actually
+a little bit stressful because of the
+
+263
+00:16:09,725 --> 00:16:12,125
+taxes, but now I feel so much better.
+
+264
+00:16:12,655 --> 00:16:14,095
+It's out of the way and off my plate.
+
+265
+00:16:16,645 --> 00:16:22,195
+So I want to hear from you,
+if you do something like admin
+
+266
+00:16:22,195 --> 00:16:25,525
+day, I've heard people do like
+smaller admin days every week.
+
+267
+00:16:25,525 --> 00:16:26,425
+Like it'd be Friday.
+
+268
+00:16:26,845 --> 00:16:28,135
+Um, yes or no.
+
+269
+00:16:28,135 --> 00:16:31,585
+Is this something that you would be
+interested in starting or is this
+
+270
+00:16:31,585 --> 00:16:32,665
+something that you've already done?
+
+271
+00:16:33,600 --> 00:16:34,140
+Not for you.
+
+272
+00:16:34,560 --> 00:16:37,560
+Uh, you can find me on Twitter at
+Ellie underscored humans, and I'd
+
+273
+00:16:37,560 --> 00:16:41,070
+really, really love to hear from you
+and hear what you do on admin day.
+
+274
+00:16:41,070 --> 00:16:43,050
+That could maybe inspired me as well.
+
+275
+00:16:43,560 --> 00:16:47,490
+Um, so yeah, if we have any questions,
+I'd be super happy to answer.
+
+276
+00:16:50,245 --> 00:16:50,785
+Cathy Tibbles: Hi.
+
+277
+00:16:50,814 --> 00:16:52,104
+Thank you so much, Allie.
+
+278
+00:16:52,584 --> 00:16:54,145
+Allie Nimmons: Hi, thank you.
+
+279
+00:16:54,145 --> 00:16:54,685
+Thank you.
+
+280
+00:16:54,685 --> 00:16:55,375
+It was a pleasure.
+
+281
+00:16:55,944 --> 00:16:57,115
+Cathy Tibbles: Yeah, that was live right.
+
+282
+00:16:57,115 --> 00:16:58,104
+Or was that a recorded?
+
+283
+00:16:59,905 --> 00:17:00,655
+Allie Nimmons: That was live.
+
+284
+00:17:00,655 --> 00:17:01,525
+Cathy Tibbles: How are you feeling?
+
+285
+00:17:02,395 --> 00:17:02,814
+Allie Nimmons: Good.
+
+286
+00:17:02,844 --> 00:17:06,264
+I feel like I talked really, really
+fast, which is a bad habit of mine.
+
+287
+00:17:06,415 --> 00:17:06,714
+I'm sorry.
+
+288
+00:17:08,425 --> 00:17:09,474
+I was really excited
+
+289
+00:17:10,435 --> 00:17:11,544
+Cathy Tibbles: and it was great.
+
+290
+00:17:11,544 --> 00:17:15,835
+I'm curious how you came up
+with the idea or did you come
+
+291
+00:17:15,835 --> 00:17:17,145
+up with the idea of Admin Day?
+
+292
+00:17:17,595 --> 00:17:18,704
+Allie Nimmons: I don't remember.
+
+293
+00:17:18,855 --> 00:17:20,325
+I honestly don't remember.
+
+294
+00:17:20,355 --> 00:17:24,794
+I think it might, it might've been
+something that I heard somebody
+
+295
+00:17:24,794 --> 00:17:27,494
+else like write a blog post or
+talk about it a long time ago, but
+
+296
+00:17:27,494 --> 00:17:30,284
+I've been doing it for many years.
+
+297
+00:17:30,284 --> 00:17:32,175
+And so it's now just kind of like a habit.
+
+298
+00:17:32,175 --> 00:17:35,835
+I don't really remember where
+I learned, but I've evolved it.
+
+299
+00:17:35,835 --> 00:17:36,165
+Right.
+
+300
+00:17:36,165 --> 00:17:39,165
+Like figured out new things to
+do over time and stuff like that.
+
+301
+00:17:39,495 --> 00:17:42,165
+I have a little running list, but,
+um, yeah, I don't really remember
+
+302
+00:17:42,165 --> 00:17:43,274
+where I first heard about it.
+
+303
+00:17:44,415 --> 00:17:44,865
+Cathy Tibbles: Do you know?
+
+304
+00:17:46,399 --> 00:17:50,149
+A person would do if they
+weren't a freelancer, would
+
+305
+00:17:50,149 --> 00:17:51,949
+you still think an admin day?
+
+306
+00:17:51,949 --> 00:17:53,780
+Like I'm just thinking self care day.
+
+307
+00:17:55,580 --> 00:17:57,260
+Allie Nimmons: I mean, mental
+health days and self-care
+
+308
+00:17:57,260 --> 00:17:59,300
+days are remarkably important.
+
+309
+00:17:59,330 --> 00:18:03,139
+Like whether you feel like you need it or
+not, like, I feel like a lot of us will
+
+310
+00:18:03,139 --> 00:18:06,260
+say like, oh, I don't something happened
+or maybe I don't feel great today.
+
+311
+00:18:06,260 --> 00:18:08,719
+And I'm going to, I'm going to
+take a mental day for myself.
+
+312
+00:18:09,169 --> 00:18:10,580
+Um, I'd love to normalize.
+
+313
+00:18:11,505 --> 00:18:14,835
+Taking a day, once a month,
+even when you don't need it.
+
+314
+00:18:14,835 --> 00:18:15,165
+Right.
+
+315
+00:18:15,165 --> 00:18:17,835
+Like preventative care
+rather than reactive care.
+
+316
+00:18:18,255 --> 00:18:22,815
+Um, so yeah, like I don't see
+anything wrong with that at all.
+
+317
+00:18:22,815 --> 00:18:23,865
+I think that would be great.
+
+318
+00:18:25,425 --> 00:18:28,695
+And especially if you feel like you have
+tasks that you'd like to get caught up
+
+319
+00:18:28,695 --> 00:18:33,254
+on, um, even if it's just catching up
+on a TV show or something like that,
+
+320
+00:18:33,285 --> 00:18:36,165
+like if you could say, all right, I'm
+going to make a little to-do list for
+
+321
+00:18:36,165 --> 00:18:39,795
+myself so that I can cause one of the
+things I really love about admin day is
+
+322
+00:18:39,795 --> 00:18:44,025
+that feeling at the end of the day, it's
+like I checked everything off my list.
+
+323
+00:18:44,445 --> 00:18:48,855
+Um, I completed everything and that,
+that always gives me a nice little kind
+
+324
+00:18:48,855 --> 00:18:53,115
+of confidence boost of, like I said, I
+was going to do something and I did it.
+
+325
+00:18:53,115 --> 00:18:53,715
+And that feels real.
+
+326
+00:18:55,190 --> 00:18:57,860
+Cathy Tibbles: I could also
+see that working for people.
+
+327
+00:18:57,860 --> 00:19:00,110
+Like I find to do lists
+to be a lot of pressure.
+
+328
+00:19:00,110 --> 00:19:05,690
+So I kind of organize it as in like
+kind of a things I want to accomplish
+
+329
+00:19:05,690 --> 00:19:09,080
+in a week, but I could still see that
+working really well because there'll
+
+330
+00:19:09,080 --> 00:19:11,240
+be the day when I don't have it to do.
+
+331
+00:19:12,920 --> 00:19:14,060
+Allie Nimmons: Yeah, for sure.
+
+332
+00:19:14,180 --> 00:19:17,630
+If that's, if that's what you need,
+like, I love the fact that it's,
+
+333
+00:19:17,960 --> 00:19:20,060
+it's a flexible concept, right?
+
+334
+00:19:20,090 --> 00:19:22,010
+To say, I'm going to take this day.
+
+335
+00:19:23,565 --> 00:19:25,005
+To-do list every other day of the year.
+
+336
+00:19:25,005 --> 00:19:27,525
+Today is the one day I'm not going
+to make it to do list, right.
+
+337
+00:19:27,535 --> 00:19:29,145
+If that's what you need for yourself.
+
+338
+00:19:29,175 --> 00:19:36,315
+And that's, so that's very valuable and,
+uh, introspective to be able to identify
+
+339
+00:19:36,315 --> 00:19:38,745
+what you need and go ahead and do that.
+
+340
+00:19:39,585 --> 00:19:41,055
+Cathy Tibbles: I just think
+it's such a great idea.
+
+341
+00:19:41,085 --> 00:19:43,065
+Have you heard of time-blocking?
+
+342
+00:19:44,445 --> 00:19:45,525
+Allie Nimmons: I do time blocking.
+
+343
+00:19:45,885 --> 00:19:50,085
+I started doing time blocking this
+year, um, more than I used to.
+
+344
+00:19:50,595 --> 00:19:52,695
+Um, and yeah, I find it very.
+
+345
+00:19:53,825 --> 00:19:54,215
+calming.
+
+346
+00:19:54,240 --> 00:19:56,640
+Cause I don't ever have to think
+about what do I need to be doing
+
+347
+00:19:56,640 --> 00:19:57,720
+what I need to be working on.
+
+348
+00:19:57,720 --> 00:20:00,810
+Like I always have, I can just
+look at my calendar and it tells
+
+349
+00:20:00,810 --> 00:20:02,430
+me what to do and when I go do it.
+
+350
+00:20:03,390 --> 00:20:06,060
+Cathy Tibbles: If I don't have
+it time blocked, I'm just like
+
+351
+00:20:06,510 --> 00:20:07,770
+putting out fires all day.
+
+352
+00:20:07,920 --> 00:20:11,460
+It's just like, I just let the
+email dictate my day instead
+
+353
+00:20:11,460 --> 00:20:13,110
+of what I should be doing.
+
+354
+00:20:14,505 --> 00:20:18,405
+And I find it, the talk
+reminded me of something.
+
+355
+00:20:18,495 --> 00:20:24,945
+Um, like I divide my company
+tasks into a bunch of stuff.
+
+356
+00:20:24,975 --> 00:20:29,145
+And the one that always gets ignored
+for me is research and development.
+
+357
+00:20:29,355 --> 00:20:31,215
+Like with the manufacturing
+has to get done.
+
+358
+00:20:32,040 --> 00:20:35,730
+In our freelance world, it's,
+you know, getting the code or the
+
+359
+00:20:35,730 --> 00:20:37,380
+site done or out to the client.
+
+360
+00:20:39,270 --> 00:20:39,780
+Yeah.
+
+361
+00:20:39,810 --> 00:20:42,870
+The customer service, the marketing, it's
+kind of like your content, your videos,
+
+362
+00:20:42,870 --> 00:20:47,400
+like they have to get done, but actually
+the time to read those articles, like you
+
+363
+00:20:47,400 --> 00:20:50,715
+were saying, Get better at your craft.
+
+364
+00:20:51,205 --> 00:20:53,085
+You have to prioritize that stuff.
+
+365
+00:20:53,235 --> 00:20:53,625
+Allie Nimmons: Yeah.
+
+366
+00:20:53,865 --> 00:20:57,105
+That's, that's one of my favorite
+parts of the day and that's that's,
+
+367
+00:20:57,105 --> 00:20:59,985
+I feel like the number one thing
+that I tend to put off throughout the
+
+368
+00:20:59,985 --> 00:21:03,045
+month, um, is yeah, it's like, okay.
+
+369
+00:21:03,105 --> 00:21:07,635
+I, I use this one videos, like for
+my next admin day, I really want to
+
+370
+00:21:07,665 --> 00:21:10,875
+take time to like learn a new video
+editing software because I've been
+
+371
+00:21:10,875 --> 00:21:11,955
+using the same for a long time.
+
+372
+00:21:12,420 --> 00:21:13,440
+It's been getting on my nerves.
+
+373
+00:21:13,710 --> 00:21:17,580
+I don't have time usually to just say,
+I'm going to completely switch to this
+
+374
+00:21:17,580 --> 00:21:18,960
+other thing and learn it on the fly.
+
+375
+00:21:18,960 --> 00:21:19,200
+Right?
+
+376
+00:21:19,200 --> 00:21:20,700
+Like that's so stressful.
+
+377
+00:21:20,940 --> 00:21:22,920
+So to say, okay, I'm going
+to take it after noon.
+
+378
+00:21:22,920 --> 00:21:24,030
+I'm going to block it off.
+
+379
+00:21:24,060 --> 00:21:26,400
+If somebody asks me to do
+something, I'm going to say no.
+
+380
+00:21:26,880 --> 00:21:29,610
+Um, that is very empowering.
+
+381
+00:21:29,640 --> 00:21:29,840
+Right?
+
+382
+00:21:29,850 --> 00:21:32,190
+Cause it, I think that that's
+another thing too about this
+
+383
+00:21:32,190 --> 00:21:36,330
+whole thing is for that day, you,
+you can say no to everything.
+
+384
+00:21:36,330 --> 00:21:38,190
+Somebody sends you a DM or an email.
+
+385
+00:21:38,370 --> 00:21:39,780
+You don't have to answer it.
+
+386
+00:21:40,020 --> 00:21:45,330
+And I think that, um, That at
+least for me, gives me a lot of
+
+387
+00:21:45,330 --> 00:21:48,960
+confidence as a business owner to
+say, like, I am prioritizing myself.
+
+388
+00:21:49,530 --> 00:21:53,130
+I appreciate that you need something,
+but I will get to it tomorrow.
+
+389
+00:21:53,620 --> 00:21:54,160
+Um,
+
+390
+00:21:58,010 --> 00:21:58,400
+no.
+
+391
+00:22:03,270 --> 00:22:07,290
+Cathy Tibbles: No, uh, you know, Amy
+Porterfield, um, years ago, I listened
+
+392
+00:22:07,290 --> 00:22:12,120
+to her all the time and she had, I think
+she called it dragon hour, power hour.
+
+393
+00:22:12,750 --> 00:22:17,399
+I'm not sure, but, but she's prolific
+content creator, but there's two
+
+394
+00:22:17,399 --> 00:22:18,689
+or three hours in the morning.
+
+395
+00:22:18,689 --> 00:22:20,760
+Her team didn't even contact her.
+
+396
+00:22:20,760 --> 00:22:25,340
+Like they protected her little bubble
+and that was her time to work like do
+
+397
+00:22:25,340 --> 00:22:30,960
+not poke the bear between this time and
+this time, it just reminds me of that.
+
+398
+00:22:30,960 --> 00:22:34,320
+Like the people who are really productive,
+you have to focus on what you want.
+
+399
+00:22:35,220 --> 00:22:37,770
+To get the work for your
+mental health, right?
+
+400
+00:22:37,890 --> 00:22:38,190
+Yeah.
+
+401
+00:22:38,490 --> 00:22:41,220
+Allie Nimmons: Especially if you're in a
+period of, well, we should all be learning
+
+402
+00:22:41,220 --> 00:22:45,510
+all the time, but if you're in a period
+of like, all right, I I'm freelancing
+
+403
+00:22:45,510 --> 00:22:49,110
+or I started this business, whatever the
+case may be and now I want to scale it.
+
+404
+00:22:49,140 --> 00:22:49,380
+Right.
+
+405
+00:22:49,380 --> 00:22:53,370
+I want to grow, I want to add
+a new service or I want to, you
+
+406
+00:22:53,370 --> 00:22:55,590
+know, maybe hire somebody right.
+
+407
+00:22:55,590 --> 00:22:58,590
+When, when you feel like, okay,
+I need to get to that next level.
+
+408
+00:22:59,250 --> 00:23:02,670
+You have to be able to prioritize,
+well, like, how am I going to do that?
+
+409
+00:23:02,670 --> 00:23:02,850
+I need.
+
+410
+00:23:03,615 --> 00:23:06,795
+Time away from my clients and my
+deliverables and all those things,
+
+411
+00:23:07,065 --> 00:23:10,785
+and really get my ducks in a row and
+learn what I need to learn in order
+
+412
+00:23:10,785 --> 00:23:12,825
+to scale to that, to that next level.
+
+413
+00:23:12,825 --> 00:23:15,765
+Cause I feel like that's, that's
+such a big reason why people
+
+414
+00:23:16,155 --> 00:23:19,605
+struggle with scaling or don't
+scale is because they don't have.
+
+415
+00:23:20,965 --> 00:23:25,765
+The, the, the background foundational
+knowledge to, to do whatever comes
+
+416
+00:23:25,765 --> 00:23:28,255
+with that next phase of their business.
+
+417
+00:23:28,675 --> 00:23:33,355
+Um, and so it's, it's hard to get there
+if you don't know what you have to do.
+
+418
+00:23:33,745 --> 00:23:39,865
+Um, and yeah, when you have to pay
+bills and, uh, you know, meet whatever
+
+419
+00:23:39,865 --> 00:23:46,105
+monetary goals that you have, it can
+feel really scary to say, like, I'm not
+
+420
+00:23:46,105 --> 00:23:48,295
+going to put in billable hours to do.
+
+421
+00:23:49,425 --> 00:23:49,875
+Right.
+
+422
+00:23:49,995 --> 00:23:51,705
+Like, that's super scary.
+
+423
+00:23:51,764 --> 00:23:56,175
+If you have bills to pay, they say,
+I'm not going to make money today.
+
+424
+00:23:56,264 --> 00:24:01,034
+I'm going to work on myself, but
+in the long run, I think it does
+
+425
+00:24:01,034 --> 00:24:04,395
+enable you to grow and scale it
+to make more money, you know?
+
+426
+00:24:06,060 --> 00:24:07,980
+So, yeah, it has, it has
+all kinds of benefits
+
+427
+00:24:08,940 --> 00:24:10,920
+Cathy Tibbles: It does and, you
+know, it's easy to say that we
+
+428
+00:24:10,920 --> 00:24:12,240
+prioritize our mental health.
+
+429
+00:24:13,530 --> 00:24:17,580
+It's harder to do when you're taking
+cash off the table, but that's,
+
+430
+00:24:17,580 --> 00:24:19,470
+short-sighted like in the long-term.
+
+431
+00:24:20,700 --> 00:24:22,020
+Allie Nimmons: Yeah, yeah, for sure.
+
+432
+00:24:22,290 --> 00:24:27,570
+And so I, you know, if it's a matter
+of, um, you know, I'm gonna reserve
+
+433
+00:24:27,570 --> 00:24:31,814
+an afternoon to do all to do some of
+this kind of stuff, and then maybe
+
+434
+00:24:31,814 --> 00:24:34,004
+work your way up to a whole day, right?
+
+435
+00:24:34,245 --> 00:24:36,975
+Like, like you were saying, that
+woman just had a chunk of time in
+
+436
+00:24:36,975 --> 00:24:38,595
+the morning that could work too.
+
+437
+00:24:38,595 --> 00:24:38,865
+Right.
+
+438
+00:24:38,865 --> 00:24:41,745
+It can be whatever you can
+manage to do at that time.
+
+439
+00:24:42,044 --> 00:24:46,004
+But I think it's always worthwhile
+to say, I'm going to put aside any
+
+440
+00:24:46,004 --> 00:24:49,514
+amount of time for myself, and then
+you can grow that as you're able to.
+
+441
+00:24:50,324 --> 00:24:52,485
+Cathy Tibbles: And you've
+been doing this for years.
+
+442
+00:24:52,814 --> 00:24:53,024
+Yeah.
+
+443
+00:24:54,314 --> 00:24:55,004
+Wow.
+
+444
+00:24:55,395 --> 00:24:56,205
+That's very cool.
+
+445
+00:25:01,095 --> 00:25:01,875
+Two minutes.
+
+446
+00:25:02,024 --> 00:25:06,585
+So I'm wondering if we can pick
+Misty's brain and Liquid Web.
+
+447
+00:25:08,504 --> 00:25:14,175
+Do you have like, can people take, I
+hope I'm not ousting something bad, but
+
+448
+00:25:14,175 --> 00:25:17,054
+can I, can people take like a morning?
+
+449
+00:25:20,135 --> 00:25:25,205
+Either do work-related R and D
+gonna learn more about something,
+
+450
+00:25:25,415 --> 00:25:27,185
+but like not working on a project.
+
+451
+00:25:28,325 --> 00:25:32,105
+Misty Combs: We, we do have a lot of
+flexibility, even just, if you want to
+
+452
+00:25:32,135 --> 00:25:39,005
+adjust your schedule to accommodate self
+care mental health time, um, we have
+
+453
+00:25:39,005 --> 00:25:44,765
+a lot of support for that, but we also
+have, um, a lot of leaders who give a
+
+454
+00:25:44,765 --> 00:25:51,879
+lot of flexibility and an independent
+scheduling to their staff all the time.
+
+455
+00:25:52,330 --> 00:25:56,500
+So it is important that not that we
+don't have that much and we don't have
+
+456
+00:25:56,500 --> 00:26:00,340
+things that need to get accomplished,
+but at the end of the day, if I am
+
+457
+00:26:00,340 --> 00:26:05,200
+completely burned out and I am completely
+exhausted, I'm not able to commit
+
+458
+00:26:05,200 --> 00:26:07,750
+the things that I need to do anyway.
+
+459
+00:26:07,750 --> 00:26:11,290
+So, so there's definitely an
+encouragement take your PTO tip.
+
+460
+00:26:11,830 --> 00:26:13,899
+Take the time that you
+need flex your schedule.
+
+461
+00:26:13,899 --> 00:26:14,800
+Take care of yourself.
+
+462
+00:26:14,830 --> 00:26:15,669
+Take care of your family.
+
+463
+00:26:15,669 --> 00:26:18,129
+Cathy Tibbles: PCO, did you say PCO?
+
+464
+00:26:18,159 --> 00:26:18,259
+Misty Combs: PTO.
+
+465
+00:26:18,409 --> 00:26:19,750
+So like your Paid Time Off.
+
+466
+00:26:20,324 --> 00:26:20,534
+Cathy Tibbles: Okay.
+
+467
+00:26:20,554 --> 00:26:20,804
+Okay.
+
+468
+00:26:22,290 --> 00:26:23,280
+That was HR speak.
+
+469
+00:26:26,460 --> 00:26:27,150
+That's good.
+
+470
+00:26:27,150 --> 00:26:31,020
+It's nice to see the bigger
+companies, but we also do.
+
+471
+00:26:31,860 --> 00:26:34,140
+Misty Combs: We've also done a
+lot, the things that stress people.
+
+472
+00:26:34,170 --> 00:26:39,060
+So when we, we became a more work
+from home organization, we tried to do
+
+473
+00:26:39,060 --> 00:26:40,680
+things that help people be connected.
+
+474
+00:26:41,010 --> 00:26:44,160
+We also tried to do things
+for all kinds of wellness.
+
+475
+00:26:44,220 --> 00:26:45,300
+Um, we have.
+
+476
+00:26:46,030 --> 00:26:47,350
+Zoom based yoga.
+
+477
+00:26:47,350 --> 00:26:51,120
+We have had series of financial education.
+
+478
+00:26:51,160 --> 00:26:57,070
+We have, uh, um, health and wellness,
+diet, diet, mental health, um,
+
+479
+00:26:57,100 --> 00:27:00,730
+mindfulness, all kinds of activities
+that people can participate in
+
+480
+00:27:01,090 --> 00:27:04,480
+when they're feeling stressed in
+whatever way, they're feeling stress,
+
+481
+00:27:04,480 --> 00:27:06,970
+trying to give them some resources.
+
+482
+00:27:08,795 --> 00:27:10,085
+Cathy Tibbles: Yeah, that is cool.
+
+483
+00:27:10,445 --> 00:27:13,205
+Allie, can I switch
+topics just for a second?
+
+484
+00:27:13,475 --> 00:27:16,715
+What is the Underrepresented
+In Tech database?
+
+485
+00:27:16,955 --> 00:27:18,635
+Allie Nimmons: Oh, I was
+hoping you'd ask me that.
+
+486
+00:27:18,995 --> 00:27:25,235
+Um, Underrepresented In Tech is a
+database that, uh, myself and Michelle
+
+487
+00:27:25,235 --> 00:27:27,335
+Frechette, we co-founded together.
+
+488
+00:27:27,725 --> 00:27:30,275
+Um, because honestly we work at it.
+
+489
+00:27:30,885 --> 00:27:37,034
+Tired of people coming to us and
+saying, um, you know, I'm looking to
+
+490
+00:27:37,304 --> 00:27:41,774
+hire someone or I'm looking to, um, get
+people to apply, to speak at my event.
+
+491
+00:27:41,985 --> 00:27:44,745
+And I want to make sure that it's
+a group, a diverse group of folks.
+
+492
+00:27:44,745 --> 00:27:45,764
+Do you know anybody?
+
+493
+00:27:45,764 --> 00:27:46,995
+Can you recommend anybody?
+
+494
+00:27:46,995 --> 00:27:49,095
+Can you ask people to
+apply blah, blah, blah.
+
+495
+00:27:49,784 --> 00:27:53,715
+And we had a conversation about how
+great it is that people want that, but
+
+496
+00:27:53,715 --> 00:28:00,104
+how it sucks up a lot of our time and
+our energy, um, to have to like, Yeah.
+
+497
+00:28:00,135 --> 00:28:00,415
+Yeah.
+
+498
+00:28:00,764 --> 00:28:04,084
+Um, and we were like, wouldn't it
+be great if we had like a, like
+
+499
+00:28:04,084 --> 00:28:05,955
+a giant spreadsheet or something?
+
+500
+00:28:06,314 --> 00:28:08,534
+Um, and they were like,
+oh, that's kind of weird.
+
+501
+00:28:08,564 --> 00:28:10,425
+Just add people to a spreadsheet
+without their permission.
+
+502
+00:28:10,455 --> 00:28:13,304
+Oh, what if it was like a database
+where people could add themselves?
+
+503
+00:28:13,844 --> 00:28:18,135
+Uh, and so we just kind of started
+running with that idea and we got a lot
+
+504
+00:28:18,135 --> 00:28:20,504
+of support from the community around it.
+
+505
+00:28:20,925 --> 00:28:27,210
+Um, Gravity forms and gravity view donated
+software for us to be able to build it.
+
+506
+00:28:27,270 --> 00:28:32,010
+Our hosting was donated, uh,
+Yoast has donated, um, you
+
+507
+00:28:32,010 --> 00:28:34,470
+know, premium SEO tools to us.
+
+508
+00:28:34,860 --> 00:28:37,170
+Um, there's a whole list of
+sponsors on our website, if
+
+509
+00:28:37,170 --> 00:28:37,950
+you want to check that out.
+
+510
+00:28:37,950 --> 00:28:42,170
+But yeah, it is a, it is a
+database where folks who.
+
+511
+00:28:43,455 --> 00:28:47,445
+Fall into any of the underrepresented
+boxes within the tech industry.
+
+512
+00:28:47,625 --> 00:28:51,705
+So people of color, people who identify
+as a women, people who might be older
+
+513
+00:28:51,705 --> 00:28:55,665
+than the average person who works in
+tech, people who have some sort of
+
+514
+00:28:55,665 --> 00:29:03,525
+disability who are neurodivergent, who
+are on the LGBTQIA plus spectrum, they
+
+515
+00:29:03,525 --> 00:29:07,035
+can add themselves to this database and
+say, Hey, yeah, look, I check this box.
+
+516
+00:29:07,965 --> 00:29:12,825
+I am a marketer and a designer,
+and this, these are the kinds of
+
+517
+00:29:12,825 --> 00:29:14,055
+opportunities I'm looking for.
+
+518
+00:29:14,055 --> 00:29:17,925
+I'd love to join a podcast or speak at
+an event, and they add themselves to that
+
+519
+00:29:17,925 --> 00:29:24,105
+database and event organizers, business
+owners, podcast hosts, uh, people from all
+
+520
+00:29:24,105 --> 00:29:28,695
+over can come to that database, plug in
+what the it is that they're looking for.
+
+521
+00:29:28,695 --> 00:29:32,445
+So looking for a marketer to speak
+on my podcast, and they're met with
+
+522
+00:29:32,475 --> 00:29:38,370
+a list of people, um, that they can
+then contact, um, The only thing that
+
+523
+00:29:38,460 --> 00:29:44,430
+the searcher does not see is how that
+person identifies as underrepresented.
+
+524
+00:29:44,430 --> 00:29:48,420
+So for example, if you're gay and you
+add yourself to the database, the search
+
+525
+00:29:48,420 --> 00:29:50,790
+result is not going to say I'm gay, right.
+
+526
+00:29:51,390 --> 00:29:54,900
+That information is private and
+Michelle, and I just use it as a
+
+527
+00:29:54,900 --> 00:29:58,260
+qualifier to make sure that nobody
+is, is being lame and abusing it.
+
+528
+00:29:58,650 --> 00:30:02,010
+Um, but it, it has allowed us to.
+
+529
+00:30:02,730 --> 00:30:07,710
+Empower people with the ability
+to prioritize diversity within our
+
+530
+00:30:07,710 --> 00:30:09,840
+community, without tokenizing people.
+
+531
+00:30:10,050 --> 00:30:13,380
+So you can go up to somebody and say,
+Hey, I found you through the database
+
+532
+00:30:13,380 --> 00:30:17,550
+because I'm prioritizing diversity for
+this project, but I'm approaching you.
+
+533
+00:30:17,790 --> 00:30:21,420
+And I'm asking you to apply for this
+thing because of that, because you're an
+
+534
+00:30:21,420 --> 00:30:27,300
+expert marketer and I'm impressed with
+what I saw, um, because we just, we have
+
+535
+00:30:27,300 --> 00:30:30,300
+a, we have a problem right now with.
+
+536
+00:30:32,590 --> 00:30:36,940
+People are having a hard time finding
+the right ways to prioritize diversity.
+
+537
+00:30:37,330 --> 00:30:40,860
+And so they don't do it, um, and need,
+
+538
+00:30:40,860 --> 00:30:44,230
+Cathy Tibbles: It's hard for people
+to ask are you special in any way?
+
+539
+00:30:46,690 --> 00:30:51,550
+Yeah, just somebody that looks different
+than me, who also happens to be X word.
+
+540
+00:30:52,090 --> 00:30:54,800
+It can be an awkward conversation to
+breach, especially with the person
+
+541
+00:30:54,800 --> 00:30:56,470
+that you maybe have never met before.
+
+542
+00:30:56,920 --> 00:30:59,260
+Um, and so we wanted
+to make it easier for.
+
+543
+00:31:00,330 --> 00:31:04,200
+Um, and yeah, so we, we built
+the database and it's been,
+
+544
+00:31:04,200 --> 00:31:05,340
+it's been really successful.
+
+545
+00:31:05,340 --> 00:31:08,610
+We have about 120 people
+in the database right now.
+
+546
+00:31:09,120 --> 00:31:13,530
+Um, we don't track how it's used.
+
+547
+00:31:13,680 --> 00:31:19,530
+So, um, we don't have like data
+analytics about like what companies
+
+548
+00:31:19,530 --> 00:31:23,190
+I've searched or what candidates have
+gotten context or anything like that.
+
+549
+00:31:23,430 --> 00:31:26,070
+It is, as soon as you find
+someone in the database, you can.
+
+550
+00:31:26,879 --> 00:31:30,270
+You know, send them an email or however
+they have preferred to be contacted.
+
+551
+00:31:30,720 --> 00:31:37,080
+Um, and then that is a conversation for,
+for those two people to have together.
+
+552
+00:31:37,620 --> 00:31:40,080
+Um, we also started a podcast.
+
+553
+00:31:40,470 --> 00:31:45,180
+Um, I don't really even remember why
+we started the podcast, like what
+
+554
+00:31:45,270 --> 00:31:47,250
+the particular impetus was for that.
+
+555
+00:31:47,250 --> 00:31:50,370
+But Michelle and I have a lot of
+conversations between the two of
+
+556
+00:31:50,370 --> 00:31:52,440
+us about things that frustrated.
+
+557
+00:31:53,190 --> 00:31:56,730
+Um, around DEI in this
+community in particular.
+
+558
+00:31:57,300 --> 00:32:03,840
+And so on that podcast, we talk
+about, um, all kinds of topics that
+
+559
+00:32:04,800 --> 00:32:06,330
+affect underrepresented people.
+
+560
+00:32:06,330 --> 00:32:11,340
+But also we try to provide information
+that's useful for allies and people who
+
+561
+00:32:11,520 --> 00:32:15,780
+want to help underrepresented people
+to get more opportunities and have
+
+562
+00:32:15,780 --> 00:32:17,700
+those conversations in an easier way.
+
+563
+00:32:18,210 --> 00:32:24,175
+Um, So, yeah, so it's a database
+with the podcast that she
+
+564
+00:32:24,175 --> 00:32:25,435
+and I have started together.
+
+565
+00:32:25,915 --> 00:32:28,855
+Um, yeah, it's something that we're,
+we're really, really proud of.
+
+566
+00:32:29,514 --> 00:32:33,534
+Is there anybody, are you
+still open to people coming on?
+
+567
+00:32:33,534 --> 00:32:37,054
+Like if somebody sees this and
+wants those opportunities, they can.
+
+568
+00:32:37,675 --> 00:32:38,814
+Allie Nimmons: Yes, absolutely.
+
+569
+00:32:39,685 --> 00:32:40,794
+So, absolutely.
+
+570
+00:32:40,794 --> 00:32:41,125
+Yes.
+
+571
+00:32:41,125 --> 00:32:44,215
+You can go to the website
+https://underrepresentedintech.com.
+
+572
+00:32:44,544 --> 00:32:46,554
+Um, we have no plans of ever like.
+
+573
+00:32:47,445 --> 00:32:52,605
+Closing it as of right now, like it is
+open for anyone, any, anybody at any time
+
+574
+00:32:52,605 --> 00:32:57,525
+in any place to, uh, to go to, so, oh
+yeah, you have it pulled up right there.
+
+575
+00:32:57,765 --> 00:33:02,745
+So yeah, if you scroll up to the top of
+the site there, um, there's a section
+
+576
+00:33:02,745 --> 00:33:06,285
+called on looking for opportunities
+and somebody can click submit
+
+577
+00:33:06,285 --> 00:33:10,115
+profile and there's a little form.
+
+578
+00:33:10,115 --> 00:33:15,420
+They can add themselves to that
+within 24 hours, um, Michelle, or I
+
+579
+00:33:15,420 --> 00:33:19,020
+will just let that person make sure
+it's not spam or anything like that.
+
+580
+00:33:19,409 --> 00:33:21,149
+Um, and add them to the database.
+
+581
+00:33:21,210 --> 00:33:25,260
+And once they're added, uh, they can
+come up in whatever searches applied to
+
+582
+00:33:25,260 --> 00:33:27,780
+them and they also have an individual.
+
+583
+00:33:28,620 --> 00:33:30,600
+Um, like page.
+
+584
+00:33:30,840 --> 00:33:35,070
+So if you search and find a person, you
+can click on their name or their photo,
+
+585
+00:33:35,400 --> 00:33:39,150
+and they have a designated page on
+the site that, you know, if they would
+
+586
+00:33:39,150 --> 00:33:43,350
+like to share and move like a resume
+website or something, they have a page
+
+587
+00:33:43,350 --> 00:33:45,930
+that has all of their qualifications
+and contact information on it.
+
+588
+00:33:47,955 --> 00:33:51,135
+Cathy Tibbles: So you'd recommend
+that we, that people who are applying
+
+589
+00:33:51,135 --> 00:33:54,105
+to this database put something
+similar to their LinkedIn or whatever
+
+590
+00:33:54,105 --> 00:33:55,695
+they're comfortable with the public.
+
+591
+00:33:56,715 --> 00:33:57,345
+Allie Nimmons: Exactly.
+
+592
+00:33:57,405 --> 00:33:57,945
+Exactly.
+
+593
+00:33:57,945 --> 00:34:01,754
+So we ask you for a bio, we ask
+you for whatever social media
+
+594
+00:34:01,754 --> 00:34:02,895
+you're comfortable sharing.
+
+595
+00:34:02,895 --> 00:34:07,155
+If you have a website, uh, to add
+that, and we asked him, you know,
+
+596
+00:34:07,185 --> 00:34:08,384
+what, what do you specialize in?
+
+597
+00:34:08,384 --> 00:34:09,014
+What do you do?
+
+598
+00:34:09,014 --> 00:34:11,145
+Are you, are you an SEO person?
+
+599
+00:34:11,444 --> 00:34:14,804
+Are you a developer or do
+you work with e-commerce?
+
+600
+00:34:16,065 --> 00:34:18,645
+We have plans in the next month
+to add more of those kinds of,
+
+601
+00:34:19,245 --> 00:34:22,005
+um, skills to the site as well.
+
+602
+00:34:22,424 --> 00:34:25,364
+Um, and then you get to choose what
+opportunity you're looking for.
+
+603
+00:34:25,694 --> 00:34:27,884
+Um, because there are lots of job
+boards out there and we didn't
+
+604
+00:34:27,884 --> 00:34:29,295
+really want this to be a job board.
+
+605
+00:34:29,324 --> 00:34:33,764
+We wanted it to be a place where somebody
+is like, well, I have a job, but I'd like
+
+606
+00:34:33,764 --> 00:34:35,505
+to expand my reach into the community.
+
+607
+00:34:35,505 --> 00:34:36,525
+I want to speak at events.
+
+608
+00:34:36,525 --> 00:34:37,844
+I want to be on podcasts.
+
+609
+00:34:37,844 --> 00:34:43,065
+I want to participate in other ways
+so they can choose which opportunities
+
+610
+00:34:43,065 --> 00:34:45,194
+they would like to be contacted.
+
+611
+00:34:47,714 --> 00:34:48,944
+Cathy Tibbles: That is really awesome.
+
+612
+00:34:48,975 --> 00:34:50,024
+Good for you guys.
+
+613
+00:34:51,824 --> 00:34:56,294
+Thank you for coming on and the talk, did
+you have any other last minute thoughts?
+
+614
+00:34:57,314 --> 00:34:58,995
+Allie Nimmons: Um, no.
+
+615
+00:34:58,995 --> 00:35:01,515
+I just hope that everyone
+enjoys the rest of the event.
+
+616
+00:35:01,515 --> 00:35:05,714
+And, uh, please thank an emcee
+or an organizer or a volunteer
+
+617
+00:35:05,714 --> 00:35:08,865
+because they work amazingly hard.
+
+618
+00:35:09,600 --> 00:35:14,850
+Um, for no money, a lot of volunteers
+they're doing it out of the goodness of
+
+619
+00:35:14,850 --> 00:35:16,710
+their hearts and it's extremely admirable.
+
+620
+00:35:17,100 --> 00:35:18,240
+Uh, so yeah.
+
+621
+00:35:18,299 --> 00:35:18,690
+Thanks.
+
+622
+00:35:18,990 --> 00:35:23,400
+If you're watching, please take a
+moment to thank somebody, um, because
+
+623
+00:35:23,430 --> 00:35:26,700
+yeah, it's, this is a beautiful
+event and a beautiful thing, and I'm,
+
+624
+00:35:26,910 --> 00:35:29,069
+I'm just overwhelmed with emotion.
+
+625
+00:35:30,330 --> 00:35:31,140
+Cathy Tibbles: This is wonderful.
+
+626
+00:35:31,140 --> 00:35:32,069
+Thank you, Allie.
+
+627
+00:35:32,279 --> 00:35:32,670
+Thank
+
+628
+00:35:32,670 --> 00:35:33,029
+Allie Nimmons: you.
+
+629
+00:35:33,029 --> 00:35:34,380
+Have a great rest today then.
+
+630
+00:35:35,220 --> 00:35:37,600
+Misty Combs: Thank you, Allie.
+
+631
+00:35:39,479 --> 00:35:43,310
+So again, we'd like to take an opportunity
+to thank our sponsors, Bluehost,
+
+632
+00:35:43,310 --> 00:35:48,569
+Cloudways, GoDaddy Pro, Nexcess,
+Yoast, and Weglot, please be sure to
+
+633
+00:35:48,569 --> 00:35:50,069
+visit their tents and chat with them.
+
+634
+00:35:50,069 --> 00:35:51,240
+You might even win a prize.
+
+635
+00:35:51,390 --> 00:35:56,390
+Don't forget to get your photo snapped in
+the photo booth, sponsored by Multicollab
+
+636
+00:35:56,549 --> 00:36:02,459
+and Dreamhost and tweeted out with the
+WordFest Live hashtag also thank you to
+
+637
+00:36:02,459 --> 00:36:04,430
+our media sponsors and micro-sponsors.
+
+638
+00:36:05,145 --> 00:36:08,485
+In the, in the community tent
+for the next hour is Cloudways.
+
+639
+00:36:08,505 --> 00:36:09,735
+With our hourly giveaways.
+
+640
+00:36:10,305 --> 00:36:13,815
+There'll be a bit of a break in the
+schedule now, head over to the community
+
+641
+00:36:13,815 --> 00:36:18,495
+tent and we'll be back at the start
+of the hour off the Asian content.
+
+642
+00:36:19,215 --> 00:36:20,505
+We would love it.
+
+643
+00:36:20,535 --> 00:36:24,255
+If you'd sponsor, please consider
+donating via the button on the screen
+
+644
+00:36:24,255 --> 00:36:28,950
+to go to the Big Orange Heart website.
+
+645
+00:36:29,970 --> 00:36:32,330
+You all make our Big Orange Heart.
+
+646
+00:36:33,029 --> 00:36:33,509
+Thank you.
+
