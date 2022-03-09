@@ -1,3 +1,5 @@
+### Remote Leadership; How To Lead Humans In A Way That Makes It OK To Feel Human
+
 **Yoast:** [00:00:00] Do you know, the Yoast SEO, plugin, [00:01:00] the red, orange, and green feedback buttons that help you optimize your posts for the web. It runs on millions of websites. We tried to make SEO understandable and accessible to everyone. 
 
 **Nexcess:** Oh great. My website crashed. I give up. Don't give up on your dreams. Jordan, who are you?
