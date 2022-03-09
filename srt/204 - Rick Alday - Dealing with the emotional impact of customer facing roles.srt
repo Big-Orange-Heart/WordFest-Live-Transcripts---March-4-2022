@@ -1,0 +1,2549 @@
+1
+00:00:28,005 --> 00:00:31,185
+Yoast: Do you know, the Yoast SEO,
+plugin, they're red, orange, and
+
+2
+00:00:31,185 --> 00:00:34,335
+green feedback bullets that help
+you optimize your posts for the web.
+
+3
+00:00:34,545 --> 00:00:36,435
+It runs on millions of websites.
+
+4
+00:00:36,855 --> 00:00:40,545
+We tried to make SEO understandable
+and accessible to everyone.
+
+5
+00:01:12,790 --> 00:01:15,820
+Bluehost: Who says building
+an online store has to be hard
+
+6
+00:01:16,090 --> 00:01:17,470
+with Bluehost website builder.
+
+7
+00:01:17,590 --> 00:01:19,150
+It's more than just easy.
+
+8
+00:01:19,360 --> 00:01:21,310
+It's tell us your thing in smart AI.
+
+9
+00:01:21,310 --> 00:01:22,450
+We'll take it from there.
+
+10
+00:01:22,450 --> 00:01:24,730
+Easy it's WooCommerce friendly.
+
+11
+00:01:24,790 --> 00:01:27,670
+So you can add one of these
+or swap this for that.
+
+12
+00:01:28,429 --> 00:01:31,550
+It's set up shop in minutes
+with unlimited products.
+
+13
+00:01:31,580 --> 00:01:32,060
+Easy.
+
+14
+00:01:32,120 --> 00:01:36,470
+Whether you sell boots, books
+or bowls, it's create an online
+
+15
+00:01:36,470 --> 00:01:40,899
+store with Bluehost, easy build
+beyond boundaries with Bluehost.
+
+16
+00:01:42,360 --> 00:01:42,930
+Nexcess: Oh, great.
+
+17
+00:01:43,080 --> 00:01:44,670
+My website crashed again.
+
+18
+00:01:44,970 --> 00:01:50,640
+I give up, don't give up on your
+dreams, Jordan, who are you?
+
+19
+00:01:50,700 --> 00:01:51,210
+It's me.
+
+20
+00:01:51,750 --> 00:01:53,340
+You from the future.
+
+21
+00:01:53,640 --> 00:01:55,680
+Your professional website
+is not out of reach.
+
+22
+00:01:55,710 --> 00:01:57,009
+You just need the Nexcess.
+
+23
+00:01:57,510 --> 00:02:00,990
+With Nexcess managed hosting, you
+get lightning Paslode times built
+
+24
+00:02:00,990 --> 00:02:04,770
+and performance monitoring and
+updates, and always awesome support.
+
+25
+00:02:04,800 --> 00:02:06,690
+24 7 365.
+
+26
+00:02:06,720 --> 00:02:07,350
+For all your props.
+
+27
+00:02:07,845 --> 00:02:08,414
+Whoa.
+
+28
+00:02:08,655 --> 00:02:09,014
+Yeah.
+
+29
+00:02:12,375 --> 00:02:17,745
+Weglot: Discover Weglot the simple
+translation solution for your website.
+
+30
+00:02:18,105 --> 00:02:21,945
+All you have to do is add
+Weglot to your website, select
+
+31
+00:02:21,945 --> 00:02:23,225
+the languages that you need.
+
+32
+00:02:23,755 --> 00:02:24,595
+And that's it.
+
+33
+00:02:24,775 --> 00:02:27,924
+Your website is now available
+in multiple languages.
+
+34
+00:02:58,734 --> 00:03:02,095
+Matt Graham: Welcome back
+to WordFest, stage two.
+
+35
+00:03:02,995 --> 00:03:06,084
+Uh, they say that lightning
+does not strike twice.
+
+36
+00:03:06,084 --> 00:03:11,185
+Well, I beg to differ because we have two
+lightning talks that are coming up next.
+
+37
+00:03:12,024 --> 00:03:15,984
+Uh, so we're going to watch them both
+and then we'll do a live Q and A with
+
+38
+00:03:15,984 --> 00:03:17,515
+the presenters after we've watched them.
+
+39
+00:03:18,480 --> 00:03:24,240
+But first up is Rick Alday, uh,
+with dealing with the emotional
+
+40
+00:03:24,270 --> 00:03:26,730
+impact of customer facing roles.
+
+41
+00:03:27,390 --> 00:03:34,410
+So Rick has been a graphic designer and
+a photographer, but for the past decade,
+
+42
+00:03:34,829 --> 00:03:38,400
+he's worked in customer service roles
+for different companies in the WordPress
+
+43
+00:03:38,400 --> 00:03:41,989
+industry and is currently with GiveWP.
+
+44
+00:03:42,780 --> 00:03:45,000
+So we'll see that video in a few seconds.
+
+45
+00:03:46,149 --> 00:03:47,299
+Rick Alday: My name is Rick Alday.
+
+46
+00:03:47,629 --> 00:03:50,075
+I'm a support technician at GiveWP.
+
+47
+00:03:50,174 --> 00:03:55,424
+For those of you who don't know what
+GiveWP is, is just one of the best, uh,
+
+48
+00:03:55,524 --> 00:03:57,435
+WordPress donation plug-ins out there.
+
+49
+00:03:58,394 --> 00:03:59,625
+That's my bias opinion.
+
+50
+00:04:00,404 --> 00:04:06,795
+And for the last 12 years or so, I have
+been doing either tech support or customer
+
+51
+00:04:06,795 --> 00:04:11,445
+service, uh, roles in the WordPress
+ecosystem for different companies.
+
+52
+00:04:12,135 --> 00:04:15,915
+Before that I did freelance
+photography and graphic design.
+
+53
+00:04:17,910 --> 00:04:22,680
+So for the, a good 20 years of my
+life, I've been doing, uh, dealing with
+
+54
+00:04:22,680 --> 00:04:24,990
+customers, uh, in one way or another.
+
+55
+00:04:25,560 --> 00:04:29,100
+And I know from experience,
+this can take an emotional and
+
+56
+00:04:29,250 --> 00:04:31,650
+mental and physical toll on you.
+
+57
+00:04:32,190 --> 00:04:37,290
+So I'm going to be sharing some of the
+tips and tricks and procedures that I
+
+58
+00:04:37,380 --> 00:04:43,200
+use and learn throughout my, my career to
+deal with some of that and minimize the
+
+59
+00:04:43,200 --> 00:04:45,330
+impact that it will have on your life.
+
+60
+00:04:46,110 --> 00:04:49,440
+Um, Stress is a part of our daily life.
+
+61
+00:04:49,590 --> 00:04:53,520
+You know, a certain amount of stress
+is helpful for us to accomplish
+
+62
+00:04:53,520 --> 00:04:59,190
+our goals, uh, get through everyday
+challenges, but just like cholesterol,
+
+63
+00:04:59,219 --> 00:05:01,229
+there's, there's good and bad stress.
+
+64
+00:05:01,260 --> 00:05:06,419
+And the bad stress is really
+harmful or your body or your health
+
+65
+00:05:06,750 --> 00:05:11,310
+or your mental health and job
+related stress is not different.
+
+66
+00:05:11,729 --> 00:05:13,830
+All jobs are inherently stressful.
+
+67
+00:05:14,020 --> 00:05:14,490
+One way to.
+
+68
+00:05:16,200 --> 00:05:17,520
+But some more than others.
+
+69
+00:05:17,550 --> 00:05:22,770
+And I believe, uh, dealing with
+customers is on the top level, right
+
+70
+00:05:22,770 --> 00:05:24,930
+there, you know, most stressful jobs.
+
+71
+00:05:25,890 --> 00:05:31,000
+And, um, as customer service
+agents, we are often under extreme
+
+72
+00:05:31,170 --> 00:05:35,730
+pressure to, um, you know, deliver
+and deal with complex issues.
+
+73
+00:05:36,660 --> 00:05:41,820
+We are usually the first point of contact
+of customers with, uh, with the company.
+
+74
+00:05:41,850 --> 00:05:42,150
+So.
+
+75
+00:05:42,930 --> 00:05:46,260
+And customers don't usually reach out to
+the company and that they have a problem.
+
+76
+00:05:46,530 --> 00:05:54,120
+And again, that sets the, the precedents
+or the, uh, tone of the interaction
+
+77
+00:05:54,120 --> 00:05:55,740
+you're going to have with that customer.
+
+78
+00:05:56,909 --> 00:05:59,219
+And it's our job to turn that around.
+
+79
+00:06:01,800 --> 00:06:05,820
+There are plenty of great customers,
+service agents out there, and no
+
+80
+00:06:05,820 --> 00:06:11,250
+matter how many years you've done this,
+it's still can be a bit stressful.
+
+81
+00:06:12,015 --> 00:06:13,305
+How do we deal with this?
+
+82
+00:06:13,784 --> 00:06:18,255
+The approach we need to take to deal
+with job related stress has, uh, two
+
+83
+00:06:18,255 --> 00:06:22,395
+components, uh, things that you do at
+work and things that you do out of work.
+
+84
+00:06:23,594 --> 00:06:27,315
+That's first start reviewing
+your work area, check your desk.
+
+85
+00:06:27,765 --> 00:06:28,815
+Is it comfortable?
+
+86
+00:06:28,844 --> 00:06:33,375
+Do you have pictures that cheer you up
+pictures of your family, of your pet?
+
+87
+00:06:34,034 --> 00:06:36,495
+Can you look out the
+window and see nature?
+
+88
+00:06:37,005 --> 00:06:39,015
+You know, is it organized
+or do you have a big.
+
+89
+00:06:40,034 --> 00:06:41,445
+Is your chair comfortable?
+
+90
+00:06:41,864 --> 00:06:42,945
+Do you have good lightning?
+
+91
+00:06:43,755 --> 00:06:48,104
+Uh, do you have a plant maybe, uh,
+you know, you need to work on your
+
+92
+00:06:48,104 --> 00:06:52,215
+work environment, your desk, your
+office, it has to be comfortable.
+
+93
+00:06:52,245 --> 00:06:56,015
+This is where you're going to spend a good
+chunk of your day over your reward days.
+
+94
+00:06:56,015 --> 00:07:01,695
+So make sure it has a nice atmosphere
+and that's something you can control at
+
+95
+00:07:01,995 --> 00:07:03,465
+some point, you know, if you work for.
+
+96
+00:07:04,440 --> 00:07:09,270
+You can set up a small space where you
+are, it's your space, you know, it's
+
+97
+00:07:09,270 --> 00:07:14,820
+your workspace, it's your dedicated
+space for work as nothing else, you
+
+98
+00:07:14,820 --> 00:07:18,990
+know, just your computer, maybe,
+you know, printer, if you need it.
+
+99
+00:07:19,650 --> 00:07:24,930
+And just the basic stuff that
+you need to work and things that,
+
+100
+00:07:24,930 --> 00:07:28,830
+you know, make it look nice, make
+it, makes it comfortable for you.
+
+101
+00:07:29,400 --> 00:07:31,800
+Um, I know this is difficult.
+
+102
+00:07:31,800 --> 00:07:35,160
+If you live in a small apartment or
+if you share your, your house or your
+
+103
+00:07:35,160 --> 00:07:39,930
+apartment with other people you have,
+if you have family or pets, it can be
+
+104
+00:07:39,960 --> 00:07:41,940
+a challenge, but it's not impossible.
+
+105
+00:07:41,940 --> 00:07:47,400
+So make sure your, your work
+environment is as comfortable as it
+
+106
+00:07:47,400 --> 00:07:51,450
+can possibly be for you to spend,
+you know, eight hours a day there.
+
+107
+00:07:53,640 --> 00:07:57,510
+Next, when you do start work, um, start.
+
+108
+00:07:58,785 --> 00:07:59,225
+Easier.
+
+109
+00:07:59,225 --> 00:08:03,105
+And what I mean, my dad is, uh,
+start with things that required a
+
+110
+00:08:03,105 --> 00:08:05,785
+little mental energy and GiveWP.
+
+111
+00:08:05,805 --> 00:08:12,225
+We have something called a mental
+energy kickoff or Mico acronym, M E K O.
+
+112
+00:08:13,035 --> 00:08:17,895
+And basically what this means is that
+we start the day with a task that
+
+113
+00:08:18,015 --> 00:08:22,755
+requires a little mental need, mental
+energy from our part, you know, it can
+
+114
+00:08:22,755 --> 00:08:33,780
+be answering, um, emails, um, Uh, taking
+notes, um, reviewing your documentation,
+
+115
+00:08:34,380 --> 00:08:38,520
+et cetera, something that, you know,
+you, you, you know, it's not gonna
+
+116
+00:08:38,820 --> 00:08:42,960
+take a long time and it's not going
+to stress you out and start with that.
+
+117
+00:08:43,080 --> 00:08:50,070
+And then you can jump right into
+the fire next stick, small breaks
+
+118
+00:08:50,160 --> 00:08:52,650
+every hour or every 40 minutes.
+
+119
+00:08:53,070 --> 00:08:54,570
+Step away from your computer.
+
+120
+00:08:55,620 --> 00:08:56,880
+Go, go for a.
+
+121
+00:08:58,244 --> 00:09:03,494
+Go for a glass of water, you know,
+stretch out, do some breathing exercises.
+
+122
+00:09:03,494 --> 00:09:07,724
+You can find some great breathing
+exercises on YouTube that will only
+
+123
+00:09:07,724 --> 00:09:12,944
+take one or two minutes and breathing
+exercises will help you regulate your
+
+124
+00:09:12,944 --> 00:09:19,694
+heart rate to if you are person who
+suffers from anxiety or, you know yeah.
+
+125
+00:09:20,305 --> 00:09:22,844
+It'll help you calm down and just.
+
+126
+00:09:23,685 --> 00:09:27,285
+Relax, what a bit, eh, you need
+to do that throughout the day.
+
+127
+00:09:27,314 --> 00:09:34,405
+You know, it helps you also clear
+your mind and kind of reset your,
+
+128
+00:09:34,405 --> 00:09:38,985
+your mental energy a bit, so
+you can continue your Workday.
+
+129
+00:09:39,405 --> 00:09:42,615
+It's very important
+that you do that again.
+
+130
+00:09:42,645 --> 00:09:47,925
+Just five minutes, 10 minutes stops
+and you go back to work refresh.
+
+131
+00:09:48,045 --> 00:09:49,055
+It really helps.
+
+132
+00:09:51,180 --> 00:09:53,910
+Next thing you want to
+do is avoid multitasking.
+
+133
+00:09:54,360 --> 00:10:01,680
+You know, I know this is, uh, some people
+consider this an asset, but not, I'm not
+
+134
+00:10:01,890 --> 00:10:04,770
+going to agree with that in my experience.
+
+135
+00:10:04,770 --> 00:10:09,000
+Multitasking just wears you out really
+quickly and physically and mentally.
+
+136
+00:10:09,780 --> 00:10:13,290
+I know, I know every job has
+a different tasks that you
+
+137
+00:10:13,290 --> 00:10:14,790
+need to accomplish every day.
+
+138
+00:10:14,800 --> 00:10:15,150
+That's.
+
+139
+00:10:16,140 --> 00:10:19,740
+What I mean is that you need to
+break those tasks into chunks.
+
+140
+00:10:20,280 --> 00:10:26,400
+For example, I'm going to set up,
+uh, I'm going to work on email
+
+141
+00:10:26,400 --> 00:10:28,590
+for 20 minutes and just email.
+
+142
+00:10:28,590 --> 00:10:30,600
+I'm not going to do every, anything else.
+
+143
+00:10:31,260 --> 00:10:36,090
+Uh, and after that, I'm
+going to spend 30 minutes.
+
+144
+00:10:36,180 --> 00:10:38,820
+I don't know, writing that documentation.
+
+145
+00:10:39,270 --> 00:10:39,600
+All right.
+
+146
+00:10:39,600 --> 00:10:42,090
+So I'm just going to
+concentrate on that and then.
+
+147
+00:10:43,064 --> 00:10:46,094
+You know, and the next 40 minutes
+I'll do something else, but
+
+148
+00:10:46,185 --> 00:10:47,864
+you know, just that one task.
+
+149
+00:10:49,045 --> 00:10:52,724
+And that way I can cover all the tasks
+that I need to cover throughout the
+
+150
+00:10:52,724 --> 00:10:55,454
+day, but I have to do them all at once.
+
+151
+00:10:56,145 --> 00:11:01,995
+Now, again, do this as much as possibly,
+you know, you can, I know that if you
+
+152
+00:11:01,995 --> 00:11:03,645
+work from home, there are distractions.
+
+153
+00:11:03,675 --> 00:11:07,724
+If you have family in small kids,
+it's almost, you know, you're going
+
+154
+00:11:07,724 --> 00:11:10,364
+to get interrupted quite a bit.
+
+155
+00:11:10,454 --> 00:11:11,415
+I know from experience that.
+
+156
+00:11:12,390 --> 00:11:13,560
+And just the job.
+
+157
+00:11:13,590 --> 00:11:17,790
+Sometimes you need to like, stop
+doing what you're doing and you need
+
+158
+00:11:17,790 --> 00:11:21,330
+to take care of something that's,
+uh, you know, origin or really
+
+159
+00:11:21,330 --> 00:11:22,560
+important and it needs to be done.
+
+160
+00:11:22,560 --> 00:11:28,980
+So I understand that sometimes you
+cannot avoid multitasking 100%, but
+
+161
+00:11:29,070 --> 00:11:31,380
+try to do that as much as you can.
+
+162
+00:11:32,580 --> 00:11:37,740
+And, you know, uh, this apply,
+it goes to your breaks to.
+
+163
+00:11:37,840 --> 00:11:40,245
+when you go, take your lunch break.
+
+164
+00:11:40,695 --> 00:11:45,885
+You're taking your lunch break Dawn,
+you know, don't check your notification
+
+165
+00:11:45,885 --> 00:11:50,445
+from work, uh, try to put your phone
+away and just enjoy your lunch.
+
+166
+00:11:50,595 --> 00:11:55,425
+And if you're, you know, taking a lunch
+with a friend or family, just spend some
+
+167
+00:11:55,425 --> 00:12:00,585
+time with them, concentrate on that, you
+know, don't check your phone, doesn't
+
+168
+00:12:00,585 --> 00:12:03,015
+wander off, you know, or think about work.
+
+169
+00:12:03,075 --> 00:12:07,305
+Just turn off your work
+mode and enjoy your life.
+
+170
+00:12:10,260 --> 00:12:15,790
+When I rude customer comes along
+and they often do, they come with
+
+171
+00:12:15,790 --> 00:12:18,030
+insults, they come with complaints.
+
+172
+00:12:18,420 --> 00:12:19,740
+They're really frustrated.
+
+173
+00:12:20,939 --> 00:12:24,660
+And what you need to do first
+is don't take it personally.
+
+174
+00:12:25,470 --> 00:12:30,579
+I know from experience by
+instinct, we take it personally.
+
+175
+00:12:30,600 --> 00:12:34,560
+We take it very, you know,
+to heart, any insults or.
+
+176
+00:12:35,595 --> 00:12:41,455
+Whatever, um, problem is the, the
+client comes with, but just agree time
+
+177
+00:12:41,475 --> 00:12:49,635
+to step away a minute or two breeth
+you know, calm down, never reply
+
+178
+00:12:49,635 --> 00:12:51,285
+it to a customer when you're mad.
+
+179
+00:12:51,975 --> 00:12:52,785
+Never do that.
+
+180
+00:12:52,785 --> 00:12:58,035
+It's just that, you know, they, they
+would, the good book says on Proverbs
+
+181
+00:12:58,035 --> 00:13:03,425
+says a gentle answer, turns away
+wrath, but a harsh word stirs up anger.
+
+182
+00:13:04,485 --> 00:13:08,385
+For any situation you don't
+fight, fight fire with fire.
+
+183
+00:13:08,415 --> 00:13:15,705
+You want to calm down and be the,
+the better person and try to ignore
+
+184
+00:13:15,765 --> 00:13:20,655
+any insults, trying to ignore any
+put downs, just work through your
+
+185
+00:13:20,655 --> 00:13:27,795
+way around, uh, trying to figure
+out what's really behind that anger.
+
+186
+00:13:27,825 --> 00:13:29,295
+What's frustrating to the customer.
+
+187
+00:13:29,295 --> 00:13:31,725
+Try to put yourself in their shoes.
+
+188
+00:13:31,845 --> 00:13:33,195
+What are they experiencing?
+
+189
+00:13:34,260 --> 00:13:37,590
+That's got them so frustrated
+and what you do about it.
+
+190
+00:13:37,650 --> 00:13:40,260
+Can you solve it in your hands?
+
+191
+00:13:41,100 --> 00:13:45,300
+Not, you know, be as polite as
+possible and just let them know that.
+
+192
+00:13:46,020 --> 00:13:50,340
+And if you need to, you can scale
+that, escalate that to a supervisor.
+
+193
+00:13:50,520 --> 00:13:55,110
+Sometimes you don't need to deal with,
+uh, customers, you know, supervisors have
+
+194
+00:13:55,110 --> 00:13:57,360
+the authority to maybe fire the customers.
+
+195
+00:13:57,360 --> 00:13:59,490
+They are, they're being really rude.
+
+196
+00:14:00,600 --> 00:14:01,590
+So yeah.
+
+197
+00:14:02,730 --> 00:14:06,870
+Talk to a supervisor to talk
+to our coworkers, don't handle
+
+198
+00:14:06,930 --> 00:14:08,130
+angry customers yourself.
+
+199
+00:14:08,160 --> 00:14:09,810
+You don't need to ask for help.
+
+200
+00:14:10,290 --> 00:14:11,339
+There's nothing wrong with that.
+
+201
+00:14:11,819 --> 00:14:15,000
+No snacks.
+
+202
+00:14:15,360 --> 00:14:20,040
+Uh, another tip that you know, really
+works right, is listening to music.
+
+203
+00:14:20,459 --> 00:14:21,670
+I know this is cliche.
+
+204
+00:14:21,670 --> 00:14:24,300
+Everyone says, you know,
+you're going to listen to.
+
+205
+00:14:26,940 --> 00:14:30,990
+Calm music or whatever, but, you
+know, whatever music suits you, you
+
+206
+00:14:30,990 --> 00:14:34,170
+feel like, you know, heavy metal
+and head back to what you're doing.
+
+207
+00:14:34,170 --> 00:14:34,830
+That's fine.
+
+208
+00:14:35,340 --> 00:14:36,510
+Just be mindful.
+
+209
+00:14:36,510 --> 00:14:40,920
+Your coworkers, you, you know, working
+at share office, you know, put your
+
+210
+00:14:40,920 --> 00:14:45,660
+headphones on and, and jam away, you
+know, if you like jazz or whatever,
+
+211
+00:14:46,140 --> 00:14:54,630
+something that really helps you, uh, hypes
+you up and doesn't interfere with the.
+
+212
+00:14:55,515 --> 00:15:01,725
+Go ahead and do that, uh, on a tip,
+do not procrastinate on difficult
+
+213
+00:15:01,725 --> 00:15:03,855
+tasks or tests that you don't like.
+
+214
+00:15:05,055 --> 00:15:08,985
+We all have that one thing that
+we don't like to do at work.
+
+215
+00:15:08,985 --> 00:15:10,545
+You know, we don't like it as much.
+
+216
+00:15:10,695 --> 00:15:13,125
+It's not our favorite thing,
+but it has to be done.
+
+217
+00:15:14,505 --> 00:15:20,325
+And our tendency is to put it off,
+you know, kick the can down the road
+
+218
+00:15:20,565 --> 00:15:23,025
+every day until the deadline of.
+
+219
+00:15:24,300 --> 00:15:28,080
+And now we're really stressed out because
+we get to do it and it has to be done.
+
+220
+00:15:28,080 --> 00:15:31,320
+And, and we haven't even started yet.
+
+221
+00:15:31,320 --> 00:15:37,580
+So try to set up a time, you know,
+uh, small, uh, time chunks of 10 to
+
+222
+00:15:37,580 --> 00:15:43,410
+15 minutes every day to tackle that,
+uh, tasks that you are trying to
+
+223
+00:15:43,410 --> 00:15:48,180
+avoid that way, you know, 10 minutes
+a day, by the end of the week, you
+
+224
+00:15:48,180 --> 00:15:50,910
+will have worked on it almost an hour.
+
+225
+00:15:51,750 --> 00:15:53,040
+And that's pretty good, you know?
+
+226
+00:15:53,834 --> 00:15:58,935
+But if you can do that, you know, can
+set up more time to do that, go ahead
+
+227
+00:15:58,935 --> 00:16:00,645
+and do that, but do not procrastinate.
+
+228
+00:16:01,275 --> 00:16:06,915
+You know, eventually all tasks
+will accumulate and that's
+
+229
+00:16:07,094 --> 00:16:07,905
+in the back of your mind.
+
+230
+00:16:07,905 --> 00:16:10,605
+You're thinking about that and
+you're stressing out and you're
+
+231
+00:16:10,605 --> 00:16:12,915
+stressing out and that's not good.
+
+232
+00:16:14,714 --> 00:16:20,535
+Um, and another thing similar to
+mental energy kickoff, you want to
+
+233
+00:16:20,535 --> 00:16:22,245
+decompress at the end of the day.
+
+234
+00:16:24,495 --> 00:16:29,085
+Uh, it's similar to, you know,
+starting your day with a task that
+
+235
+00:16:29,085 --> 00:16:30,585
+requires a little mental energy.
+
+236
+00:16:31,035 --> 00:16:34,425
+Try to end your day with,
+uh, doing similar tasks.
+
+237
+00:16:35,025 --> 00:16:39,285
+Uh, it could be just, you know,
+10, 15 minutes before your shift,
+
+238
+00:16:39,945 --> 00:16:45,255
+just, you know, stop doing the hard
+things and do the easier things.
+
+239
+00:16:45,255 --> 00:16:50,505
+You know, you can maybe write
+up some notes, um, write some
+
+240
+00:16:50,505 --> 00:16:51,705
+more emails that require.
+
+241
+00:16:53,190 --> 00:16:57,960
+No research, um, read your docs again.
+
+242
+00:16:58,080 --> 00:17:02,250
+I don't know, thinks that, you know, you
+know that your job will require a little
+
+243
+00:17:02,250 --> 00:17:08,490
+mental energy and finally end your day.
+
+244
+00:17:08,490 --> 00:17:11,220
+When you log off from
+work, really do that.
+
+245
+00:17:11,310 --> 00:17:16,170
+You know, don't have a work
+email installed on your phone.
+
+246
+00:17:16,740 --> 00:17:20,520
+Uh, don't have slack related,
+uh, work groups in, in your
+
+247
+00:17:20,520 --> 00:17:21,330
+fall and things like that.
+
+248
+00:17:22,589 --> 00:17:30,540
+Um, just take time for you, you
+know, you out of work, you've done
+
+249
+00:17:30,540 --> 00:17:35,879
+a great job and you know, you're
+excellent, but now it's your time.
+
+250
+00:17:35,879 --> 00:17:37,260
+It's your family time.
+
+251
+00:17:37,290 --> 00:17:41,070
+It's time to do something else on a
+personal level, you have to disconnect.
+
+252
+00:17:41,639 --> 00:17:46,740
+Um, again, set up a time to
+really disconnect from internet,
+
+253
+00:17:47,129 --> 00:17:53,420
+really social media, uh, Do not
+look at a screen for a good hour.
+
+254
+00:17:53,430 --> 00:17:57,030
+So if you have a hobby,
+go ahead and do that.
+
+255
+00:17:57,780 --> 00:17:59,640
+If you work out, go ahead and do that.
+
+256
+00:17:59,640 --> 00:18:06,210
+You know, spend time with your family,
+read a book, something that gets you away
+
+257
+00:18:06,210 --> 00:18:10,680
+from any screen really helps you out with
+your mental energy and your mental health.
+
+258
+00:18:10,830 --> 00:18:14,670
+You know, especially at night, you don't
+want to be checking your pond, you know,
+
+259
+00:18:15,190 --> 00:18:17,220
+on your bet before you go to sleep.
+
+260
+00:18:18,030 --> 00:18:20,595
+Um, It will helps you out.
+
+261
+00:18:20,745 --> 00:18:28,185
+You know, you have to step
+away from any screen because
+
+262
+00:18:28,305 --> 00:18:30,045
+it also affects your vision.
+
+263
+00:18:30,285 --> 00:18:38,265
+It affects your, um, mental health
+and, um, it'll eventually add up
+
+264
+00:18:38,265 --> 00:18:39,675
+to the next day and the next day.
+
+265
+00:18:39,675 --> 00:18:44,985
+So take an hour or so every
+day to just disconnect from
+
+266
+00:18:44,985 --> 00:18:47,285
+everything and enjoy nature.
+
+267
+00:18:47,445 --> 00:18:47,535
+Can.
+
+268
+00:18:48,510 --> 00:18:54,240
+And you, your family and your hobbies
+and, and your, your life, it's your time.
+
+269
+00:18:56,010 --> 00:19:01,950
+Another thing I want to point out
+is that you need to encourage a work
+
+270
+00:19:01,950 --> 00:19:04,260
+stress discussion at the workplace.
+
+271
+00:19:04,500 --> 00:19:09,720
+And, um, I don't know if
+your award allows for this.
+
+272
+00:19:09,720 --> 00:19:12,510
+You have, if you slack, or
+if you use email or whatever,
+
+273
+00:19:12,510 --> 00:19:15,360
+but be able to communicate.
+
+274
+00:19:17,100 --> 00:19:23,190
+With your coworkers, with their
+supervisors, um, about stressful
+
+275
+00:19:23,220 --> 00:19:27,270
+situations at job at your job
+and how you can deal with that.
+
+276
+00:19:27,840 --> 00:19:31,710
+Uh, what can you do to minimize,
+you know, stressful situations?
+
+277
+00:19:33,270 --> 00:19:38,940
+Because it, it, it doesn't, it, it
+doesn't just help be you as an employee.
+
+278
+00:19:38,940 --> 00:19:45,570
+It helps them as an employer, you know,
+um, according to study in the UK, Uh,
+
+279
+00:19:45,600 --> 00:19:52,140
+businesses are important to lose around
+37 billion pounds, British pounds
+
+280
+00:19:52,170 --> 00:19:53,880
+every year and poor customer service.
+
+281
+00:19:54,750 --> 00:20:00,060
+And based on their, in that research,
+uh, 73% of consumers are reported
+
+282
+00:20:00,060 --> 00:20:03,780
+to select a company or product
+based on friendly employees or
+
+283
+00:20:03,780 --> 00:20:05,430
+customer service representatives.
+
+284
+00:20:06,600 --> 00:20:10,950
+So this is where a happy employee
+can make a big difference in
+
+285
+00:20:10,950 --> 00:20:13,260
+terms of, or of sales and revenue.
+
+286
+00:20:14,550 --> 00:20:18,540
+You know, like I said, in the
+beginning, all jobs are somewhat
+
+287
+00:20:18,540 --> 00:20:22,140
+stressful and people are different.
+
+288
+00:20:22,260 --> 00:20:23,940
+We all handle stress differently.
+
+289
+00:20:23,940 --> 00:20:28,740
+We'll have personal, uh, issues
+that we have to deal with every day.
+
+290
+00:20:29,190 --> 00:20:32,250
+And that, you know, it's
+another variable movie.
+
+291
+00:20:32,400 --> 00:20:36,120
+Our employers cannot control
+that, but there are things that
+
+292
+00:20:36,120 --> 00:20:37,770
+can be, you know, minimize.
+
+293
+00:20:39,510 --> 00:20:42,690
+Done differently at work
+that could minimize just
+
+294
+00:20:42,690 --> 00:20:44,070
+general stress for all of us.
+
+295
+00:20:44,550 --> 00:20:48,720
+So I'll be sure to talk to your
+supervisors, your higher ups
+
+296
+00:20:49,110 --> 00:20:54,480
+and, um, if your company is not
+open to that, maybe it's time to
+
+297
+00:20:54,960 --> 00:20:56,060
+look somewhere else, you know?
+
+298
+00:20:56,100 --> 00:21:00,540
+Um, sadly, uh, but it is
+your health after all.
+
+299
+00:21:00,540 --> 00:21:05,100
+So be sure to take care of it and.
+
+300
+00:21:08,175 --> 00:21:09,795
+That's pretty much it.
+
+301
+00:21:10,185 --> 00:21:18,075
+And, you know, uh, just wanted to
+share that as a side note, that I also,
+
+302
+00:21:18,105 --> 00:21:23,865
+uh, dealt with depression and anxiety
+for many years of my life, and I've
+
+303
+00:21:23,865 --> 00:21:28,545
+applied these dips to my personal life
+and they've really helped me out, you
+
+304
+00:21:28,545 --> 00:21:32,745
+know, um, at the end of the day, you
+need to take care of yourself too.
+
+305
+00:21:34,110 --> 00:21:35,340
+You need to eat healthy.
+
+306
+00:21:36,030 --> 00:21:37,140
+You need to get out.
+
+307
+00:21:37,260 --> 00:21:39,780
+I sleep in that's really important.
+
+308
+00:21:40,230 --> 00:21:44,850
+Take care of your physical health too,
+because that will also affect your mental
+
+309
+00:21:44,850 --> 00:21:53,100
+health obviously, and ticket one day
+at a time, you know, don't quit smoking
+
+310
+00:21:53,100 --> 00:21:58,920
+culture keyed on, you know, stopping
+carbs, cold Turkey that doesn't work.
+
+311
+00:21:58,950 --> 00:22:00,480
+It's one step at a time.
+
+312
+00:22:01,500 --> 00:22:02,580
+You are not alone.
+
+313
+00:22:02,760 --> 00:22:08,010
+If you need help, definitely
+reach out friends, family, um,
+
+314
+00:22:08,040 --> 00:22:10,860
+open to, uh, messages, Sue.
+
+315
+00:22:10,860 --> 00:22:15,300
+Um, I don't tweet much, but I, you
+know, you can reach out to me and
+
+316
+00:22:15,300 --> 00:22:20,550
+share your experiences, say hi or
+prayer request and you know, whatever.
+
+317
+00:22:20,620 --> 00:22:21,720
+Uh, I'm good.
+
+318
+00:22:21,750 --> 00:22:25,580
+Uh, and I'll be happy to share
+on a more personal level.
+
+319
+00:22:25,600 --> 00:22:26,550
+My experiences.
+
+320
+00:22:27,915 --> 00:22:33,305
+Uh, things that I do on everyday
+basis to deal with that again, it's
+
+321
+00:22:33,305 --> 00:22:34,425
+your mental health take care of it.
+
+322
+00:22:34,665 --> 00:22:35,205
+Take care.
+
+323
+00:22:35,895 --> 00:22:36,255
+Bye.
+
+324
+00:22:37,965 --> 00:22:39,165
+Matt Graham: Welcome back.
+
+325
+00:22:39,915 --> 00:22:47,145
+So we have, uh, both Nate and Rick
+here to answer your questions.
+
+326
+00:22:49,115 --> 00:22:50,575
+Nate Finch: Hello.
+
+327
+00:22:54,555 --> 00:22:55,725
+Matt Graham: Awesome talks.
+
+328
+00:22:57,945 --> 00:23:02,895
+If they hit, they hit a chord,
+obviously different courts with meaning.
+
+329
+00:23:03,435 --> 00:23:07,725
+Um, the last, uh, last eight months,
+I've been kind of going through a tough
+
+330
+00:23:07,755 --> 00:23:13,575
+time with, uh, with my mental health,
+but I was playing around with headless
+
+331
+00:23:14,025 --> 00:23:18,075
+WordPress, probably I wanna say six years.
+
+332
+00:23:19,545 --> 00:23:20,595
+I actually did it.
+
+333
+00:23:20,625 --> 00:23:25,815
+I actually did a talk, uh, in,
+um, we're, uh, WordCamp Hamilton
+
+334
+00:23:26,175 --> 00:23:28,545
+about, uh, about doing a.
+
+335
+00:23:29,430 --> 00:23:35,100
+Um, using WordPress as like an
+app development, uh, framework.
+
+336
+00:23:35,190 --> 00:23:37,740
+So yeah, what you're talking
+about is really cool.
+
+337
+00:23:37,800 --> 00:23:38,070
+Yeah.
+
+338
+00:23:39,540 --> 00:23:40,379
+Nate Finch: That's fun, man.
+
+339
+00:23:41,190 --> 00:23:44,710
+That's a bit about too in that, uh,
+uh, we're using WordPress for web apps
+
+340
+00:23:44,730 --> 00:23:49,880
+book came out, actually, I'm trying to
+remember the guys at WebDev Studioes
+
+341
+00:23:50,310 --> 00:23:52,110
+Matt Graham: I haven't actually had
+a chance to read that one over yet.
+
+342
+00:23:53,190 --> 00:23:56,070
+Rachel Winchester: I have a
+question about how you first, uh,
+
+343
+00:23:56,070 --> 00:23:59,790
+I guess, got into JAMstack and
+building static WordPress sites.
+
+344
+00:24:00,149 --> 00:24:03,780
+And really like when that
+moment for you, when it clicked
+
+345
+00:24:03,810 --> 00:24:05,280
+that this is the way to build.
+
+346
+00:24:08,325 --> 00:24:09,345
+Nate Finch: Yeah, that's a great question.
+
+347
+00:24:09,405 --> 00:24:14,205
+Um, I think for me, at least I think
+it's different for everybody, but when
+
+348
+00:24:14,205 --> 00:24:18,765
+you see, I think like, I don't know, I
+grabbed a Gatsby theme first starter.
+
+349
+00:24:18,825 --> 00:24:20,175
+It wasn't a few, it was,
+it started as before.
+
+350
+00:24:20,985 --> 00:24:25,575
+And it's like, you know, you, I think
+you've just come out of, and they had
+
+351
+00:24:25,575 --> 00:24:30,075
+like the, uh, WordPress course, it
+was really just like plug and go and
+
+352
+00:24:30,075 --> 00:24:32,835
+how easy it was to like get started.
+
+353
+00:24:33,690 --> 00:24:35,700
+Kind of get it going well, I don't know.
+
+354
+00:24:35,790 --> 00:24:36,780
+Easiest relative term.
+
+355
+00:24:36,810 --> 00:24:37,440
+Absolutely.
+
+356
+00:24:37,800 --> 00:24:41,129
+Um, so back it up a little bit
+there, but like Netlify had their
+
+357
+00:24:41,129 --> 00:24:44,669
+free hosting still does, like
+my personal site is still there.
+
+358
+00:24:44,700 --> 00:24:48,240
+And so you just like deploy it
+and you're like, oh, that's there.
+
+359
+00:24:48,419 --> 00:24:50,500
+And it's just pulling all
+this information from my site.
+
+360
+00:24:50,629 --> 00:24:51,420
+Well, that's cool.
+
+361
+00:24:51,900 --> 00:24:55,230
+And so the tools are there, you know, so I
+think it was just like, kind of the right
+
+362
+00:24:55,230 --> 00:25:00,000
+moment when Gatsby kind of came along
+and, uh, Netlify came along to really
+
+363
+00:25:00,000 --> 00:25:02,400
+have, uh, an easy way to get that up.
+
+364
+00:25:02,400 --> 00:25:06,790
+So I know there's other solutions now,
+uh, through Vercel, through Strattic,
+
+365
+00:25:06,810 --> 00:25:11,580
+through all sorts of like headless options
+and stuff like that and static options.
+
+366
+00:25:11,580 --> 00:25:12,650
+And everything's.
+
+367
+00:25:13,679 --> 00:25:16,530
+Yeah, but I think for me, it was
+just like seeing the speed and, you
+
+368
+00:25:16,530 --> 00:25:19,679
+know, Gatsby has the, um, what is it
+called where you hover over a link
+
+369
+00:25:19,679 --> 00:25:20,820
+and it like, pre-loads the page.
+
+370
+00:25:21,240 --> 00:25:24,540
+So it was just like, just so fast
+and the images look so crisp and
+
+371
+00:25:24,540 --> 00:25:27,810
+clean and there's just so little
+that you have to do or whatever.
+
+372
+00:25:27,810 --> 00:25:29,939
+So, yeah, I was like, this is cool.
+
+373
+00:25:31,074 --> 00:25:31,794
+That was great.
+
+374
+00:25:32,455 --> 00:25:32,814
+Rachel Winchester: Nice.
+
+375
+00:25:32,884 --> 00:25:37,284
+I been getting into
+JAMstack about a year now.
+
+376
+00:25:37,314 --> 00:25:45,024
+Um, but not as a developer WordPress,
+um, and while getting into it, I've
+
+377
+00:25:45,024 --> 00:25:46,705
+been listening to so much heavy metal.
+
+378
+00:25:47,215 --> 00:25:49,405
+So I like how Rick.
+
+379
+00:25:51,160 --> 00:25:56,530
+To heavy metal and that people can
+listen to whatever music that you like.
+
+380
+00:25:56,920 --> 00:26:01,000
+So I'm curious, what kind of music
+do you listen to throughout your day?
+
+381
+00:26:01,000 --> 00:26:02,080
+What do you like to work to?
+
+382
+00:26:02,440 --> 00:26:06,490
+Rick Alday: Oh man, like my music
+taste is really all over the place
+
+383
+00:26:06,490 --> 00:26:11,560
+and um, you know, I, I can share
+some way in my playlist and some
+
+384
+00:26:11,560 --> 00:26:17,770
+of them I'd rather than that, but
+yeah, I mean, I just listened to.
+
+385
+00:26:18,929 --> 00:26:23,250
+Well, I'm working at drink to loosen,
+to like some like low-fi music.
+
+386
+00:26:23,310 --> 00:26:27,689
+Uh, but again, it depends on
+my mood and what I'm doing.
+
+387
+00:26:27,719 --> 00:26:34,260
+Uh, I definitely, you know, head
+bang sometimes, and I have my
+
+388
+00:26:34,260 --> 00:26:36,240
+kid like working next to me.
+
+389
+00:26:36,270 --> 00:26:43,080
+She's taking a homeschool at moments,
+or I cannot put out my music too loud.
+
+390
+00:26:43,080 --> 00:26:49,305
+I use my headphones and, but, um,
+yeah, I mean, It depends on my mood.
+
+391
+00:26:49,365 --> 00:26:53,565
+So it varies quite a bit.
+
+392
+00:26:54,525 --> 00:26:54,945
+Matt Graham: Yeah.
+
+393
+00:26:54,945 --> 00:27:00,885
+So I guess speaking of variability,
+what is that one thing that
+
+394
+00:27:00,885 --> 00:27:02,805
+you need to do every day to.
+
+395
+00:27:03,660 --> 00:27:08,190
+Yourself, like I want to stay sane,
+but really the, the thing is focused.
+
+396
+00:27:08,490 --> 00:27:10,740
+What is that one thing
+that you always need to do?
+
+397
+00:27:11,550 --> 00:27:11,639
+Rick Alday: Okay.
+
+398
+00:27:11,879 --> 00:27:16,170
+Um, what works for me is
+taking a lot of breaks.
+
+399
+00:27:16,170 --> 00:27:18,960
+Like a lot of five minute breaks,
+every 40 minutes every hour.
+
+400
+00:27:18,990 --> 00:27:22,040
+I need to just step out of the office and.
+
+401
+00:27:23,010 --> 00:27:26,700
+I just, just go, ah, what
+are my plants and our yard?
+
+402
+00:27:26,730 --> 00:27:28,980
+And that's like, what I like to do.
+
+403
+00:27:28,980 --> 00:27:34,050
+I like to do gardening on my time
+off and that just like completely,
+
+404
+00:27:34,080 --> 00:27:35,460
+completely just takes me away.
+
+405
+00:27:36,615 --> 00:27:38,955
+Any, uh, anything I'm working on online?
+
+406
+00:27:38,955 --> 00:27:43,965
+So, uh, one of my coworkers,
+he lives in the near the woods.
+
+407
+00:27:44,024 --> 00:27:46,935
+He has like a large
+property in South Carolina.
+
+408
+00:27:46,935 --> 00:27:51,945
+So, you know, he, he almost with the,
+like coming to slack, I'm going to take
+
+409
+00:27:51,945 --> 00:27:54,195
+a walk in the woods and that was for him.
+
+410
+00:27:54,645 --> 00:27:58,875
+And so, yeah, but that's
+something I need to do.
+
+411
+00:27:58,875 --> 00:28:03,435
+I need to go outside and look at
+green style, look at plants, look
+
+412
+00:28:03,435 --> 00:28:06,299
+a flower, you know, But I do.
+
+413
+00:28:06,870 --> 00:28:07,050
+Rachel Winchester: Yeah.
+
+414
+00:28:07,050 --> 00:28:08,340
+I definitely understand that.
+
+415
+00:28:08,340 --> 00:28:12,419
+I think, uh, well, I don't know where,
+where everyone's located in the world,
+
+416
+00:28:12,480 --> 00:28:17,429
+but where I am in the winter, you can't
+get too much sunlight during the day.
+
+417
+00:28:17,429 --> 00:28:23,129
+So I have to leave and go outside
+during lunch to even, get some sunlight.
+
+418
+00:28:23,879 --> 00:28:28,830
+Um, so yeah, I definitely, I definitely
+feel that, um, going outside during
+
+419
+00:28:28,830 --> 00:28:30,449
+your work day and making a point of it.
+
+420
+00:28:34,245 --> 00:28:37,605
+Rick Alday: And just because I dunno, I
+guess most of us work, you know, we're
+
+421
+00:28:37,605 --> 00:28:41,175
+sitting down all day, you know, working.
+
+422
+00:28:41,175 --> 00:28:47,145
+So just getting up, even getting,
+you know, grabbing a cup of coffee
+
+423
+00:28:47,145 --> 00:28:52,425
+or just walking around like five
+minutes, it really, you know, helps
+
+424
+00:28:52,425 --> 00:28:57,314
+you out with your back pain and,
+you know, physically, mentally, it
+
+425
+00:28:57,345 --> 00:28:59,534
+just kind of resets you a little.
+
+426
+00:29:01,650 --> 00:29:04,890
+Rachel Winchester: Yeah, unless
+you're too excited about the
+
+427
+00:29:04,890 --> 00:29:08,970
+develops develop the WordPress
+static site that you're developing.
+
+428
+00:29:11,640 --> 00:29:12,550
+Nate Finch: I was actually the,
+
+429
+00:29:12,570 --> 00:29:14,700
+Matt Graham: yeah, that's the
+question I wanted to ask you, Nate.
+
+430
+00:29:14,790 --> 00:29:17,400
+So I I'm a developer.
+
+431
+00:29:17,905 --> 00:29:22,645
+And I ha I feel like it could, I
+don't know what it is, but I have this
+
+432
+00:29:22,645 --> 00:29:25,375
+rollercoaster of this is so cool too.
+
+433
+00:29:25,645 --> 00:29:26,875
+I hate this.
+
+434
+00:29:27,175 --> 00:29:28,135
+How do you go into that?
+
+435
+00:29:29,755 --> 00:29:30,295
+Nate Finch: Oh man.
+
+436
+00:29:30,565 --> 00:29:30,985
+Well, yeah.
+
+437
+00:29:30,985 --> 00:29:33,685
+And it's, it's also, you know, a
+thing of like, oh, this is only
+
+438
+00:29:33,685 --> 00:29:34,675
+going to take me five more minutes.
+
+439
+00:29:34,675 --> 00:29:35,065
+I know.
+
+440
+00:29:35,065 --> 00:29:36,805
+And then five hours later,
+you didn't go outside.
+
+441
+00:29:36,805 --> 00:29:37,705
+You didn't take your walk.
+
+442
+00:29:37,705 --> 00:29:40,585
+You didn't, you know, like say hi
+to your family or something, working
+
+443
+00:29:40,585 --> 00:29:42,895
+at home or whatever and all that.
+
+444
+00:29:42,925 --> 00:29:44,515
+Um, yeah.
+
+445
+00:29:46,104 --> 00:29:46,814
+I don't know.
+
+446
+00:29:46,874 --> 00:29:50,084
+I'm still trying to figure that out
+sometimes because I know that I'll,
+
+447
+00:29:50,205 --> 00:29:53,384
+you know, if I could I'd work like
+all day and all night, and I just love
+
+448
+00:29:53,384 --> 00:29:56,864
+figuring all this stuff out is one of the
+things I love about development, right.
+
+449
+00:29:56,864 --> 00:30:00,554
+Is that you're solving problems, like
+figuring out puzzles and stuff like that.
+
+450
+00:30:00,884 --> 00:30:02,745
+So, um, yeah.
+
+451
+00:30:02,804 --> 00:30:03,794
+How do you deal with that?
+
+452
+00:30:03,794 --> 00:30:07,754
+I think like part of it is like, You know,
+setting a timer for things, for sure.
+
+453
+00:30:07,754 --> 00:30:10,545
+Kind of like Rick was talking about,
+you know, um, I think the other side
+
+454
+00:30:10,545 --> 00:30:13,575
+of it too, is to have multiple things
+that you're trying to figure out, um,
+
+455
+00:30:13,635 --> 00:30:17,655
+that you're, or that, and if you have
+other tasks you need to be doing that,
+
+456
+00:30:17,715 --> 00:30:20,264
+you're like, okay, I can only spend
+like 30 more minutes on this before
+
+457
+00:30:20,264 --> 00:30:21,585
+I have to move on to something else.
+
+458
+00:30:21,585 --> 00:30:26,504
+And for me to like part, I was a
+freelancer for, you know, six, seven
+
+459
+00:30:26,504 --> 00:30:30,545
+years or whatever, and joining a team,
+uh, whether it's at a design agency
+
+460
+00:30:30,555 --> 00:30:34,830
+or now like Strattic where we're a
+hosting company, um, You know, having
+
+461
+00:30:34,830 --> 00:30:39,960
+other people around you that have
+those like have skills or can be your
+
+462
+00:30:39,960 --> 00:30:44,430
+rubber duck or, um, give you insight
+and stuff like that to all that.
+
+463
+00:30:44,430 --> 00:30:47,070
+Like, if you can just like talk to
+the people, like again, requisites
+
+464
+00:30:47,520 --> 00:30:51,980
+so much great advice, Rick,
+that, uh, uh, it's super helpful.
+
+465
+00:30:52,000 --> 00:30:54,899
+Just feel like, figure those things
+out and get unblocked and move forward.
+
+466
+00:30:54,990 --> 00:31:01,830
+You know, team like the sum, the total is
+greater than the sum of its parts, right?
+
+467
+00:31:02,250 --> 00:31:02,669
+Yeah.
+
+468
+00:31:03,820 --> 00:31:08,200
+Matt Graham: Um, no, actually, uh,
+AmyJune, which was one of the, uh, one of
+
+469
+00:31:08,200 --> 00:31:14,050
+the speakers earlier, uh, posted the, um,
+the, from the developer Twitter account.
+
+470
+00:31:14,650 --> 00:31:16,960
+It's like, this'll just
+be the five minutes fix.
+
+471
+00:31:19,830 --> 00:31:19,980
+Nate Finch: Yeah.
+
+472
+00:31:21,449 --> 00:31:22,770
+Five minute fixes every day.
+
+473
+00:31:23,370 --> 00:31:23,820
+Matt Graham: Yeah.
+
+474
+00:31:23,820 --> 00:31:25,050
+Right, exactly.
+
+475
+00:31:26,879 --> 00:31:27,449
+Right, right.
+
+476
+00:31:27,540 --> 00:31:28,080
+Exactly.
+
+477
+00:31:28,080 --> 00:31:31,500
+That's that's well, that's the limit
+because if you go above that, then you
+
+478
+00:31:31,500 --> 00:31:33,570
+know, it ends up being an eight hour fix.
+
+479
+00:31:39,965 --> 00:31:41,935
+Rachel Winchester: Well, I, I
+guess I have one more question.
+
+480
+00:31:42,685 --> 00:31:47,365
+Um, I'm curious, uh, w w with who
+you deal with that at your job, um,
+
+481
+00:31:47,395 --> 00:31:52,885
+do people come to you excited about
+static or do you have to convince them.
+
+482
+00:31:56,040 --> 00:31:56,340
+Nate Finch: Yeah.
+
+483
+00:31:56,370 --> 00:32:01,200
+So a lot of the folks that come to
+Strattic are, you know, mid-size or
+
+484
+00:32:01,200 --> 00:32:05,159
+enterprise level folks that have been
+running WordPress for years, and they
+
+485
+00:32:05,159 --> 00:32:11,159
+have worked on other hosting platforms
+with their hosting companies and they
+
+486
+00:32:11,700 --> 00:32:15,294
+there's like this kind of sweet spot
+sweet spotat Strattic where we can
+
+487
+00:32:15,294 --> 00:32:19,345
+take your WordPress site as it is and
+make it static and then put that out.
+
+488
+00:32:19,345 --> 00:32:23,845
+And we also like build in these
+serverless integrations, like for gravity
+
+489
+00:32:23,845 --> 00:32:27,804
+forms or contact form seven, or need
+WordPress search or the list goes on.
+
+490
+00:32:27,804 --> 00:32:28,044
+Right.
+
+491
+00:32:28,345 --> 00:32:30,385
+Um, but they have been.
+
+492
+00:32:31,110 --> 00:32:34,110
+I told that if they want to do
+something static, something fast and
+
+493
+00:32:34,110 --> 00:32:37,830
+scalable and secure that they need
+to rebuild their site and stuff.
+
+494
+00:32:37,860 --> 00:32:42,060
+Well, you know, they've spent years on
+this or, you know, tens of thousands
+
+495
+00:32:42,060 --> 00:32:47,010
+of dollars or hundreds of thousands of
+people, hours or whatever on the site that
+
+496
+00:32:47,010 --> 00:32:48,510
+they have in the set up that they have.
+
+497
+00:32:48,540 --> 00:32:49,740
+And their marketers love it.
+
+498
+00:32:49,830 --> 00:32:51,240
+Their SEO, few people love it.
+
+499
+00:32:51,240 --> 00:32:52,440
+Their content writers love it.
+
+500
+00:32:52,800 --> 00:32:53,550
+They don't want to switch.
+
+501
+00:32:54,374 --> 00:32:56,864
+You know, a non WordPress
+platform or whatever.
+
+502
+00:32:56,955 --> 00:33:01,334
+Uh, and they don't want to have like a
+deployment, like a, uh, a build process
+
+503
+00:33:01,334 --> 00:33:04,814
+necessarily where they have everything
+he coupled where there's like, you
+
+504
+00:33:04,814 --> 00:33:08,144
+know, next she has her Gatsby on the
+front end and WordPress on the backend.
+
+505
+00:33:08,144 --> 00:33:11,685
+And they're still dealing with that
+security then too, because they
+
+506
+00:33:11,685 --> 00:33:14,745
+still have their WordPress site
+up and it could still be taxed.
+
+507
+00:33:15,164 --> 00:33:17,414
+The folks that come to us are
+basically saying like, Hey, when
+
+508
+00:33:17,414 --> 00:33:19,634
+you shut down WordPress, that means
+that our WordPress can't be hacked.
+
+509
+00:33:20,090 --> 00:33:20,629
+That's great.
+
+510
+00:33:20,929 --> 00:33:25,129
+And then you have all these awesome
+integrations and stuff that other hosting
+
+511
+00:33:25,129 --> 00:33:30,169
+static hosting platforms or a static kind
+of integrations don't have out of the box.
+
+512
+00:33:30,199 --> 00:33:35,540
+Like I said to the PML for like one
+multinational site and stuff like that.
+
+513
+00:33:35,540 --> 00:33:38,629
+So those are the kinds of things
+that are like really important and
+
+514
+00:33:38,629 --> 00:33:40,790
+like the headache, like we were
+just talking with somebody else who
+
+515
+00:33:40,790 --> 00:33:41,840
+was like, you know, you all have.
+
+516
+00:33:42,780 --> 00:33:45,180
+Not to say that we cost somebody
+their job or whatever, but it's like,
+
+517
+00:33:45,180 --> 00:33:48,180
+you know, if we were doing what we
+were doing before we came to strata,
+
+518
+00:33:48,659 --> 00:33:51,990
+we'd still have another person and a
+half or something like that on staff.
+
+519
+00:33:51,990 --> 00:33:53,490
+That's just, just watching our site.
+
+520
+00:33:53,580 --> 00:33:53,790
+Right.
+
+521
+00:33:53,790 --> 00:33:57,360
+Like they're not doing anything
+productive or whatever, they're just
+
+522
+00:33:57,480 --> 00:33:59,250
+trying to help us with the thing.
+
+523
+00:33:59,250 --> 00:34:00,750
+So, yeah.
+
+524
+00:34:02,970 --> 00:34:06,300
+So yeah, it's, it's cool.
+
+525
+00:34:06,330 --> 00:34:09,360
+That's kind of the same story,
+uh, you know, two dozen different
+
+526
+00:34:09,360 --> 00:34:10,440
+ways and stuff like that.
+
+527
+00:34:10,590 --> 00:34:11,009
+Uh, come on.
+
+528
+00:34:13,234 --> 00:34:13,504
+Rachel Winchester: Yeah.
+
+529
+00:34:13,754 --> 00:34:13,944
+Yeah.
+
+530
+00:34:13,944 --> 00:34:17,054
+I'm very interested in, in, in,
+um, how people are transitioning,
+
+531
+00:34:17,054 --> 00:34:21,404
+because I know it's, it's, it's
+kind of new or it's coming back.
+
+532
+00:34:21,734 --> 00:34:26,354
+Um, but it keeps trying to, uh,
+to, to, you know, get even more
+
+533
+00:34:26,354 --> 00:34:27,854
+popular, which is really interesting.
+
+534
+00:34:28,725 --> 00:34:28,934
+Nate Finch: Yeah.
+
+535
+00:34:28,944 --> 00:34:29,264
+Right.
+
+536
+00:34:30,464 --> 00:34:30,614
+Yeah.
+
+537
+00:34:30,634 --> 00:34:33,464
+Everything's uh, that was old is
+new again or something like that.
+
+538
+00:34:33,464 --> 00:34:33,764
+Right.
+
+539
+00:34:34,484 --> 00:34:34,874
+So.
+
+540
+00:34:37,874 --> 00:34:38,624
+Matt Graham: All right.
+
+541
+00:34:39,014 --> 00:34:43,064
+Well, thank you gentlemen, for, uh,
+for being able to be part of our
+
+542
+00:34:43,064 --> 00:34:49,335
+Q and A I'd like to also thank our
+sponsors, Bluehost, Cloudways, GoDaddy
+
+543
+00:34:49,364 --> 00:34:53,405
+Pro, Nexcess, Yoast and Weglot.
+
+544
+00:34:54,199 --> 00:34:56,359
+Please be sure to visit their
+tents and chat with them and
+
+545
+00:34:56,359 --> 00:34:59,149
+you might even win some prizes.
+
+546
+00:34:59,779 --> 00:35:04,160
+So don't forget to get your photo snapped
+in photo booth as well, and tweet it out
+
+547
+00:35:04,399 --> 00:35:07,609
+with the hashtag word, WordFest Live.
+
+548
+00:35:08,359 --> 00:35:12,169
+Also thank you to our media
+partners and our micro sponsor.
+
+549
+00:35:13,529 --> 00:35:17,460
+Uh, right now in the community
+tent, uh Cloudways or sorry,
+
+550
+00:35:17,460 --> 00:35:18,480
+that's in the next hour.
+
+551
+00:35:18,740 --> 00:35:20,880
+Cloudways is, will have
+their hourly giveaway.
+
+552
+00:35:21,870 --> 00:35:25,470
+There is a, uh, well, it's
+probably only about a nine minute
+
+553
+00:35:25,470 --> 00:35:26,910
+break in the schedule right now.
+
+554
+00:35:27,480 --> 00:35:32,430
+Uh, so head on over to the community tent
+and we will be back in nine minutes with,
+
+555
+00:35:32,460 --> 00:35:35,220
+uh, starting off at the Asian continent.
+
+556
+00:35:35,910 --> 00:35:38,400
+You all make our Big Orange Hearts full.
+
