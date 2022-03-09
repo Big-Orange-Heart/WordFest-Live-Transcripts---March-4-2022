@@ -1,0 +1,1813 @@
+1
+00:00:27,255 --> 00:00:27,825
+Nexcess: Oh, great.
+
+2
+00:00:27,975 --> 00:00:29,535
+My website crashed again.
+
+3
+00:00:29,895 --> 00:00:35,505
+I give up, don't give up on your
+dreams, Jordan, who are you?
+
+4
+00:00:35,595 --> 00:00:36,105
+It's me.
+
+5
+00:00:36,645 --> 00:00:38,235
+You from the future.
+
+6
+00:00:38,535 --> 00:00:40,545
+Your professional website
+is not out of reach.
+
+7
+00:00:40,575 --> 00:00:41,895
+You just need Nexcess.
+
+8
+00:00:42,375 --> 00:00:45,525
+With Nexcess managed hosting, you
+get lightening pass load times
+
+9
+00:00:45,525 --> 00:00:49,635
+built-in performance monitoring and
+updates, and always awesome support.
+
+10
+00:00:49,695 --> 00:00:51,555
+24 7 365.
+
+11
+00:00:51,585 --> 00:00:52,245
+For all your plans.
+
+12
+00:00:52,710 --> 00:00:53,310
+Whoa.
+
+13
+00:00:53,520 --> 00:00:53,910
+Yeah.
+
+14
+00:00:57,285 --> 00:01:02,625
+Weglot: Discover Weglot the simple
+translation solution for your website.
+
+15
+00:01:02,985 --> 00:01:07,515
+All you have to do is add Weglot to
+your website, select the languages
+
+16
+00:01:07,515 --> 00:01:09,465
+that you need, and that's it.
+
+17
+00:01:09,675 --> 00:01:12,795
+Your website is now available
+in multiple languages.
+
+18
+00:02:13,775 --> 00:02:16,954
+Yoast: Do you know, the Yoast SEO,
+plugin, they're red, orange, and
+
+19
+00:02:16,954 --> 00:02:20,135
+green feedback bullets that help
+you optimize your posts for the web.
+
+20
+00:02:20,315 --> 00:02:22,204
+It runs on millions of websites.
+
+21
+00:02:22,655 --> 00:02:26,315
+We try to make SEO understandable
+and accessible to everyone.
+
+22
+00:02:28,530 --> 00:02:31,560
+Bluehost: Who says building
+an online store has to be hard
+
+23
+00:02:31,830 --> 00:02:33,210
+with Bluehost website builder.
+
+24
+00:02:33,330 --> 00:02:34,890
+It's more than just easy.
+
+25
+00:02:35,100 --> 00:02:37,050
+It's tell us your thing in smart AI.
+
+26
+00:02:37,050 --> 00:02:38,190
+We'll take it from there.
+
+27
+00:02:38,190 --> 00:02:40,470
+Easy it's WooCommerce friendly.
+
+28
+00:02:40,530 --> 00:02:43,950
+So you can add one of these
+or swap this for that easy.
+
+29
+00:02:44,190 --> 00:02:47,280
+It's set up shop in minutes
+with unlimited products.
+
+30
+00:02:47,340 --> 00:02:47,790
+Easy.
+
+31
+00:02:47,850 --> 00:02:52,230
+Whether you sell boots, books
+or bowls, it's create an online
+
+32
+00:02:52,230 --> 00:02:56,640
+store with Bluehost, easy build
+beyond boundaries with Bluehost.
+
+33
+00:02:58,560 --> 00:03:03,150
+Matt Graham: Hey, when, uh, what do
+you get when a Canadian and an American
+
+34
+00:03:03,150 --> 00:03:05,430
+walk into an Australian themed bar?
+
+35
+00:03:07,500 --> 00:03:08,490
+Rachel Winchester: Hi, I'm not sure.
+
+36
+00:03:09,570 --> 00:03:12,899
+Matt Graham: Well, I don't either,
+but our next speaker is Amanda Gorman
+
+37
+00:03:13,559 --> 00:03:17,399
+and she's going to be presenting
+chair yoga for remote work.
+
+38
+00:03:18,540 --> 00:03:22,680
+Amanda helps nonprofits and
+wellness based businesses build
+
+39
+00:03:22,680 --> 00:03:27,210
+thriving online communities as a
+customer success manager at GiveWP.
+
+40
+00:03:27,570 --> 00:03:32,190
+She works diligently each day to assist
+nonprofits in growing their communities
+
+41
+00:03:32,190 --> 00:03:36,359
+and receiving more donations online
+to make a bigger impact in the world.
+
+42
+00:03:38,429 --> 00:03:39,210
+Amanda Gorman: Hello.
+
+43
+00:03:39,929 --> 00:03:40,380
+Matt Graham: Hello.
+
+44
+00:03:40,380 --> 00:03:42,359
+Amanda Gorman: How are you?
+
+45
+00:03:43,000 --> 00:03:43,760
+Matt Graham: Good, you?.
+
+46
+00:03:44,359 --> 00:03:45,269
+Amanda Gorman: I'm doing well.
+
+47
+00:03:45,269 --> 00:03:46,290
+Happy to be here.
+
+48
+00:03:46,769 --> 00:03:48,359
+Matt Graham: Awesome, well take it away.
+
+49
+00:03:48,839 --> 00:03:49,260
+Amanda Gorman: Awesome.
+
+50
+00:03:49,260 --> 00:03:50,130
+Sounds good.
+
+51
+00:03:50,700 --> 00:03:52,049
+Welcome everyone.
+
+52
+00:03:52,140 --> 00:03:56,519
+I thank you for joining me wherever
+you are in the world for a little
+
+53
+00:03:56,519 --> 00:03:58,649
+bit of time to just slow down.
+
+54
+00:03:58,709 --> 00:04:02,519
+So that's going to be the
+theme for this session today.
+
+55
+00:04:02,519 --> 00:04:06,059
+Just kind of taking some
+time to just be here.
+
+56
+00:04:06,870 --> 00:04:11,850
+And see what's going on in our bodies,
+explore how we're feeling and truly
+
+57
+00:04:11,850 --> 00:04:17,399
+just take a pause if you're anything
+like me, uh, I'm kind of going all the
+
+58
+00:04:17,399 --> 00:04:22,590
+time, just with all the projects, the
+work, the family, all the things, right?
+
+59
+00:04:22,590 --> 00:04:28,350
+So making pausing and slowing down
+a priority can be a challenge.
+
+60
+00:04:28,679 --> 00:04:31,439
+And that's where for me, my
+yoga practice comes into play.
+
+61
+00:04:31,860 --> 00:04:33,659
+So thank you again for being.
+
+62
+00:04:34,965 --> 00:04:35,985
+First to get set up.
+
+63
+00:04:36,015 --> 00:04:40,065
+Uh, you can be in any arrangement
+in any form of a chair.
+
+64
+00:04:40,155 --> 00:04:42,225
+I, it can be a wheelie chair.
+
+65
+00:04:42,225 --> 00:04:44,054
+It doesn't need to be a chair like mine.
+
+66
+00:04:44,115 --> 00:04:48,405
+Um, just find a place where
+you're going to feel comfortable.
+
+67
+00:04:48,434 --> 00:04:49,304
+That's the goal.
+
+68
+00:04:49,365 --> 00:04:51,674
+And I have a blanket underneath my seats.
+
+69
+00:04:51,674 --> 00:04:55,815
+So if you do have something nearby that
+you can prop yourself up a little bit
+
+70
+00:04:55,815 --> 00:05:01,424
+higher, I find that that helps to allow
+yourself to grow tall through the spine.
+
+71
+00:05:01,424 --> 00:05:02,924
+As you do, come into a seat.
+
+72
+00:05:03,549 --> 00:05:07,659
+Sometimes our comfortable chairs
+tend to let us round in the
+
+73
+00:05:07,659 --> 00:05:11,829
+low back, uh, which just puts a
+little unnecessary pressure here.
+
+74
+00:05:12,340 --> 00:05:17,829
+So start to find yourself grounding
+in your seats, find your feet
+
+75
+00:05:17,829 --> 00:05:19,750
+on your floor in front of you.
+
+76
+00:05:20,559 --> 00:05:24,880
+Maybe you scooch forward a little bit in
+your chair to really feel yourself not
+
+77
+00:05:24,880 --> 00:05:27,100
+feeling the temptation of leaning back.
+
+78
+00:05:27,100 --> 00:05:29,289
+And you're really trying
+to activate the muscles.
+
+79
+00:05:30,015 --> 00:05:33,345
+In the abdomen and the whole
+trunk of the body to sit up
+
+80
+00:05:33,375 --> 00:05:35,145
+as tall as you possibly can.
+
+81
+00:05:37,334 --> 00:05:41,204
+So the first is bringing awareness
+to that height in your spine.
+
+82
+00:05:41,505 --> 00:05:44,775
+Thinking about maybe a string
+from the very top of your
+
+83
+00:05:44,775 --> 00:05:46,905
+head, pulling yourself up.
+
+84
+00:05:47,714 --> 00:05:53,745
+Can you find even just a little
+bit more space, maybe from the
+
+85
+00:05:53,745 --> 00:05:55,275
+vertebra in the back of the neck?
+
+86
+00:05:56,919 --> 00:06:00,100
+To where it meets the base of your neck.
+
+87
+00:06:02,350 --> 00:06:05,650
+Maybe the shoulders can
+relax down into the back.
+
+88
+00:06:05,860 --> 00:06:09,159
+The hands can find a nice,
+comfortable spot to rest.
+
+89
+00:06:13,350 --> 00:06:17,400
+I'm kind of following that down the
+spine where maybe that tricky spot right
+
+90
+00:06:17,400 --> 00:06:24,319
+between the shoulder blades might find
+a little bit more space and into the.
+
+91
+00:06:25,049 --> 00:06:26,130
+Low back.
+
+92
+00:06:28,400 --> 00:06:35,140
+I'm just feeling the pelvis resting
+firmly on your chair, the legs on
+
+93
+00:06:35,140 --> 00:06:39,059
+the chair and the feet on the floor.
+
+94
+00:06:49,549 --> 00:06:52,819
+Stay with that height, that
+length that you've created.
+
+95
+00:06:53,865 --> 00:06:58,184
+Notice where you might be
+holding tension in your jaw,
+
+96
+00:06:59,204 --> 00:07:01,245
+in the space between your eyes.
+
+97
+00:07:07,954 --> 00:07:15,664
+Maybe take a nice, big exhale out
+through the mouth here can make it
+
+98
+00:07:15,664 --> 00:07:17,794
+really loud and make it audible.
+
+99
+00:07:19,084 --> 00:07:21,034
+Let the jaw on hinge on the way out.
+
+100
+00:07:21,034 --> 00:07:22,265
+Let's do that another two times.
+
+101
+00:07:28,380 --> 00:07:31,949
+Really let the shoulders drop one more.
+
+102
+00:07:41,179 --> 00:07:44,780
+Allow yourself to just sit in this
+space here for a moment to truly
+
+103
+00:07:45,079 --> 00:07:48,860
+pause, physically stopping our body.
+
+104
+00:07:51,219 --> 00:07:55,750
+To hopefully allow our mind to catch up
+to the pace that we're entering in these
+
+105
+00:07:56,469 --> 00:07:58,089
+few moments that we'll have together.
+
+106
+00:08:07,719 --> 00:08:13,890
+I can notice the sounds in your
+environment, the temperature of your room.
+
+107
+00:08:18,960 --> 00:08:21,330
+Tell your close feel against your skin
+
+108
+00:08:27,480 --> 00:08:28,860
+and the breath moving in your body.
+
+109
+00:08:44,510 --> 00:08:45,680
+Stay with your breath here.
+
+110
+00:09:08,260 --> 00:09:13,510
+And then just starting to move some
+fingers and toes again, noticing the
+
+111
+00:09:13,510 --> 00:09:15,250
+sounds in the room that you're in.
+
+112
+00:09:18,795 --> 00:09:22,094
+And if your eyes were closed, go
+ahead and blink them back open.
+
+113
+00:09:22,814 --> 00:09:24,525
+You can choose to keep your eyes closed.
+
+114
+00:09:24,525 --> 00:09:28,604
+If you just would like to listen to
+my prompts, whatever works for you.
+
+115
+00:09:29,084 --> 00:09:32,324
+We're just going to start
+moving through the neck first.
+
+116
+00:09:32,354 --> 00:09:35,265
+So we're going to drop our chin
+to the chest and not change
+
+117
+00:09:35,415 --> 00:09:38,415
+anything else about our posture.
+
+118
+00:09:38,415 --> 00:09:42,584
+We're going to try to keep that
+length and not the chin as close
+
+119
+00:09:42,584 --> 00:09:44,324
+as we can get to the chest.
+
+120
+00:09:47,625 --> 00:09:51,135
+And we're just going to make little
+circles drawing or kind of half circles
+
+121
+00:09:51,135 --> 00:09:56,564
+rather drawing the chin over to one
+shoulder so that you're kind of looking
+
+122
+00:09:56,564 --> 00:10:04,364
+over that shoulder and bring the
+chin back to center and draw it over.
+
+123
+00:10:04,364 --> 00:10:08,415
+The other shoulder can be really
+small movements, especially if the
+
+124
+00:10:08,415 --> 00:10:10,694
+neck is feeling particularly tight.
+
+125
+00:10:14,400 --> 00:10:16,739
+Let's do that another
+time when you decide,
+
+126
+00:10:23,880 --> 00:10:30,839
+and as you come to that second side,
+pause there and keep turning to look over
+
+127
+00:10:30,839 --> 00:10:35,339
+that shoulder as if you could line up
+your chin and the tip of your shoulder.
+
+128
+00:10:39,935 --> 00:10:40,324
+Good.
+
+129
+00:10:40,324 --> 00:10:43,954
+And we're going to come back through
+the middle, down, back to the
+
+130
+00:10:43,954 --> 00:10:51,064
+chest over to that other side and
+just pausing as you bring the chin
+
+131
+00:10:51,064 --> 00:10:52,715
+right over top of the shoulder.
+
+132
+00:10:53,765 --> 00:10:56,375
+Not trying to hype that
+shoulder up higher.
+
+133
+00:11:01,145 --> 00:11:04,324
+I'm trying to keep it level and
+bring the chin back down to send you.
+
+134
+00:11:07,050 --> 00:11:10,050
+At bringing the chin back
+up to neutral and just kinda
+
+135
+00:11:10,439 --> 00:11:12,000
+shake the shoulders out there.
+
+136
+00:11:12,000 --> 00:11:17,790
+Might've been some tension growing in
+there in between the shoulder blades.
+
+137
+00:11:18,090 --> 00:11:23,010
+Maybe you hear some nice sounds coming
+from moving the shoulders this way.
+
+138
+00:11:23,010 --> 00:11:24,810
+That's all good.
+
+139
+00:11:25,319 --> 00:11:26,430
+Go the other direction.
+
+140
+00:11:26,430 --> 00:11:28,300
+Moving those shoulders and bigs.
+
+141
+00:11:33,844 --> 00:11:37,744
+Notice which way feels maybe a little
+more comfortable than the other.
+
+142
+00:11:41,194 --> 00:11:44,045
+Good start to let that settle here.
+
+143
+00:11:44,704 --> 00:11:47,944
+We're going to come back to the neck
+here, bringing the chin down to the chest.
+
+144
+00:11:51,010 --> 00:11:53,110
+And bringing the chin
+up towards the ceiling.
+
+145
+00:11:53,110 --> 00:11:56,380
+And again, trying to keep
+your torso, not moving.
+
+146
+00:11:56,380 --> 00:11:59,230
+We're keeping everything
+really stable in our spine.
+
+147
+00:12:00,370 --> 00:12:05,290
+If you think about drawing the rib
+cage in, without talking the tailbone,
+
+148
+00:12:08,400 --> 00:12:10,140
+drop the chin back down to the chest.
+
+149
+00:12:15,414 --> 00:12:18,364
+Let's bring the chin back up towards
+the ceiling again, and I'm holding
+
+150
+00:12:18,364 --> 00:12:22,474
+my rib cage here because it kind
+of allows me to have a cue to keep
+
+151
+00:12:22,474 --> 00:12:26,524
+everything in and not back bend here.
+
+152
+00:12:26,524 --> 00:12:31,444
+Cause that's when I opened my neck,
+our lumbar and our cervical spine
+
+153
+00:12:31,444 --> 00:12:36,994
+are connected and a lot of ways there
+are secondary curves that develop.
+
+154
+00:12:38,439 --> 00:12:44,069
+When we start to walk when we're
+just babies and they're supportive
+
+155
+00:12:44,069 --> 00:12:48,780
+systems for us and they are deeply
+connected and we have to uncouple
+
+156
+00:12:48,780 --> 00:12:55,930
+that connection to really create
+segmentation in our spine to physically
+
+157
+00:12:55,930 --> 00:12:58,449
+slow down the way our body moves.
+
+158
+00:13:01,140 --> 00:13:02,729
+Let's do just one more like that.
+
+159
+00:13:05,515 --> 00:13:11,785
+Maybe you go a little bit more deeply in
+either direction to see if your range can
+
+160
+00:13:11,785 --> 00:13:21,895
+expand, then come back, chin to chest.
+
+161
+00:13:21,895 --> 00:13:26,005
+Once again, this time we're
+going to put it all together.
+
+162
+00:13:26,005 --> 00:13:27,084
+So starting with the chin.
+
+163
+00:13:28,379 --> 00:13:31,259
+Bringing your chin over to one shoulder.
+
+164
+00:13:31,259 --> 00:13:36,509
+Like we did originally looking over
+that shoulder and then sort of tipping
+
+165
+00:13:36,899 --> 00:13:41,160
+the head back in that direction to
+bring the ear over the shoulder.
+
+166
+00:13:42,300 --> 00:13:45,420
+But again, trying not to keep
+that shoulder from creeping up,
+
+167
+00:13:45,449 --> 00:13:52,259
+keep it down and slowly, let it
+tilt back until it circles all
+
+168
+00:13:52,259 --> 00:13:55,410
+the way over to the other side.
+
+169
+00:13:56,579 --> 00:14:01,800
+Where you have your ear kind of
+encroaching over that shoulder, as best as
+
+170
+00:14:01,800 --> 00:14:11,909
+you can turning to look over that shoulder
+and bringing the chin back down, let's
+
+171
+00:14:11,909 --> 00:14:14,129
+go one more direction or one more time.
+
+172
+00:14:14,129 --> 00:14:17,249
+That direction go slow.
+
+173
+00:14:23,305 --> 00:14:27,595
+Notice your sticky parts, the spots
+that are just kind of like, Ooh,
+
+174
+00:14:28,585 --> 00:14:32,815
+that doesn't feel normal or familiar.
+
+175
+00:14:33,985 --> 00:14:39,325
+And if there's a painful spot, you
+can certainly skip anything that,
+
+176
+00:14:42,475 --> 00:14:44,425
+but there's a difference
+between discomfort and pain.
+
+177
+00:14:46,515 --> 00:14:48,704
+As you come, bring that
+chin back to the chest.
+
+178
+00:14:48,704 --> 00:14:52,454
+Go the other direction, drawing
+with your chin over the shoulder.
+
+179
+00:14:52,454 --> 00:14:57,675
+First, looking over the shoulder,
+turning the head to bring the ear over
+
+180
+00:14:57,675 --> 00:15:03,405
+the shoulder, leaning back with the
+head, rolling around to the other side.
+
+181
+00:15:13,310 --> 00:15:16,130
+Have you lost the integrity
+of your spine check.
+
+182
+00:15:16,130 --> 00:15:17,600
+Check-in stay tall.
+
+183
+00:15:19,750 --> 00:15:21,610
+We're doing two rounds of this.
+
+184
+00:15:21,610 --> 00:15:23,650
+So maybe you're on your second round.
+
+185
+00:15:23,650 --> 00:15:24,970
+Finishing up here.
+
+186
+00:15:27,430 --> 00:15:27,880
+No rush.
+
+187
+00:15:38,555 --> 00:15:40,474
+Bring it back to center.
+
+188
+00:15:40,474 --> 00:15:44,344
+And again, I let go of that tension.
+
+189
+00:15:44,344 --> 00:15:46,594
+You might've been holding
+the, keep the torso up.
+
+190
+00:15:46,624 --> 00:15:48,545
+Just kinda let it go.
+
+191
+00:15:48,574 --> 00:15:52,175
+Shake the shoulders out, let the
+arms be loose with the torso.
+
+192
+00:15:52,175 --> 00:15:52,954
+Be loose now.
+
+193
+00:15:57,150 --> 00:15:57,660
+All right.
+
+194
+00:15:57,660 --> 00:16:01,079
+So just moving the legs around a bit,
+we haven't been moving the lower part
+
+195
+00:16:01,079 --> 00:16:05,339
+of our body a bit yet, so it's kind
+of bringing some awareness to the
+
+196
+00:16:05,339 --> 00:16:07,530
+legs, bring the knees in and out,
+
+197
+00:16:11,499 --> 00:16:13,030
+and then reground through your feet.
+
+198
+00:16:13,060 --> 00:16:15,129
+Maybe check in with your seats.
+
+199
+00:16:15,430 --> 00:16:16,629
+See if you need to readjust.
+
+200
+00:16:18,860 --> 00:16:20,420
+Find that length through the spine.
+
+201
+00:16:20,420 --> 00:16:27,310
+Once again, that string pulling you
+up as tall as you can be noticing.
+
+202
+00:16:27,310 --> 00:16:30,930
+If you tend to back then in this position
+in draw the front of the rib cage of
+
+203
+00:16:30,939 --> 00:16:36,040
+these bony sections here in the rib
+cage, draw them in towards the back of
+
+204
+00:16:36,040 --> 00:16:41,530
+the body without talking the tailbone
+under, keep a nice curve in your low back.
+
+205
+00:16:44,449 --> 00:16:47,060
+And then we're going to start to
+play with what it feels like to
+
+206
+00:16:47,060 --> 00:16:51,680
+move this section of the body,
+which is notoriously challenging.
+
+207
+00:16:52,219 --> 00:16:55,849
+So we're going to bring our hands
+as best we can to our sides.
+
+208
+00:16:55,969 --> 00:16:59,629
+Maybe you can reach up to your
+rib cage and really feel that
+
+209
+00:16:59,629 --> 00:17:04,129
+section, or just bring your hands
+to your hips or to your waist.
+
+210
+00:17:04,159 --> 00:17:05,560
+Whatever feels accessible.
+
+211
+00:17:06,825 --> 00:17:11,355
+We're just going to try to feel
+this rib cage reaching over the edge
+
+212
+00:17:11,415 --> 00:17:14,565
+of your chair and back to center.
+
+213
+00:17:15,705 --> 00:17:22,155
+And again, over one edge and back,
+let's do this a couple times.
+
+214
+00:17:24,805 --> 00:17:25,375
+It's okay.
+
+215
+00:17:25,375 --> 00:17:32,685
+If we're not quite feeling it right away,
+we're just playing, moving the body.
+
+216
+00:17:39,560 --> 00:17:42,679
+Check-in that you're breathing,
+not holding the breath,
+
+217
+00:17:42,709 --> 00:17:44,270
+focusing on the movement,
+
+218
+00:17:47,679 --> 00:17:55,239
+but being in your body in this moment
+and exactly what your body needs to
+
+219
+00:17:55,239 --> 00:18:00,159
+sustain this activity, which is breathing.
+
+220
+00:18:00,280 --> 00:18:01,209
+Don't stop breathing.
+
+221
+00:18:03,990 --> 00:18:07,290
+Come back to center and such to
+just kind of bring yourself forward.
+
+222
+00:18:07,290 --> 00:18:10,350
+Now we can kind of bring our hands to
+our legs and just feel a little bit of
+
+223
+00:18:10,350 --> 00:18:13,020
+a back then the chest coming forward.
+
+224
+00:18:13,020 --> 00:18:13,470
+Right.
+
+225
+00:18:13,860 --> 00:18:18,810
+And then the opposite action is rounding
+through the upper back, trying to
+
+226
+00:18:18,810 --> 00:18:23,040
+feel like you can collapse through
+the collarbones, the chest, maybe the
+
+227
+00:18:23,040 --> 00:18:25,980
+head even drops tailbone curls under.
+
+228
+00:18:27,105 --> 00:18:31,455
+And go the opposite action chest
+leans forward, maybe chin, chin
+
+229
+00:18:31,455 --> 00:18:36,745
+lifts, tailbone reaches back again.
+
+230
+00:18:38,365 --> 00:18:40,315
+Find your range here.
+
+231
+00:18:52,645 --> 00:18:53,905
+Let's do one more on each director.
+
+232
+00:18:59,939 --> 00:19:02,429
+And come back to center, we're
+going to put it all together.
+
+233
+00:19:02,429 --> 00:19:06,209
+So open the legs up a little bit wider,
+maybe come to the edge of your chair.
+
+234
+00:19:06,209 --> 00:19:09,120
+So you have a little bit more
+room behind you and around you.
+
+235
+00:19:10,020 --> 00:19:15,840
+So we're gonna start to lean forward in,
+start to shimmy our way over to one side
+
+236
+00:19:15,840 --> 00:19:21,389
+round lean over that chair come forward.
+
+237
+00:19:21,389 --> 00:19:22,830
+So we're stirring the pot.
+
+238
+00:19:25,930 --> 00:19:31,510
+I imagine the pot is our pelvis
+and the spine is kind of that
+
+239
+00:19:31,510 --> 00:19:38,950
+ladle in the pot and moving around,
+touching every corner of the pot.
+
+240
+00:19:46,820 --> 00:19:50,090
+Hopefully you're feeling some
+things here, waking some things up.
+
+241
+00:19:52,294 --> 00:19:57,004
+Certainly go the other direction when
+you're ready using the hands on the
+
+242
+00:19:57,004 --> 00:20:05,925
+legs for support and kind of this
+resistance tension that you can build
+
+243
+00:20:05,925 --> 00:20:07,904
+to really just move through the torso.
+
+244
+00:20:07,935 --> 00:20:11,114
+Keep the lower half in mobile.
+
+245
+00:20:11,324 --> 00:20:12,675
+Really stationary,
+
+246
+00:20:18,695 --> 00:20:19,295
+start to finish.
+
+247
+00:20:22,965 --> 00:20:28,085
+And come back and slow yourself down and
+come back to that original position again.
+
+248
+00:20:28,095 --> 00:20:28,965
+Readjust.
+
+249
+00:20:31,264 --> 00:20:31,565
+All right.
+
+250
+00:20:31,565 --> 00:20:35,465
+Now here, bring your hands to your hips
+and just start to feel a little tilt
+
+251
+00:20:36,275 --> 00:20:39,005
+tucking under an untucking of the pelvis.
+
+252
+00:20:39,005 --> 00:20:42,185
+So tucking under means you're
+curling your tailbone underneath
+
+253
+00:20:42,185 --> 00:20:43,775
+you rounding through the local.
+
+254
+00:20:44,760 --> 00:20:47,490
+Untucking means we're really
+sticking our bottom out.
+
+255
+00:20:47,520 --> 00:20:50,370
+Kind of feeling that back then,
+sensation in the low back.
+
+256
+00:20:51,180 --> 00:20:59,350
+See if you can come find that position
+back and forth and bonus points.
+
+257
+00:20:59,350 --> 00:21:03,220
+If you can keep your rib cage from
+moving very much, can you keep your
+
+258
+00:21:03,220 --> 00:21:07,720
+upper body still as you move your pelvis?
+
+259
+00:21:08,920 --> 00:21:09,790
+Not so easy.
+
+260
+00:21:11,260 --> 00:21:15,100
+But that's what I mean when we talk
+about segmentation of the spine,
+
+261
+00:21:15,430 --> 00:21:22,810
+trying to isolate movement and
+every part, every vertebra can move
+
+262
+00:21:22,810 --> 00:21:25,600
+individually instead of in sections.
+
+263
+00:21:27,380 --> 00:21:27,890
+All right.
+
+264
+00:21:27,920 --> 00:21:30,650
+Come back to a more neutral
+position in your pelvis.
+
+265
+00:21:30,680 --> 00:21:35,360
+Notice what that's like and
+reground through your feet here.
+
+266
+00:21:36,480 --> 00:21:39,960
+So what I'm going to start doing with
+my feet is coming up onto my toes.
+
+267
+00:21:39,960 --> 00:21:43,770
+You might not be able to see my toes
+quite, but I'm lifting up to lift my
+
+268
+00:21:43,770 --> 00:21:47,940
+heels up off the floor, coming up onto
+my toes, and then coming back down,
+
+269
+00:21:48,000 --> 00:21:50,520
+flexing my toes up towards the ceiling.
+
+270
+00:21:51,510 --> 00:21:55,560
+And then again, coming up onto the
+toes, lift the heels up, bring the
+
+271
+00:21:55,560 --> 00:21:57,900
+heels down and lift the toes up.
+
+272
+00:21:58,139 --> 00:21:59,400
+Really flex them.
+
+273
+00:22:00,480 --> 00:22:00,870
+Good.
+
+274
+00:22:00,880 --> 00:22:01,889
+Couple of times like that.
+
+275
+00:22:08,450 --> 00:22:11,360
+Notice that the whole foot wants to lift
+up off the floor when you're trying to
+
+276
+00:22:11,360 --> 00:22:15,170
+lift your toes to see if you can lift
+only your toes when you're flexing
+
+277
+00:22:19,000 --> 00:22:21,730
+good, come back.
+
+278
+00:22:21,730 --> 00:22:25,179
+And we're gonna hold here
+with our feet on the floor.
+
+279
+00:22:25,450 --> 00:22:26,620
+Heels on the floor.
+
+280
+00:22:26,620 --> 00:22:27,730
+Toes lifted.
+
+281
+00:22:27,760 --> 00:22:28,720
+Keep lifting the toes.
+
+282
+00:22:30,029 --> 00:22:34,469
+And now can you start to bring your
+toes down one at a time from the pinky
+
+283
+00:22:34,469 --> 00:22:39,090
+side first in, can you do one at a time?
+
+284
+00:22:39,090 --> 00:22:45,219
+Try that a couple times, trying
+to find segmentation in your feet.
+
+285
+00:22:47,179 --> 00:22:51,409
+It's hard to do both at the
+same time, but do your best.
+
+286
+00:22:52,489 --> 00:22:54,199
+And now try from the big toe.
+
+287
+00:22:54,199 --> 00:22:57,770
+See if you can put just your big
+toe down, lift the other toes up.
+
+288
+00:22:58,890 --> 00:23:06,810
+And then can the second toe come down
+and then the third and so on down
+
+289
+00:23:06,810 --> 00:23:11,430
+to the pinkies, that's pretty much
+impossible for me, but I can pretend,
+
+290
+00:23:11,430 --> 00:23:16,230
+and it works some serious muscles in
+the feet to try to make that happen.
+
+291
+00:23:18,660 --> 00:23:21,690
+Maybe one day when you're at
+the kitchen sink practice.
+
+292
+00:23:24,455 --> 00:23:24,815
+Good.
+
+293
+00:23:24,815 --> 00:23:27,125
+All right, let go of
+that tension in the feet.
+
+294
+00:23:27,125 --> 00:23:30,005
+Roll the ankles, roll the
+knees around a little bit.
+
+295
+00:23:30,005 --> 00:23:30,905
+Let that go.
+
+296
+00:23:31,445 --> 00:23:34,385
+If you want to take a moment to
+take a sip of water or anything
+
+297
+00:23:34,385 --> 00:23:36,905
+that you might need right now,
+I'm just going to check our time.
+
+298
+00:23:38,784 --> 00:23:39,445
+Perfect.
+
+299
+00:23:40,465 --> 00:23:41,125
+All right.
+
+300
+00:23:41,125 --> 00:23:43,735
+So kind of moving our
+way back up the body.
+
+301
+00:23:43,735 --> 00:23:49,465
+Now we're going to start to extend one
+leg out and flex and point the foot.
+
+302
+00:23:50,340 --> 00:23:51,960
+Roll the ankle
+
+303
+00:23:56,560 --> 00:23:58,300
+roll the ankle the other way.
+
+304
+00:24:01,240 --> 00:24:01,630
+Good.
+
+305
+00:24:01,660 --> 00:24:05,260
+And then if we would like a little
+extra here, we're going to start
+
+306
+00:24:05,260 --> 00:24:07,240
+to lift the knee up off the floor.
+
+307
+00:24:08,160 --> 00:24:10,440
+No matter what foot is lifted.
+
+308
+00:24:10,470 --> 00:24:14,070
+We're just going to try to grab it,
+grab the leg, rather, grab the knee.
+
+309
+00:24:14,070 --> 00:24:17,550
+See if you can hug that knee
+in towards your chest while
+
+310
+00:24:17,550 --> 00:24:19,800
+keeping your spine nice and long.
+
+311
+00:24:19,800 --> 00:24:23,010
+Like we have been, can you flex the foot?
+
+312
+00:24:23,130 --> 00:24:24,510
+Spread the toes.
+
+313
+00:24:27,520 --> 00:24:27,940
+Good.
+
+314
+00:24:27,940 --> 00:24:29,620
+Hold that.
+
+315
+00:24:30,370 --> 00:24:35,470
+And I'm going to ask you to press
+down through the other foot from.
+
+316
+00:24:36,895 --> 00:24:40,165
+And imagine you're going to let go of
+this leg, but it's not going to going
+
+317
+00:24:40,165 --> 00:24:42,054
+where this leg is going to stay lifted.
+
+318
+00:24:42,925 --> 00:24:44,395
+Imagine that that's a reality.
+
+319
+00:24:44,425 --> 00:24:44,995
+Okay.
+
+320
+00:24:45,565 --> 00:24:50,574
+So in 3, 2, 1, we're going to let go
+see if we're going to hold the leg
+
+321
+00:24:50,574 --> 00:24:56,995
+up, squeeze it in for another three,
+two, and one, go ahead and let it go.
+
+322
+00:24:58,554 --> 00:25:00,745
+Let the legs come in and
+out here for a moment.
+
+323
+00:25:04,239 --> 00:25:06,460
+All right, we're going to try
+the other sides of readjust.
+
+324
+00:25:06,460 --> 00:25:11,440
+If you need to extend the other
+leg and roll or I'm sorry, flexing
+
+325
+00:25:11,469 --> 00:25:16,480
+point first and roll the foot.
+
+326
+00:25:16,540 --> 00:25:17,770
+Roll the ankle
+
+327
+00:25:21,130 --> 00:25:22,389
+rule the other direction.
+
+328
+00:25:27,889 --> 00:25:31,070
+And then we're going to start to flex
+that foot, bring the knee in towards the
+
+329
+00:25:31,070 --> 00:25:33,740
+chest and hold onto the outside of that.
+
+330
+00:25:33,740 --> 00:25:37,130
+Like, if that's accessible for
+you today, you might also just
+
+331
+00:25:37,130 --> 00:25:39,500
+pull if that feels better for you.
+
+332
+00:25:40,400 --> 00:25:40,730
+It's okay.
+
+333
+00:25:40,730 --> 00:25:44,840
+If we can't grab it and you know where
+we're headed, we're going to be pressing
+
+334
+00:25:44,840 --> 00:25:49,610
+down through that other leg, firmly
+lifting through our chest, trying to
+
+335
+00:25:49,820 --> 00:25:51,940
+stay nice and tall through the spine.
+
+336
+00:25:53,790 --> 00:25:58,680
+And we're going to imagine we're going
+to let go of this leg in three, two,
+
+337
+00:25:58,920 --> 00:26:02,160
+and actually let go in one, hold it up.
+
+338
+00:26:02,160 --> 00:26:03,750
+See if you can keep that leg lifted.
+
+339
+00:26:03,750 --> 00:26:08,940
+See if you can even lift it a little
+higher and hold for three, two,
+
+340
+00:26:09,420 --> 00:26:12,390
+and one, go ahead and let that go.
+
+341
+00:26:12,390 --> 00:26:13,080
+Shake it out.
+
+342
+00:26:13,080 --> 00:26:16,500
+Do whatever feels good
+to release that tension.
+
+343
+00:26:18,510 --> 00:26:20,610
+Good ground down through the feet.
+
+344
+00:26:20,610 --> 00:26:21,030
+Once again.
+
+345
+00:26:24,430 --> 00:26:28,750
+We're going to start to bring our arms up
+towards the back of our head, lifting the
+
+346
+00:26:28,750 --> 00:26:34,900
+elbows up, interlace the hands in the back
+of the head and kind of let the head rest
+
+347
+00:26:34,900 --> 00:26:36,550
+up against the back of the hands a bit.
+
+348
+00:26:38,110 --> 00:26:40,600
+Find that length in your spine once more.
+
+349
+00:26:41,530 --> 00:26:45,670
+And this time we're going to start to
+bring one elbow down towards the floor.
+
+350
+00:26:47,075 --> 00:26:50,975
+And really focusing on opening
+up the other side, ribcage.
+
+351
+00:26:51,155 --> 00:26:55,115
+So not back bending here, but
+instead, really side bending,
+
+352
+00:26:55,115 --> 00:26:57,875
+opening up through the waist,
+
+353
+00:27:02,455 --> 00:27:04,465
+keep grounded through both feet.
+
+354
+00:27:07,065 --> 00:27:09,315
+And so to bring it back with control.
+
+355
+00:27:10,170 --> 00:27:11,280
+And we'll go do the other side.
+
+356
+00:27:11,280 --> 00:27:14,580
+So dipping that other elbow
+down, trying to point the other
+
+357
+00:27:15,090 --> 00:27:17,160
+elbow up towards the ceiling.
+
+358
+00:27:17,550 --> 00:27:18,450
+Any amount
+
+359
+00:27:23,090 --> 00:27:28,700
+notice if your back bending instead of
+side bending, keep this in the side.
+
+360
+00:27:35,800 --> 00:27:36,040
+Good.
+
+361
+00:27:36,040 --> 00:27:37,750
+Such as slowly come back with.
+
+362
+00:27:39,135 --> 00:27:41,655
+Dip to the other side, the original side.
+
+363
+00:27:41,655 --> 00:27:47,775
+Once again, and this time we're going
+to point the top elbow forward as if
+
+364
+00:27:47,775 --> 00:27:50,115
+we're pointing our chest to the floor.
+
+365
+00:27:51,345 --> 00:27:55,515
+And that top elbow now starts
+to become the bottom elbow.
+
+366
+00:27:56,145 --> 00:27:59,205
+As we rule over to the other side.
+
+367
+00:27:59,205 --> 00:28:00,915
+Now we're on the opposite side.
+
+368
+00:28:03,675 --> 00:28:03,945
+Good.
+
+369
+00:28:03,945 --> 00:28:06,345
+So to pull yourself all the way back up.
+
+370
+00:28:08,290 --> 00:28:08,770
+Good.
+
+371
+00:28:09,100 --> 00:28:13,150
+Now we're going to drop the
+opposite side first, where we just
+
+372
+00:28:13,150 --> 00:28:15,370
+were go back in that direction.
+
+373
+00:28:16,679 --> 00:28:19,750
+Doesn't really matter which direction
+you're going at the end of the day here.
+
+374
+00:28:19,750 --> 00:28:24,940
+Just moving the body again, whichever
+elbow is on top is now going to start
+
+375
+00:28:24,940 --> 00:28:27,159
+to point forward in front of you.
+
+376
+00:28:27,699 --> 00:28:30,340
+So the chest starts to
+level out with the ground.
+
+377
+00:28:32,020 --> 00:28:35,020
+That top elbow is going to start
+to become the bottom elbow.
+
+378
+00:28:36,364 --> 00:28:46,415
+As you got to roll over to the other
+side and lift back up, go ahead and
+
+379
+00:28:46,415 --> 00:28:49,295
+release the arms down and take a moment.
+
+380
+00:28:50,764 --> 00:28:53,074
+Check in how that's feeling.
+
+381
+00:29:03,980 --> 00:29:05,840
+I'm finding that height in your spine.
+
+382
+00:29:05,840 --> 00:29:13,730
+Once more noticing the heartbeat,
+the warmth in your body,
+
+383
+00:29:24,080 --> 00:29:26,210
+if it feels good to you
+here, close your eyes.
+
+384
+00:29:28,190 --> 00:29:34,590
+Really start to tap back into
+the pace of your breath without
+
+385
+00:29:34,590 --> 00:29:35,969
+needing to change it at all.
+
+386
+00:30:10,960 --> 00:30:16,029
+And even if thoughts arise and take
+you somewhere else, just for these last
+
+387
+00:30:16,029 --> 00:30:17,949
+few moments, stay with your breath.
+
+388
+00:30:18,820 --> 00:30:20,350
+Choosing to come back again.
+
+389
+00:30:20,350 --> 00:30:20,949
+And again,
+
+390
+00:30:24,370 --> 00:30:25,570
+thoughts don't go away.
+
+391
+00:30:25,600 --> 00:30:29,469
+We just become a little
+bit better at observing.
+
+392
+00:31:16,685 --> 00:31:19,895
+Again, just starting to notice
+the sounds in your room,
+
+393
+00:31:25,175 --> 00:31:26,825
+not as how it feels to be in your body.
+
+394
+00:31:34,545 --> 00:31:40,815
+When you feel ready to start to move some
+fingers and toes eventually blinking your
+
+395
+00:31:40,815 --> 00:31:43,335
+eyes and coming back into your space.
+
+396
+00:31:46,705 --> 00:31:52,895
+Just giving yourself a moment to
+be grateful for taking a pause for
+
+397
+00:31:53,255 --> 00:31:55,534
+intentionally taking space in your day.
+
+398
+00:31:57,010 --> 00:32:02,560
+To be with your body, to be with
+your mind and to slow down and
+
+399
+00:32:02,620 --> 00:32:04,409
+thank you for being at WordFest.
+
+400
+00:32:04,960 --> 00:32:08,800
+Thank you for being here with me
+and I hope to see you again soon.
+
+401
+00:32:09,790 --> 00:32:10,330
+Thank you.
+
