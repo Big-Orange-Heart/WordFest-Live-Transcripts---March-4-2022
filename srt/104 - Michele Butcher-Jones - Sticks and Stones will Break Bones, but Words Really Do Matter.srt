@@ -1,0 +1,3460 @@
+1
+00:00:58,035 --> 00:01:01,214
+Yoast: Do you know, the Yoast SEO,
+plugin, they're red, orange, and
+
+2
+00:01:01,214 --> 00:01:04,394
+green feedback bullets that help
+you optimize your posts for the web.
+
+3
+00:01:04,575 --> 00:01:06,435
+It runs on millions of websites.
+
+4
+00:01:06,885 --> 00:01:10,575
+We tried to make SEO understandable
+and accessible to everyone.
+
+5
+00:01:12,375 --> 00:01:12,945
+Nexcess: Oh great.
+
+6
+00:01:13,095 --> 00:01:14,155
+My website crashed.
+
+7
+00:01:14,990 --> 00:01:15,590
+I give up.
+
+8
+00:01:17,870 --> 00:01:19,100
+Don't give up on your dreams.
+
+9
+00:01:19,100 --> 00:01:20,630
+Jordan, who are you?
+
+10
+00:01:20,720 --> 00:01:21,230
+It's me.
+
+11
+00:01:21,770 --> 00:01:23,360
+You from the future.
+
+12
+00:01:23,660 --> 00:01:25,640
+Your professional website
+is not out of reach.
+
+13
+00:01:25,700 --> 00:01:27,020
+You just need Nexcess.
+
+14
+00:01:27,530 --> 00:01:30,650
+With Nexcess managed hosting, you
+get lightening pass load times
+
+15
+00:01:30,650 --> 00:01:34,760
+built-in performance monitoring and
+updates, and always awesome support.
+
+16
+00:01:34,790 --> 00:01:37,580
+24 7 365 for all your projects.
+
+17
+00:01:37,880 --> 00:01:38,450
+Whoa.
+
+18
+00:01:38,660 --> 00:01:39,020
+Yeah.
+
+19
+00:01:42,390 --> 00:01:47,760
+Weglot: Discover Weglot the simple
+translation solution for your website.
+
+20
+00:01:48,120 --> 00:01:52,650
+All you have to do is add Weglot to
+your website, select the languages
+
+21
+00:01:52,650 --> 00:01:54,630
+that you need, and that's it.
+
+22
+00:01:54,810 --> 00:01:57,960
+Your website is now available
+in multiple languages.
+
+23
+00:01:58,500 --> 00:02:01,530
+Bluehost: Who says building
+an online store has to be hard
+
+24
+00:02:01,800 --> 00:02:03,160
+with Bluehost website builder.
+
+25
+00:02:03,290 --> 00:02:04,865
+It's more than just easy.
+
+26
+00:02:05,075 --> 00:02:07,025
+It's tell us your thing and smart AI.
+
+27
+00:02:07,025 --> 00:02:08,165
+We'll take it from there.
+
+28
+00:02:08,165 --> 00:02:10,415
+Easy it's WooCommerce friendly.
+
+29
+00:02:10,505 --> 00:02:13,925
+So you can add one of these,
+or swap this for that easy.
+
+30
+00:02:14,135 --> 00:02:17,255
+It's set up shop in minutes
+with unlimited products.
+
+31
+00:02:17,285 --> 00:02:17,765
+Easy.
+
+32
+00:02:17,825 --> 00:02:22,205
+Whether you sell boots, books
+or bowls, it's create an online
+
+33
+00:02:22,205 --> 00:02:26,495
+store with Bluehost, easy build
+beyond boundaries with blue house.
+
+34
+00:02:57,725 --> 00:02:59,105
+Cathy Tibbles: Hi, welcome back.
+
+35
+00:02:59,464 --> 00:03:00,244
+Hi Misty.
+
+36
+00:03:00,274 --> 00:03:01,265
+How was your break?
+
+37
+00:03:01,834 --> 00:03:06,015
+Misty Combs: Um, great, thank you Cathy.,
+our next speaker is Michele Butcher-Jones
+
+38
+00:03:06,035 --> 00:03:09,695
+presenting sticks and stones will break
+bones, but words really do matter.
+
+39
+00:03:09,695 --> 00:03:11,765
+We had the pleasure of
+meeting her a few minutes ago.
+
+40
+00:03:12,445 --> 00:03:15,934
+Michele is a leading word, press
+technical specialist at Thrive
+
+41
+00:03:15,934 --> 00:03:20,524
+International Marketing Agency and
+runs her own WordPress shop at 13 Core.
+
+42
+00:03:21,034 --> 00:03:22,415
+She has also the head geek out.
+
+43
+00:03:23,135 --> 00:03:27,005
+Over at Can't Speak Geek
+when not working her jobs.
+
+44
+00:03:27,035 --> 00:03:30,064
+Michele is an organizer at WordCamp St.
+
+45
+00:03:30,064 --> 00:03:33,695
+Louis and the lead organizer of the
+Southern Illinois WordPress meetup.
+
+46
+00:03:34,084 --> 00:03:38,255
+You can usually find her snapping
+pictures at the gym, hanging with
+
+47
+00:03:38,255 --> 00:03:39,755
+her family or reading a book.
+
+48
+00:03:39,904 --> 00:03:42,454
+She's always down for an
+adventure, especially if it
+
+49
+00:03:42,454 --> 00:03:43,804
+involves great food or drinks.
+
+50
+00:03:43,804 --> 00:03:44,644
+Welcome Michele.
+
+51
+00:03:46,424 --> 00:03:47,505
+Michele Butcher-Jones: Hello everyone.
+
+52
+00:03:48,554 --> 00:03:49,934
+I hope you can all hear me.
+
+53
+00:03:52,070 --> 00:03:56,870
+And my slides are still
+backstage at seams.
+
+54
+00:03:57,049 --> 00:03:58,130
+There we go.
+
+55
+00:04:00,019 --> 00:04:05,390
+Uh, hope everyone's having a great day,
+night, evening, afternoon, whatever
+
+56
+00:04:05,390 --> 00:04:07,220
+it is in your neck of the woods.
+
+57
+00:04:08,420 --> 00:04:13,430
+But watching those videos, Devin
+from Bluehost, we need to talk
+
+58
+00:04:13,430 --> 00:04:17,719
+about me seeing a nice big bowl
+of ramen right before I talk.
+
+59
+00:04:20,329 --> 00:04:22,130
+Well, we'll get into this.
+
+60
+00:04:22,220 --> 00:04:29,840
+Um, let me get over there and starting
+off a little bit about myself, um, as
+
+61
+00:04:29,840 --> 00:04:33,500
+mentioned, I'm the lead support specialist
+at thrive digital marketing agency?
+
+62
+00:04:34,010 --> 00:04:40,340
+Um, I have my own, um, in-house
+agency that I do, um, hosting and,
+
+63
+00:04:40,400 --> 00:04:44,969
+um, support management with, um,
+blogger over at Can't Speak Geek
+
+64
+00:04:44,969 --> 00:04:52,034
+and enthusiast of volunteering and
+organizing WorkCamps and taking pictures.
+
+65
+00:04:53,744 --> 00:04:58,395
+Now we're getting into why is
+effective communication important?
+
+66
+00:04:59,085 --> 00:05:04,909
+Um, It's not only just speaking,
+but writing and body language
+
+67
+00:05:04,940 --> 00:05:08,150
+all goes into your communication.
+
+68
+00:05:08,690 --> 00:05:14,060
+And when the communication is effective,
+it sets expectations from the start.
+
+69
+00:05:14,060 --> 00:05:18,349
+So there won't be as many questions
+on what you mean by what you
+
+70
+00:05:18,349 --> 00:05:20,390
+say and what did they hear?
+
+71
+00:05:20,780 --> 00:05:24,530
+And it makes feed, people feel like
+they're being actually listened to and
+
+72
+00:05:24,530 --> 00:05:25,700
+that their point is getting across.
+
+73
+00:05:27,200 --> 00:05:32,210
+And in a business, it can reduce,
+turn in distress, this trust and
+
+74
+00:05:32,210 --> 00:05:37,460
+conflict, because you are setting
+the bar exactly where it should be.
+
+75
+00:05:38,359 --> 00:05:41,810
+And you're putting everyone
+onto a level playing field.
+
+76
+00:05:41,840 --> 00:05:46,820
+There's no questions of, will
+this actually get accomplished?
+
+77
+00:05:47,270 --> 00:05:49,849
+Am I being scanned or anything like that?
+
+78
+00:05:50,060 --> 00:05:51,890
+And you will build trust
+within one of them.
+
+79
+00:05:53,030 --> 00:05:58,100
+Because you as a sender, you need
+to make sure you put across what you
+
+80
+00:05:58,100 --> 00:06:04,490
+mean in the message of what you say
+so that the receiver takes in exactly
+
+81
+00:06:04,730 --> 00:06:06,620
+what, uh, what you want them to hear.
+
+82
+00:06:09,260 --> 00:06:12,590
+And by nature, we're really selfish.
+
+83
+00:06:12,590 --> 00:06:13,220
+Communicate.
+
+84
+00:06:14,735 --> 00:06:20,495
+Um, we don't really mean to be,
+uh, we tend to talk a lot about in
+
+85
+00:06:20,495 --> 00:06:26,705
+the perspection of I's and me's,
+and unfortunately that's a bit of a
+
+86
+00:06:26,705 --> 00:06:32,675
+narcissistic default because it makes
+us spend more times of the I's and
+
+87
+00:06:32,675 --> 00:06:39,125
+the me's instead of stepping back and
+having the you's and we's and our brain
+
+88
+00:06:39,125 --> 00:06:41,375
+is actually more responsible for that.
+
+89
+00:06:41,855 --> 00:06:42,755
+And it starts out.
+
+90
+00:06:43,580 --> 00:06:50,419
+At birth because in the first few years of
+life, you're very much of a everything's
+
+91
+00:06:50,419 --> 00:06:54,979
+black and white, hot and cold do not
+touch this because it can hurt you.
+
+92
+00:06:54,979 --> 00:07:01,369
+And it's a lot of autopilot and
+it grows from there in this trend,
+
+93
+00:07:01,369 --> 00:07:03,020
+kind of goes through childhood.
+
+94
+00:07:03,020 --> 00:07:07,340
+It's a very, um, fight or flight
+type of mechanism, but then
+
+95
+00:07:07,340 --> 00:07:11,869
+once you hit adulthood, it's
+just kind of ingrained in us.
+
+96
+00:07:12,919 --> 00:07:14,780
+To be that selfish listener.
+
+97
+00:07:16,189 --> 00:07:21,049
+And we're not really aware of it until
+we actually step back and think, and look
+
+98
+00:07:21,049 --> 00:07:24,650
+at the words we use in a conversation.
+
+99
+00:07:25,070 --> 00:07:29,780
+Um, like, uh, one of the biggest ones
+I've seen, especially when we're more
+
+100
+00:07:29,780 --> 00:07:34,700
+blossoming into inclusiveness of being.
+
+101
+00:07:35,645 --> 00:07:39,065
+Um, respectful of pronouns
+is the one really big one.
+
+102
+00:07:39,455 --> 00:07:46,475
+Like for example, I know of someone
+who, um, is non-binary and goes by
+
+103
+00:07:46,475 --> 00:07:52,835
+they, them and someone wished them a
+happy birthday and talked about what
+
+104
+00:07:52,835 --> 00:07:55,235
+a wonderful woman they're becoming.
+
+105
+00:07:56,825 --> 00:07:57,215
+And.
+
+106
+00:07:58,630 --> 00:08:02,020
+In a way that was a very selfish
+response out of the person,
+
+107
+00:08:02,440 --> 00:08:07,540
+because it was not honoring them
+of what they want to be called.
+
+108
+00:08:08,740 --> 00:08:13,540
+And so with effective communication,
+it makes you more mindful of
+
+109
+00:08:13,540 --> 00:08:16,780
+the words you say and how they
+can impact the other person.
+
+110
+00:08:22,370 --> 00:08:30,680
+And then with that, you are now armed
+with the things that you can, um, sorry.
+
+111
+00:08:30,710 --> 00:08:35,270
+My brother went over there for a
+second, um, to access the two most
+
+112
+00:08:35,270 --> 00:08:37,430
+important concepts in the communication.
+
+113
+00:08:37,819 --> 00:08:41,210
+There's it actually really
+just boils down to two things.
+
+114
+00:08:41,599 --> 00:08:50,180
+And the first one is self-awareness and
+in any given situation, um, Have those
+
+115
+00:08:50,180 --> 00:08:52,609
+quick judge of what to say and what to do.
+
+116
+00:08:57,560 --> 00:09:04,940
+Sorry, um, with that, it's good
+to get to the point where you can
+
+117
+00:09:05,270 --> 00:09:07,760
+detach yourself from the emotions.
+
+118
+00:09:07,790 --> 00:09:12,200
+And sometimes we respond really
+quickly and really harshly without
+
+119
+00:09:12,620 --> 00:09:14,210
+realizing what we're saying.
+
+120
+00:09:14,750 --> 00:09:19,130
+And if we take that step back and give
+an honest assessment, even if it's a
+
+121
+00:09:19,130 --> 00:09:22,345
+quick one, Of what we're going to say.
+
+122
+00:09:22,375 --> 00:09:24,835
+It can actually lead to better outcomes.
+
+123
+00:09:26,004 --> 00:09:30,385
+Now it doesn't really mean make
+anything you less than human for, if
+
+124
+00:09:30,385 --> 00:09:36,805
+you do, sometimes the words are pop
+off on a response, um, when you're
+
+125
+00:09:36,805 --> 00:09:42,325
+being less than perfect, um, which
+is a huge fear for many people.
+
+126
+00:09:42,655 --> 00:09:46,194
+But the best thing to do is when
+there's something does take in
+
+127
+00:09:46,194 --> 00:09:48,065
+a way, a mental dislike, pause.
+
+128
+00:09:49,255 --> 00:09:54,444
+Okay then respond and no one
+can hear inside your brain
+
+129
+00:09:54,444 --> 00:09:56,035
+for doing those self checks.
+
+130
+00:09:56,454 --> 00:10:02,305
+And when you do take those pauses,
+sometimes before you speak, it
+
+131
+00:10:02,305 --> 00:10:07,765
+shows that other person that you
+are taking the time to give a good
+
+132
+00:10:07,765 --> 00:10:12,565
+answer and practicing the pause.
+
+133
+00:10:13,345 --> 00:10:17,545
+Not only helps in effective communication,
+but can also help with mental.
+
+134
+00:10:18,770 --> 00:10:23,359
+'cause how many times have you said
+something in that split second decision
+
+135
+00:10:23,629 --> 00:10:30,139
+and then instantly regretted it, um,
+stayed up like sometimes two, three
+
+136
+00:10:30,139 --> 00:10:34,550
+years later, something gets in your
+head of why did I say that so quickly?
+
+137
+00:10:34,909 --> 00:10:37,520
+I should've stopped, um, stop
+for a second and thought about.
+
+138
+00:10:42,805 --> 00:10:45,984
+And then also sympathy versus empathy.
+
+139
+00:10:46,464 --> 00:10:51,655
+Sympathy is a feelings of pity and
+sorrow for someone else's fortune, where
+
+140
+00:10:51,655 --> 00:10:53,575
+you're just like, oh, I'm so sorry.
+
+141
+00:10:54,365 --> 00:10:56,555
+Oh, I thoughts and prayers,
+that kind of stuff.
+
+142
+00:10:56,855 --> 00:11:02,825
+But empathy is the ability to understand
+and share the feelings of one another.
+
+143
+00:11:03,275 --> 00:11:07,444
+And it's really empathy that
+makes someone a good and effective
+
+144
+00:11:07,444 --> 00:11:11,765
+communicator because you're recognizing
+those other people's feelings.
+
+145
+00:11:11,765 --> 00:11:16,175
+You're recognizing that their
+thoughts are real to them or
+
+146
+00:11:16,175 --> 00:11:17,615
+their feelings are real with them.
+
+147
+00:11:18,095 --> 00:11:19,444
+And that you are with them.
+
+148
+00:11:21,185 --> 00:11:25,625
+And when you're only having sympathy,
+there's that whole disconnect because
+
+149
+00:11:25,625 --> 00:11:27,725
+with sympathy that's you and I'm me.
+
+150
+00:11:29,675 --> 00:11:34,835
+And that's when you see a lot of the
+qualifying words like the at least,
+
+151
+00:11:34,835 --> 00:11:42,064
+or if I, or, but, but as one of the
+biggest qualifiers there is, cause
+
+152
+00:11:42,064 --> 00:11:44,735
+it'd be like, I'm sorry, you're sick.
+
+153
+00:11:45,275 --> 00:11:47,074
+But when I was this.
+
+154
+00:11:47,975 --> 00:11:52,594
+And it really takes away those feelings
+of validation from the other person.
+
+155
+00:11:55,225 --> 00:12:00,634
+Then also always err, on the side of
+clarity, because it's not really about
+
+156
+00:12:00,634 --> 00:12:08,525
+the message you send to people, but,
+um, the message that they receive, um,
+
+157
+00:12:08,915 --> 00:12:13,925
+and the more effective, the more on
+purpose you can be with your words.
+
+158
+00:12:15,250 --> 00:12:17,380
+The more clarity they have.
+
+159
+00:12:17,380 --> 00:12:22,930
+And then on the flip side of
+that is at the end, you have them
+
+160
+00:12:22,930 --> 00:12:24,400
+kind of repeat it back to you.
+
+161
+00:12:24,729 --> 00:12:30,459
+Like, you know, say, this is what I
+understand, or if I get this right,
+
+162
+00:12:31,150 --> 00:12:36,430
+you mean dada, and kind of like at the
+end of a client meeting that you might
+
+163
+00:12:36,430 --> 00:12:40,689
+have with someone and you send out that
+email of going over, everything that was
+
+164
+00:12:40,689 --> 00:12:44,449
+said, Not just with me after meetings.
+
+165
+00:12:44,449 --> 00:12:48,860
+Is that good after really any
+conversation that you think your
+
+166
+00:12:48,860 --> 00:12:50,900
+message might not be getting across?
+
+167
+00:12:51,170 --> 00:12:53,749
+It's good to revert back
+and go over everything.
+
+168
+00:12:57,979 --> 00:12:58,400
+And then.
+
+169
+00:13:00,814 --> 00:13:05,165
+Um, we'll get into kind of just
+building a voice guide for people.
+
+170
+00:13:05,765 --> 00:13:10,445
+Um, if you have one kind of for
+yourself, or if you are a person
+
+171
+00:13:10,445 --> 00:13:18,035
+who owns a company on how to set up,
+um, a voice guide for getting your
+
+172
+00:13:18,035 --> 00:13:22,295
+point across what words to use in
+conversations, what works not to use.
+
+173
+00:13:25,880 --> 00:13:28,699
+And here are some general
+communicating tips.
+
+174
+00:13:28,729 --> 00:13:36,229
+These can go over email, um, chat,
+talking, uh, public situations rather
+
+175
+00:13:36,229 --> 00:13:38,570
+pretty much any style of communication.
+
+176
+00:13:41,540 --> 00:13:41,959
+Okay.
+
+177
+00:13:41,959 --> 00:13:43,699
+That's not in there and
+should not be there.
+
+178
+00:13:44,150 --> 00:13:45,199
+Let me just skip over that one.
+
+179
+00:13:45,890 --> 00:13:46,670
+Sorry about that.
+
+180
+00:13:47,390 --> 00:13:49,070
+I look these over now.
+
+181
+00:13:49,070 --> 00:13:49,249
+One.
+
+182
+00:13:49,249 --> 00:13:49,959
+I never saw.
+
+183
+00:13:51,365 --> 00:13:55,625
+The first one soon will never
+come in a professional setting.
+
+184
+00:13:55,955 --> 00:14:00,995
+You should never use the word soon
+because soon does not really have any
+
+185
+00:14:01,265 --> 00:14:07,475
+definitive, um, um, wording to it.
+
+186
+00:14:07,745 --> 00:14:13,085
+Cause if I say, oh, I will get to
+that soon and get back to you in my
+
+187
+00:14:13,085 --> 00:14:16,265
+head that soon could be, I'll have
+that done by the end of the week.
+
+188
+00:14:17,495 --> 00:14:20,525
+Now the person I say this
+to takes the word soon.
+
+189
+00:14:20,525 --> 00:14:22,805
+It means, oh, they'll have
+that done this afternoon.
+
+190
+00:14:24,005 --> 00:14:27,844
+So when this evening comes around or
+the next morning comes around, I'm
+
+191
+00:14:27,844 --> 00:14:32,195
+getting an email saying, Hey, I'm
+looking for an update on that task or
+
+192
+00:14:32,195 --> 00:14:35,285
+that question, because you said that
+you'd have an answer back to me soon.
+
+193
+00:14:36,515 --> 00:14:39,785
+And in my head, I was like, oh,
+I wasn't planning on getting
+
+194
+00:14:39,785 --> 00:14:41,945
+to that till later today.
+
+195
+00:14:43,910 --> 00:14:48,020
+So if you give them a definitive
+timeframe, and now that doesn't mean
+
+196
+00:14:48,020 --> 00:14:52,790
+it has to be due by that timeframe,
+it could be you just plan on giving
+
+197
+00:14:52,790 --> 00:14:55,640
+them an update and an update could
+be we're still working on it.
+
+198
+00:14:56,270 --> 00:15:00,290
+But if you give a definitive time,
+like for that one example, I thought it
+
+199
+00:15:00,290 --> 00:15:01,610
+would be done by the end of the week.
+
+200
+00:15:02,090 --> 00:15:06,920
+I could have went back to the person
+and said, thanks for sending that over.
+
+201
+00:15:06,920 --> 00:15:09,439
+I will have that information back
+to you by the end of the week.
+
+202
+00:15:09,469 --> 00:15:11,360
+So they know they don't
+even have to contact.
+
+203
+00:15:12,199 --> 00:15:18,110
+Until the end of the week to get that
+information from me because they know
+
+204
+00:15:18,320 --> 00:15:19,969
+it's not going to be there till that time.
+
+205
+00:15:20,330 --> 00:15:24,590
+And that gives you more time to
+do what you need to do instead
+
+206
+00:15:24,590 --> 00:15:28,189
+of answering questions, because
+there was not a qualified time.
+
+207
+00:15:31,219 --> 00:15:36,860
+And when communicating in email,
+always make sure your subject
+
+208
+00:15:36,860 --> 00:15:39,320
+lines of your emails are clearing.
+
+209
+00:15:41,495 --> 00:15:46,564
+This is mostly due to a lot of the
+spamming that goes on that nowadays,
+
+210
+00:15:46,985 --> 00:15:54,275
+where you get one that might say, you
+know, open this for your website or.
+
+211
+00:15:55,925 --> 00:15:58,895
+It reads like, oh, I don't even
+need to look on this when it's
+
+212
+00:15:58,895 --> 00:16:00,364
+an actually important email.
+
+213
+00:16:01,055 --> 00:16:05,555
+And then if you are working with a lot of
+clients, if this is your business email,
+
+214
+00:16:06,064 --> 00:16:10,025
+it makes it a lot easier for if you put
+that client name or that client business.
+
+215
+00:16:10,025 --> 00:16:14,885
+Like, we'll say if one of my clients
+is big orange heart, and we're talking
+
+216
+00:16:14,885 --> 00:16:19,805
+about building a new form, I would put
+like big orange tart dash new form.
+
+217
+00:16:20,165 --> 00:16:21,505
+So when I'm looking at my.
+
+218
+00:16:22,295 --> 00:16:27,425
+I can pick out the one that's four, and
+that also helps with your clients because
+
+219
+00:16:27,425 --> 00:16:32,135
+they know which one is attached to which,
+but if I just email it over and say, go
+
+220
+00:16:32,135 --> 00:16:38,584
+and charge nothing to it, which emails
+us for, or if I say new form, I don't
+
+221
+00:16:38,584 --> 00:16:40,475
+really know which client that's for.
+
+222
+00:16:48,350 --> 00:16:55,430
+And email greetings matter when it
+comes to communicating in text and
+
+223
+00:16:55,430 --> 00:16:59,360
+emails, it's always good to address
+the person preferably by their names.
+
+224
+00:17:00,245 --> 00:17:05,675
+And, or their like rank or title who,
+because like, if they're a doctor, um,
+
+225
+00:17:05,704 --> 00:17:11,284
+if they are, um, someone in clergy, if
+they are someone like in the military
+
+226
+00:17:11,284 --> 00:17:16,235
+with a higher ranking, they've earned
+that rank and or title and should have,
+
+227
+00:17:16,295 --> 00:17:18,185
+um, should be referred to as that.
+
+228
+00:17:18,784 --> 00:17:21,514
+Um, but also by name.
+
+229
+00:17:22,369 --> 00:17:27,110
+If you just kind of go into the meat of
+it, of your email without greeting them,
+
+230
+00:17:27,470 --> 00:17:29,810
+it's a very kind of cold reading email.
+
+231
+00:17:30,680 --> 00:17:34,100
+And then also when using their
+name, please make sure you
+
+232
+00:17:34,100 --> 00:17:37,790
+are spelling them incorrectly,
+especially in a professional setting.
+
+233
+00:17:39,080 --> 00:17:40,280
+With my name.
+
+234
+00:17:40,400 --> 00:17:43,340
+It is only a one L in Michele Frechette.
+
+235
+00:17:43,340 --> 00:17:47,600
+And I have talked about this on link
+of how often my name gets misspelled.
+
+236
+00:17:47,600 --> 00:17:48,920
+There's always two L's in it.
+
+237
+00:17:48,920 --> 00:17:52,520
+Sometimes I get Michael instead
+of Michele and it's all over that.
+
+238
+00:17:53,795 --> 00:17:57,635
+And most of the time, I don't
+even really bothered by it
+
+239
+00:17:57,635 --> 00:17:59,315
+because it happens all the time.
+
+240
+00:17:59,705 --> 00:18:05,735
+But when it comes to something
+professional or something, financial,
+
+241
+00:18:05,735 --> 00:18:10,025
+something kind of more serious,
+like it boss emailing me, um,
+
+242
+00:18:10,054 --> 00:18:11,855
+something from like the government.
+
+243
+00:18:12,185 --> 00:18:14,375
+I kind of expect my name to be spelled.
+
+244
+00:18:14,495 --> 00:18:14,945
+Right.
+
+245
+00:18:15,815 --> 00:18:21,485
+Um, And it, when you're using that kind
+of effective communication and having
+
+246
+00:18:21,485 --> 00:18:28,655
+names spelled correctly, people will tend
+to be more open and more worth because
+
+247
+00:18:28,685 --> 00:18:31,235
+you are acknowledging them properly.
+
+248
+00:18:31,925 --> 00:18:35,975
+Now, if you have no idea what their
+email is, like, say they emailing in
+
+249
+00:18:35,975 --> 00:18:40,730
+from like, Marketing@bigorangeheart.org.
+
+250
+00:18:41,510 --> 00:18:42,890
+And you're no idea who it is.
+
+251
+00:18:42,890 --> 00:18:43,730
+You're talking to.
+
+252
+00:18:43,760 --> 00:18:46,640
+It's always good to just be
+like, hi, there are howdy.
+
+253
+00:18:47,090 --> 00:18:53,150
+Um, or something like that to still
+be greeting them without using a name
+
+254
+00:18:56,810 --> 00:18:59,510
+next, when it comes to effective
+communication, especially in
+
+255
+00:18:59,510 --> 00:19:04,190
+this day and age, gender neutral,
+inclusive language is so important.
+
+256
+00:19:06,125 --> 00:19:09,875
+And always be gender neutral
+in your communication.
+
+257
+00:19:10,475 --> 00:19:16,775
+Um, nowadays when it comes to names
+being used, and then also how they're
+
+258
+00:19:16,775 --> 00:19:22,505
+spelled, if you're talking to someone
+outside of the us, like say if someone
+
+259
+00:19:22,505 --> 00:19:27,455
+has name for, um, more American cell
+names, someone has the name of Peyton
+
+260
+00:19:27,485 --> 00:19:31,565
+or Shannon or Shelby, um, Carol.
+
+261
+00:19:34,070 --> 00:19:35,690
+Different names like that.
+
+262
+00:19:36,710 --> 00:19:41,389
+It could be either a male or
+female in those names, because I
+
+263
+00:19:41,389 --> 00:19:46,100
+actually know, um, people in both
+genders with all of those names.
+
+264
+00:19:47,120 --> 00:19:47,659
+So.
+
+265
+00:19:48,605 --> 00:19:56,855
+And oftentimes if you're like, hi, I think
+that's a guy and you email him like Mr.
+
+266
+00:19:56,855 --> 00:20:00,485
+Michaels and they come
+back and know I am a Mrs.
+
+267
+00:20:01,115 --> 00:20:06,215
+When you do that type of
+guessing, ended up wrong.
+
+268
+00:20:06,605 --> 00:20:11,705
+It really breaks down the level
+of trust in the communication.
+
+269
+00:20:11,825 --> 00:20:15,545
+But if you use some general
+neutral language, you won't
+
+270
+00:20:15,545 --> 00:20:16,205
+ever have those issues.
+
+271
+00:20:17,810 --> 00:20:21,020
+And then also using pet
+names that are gendered.
+
+272
+00:20:21,380 --> 00:20:25,040
+Like guys, dude, lady, darling, honey, Mr.
+
+273
+00:20:25,040 --> 00:20:25,909
+Sugar pie.
+
+274
+00:20:26,330 --> 00:20:31,310
+And those type of words can be
+considered demeaning to other people.
+
+275
+00:20:34,400 --> 00:20:38,570
+And like I've even seen if you
+call someone miss, who is a more
+
+276
+00:20:38,870 --> 00:20:44,120
+mature of woman will sometimes
+think that, oh, you must think
+
+277
+00:20:44,120 --> 00:20:45,889
+less of me just calling me a miss.
+
+278
+00:20:45,889 --> 00:20:47,389
+They acting like I'm young and dumb.
+
+279
+00:20:48,770 --> 00:20:50,870
+So if you're completely opening your word.
+
+280
+00:20:52,085 --> 00:20:55,205
+You will keep that trust
+within that communication.
+
+281
+00:20:56,105 --> 00:21:01,895
+Now proper wording can be like, Hey,
+y'all, that's a big one in a way with us.
+
+282
+00:21:01,925 --> 00:21:06,335
+Um, word pressers, calling them
+by name or referring to them
+
+283
+00:21:06,395 --> 00:21:08,135
+by their title is always good.
+
+284
+00:21:08,735 --> 00:21:12,755
+Uh, Hey, you is not really a good
+one because that can be more of
+
+285
+00:21:12,755 --> 00:21:14,815
+like a demanding phrase, but.
+
+286
+00:21:15,935 --> 00:21:19,175
+Whatever language you use is
+always to make sure it's open.
+
+287
+00:21:19,205 --> 00:21:26,884
+And if in question with someone most
+of the time, if you say I don't mean
+
+288
+00:21:26,884 --> 00:21:32,405
+to be intrusive, however, would you
+mind sharing with me your pronouns?
+
+289
+00:21:32,465 --> 00:21:38,945
+Because you're taking respect to them
+on asking and not assuming that we'll
+
+290
+00:21:38,945 --> 00:21:43,295
+tend to build trust with them instead
+of again, guessing and possibly being.
+
+291
+00:21:45,440 --> 00:21:50,180
+And then being inclusive in your
+conversation, always keep that circle open
+
+292
+00:21:50,180 --> 00:21:56,990
+with people and riff refrain from using
+comments or remarks in a group setting
+
+293
+00:21:57,470 --> 00:21:59,600
+of, can you guys help these ladies?
+
+294
+00:22:00,710 --> 00:22:05,900
+Um, the sentence can not only implies
+that the lady is helpless, but it's
+
+295
+00:22:05,900 --> 00:22:08,690
+also unfair to the guys on the team.
+
+296
+00:22:09,380 --> 00:22:14,990
+Um, now, if you was to be like,
+Hey, this person and call them
+
+297
+00:22:14,990 --> 00:22:17,420
+by name is having an issue.
+
+298
+00:22:17,840 --> 00:22:23,060
+Is there someone who could help just
+those change in those two words of
+
+299
+00:22:23,060 --> 00:22:29,480
+person and someone can make some,
+the person who needs a help not feel.
+
+300
+00:22:30,800 --> 00:22:37,550
+Like they are less than now, not only with
+using the inclusiveness of genders, but
+
+301
+00:22:37,550 --> 00:22:44,120
+also in levels of intelligence or ease,
+we should not be using because like, if
+
+302
+00:22:44,120 --> 00:22:48,739
+someone comes to your, the problem that
+says like, Hey, my website's not loading.
+
+303
+00:22:48,739 --> 00:22:49,880
+I can't get it to work.
+
+304
+00:22:49,880 --> 00:22:52,100
+And someone comes back and
+says, oh, that's a simple fix.
+
+305
+00:22:52,100 --> 00:22:53,239
+I can get that done in a hot.
+
+306
+00:22:55,280 --> 00:22:57,740
+Saying stuff like that, that it's easy.
+
+307
+00:22:57,740 --> 00:22:59,210
+I can get it done in a second.
+
+308
+00:22:59,570 --> 00:23:02,540
+Kind of will make the other
+person feel like, oh, I must be
+
+309
+00:23:02,540 --> 00:23:06,080
+dumb since you're saying this
+is easy or that this is child's.
+
+310
+00:23:07,145 --> 00:23:11,705
+'cause, you can make them feel less
+than what they are because all of us
+
+311
+00:23:11,705 --> 00:23:15,995
+are really intelligent at many things
+and might not be so great in others.
+
+312
+00:23:16,295 --> 00:23:21,815
+Like I'm really good on with WordPress
+and working, um, on customer experience.
+
+313
+00:23:21,815 --> 00:23:29,765
+But if you handed me I, um, box that
+says, build this rocket ship, it
+
+314
+00:23:29,765 --> 00:23:33,935
+might not even get off the ground
+because that's not my expertise, but.
+
+315
+00:23:34,969 --> 00:23:39,170
+Am I all around lesson because I
+don't know how they built the rocket.
+
+316
+00:23:39,530 --> 00:23:41,630
+No, because I do Excel and other things.
+
+317
+00:23:46,280 --> 00:23:50,570
+Another thought when it comes to
+effective communication, that's
+
+318
+00:23:50,570 --> 00:23:56,000
+not really talked about is having
+accountability in your words, in your
+
+319
+00:23:56,000 --> 00:23:58,940
+actions and in your communication.
+
+320
+00:24:00,890 --> 00:24:06,170
+One of the biggest ones that is
+hard to kind of switch from is
+
+321
+00:24:06,170 --> 00:24:10,490
+when some question in real quick
+to be like, I don't know when you
+
+322
+00:24:10,490 --> 00:24:13,910
+say just, I don't know, it's rare.
+
+323
+00:24:14,570 --> 00:24:19,070
+It's very dismissive, um, to the
+other person, because it's almost
+
+324
+00:24:19,070 --> 00:24:22,490
+saying like, I don't care what
+you're asking because I don't know.
+
+325
+00:24:22,490 --> 00:24:23,600
+And I'm not going to try to find out.
+
+326
+00:24:25,650 --> 00:24:25,880
+Yeah.
+
+327
+00:24:25,880 --> 00:24:31,740
+If you change that language and say that
+you're not sure right now, but you can
+
+328
+00:24:32,250 --> 00:24:36,570
+try to find the answer for them, or you
+can request some time to do it, or you
+
+329
+00:24:36,570 --> 00:24:41,370
+can speak so you can speak to someone else
+who might know the answer or send them to
+
+330
+00:24:41,370 --> 00:24:43,139
+the person who you think might know that.
+
+331
+00:24:43,139 --> 00:24:43,230
+Yes.
+
+332
+00:24:44,615 --> 00:24:50,764
+And it's all because anytime you w
+we, you, me, all of us have an issue.
+
+333
+00:24:51,125 --> 00:24:54,335
+So not really the issue we want
+to dwell on, but we want to
+
+334
+00:24:54,335 --> 00:24:56,135
+find the solutions for that.
+
+335
+00:24:56,495 --> 00:25:01,505
+And so when we are in the businesses,
+like we are, when it comes to, uh, working
+
+336
+00:25:01,505 --> 00:25:06,605
+in WordPress, building websites, um,
+fixing websites, hosting websites, we
+
+337
+00:25:06,605 --> 00:25:12,185
+are in a solution based business because
+we're there to offer a product or a sir,
+
+338
+00:25:16,205 --> 00:25:21,245
+And then we should not use
+qualifying works and you know,
+
+339
+00:25:21,245 --> 00:25:22,865
+the no ifs, no buts aloud.
+
+340
+00:25:23,375 --> 00:25:27,995
+I don't take this personally,
+but, or I just wanted you to know,
+
+341
+00:25:28,745 --> 00:25:32,375
+or I know what you're thinking.
+
+342
+00:25:32,375 --> 00:25:38,945
+However, and in my absolute
+one that I load is it.
+
+343
+00:25:40,115 --> 00:25:43,385
+Trying to give their response
+and be like, just cyan.
+
+344
+00:25:44,135 --> 00:25:49,655
+That drives me crazy because
+the qualifiers exist for
+
+345
+00:25:49,655 --> 00:25:51,155
+pretty much every situation.
+
+346
+00:25:51,665 --> 00:25:55,505
+And in a way, if there's not one
+nowadays almost make up ones.
+
+347
+00:25:56,045 --> 00:26:00,905
+And when you're using them, it
+can totally drive people up a
+
+348
+00:26:00,905 --> 00:26:03,845
+wall and it can make people feel.
+
+349
+00:26:04,534 --> 00:26:12,935
+Devalued less than not as smart and that
+their feelings and thoughts don't count.
+
+350
+00:26:14,435 --> 00:26:22,384
+But if we acknowledge them going back into
+talking about, um, using the empathy and
+
+351
+00:26:22,384 --> 00:26:27,304
+the effective words and just hearing the
+people and saying that they are there for.
+
+352
+00:26:28,895 --> 00:26:33,275
+Uh, like a lot of us have had
+times where we're just having
+
+353
+00:26:33,275 --> 00:26:35,255
+a day and we just want to vent.
+
+354
+00:26:35,315 --> 00:26:38,975
+We just want to yell about it, get it off
+her chest, and we'll be a happier person.
+
+355
+00:26:40,114 --> 00:26:43,804
+And usually you'll have a couple
+of people that you can do that too.
+
+356
+00:26:43,804 --> 00:26:46,835
+And they're like, girl, I'm
+here for you are abroad.
+
+357
+00:26:46,864 --> 00:26:48,665
+Why we good?
+
+358
+00:26:48,965 --> 00:26:50,855
+And they just let you let it all out.
+
+359
+00:26:51,034 --> 00:26:52,594
+Validate your feelings.
+
+360
+00:26:53,825 --> 00:26:58,505
+You could move on, but when you do
+have people where you do go try to
+
+361
+00:26:58,505 --> 00:27:03,695
+just vent and get it all out, and then
+as soon as they get it up, they're
+
+362
+00:27:03,695 --> 00:27:05,615
+like, well, I've had days like that.
+
+363
+00:27:06,215 --> 00:27:07,325
+Well, I've done this well.
+
+364
+00:27:07,325 --> 00:27:09,785
+I, I it's devalued.
+
+365
+00:27:10,835 --> 00:27:12,844
+That person's communication.
+
+366
+00:27:13,175 --> 00:27:16,715
+And it's again, taking away the trust
+out of it because later on, they
+
+367
+00:27:16,715 --> 00:27:22,025
+might not come to you to vent with
+a question with an issue, because
+
+368
+00:27:22,025 --> 00:27:26,284
+they're going to feel like if they
+do come to you, it's just going to be
+
+369
+00:27:26,284 --> 00:27:31,355
+an invalidated conversation and we're
+not going to get in, in the solutions.
+
+370
+00:27:35,195 --> 00:27:38,134
+And then on top of that
+is not have excuses.
+
+371
+00:27:40,174 --> 00:27:41,225
+Everyone is busy.
+
+372
+00:27:41,525 --> 00:27:43,174
+Everyone has a lot on their plates.
+
+373
+00:27:43,174 --> 00:27:47,195
+Everyone's over-capacity, especially these
+days, everyone's going 200 miles an hour
+
+374
+00:27:48,574 --> 00:27:51,995
+and everyone's got something going on
+that they're not even telling you about.
+
+375
+00:27:52,415 --> 00:27:58,565
+How many of us tend to hide when we're
+having a bad day, tend to hide when we're
+
+376
+00:27:58,565 --> 00:28:01,174
+hurting both physically or emotionally.
+
+377
+00:28:03,350 --> 00:28:06,980
+And we don't show it and
+not everyone knows everyone.
+
+378
+00:28:06,980 --> 00:28:07,699
+Else's stories.
+
+379
+00:28:07,699 --> 00:28:11,750
+There's always something that's
+not being really shared because
+
+380
+00:28:11,750 --> 00:28:13,250
+we don't know everyone's story.
+
+381
+00:28:13,250 --> 00:28:19,580
+We've not walked in everyone's shoes,
+but we are all here to work together.
+
+382
+00:28:20,000 --> 00:28:25,759
+We're all here to get to the same place in
+a way we're all here to succeed, to grow.
+
+383
+00:28:27,860 --> 00:28:30,529
+And if you need assistance, just ask.
+
+384
+00:28:31,594 --> 00:28:35,945
+There's always going to be someone there
+to help you be it mentally, physically
+
+385
+00:28:36,455 --> 00:28:42,155
+in, um, mental health and physical
+health and professional and impersonal.
+
+386
+00:28:42,425 --> 00:28:43,775
+There's always going to be someone there.
+
+387
+00:28:43,955 --> 00:28:48,094
+That's part of the thing that big
+orange heart is for is to be there for
+
+388
+00:28:48,094 --> 00:28:51,665
+people to help people grow, to help
+people succeed, to help people have
+
+389
+00:28:51,665 --> 00:28:55,855
+better mental health in there, people
+that have the back, but the excuse.
+
+390
+00:28:56,795 --> 00:28:58,114
+Won't get you anywhere.
+
+391
+00:28:58,324 --> 00:28:59,764
+It won't get the work done.
+
+392
+00:29:00,154 --> 00:29:04,565
+It just either will keep you at the
+same spot if you're making excuses or
+
+393
+00:29:04,565 --> 00:29:09,514
+it will actually make you move back
+in life because the excuses gives
+
+394
+00:29:09,514 --> 00:29:11,435
+you a chance to not move forward.
+
+395
+00:29:12,574 --> 00:29:16,114
+Like, you know, the I'm too
+busy to do this, or that's not a
+
+396
+00:29:16,114 --> 00:29:17,915
+priority or something like that.
+
+397
+00:29:18,275 --> 00:29:21,424
+And it's fine to have
+things not as a priority.
+
+398
+00:29:22,205 --> 00:29:22,745
+Just, I don't know.
+
+399
+00:29:24,034 --> 00:29:29,525
+Well, it's okay to tell someone that
+is not a priority for me right now.
+
+400
+00:29:31,295 --> 00:29:32,554
+And it's actually better.
+
+401
+00:29:32,554 --> 00:29:33,995
+And you build more trust.
+
+402
+00:29:33,995 --> 00:29:39,725
+If you tell someone that is not a priority
+for me right now, instead of just saying
+
+403
+00:29:40,054 --> 00:29:44,945
+I'm too busy or making the excuse, pushing
+it about because the more excuses that
+
+404
+00:29:44,945 --> 00:29:48,365
+are made, the more distrust there is,
+
+405
+00:29:51,985 --> 00:29:52,595
+there are no.
+
+406
+00:29:53,420 --> 00:29:54,679
+First in the blame game.
+
+407
+00:29:56,240 --> 00:29:57,290
+This is a big one.
+
+408
+00:29:57,290 --> 00:29:57,889
+When it comes.
+
+409
+00:29:57,889 --> 00:30:02,179
+If you are working in a company
+with a bunch of people are, even if
+
+410
+00:30:02,179 --> 00:30:06,650
+you're just working on any type of
+collaboration, it's always good to
+
+411
+00:30:06,650 --> 00:30:11,179
+refrain from passing the blame or the
+responsibility or the work onto someone
+
+412
+00:30:11,179 --> 00:30:16,190
+else, unless they are, uh, agreeing to.
+
+413
+00:30:17,000 --> 00:30:21,889
+Unless they know about it beforehand,
+because again, we're all here to get
+
+414
+00:30:21,889 --> 00:30:23,600
+to the final destination together.
+
+415
+00:30:24,290 --> 00:30:30,949
+And I have seen where there'll be
+a number of coworkers, possibly in
+
+416
+00:30:30,949 --> 00:30:32,360
+different departments on a call with.
+
+417
+00:30:34,295 --> 00:30:36,395
+And there might be an issue.
+
+418
+00:30:36,695 --> 00:30:40,324
+And I have seen some co-workers
+who will throw another one on the
+
+419
+00:30:40,324 --> 00:30:42,395
+bus, whether it's right or wrong.
+
+420
+00:30:42,875 --> 00:30:47,795
+I've seen some times where a
+person will say, if someone from
+
+421
+00:30:47,795 --> 00:30:53,375
+the other department's fault
+for dropping the ball on a time.
+
+422
+00:30:54,980 --> 00:30:56,090
+Sensitive situation.
+
+423
+00:30:56,330 --> 00:30:59,810
+And it was actually the person
+throwing the blinds fault because they
+
+424
+00:30:59,810 --> 00:31:02,450
+didn't carry over the communication.
+
+425
+00:31:03,139 --> 00:31:08,150
+But when we kind of take ownership
+in it and instead of being like,
+
+426
+00:31:08,420 --> 00:31:10,280
+I'm sorry, we didn't get to it.
+
+427
+00:31:10,460 --> 00:31:11,000
+I'm sorry.
+
+428
+00:31:11,000 --> 00:31:11,929
+They didn't get to it.
+
+429
+00:31:12,200 --> 00:31:14,300
+Just be like, thank you for the reminder.
+
+430
+00:31:14,480 --> 00:31:17,870
+We will make sure that gets done
+for you because we're all here
+
+431
+00:31:17,870 --> 00:31:19,580
+to get to the final destination.
+
+432
+00:31:21,199 --> 00:31:26,929
+And when it comes to someone asking you
+for help, especially in the world for,
+
+433
+00:31:26,929 --> 00:31:31,429
+with the people who are developers,
+coders, engineers, who tend to end up
+
+434
+00:31:31,460 --> 00:31:34,310
+having to work on code somebody else.
+
+435
+00:31:36,155 --> 00:31:41,525
+Now say like someone else build a
+website and then you took it over
+
+436
+00:31:41,525 --> 00:31:43,565
+two years later to help maintain it.
+
+437
+00:31:43,985 --> 00:31:47,195
+And you have to fix some CSS issues on it.
+
+438
+00:31:47,615 --> 00:31:49,505
+You wouldn't tell that client.
+
+439
+00:31:49,655 --> 00:31:50,885
+I didn't write that code.
+
+440
+00:31:50,885 --> 00:31:52,325
+So I'm not helping you with it.
+
+441
+00:31:52,835 --> 00:31:54,395
+No, it's your solution.
+
+442
+00:31:54,395 --> 00:31:58,535
+Now it's your purpose now to get that
+solution for them since they are with you.
+
+443
+00:32:00,035 --> 00:32:02,285
+And since we are a solution-based society.
+
+444
+00:32:03,560 --> 00:32:08,180
+We should always be there to help
+people along the way, because
+
+445
+00:32:08,210 --> 00:32:14,210
+also to the person who, um, did
+it might not be around anymore.
+
+446
+00:32:18,650 --> 00:32:22,670
+And then another thing that can
+set people pull back and trust
+
+447
+00:32:22,670 --> 00:32:24,320
+is like, that's not my job.
+
+448
+00:32:26,455 --> 00:32:32,125
+Because most companies, most freelancers,
+most, anyone who works in the service type
+
+449
+00:32:32,125 --> 00:32:37,465
+industry, whether it be in WordPress or
+tech or whether it be restaurants, retail,
+
+450
+00:32:37,855 --> 00:32:40,645
+we're all there to create solutions.
+
+451
+00:32:40,645 --> 00:32:42,355
+We're all there to help people.
+
+452
+00:32:42,804 --> 00:32:47,665
+We're all there to take on whatever
+it is, our service, our product is.
+
+453
+00:32:48,565 --> 00:32:52,705
+And your company, your freelanced,
+your community, you're all.
+
+454
+00:32:53,824 --> 00:32:57,665
+To do the work together and to get to
+the same goal, whether it be at your
+
+455
+00:32:57,665 --> 00:33:05,255
+company of 50 people at your word camp,
+or a word Fest with a hundred volunteers,
+
+456
+00:33:05,255 --> 00:33:07,145
+we're all there to get to the same goal.
+
+457
+00:33:08,554 --> 00:33:13,295
+And even in the communities and
+everyone on earth, the more we do
+
+458
+00:33:13,295 --> 00:33:15,875
+work together, the better we are.
+
+459
+00:33:16,565 --> 00:33:18,125
+And when we.
+
+460
+00:33:19,235 --> 00:33:21,875
+Stay humble about things
+and we help people.
+
+461
+00:33:22,475 --> 00:33:23,675
+We're not being arrogant.
+
+462
+00:33:23,675 --> 00:33:27,845
+We're not, you know, in a way, some
+people being lazy now on the flip side
+
+463
+00:33:27,845 --> 00:33:33,665
+of this, always be there to help always
+be humble, always be kind, but take
+
+464
+00:33:33,665 --> 00:33:35,975
+care of yourself to remember yourself.
+
+465
+00:33:35,975 --> 00:33:41,075
+Like I mentioned before of, if something
+does get too much of saying, this is
+
+466
+00:33:41,075 --> 00:33:45,335
+not a priority anymore, and I need
+to take care of myself, but it's all
+
+467
+00:33:45,335 --> 00:33:47,105
+about the words you choose to use.
+
+468
+00:33:49,895 --> 00:33:54,005
+And in every everywhere, professionally,
+we've all dealt with, as I shouldn't
+
+469
+00:33:54,005 --> 00:34:00,095
+say attitudes and escalation and
+Zen attitudes can be from coworkers.
+
+470
+00:34:00,425 --> 00:34:05,195
+They can be from, um, clients
+that can be really from anywhere
+
+471
+00:34:08,195 --> 00:34:12,395
+now as the person, when it comes to
+dealing with an issue, especially
+
+472
+00:34:12,395 --> 00:34:13,475
+if it's a professional one.
+
+473
+00:34:14,195 --> 00:34:15,875
+Check your attitude at the door.
+
+474
+00:34:15,965 --> 00:34:21,515
+My step grandfather used to say he is the,
+well, you would use a little more colorful
+
+475
+00:34:21,515 --> 00:34:27,155
+language than what I'm going to use,
+but he would say to, there only should
+
+476
+00:34:27,155 --> 00:34:33,095
+be one Butthead in the conversation,
+because if there's two people who have
+
+477
+00:34:33,095 --> 00:34:38,405
+the are in an aggressive, combative mood,
+nothing's going to get accomplished.
+
+478
+00:34:39,275 --> 00:34:43,085
+And sometimes you would have to
+take the higher road and check your
+
+479
+00:34:43,085 --> 00:34:47,945
+attitude to get to that solution to
+de escalate that agitated person.
+
+480
+00:34:49,235 --> 00:34:55,925
+Sometimes it takes a lot of effort to pull
+out your attitude from the conversation.
+
+481
+00:34:56,225 --> 00:35:00,005
+However, if your bolt just butting
+heads at the same time, there's
+
+482
+00:35:00,005 --> 00:35:01,385
+never going to be a solution for.
+
+483
+00:35:02,960 --> 00:35:06,920
+And like it says on the thing, a
+bad attitude is like a flat tire.
+
+484
+00:35:06,920 --> 00:35:08,780
+You can't go anywhere until you change it.
+
+485
+00:35:09,170 --> 00:35:13,040
+You have to fully fill yourself
+back up with the good attitudes
+
+486
+00:35:13,040 --> 00:35:16,250
+with the joy to progress.
+
+487
+00:35:16,250 --> 00:35:20,090
+Because as long as you're fighting is kind
+of like you see in the movies with the
+
+488
+00:35:20,090 --> 00:35:26,300
+two ramps locking horns and they can never
+get apart because they're just so at it.
+
+489
+00:35:29,404 --> 00:35:33,845
+Yeah, escalation is, do happen
+and they can't be helped.
+
+490
+00:35:33,904 --> 00:35:39,695
+And some people just, they, I
+swear they like having them, but
+
+491
+00:35:39,695 --> 00:35:44,884
+oftentimes it's just because of, um,
+miscommunication and it can be resolved.
+
+492
+00:35:46,475 --> 00:35:51,275
+And when you are in a team
+with people or there's other
+
+493
+00:35:51,275 --> 00:35:53,645
+people with, um, you can go to.
+
+494
+00:35:54,365 --> 00:35:59,015
+Sometimes it's that other way
+of presenting information makes
+
+495
+00:35:59,015 --> 00:36:03,065
+it fixed between, um, I've
+also Peter and I at thrive.
+
+496
+00:36:03,695 --> 00:36:09,035
+If we notice that a client is either as
+an understanding or getting agitated for
+
+497
+00:36:09,035 --> 00:36:14,615
+like something I would say, I would ask
+Peter to come in and pretty much say the
+
+498
+00:36:14,615 --> 00:36:17,705
+same thing in his own words or vice versa.
+
+499
+00:36:18,005 --> 00:36:19,955
+And usually it takes
+care of the situation.
+
+500
+00:36:20,375 --> 00:36:23,165
+Now, if you are a team of one, yeah.
+
+501
+00:36:23,870 --> 00:36:27,920
+Reach out like on Twitter, or
+if you're in like post status of
+
+502
+00:36:27,920 --> 00:36:32,180
+the ladies of WordPress slack or
+something like that, where you can
+
+503
+00:36:32,210 --> 00:36:36,950
+bounce ideas off of one another, um,
+to help out with that escalation.
+
+504
+00:36:37,130 --> 00:36:38,240
+As a matter of fact, I had.
+
+505
+00:36:39,050 --> 00:36:43,190
+Last week, a friend of mine in the
+WordPress community to call me.
+
+506
+00:36:43,880 --> 00:36:48,860
+And, um, because she was having an
+issues with the client and what's, um,
+
+507
+00:36:48,890 --> 00:36:53,270
+who was wanting to cancel their project
+and pretty much take their files and
+
+508
+00:36:53,270 --> 00:36:55,880
+run of stuff that she's already built.
+
+509
+00:36:55,970 --> 00:36:58,690
+And we talked about it
+for about a half an hour.
+
+510
+00:36:58,700 --> 00:37:00,920
+It was like, no, honey, if
+you built it, they pay for it.
+
+511
+00:37:00,950 --> 00:37:01,490
+Or they don't get.
+
+512
+00:37:02,325 --> 00:37:05,145
+To after the call, she's like,
+that's what I was thinking.
+
+513
+00:37:05,145 --> 00:37:09,435
+And it felt so good just to have
+someone to run that by with.
+
+514
+00:37:09,525 --> 00:37:14,504
+Um, cause again, you're just never
+alone in that, but if all those feels
+
+515
+00:37:14,504 --> 00:37:18,644
+it's okay to fire a client, it is okay
+to remove yourself from the situation.
+
+516
+00:37:19,364 --> 00:37:23,264
+Because if you can see, it's
+just not getting anywhere.
+
+517
+00:37:23,684 --> 00:37:25,504
+Um, like say if it's a client that.
+
+518
+00:37:26,465 --> 00:37:31,295
+The money they paying you is
+not equal to the level of what
+
+519
+00:37:31,444 --> 00:37:33,035
+drama you're dealing with.
+
+520
+00:37:33,065 --> 00:37:37,145
+Feel free to divorce them or
+fire them, whatever you call it.
+
+521
+00:37:38,105 --> 00:37:43,835
+There's a couple of clients we've co we've
+said divorce on because they were, it was
+
+522
+00:37:43,835 --> 00:37:45,694
+a toxic marriage professional mirrors.
+
+523
+00:37:45,694 --> 00:37:46,325
+That was for sure.
+
+524
+00:37:47,345 --> 00:37:51,995
+And often with that too, is when you do.
+
+525
+00:37:53,315 --> 00:37:58,295
+Fire them as a client, you don't even have
+to have that as a quote, bad situation.
+
+526
+00:37:58,775 --> 00:38:04,384
+I've seen a number of times in agencies
+where it just has a point that it's like,
+
+527
+00:38:04,415 --> 00:38:06,485
+this relationship is no longer good.
+
+528
+00:38:06,935 --> 00:38:11,315
+And a lot of us are friends with
+other agencies and other, you know,
+
+529
+00:38:11,315 --> 00:38:12,964
+personalities with the agencies.
+
+530
+00:38:12,995 --> 00:38:14,515
+And there's no reason why you.
+
+531
+00:38:15,354 --> 00:38:19,044
+Reach out to another one and be
+like, Hey, I have this client where
+
+532
+00:38:19,044 --> 00:38:21,894
+does not really seeing eye to eye,
+but they seem to be great people.
+
+533
+00:38:21,894 --> 00:38:24,354
+Would you like to meet
+her, refer them to you.
+
+534
+00:38:24,595 --> 00:38:29,934
+And quite often when they do
+switch to different, um, team
+
+535
+00:38:30,234 --> 00:38:33,654
+different, uh, company, it ends
+up being a good relationship.
+
+536
+00:38:33,834 --> 00:38:35,994
+Sometimes it's not, but oftentimes it is.
+
+537
+00:38:39,024 --> 00:38:41,244
+And professional and
+technical communication.
+
+538
+00:38:42,395 --> 00:38:48,694
+But when it, when you are working
+on like coding something or, um,
+
+539
+00:38:48,875 --> 00:38:52,355
+any kind of a client community
+professional communication, it is
+
+540
+00:38:52,355 --> 00:38:54,455
+always good to keep a paper trail.
+
+541
+00:38:54,875 --> 00:38:59,435
+And I say paper trail in quotes,
+because any more now you're doing
+
+542
+00:38:59,435 --> 00:39:05,615
+more online paper trail with email
+are your project management software,
+
+543
+00:39:05,975 --> 00:39:08,075
+um, your CRM, something like that.
+
+544
+00:39:08,465 --> 00:39:10,775
+So it's digital paper.
+
+545
+00:39:11,974 --> 00:39:17,314
+Um, and document all your work,
+all the communications that's done.
+
+546
+00:39:17,884 --> 00:39:24,514
+So you can always have something to come
+back to something, um, that you can either
+
+547
+00:39:24,514 --> 00:39:31,535
+prove or not reinvent the wheel for say
+like you have a site and found out here's
+
+548
+00:39:31,535 --> 00:39:32,825
+the one that actually happened to me.
+
+549
+00:39:33,694 --> 00:39:35,014
+We have a client who has.
+
+550
+00:39:36,909 --> 00:39:43,990
+Detailed, um, gravity farm's set up and,
+um, it's in some of the products it has.
+
+551
+00:39:45,169 --> 00:39:48,560
+Um, some of the form fields, it
+has links to the products in them.
+
+552
+00:39:49,009 --> 00:39:55,160
+And we found out the hard way that
+when you run a search and replacing the
+
+553
+00:39:55,160 --> 00:40:01,279
+database to change URL links, it does not
+change them in the gravity form fields.
+
+554
+00:40:02,029 --> 00:40:05,689
+And so we had to go back through
+all the forms with all the products
+
+555
+00:40:05,689 --> 00:40:09,140
+and them and change out from
+the dev links to the live links.
+
+556
+00:40:11,189 --> 00:40:16,229
+And had I not put that in the comments
+at that task and had to do it again,
+
+557
+00:40:18,209 --> 00:40:23,189
+that could have taken us, you know,
+20, 30, 2 minutes, two hours to
+
+558
+00:40:23,189 --> 00:40:25,469
+remember that that's what had happened.
+
+559
+00:40:25,799 --> 00:40:28,949
+But if we documented it in like
+sitting there, it's like, Hey, I
+
+560
+00:40:28,949 --> 00:40:30,659
+remember something like this happening.
+
+561
+00:40:31,049 --> 00:40:31,919
+And you do a search surgeon.
+
+562
+00:40:32,794 --> 00:40:37,414
+Um, PM software and it pops up that
+task that, oh, I get won't do it.
+
+563
+00:40:37,414 --> 00:40:40,414
+I have to manually replace them all.
+
+564
+00:40:40,834 --> 00:40:42,364
+It saved you a lot of time.
+
+565
+00:40:42,904 --> 00:40:48,454
+And then also when you document
+everything you do with other people, if
+
+566
+00:40:48,454 --> 00:40:53,854
+there is an issue arise, you can pull
+up that email, pull up that task, pull
+
+567
+00:40:53,854 --> 00:40:57,784
+up that whatever, and be like, this is
+what was said, this is what was done.
+
+568
+00:40:58,474 --> 00:41:02,584
+Um, Fan of Denzel Washington films.
+
+569
+00:41:02,914 --> 00:41:08,854
+There was a movie called, um, training
+day and one of his quotes was, it's not
+
+570
+00:41:08,854 --> 00:41:10,894
+what you know is what you can prove.
+
+571
+00:41:11,404 --> 00:41:16,414
+And that has really struck with
+me professionally, because if you
+
+572
+00:41:16,414 --> 00:41:19,324
+can't prove that you did it, if
+you can't prove that you said.
+
+573
+00:41:20,390 --> 00:41:25,999
+That can sometimes come back to bite you,
+especially when there's escalations of
+
+574
+00:41:25,999 --> 00:41:28,129
+issues of what was done, what wasn't done.
+
+575
+00:41:28,129 --> 00:41:32,870
+But if you have that paper
+trail, it's proven, and there
+
+576
+00:41:32,870 --> 00:41:34,249
+can not be any arguments on it.
+
+577
+00:41:35,839 --> 00:41:38,569
+And that also builds trust that
+you can pull up those kinds
+
+578
+00:41:38,569 --> 00:41:39,769
+of things at a later time.
+
+579
+00:41:43,790 --> 00:41:47,689
+Especially with, since we work in the
+world of internet, there's always on
+
+580
+00:41:47,689 --> 00:41:53,569
+looking, especially if you're using
+Chrome and browsers and you should treat
+
+581
+00:41:53,600 --> 00:41:57,439
+each communication like your grandmother
+and the person you look up to most is
+
+582
+00:41:57,439 --> 00:42:02,089
+reading every thing that you write,
+because you want to keep that respect.
+
+583
+00:42:02,089 --> 00:42:04,129
+You want to keep the honor,
+you want to keep that trust.
+
+584
+00:42:05,524 --> 00:42:09,904
+And in the digital world, it is way too
+easy for something we do not want to
+
+585
+00:42:09,904 --> 00:42:12,004
+come public to be unleashed in the world.
+
+586
+00:42:12,544 --> 00:42:16,774
+If you want to question that you can
+always ask him Kardashians are parasols.
+
+587
+00:42:17,374 --> 00:42:20,644
+They will be the first to tell
+you that sometimes things that
+
+588
+00:42:20,644 --> 00:42:21,964
+they do not want to get out.
+
+589
+00:42:22,144 --> 00:42:22,444
+Sure.
+
+590
+00:42:22,444 --> 00:42:26,434
+Well, and then questions.
+
+591
+00:42:29,974 --> 00:42:30,454
+Cathy Tibbles: Hi.
+
+592
+00:42:30,484 --> 00:42:31,564
+Thank you, Michele.
+
+593
+00:42:33,474 --> 00:42:39,335
+Michele Butcher-Jones: Hello, I
+accidentally did a "derr" moment
+
+594
+00:42:39,484 --> 00:42:47,524
+because my website for my slides are
+actually https://mlb.pw/wordfast22.
+
+595
+00:42:51,109 --> 00:42:55,999
+Back in 2016, change my last
+name from Butcher to Jones.
+
+596
+00:42:55,999 --> 00:43:00,709
+And obviously I have finally hit the
+point where instead of not thinking
+
+597
+00:43:00,709 --> 00:43:04,399
+and using my maiden name, I have
+not thought in used my married name.
+
+598
+00:43:04,999 --> 00:43:06,289
+It's only taken what?
+
+599
+00:43:07,279 --> 00:43:07,939
+Six years.
+
+600
+00:43:11,809 --> 00:43:14,240
+Cathy Tibbles: Well, we have the link
+across the bottom of the screen now,
+
+601
+00:43:14,240 --> 00:43:16,339
+so everybody can find the slide deck.
+
+602
+00:43:18,470 --> 00:43:19,399
+Michele Butcher-Jones: Thank you so much.
+
+603
+00:43:20,734 --> 00:43:23,854
+Misty Combs: Thank you so much,
+Michele, for your presentation.
+
+604
+00:43:24,484 --> 00:43:26,584
+It was a lot of good information.
+
+605
+00:43:26,584 --> 00:43:28,924
+I'm sure a lot of it we'll be
+able to put to use right away.
+
+606
+00:43:31,115 --> 00:43:36,694
+Um, if we have time for one question in
+a, in the tech community, there's so many
+
+607
+00:43:36,694 --> 00:43:38,824
+people who are just very painfully shy.
+
+608
+00:43:38,854 --> 00:43:43,324
+Do you have any words of wisdom
+for either improving or starting
+
+609
+00:43:43,324 --> 00:43:47,524
+communication with somebody who might be
+very shy and hard to pull information?
+
+610
+00:43:49,924 --> 00:43:51,785
+Michele Butcher-Jones: Work on it slowly.
+
+611
+00:43:52,204 --> 00:43:56,494
+Um, and keep your circle open for it.
+
+612
+00:43:56,615 --> 00:44:01,144
+Um, like in a lot of times, you see
+if you, uh, way back when we were
+
+613
+00:44:01,144 --> 00:44:05,914
+still going to in-person events, a lot
+of people were standing to the sides
+
+614
+00:44:05,914 --> 00:44:08,914
+and you can see on the, on the side
+of, they kind of would like to talk,
+
+615
+00:44:08,914 --> 00:44:11,314
+but not for sure of how to do it.
+
+616
+00:44:11,944 --> 00:44:15,035
+Um, kind of go pull them in.
+
+617
+00:44:16,685 --> 00:44:18,785
+At a slower speed.
+
+618
+00:44:18,785 --> 00:44:21,875
+I've just kinda be like, Hey,
+would you like to come join
+
+619
+00:44:21,875 --> 00:44:25,255
+us and do have more than.
+
+620
+00:44:26,704 --> 00:44:32,944
+Smaller type questions of what do you
+do in WordPress or, um, what are you
+
+621
+00:44:32,944 --> 00:44:39,544
+most interested in if you're like in a
+setting like this, to do those questions
+
+622
+00:44:39,544 --> 00:44:47,495
+that are easy to answer and then
+progress into a more meaty conversation.
+
+623
+00:44:47,975 --> 00:44:53,354
+There's a lot of times, once you get the
+ball rolling with the more shyer people.
+
+624
+00:44:53,884 --> 00:44:57,244
+They tend to open up, but if you
+kind of just jump into it more of
+
+625
+00:44:57,244 --> 00:45:01,474
+like the Energizer bunny with, Hey,
+my name is Michele, how are you?
+
+626
+00:45:01,474 --> 00:45:01,984
+What do you do?
+
+627
+00:45:01,984 --> 00:45:02,984
+Blah, blah, blah, blah, blah, blah, blah.
+
+628
+00:45:03,345 --> 00:45:04,935
+They're like, nope.
+
+629
+00:45:04,935 --> 00:45:10,325
+Cathy Tibbles: What about
+the open-ended questions?
+
+630
+00:45:11,014 --> 00:45:12,904
+But do you think that's where
+it would come into play?
+
+631
+00:45:15,514 --> 00:45:19,504
+Michele Butcher-Jones: The open
+ended are, tend to be harder for the
+
+632
+00:45:19,535 --> 00:45:25,549
+more, uh, Quieter types to answer
+then the more easier, yes, no.
+
+633
+00:45:26,120 --> 00:45:31,729
+Um, quick questions, because the
+more time they, it takes a person to
+
+634
+00:45:31,729 --> 00:45:37,370
+think when it comes to on the being
+shy, the more it tends to, they tend
+
+635
+00:45:37,370 --> 00:45:39,169
+to question themselves at first.
+
+636
+00:45:40,220 --> 00:45:43,339
+But if it's more of something
+where they can be confident in
+
+637
+00:45:43,339 --> 00:45:47,930
+answering, like, you know, um,
+what's going to be your favorite.
+
+638
+00:45:48,845 --> 00:45:56,075
+Topic today or, um, or like, you
+know, for wearing like a sh um,
+
+639
+00:45:56,125 --> 00:45:59,954
+Yoast shirt and coming up and be
+like, oh, do you work for Yoast?
+
+640
+00:46:00,454 --> 00:46:02,374
+And they're like, actually I do.
+
+641
+00:46:02,374 --> 00:46:03,845
+And kind of bring that out loud.
+
+642
+00:46:06,729 --> 00:46:10,119
+Misty Combs: Also in the WordPress
+community, we are a really diverse
+
+643
+00:46:10,119 --> 00:46:13,419
+group and very broadly distributed.
+
+644
+00:46:13,449 --> 00:46:18,129
+Do you have any words of wisdom for
+improving or opening communication
+
+645
+00:46:18,279 --> 00:46:21,159
+between people who may not
+have the same native language?
+
+646
+00:46:22,899 --> 00:46:25,809
+Michele Butcher-Jones: Um, on
+that one it's there, it's just
+
+647
+00:46:25,809 --> 00:46:28,269
+a lot of keep your circle open.
+
+648
+00:46:28,779 --> 00:46:35,044
+Um, both figuratively and physically,
+if you're standing there and you're
+
+649
+00:46:35,044 --> 00:46:39,874
+having a conversation and that's very
+closed, people won't want to try to
+
+650
+00:46:39,874 --> 00:46:45,634
+join in, but if you stand where you're
+more like this, it gives that opening
+
+651
+00:46:45,634 --> 00:46:51,035
+for people to come in and also like
+you're standing there and you're more.
+
+652
+00:46:52,265 --> 00:46:56,734
+And even in the words that you use in
+the tone of voice, you have the more
+
+653
+00:46:56,734 --> 00:47:03,245
+closed off the more tight you are the
+less people will want to interact, but
+
+654
+00:47:03,245 --> 00:47:07,714
+if you're more open, you see more hand
+movement, more talking, more smiling.
+
+655
+00:47:08,404 --> 00:47:12,305
+Um, people tend to go talk
+to those types of people.
+
+656
+00:47:12,305 --> 00:47:18,904
+Like there is actual, um, studies
+that's been done, where if you have
+
+657
+00:47:18,904 --> 00:47:23,644
+a room full of different types of
+people, And you put a child in that
+
+658
+00:47:23,644 --> 00:47:28,894
+room, they will almost always figure
+out who that person who was like the
+
+659
+00:47:28,894 --> 00:47:36,964
+kindergarten teacher or the nurse, or
+S um, the, um, um, policemen or someone
+
+660
+00:47:36,964 --> 00:47:43,114
+like that, who has that temperament
+of always helping are always teaching.
+
+661
+00:47:44,285 --> 00:47:49,355
+Um, they will find out those people who,
+um, to go and talk to, to go and ask,
+
+662
+00:47:49,774 --> 00:47:56,925
+instead of someone who just kind of gives
+off that vibe of kind of closed off-ness.
+
+663
+00:47:58,725 --> 00:48:02,475
+Misty Combs: And any words of
+wisdom or advice in more digital
+
+664
+00:48:02,475 --> 00:48:06,165
+communication between people who might
+not share the same native language?
+
+665
+00:48:08,774 --> 00:48:13,075
+Michele Butcher-Jones: Use precise
+words and do not use slang.
+
+666
+00:48:14,715 --> 00:48:15,524
+Cathy Tibbles: Yeah, that's a good one.
+
+667
+00:48:15,589 --> 00:48:18,379
+Michele Butcher-Jones: If you were
+trying to talk to people without other
+
+668
+00:48:18,620 --> 00:48:22,129
+who's in other languages, because they
+might not understand what you mean.
+
+669
+00:48:23,450 --> 00:48:29,330
+Um, like I'm trying to think
+of, what's a good slang phrase.
+
+670
+00:48:30,919 --> 00:48:33,950
+Out of someone like getting
+aside to buy something, I'd
+
+671
+00:48:33,950 --> 00:48:35,209
+be like, shut the front door.
+
+672
+00:48:35,209 --> 00:48:36,140
+You did not
+
+673
+00:48:39,410 --> 00:48:44,269
+say that to like someone from,
+um, like South Africa or India.
+
+674
+00:48:44,269 --> 00:48:46,850
+And they're like, I did not open the door.
+
+675
+00:48:49,609 --> 00:48:50,870
+Yes, I did do it.
+
+676
+00:48:51,529 --> 00:48:55,879
+Where if you say that to someone
+like from the south of America, You
+
+677
+00:48:55,879 --> 00:48:58,879
+might get a response like yes I did.
+
+678
+00:49:01,399 --> 00:49:06,769
+Um, but if you use more of the
+literal phrases and not sling is
+
+679
+00:49:06,769 --> 00:49:12,139
+your best way, because also a lot
+of people will use Google translate.
+
+680
+00:49:12,499 --> 00:49:16,309
+And when you put the slang type
+of wording in there, sometimes
+
+681
+00:49:16,309 --> 00:49:17,569
+Google might be like, I don't know,
+
+682
+00:49:23,120 --> 00:49:29,419
+Misty Combs: For the most intense
+you covered some, um, conflict or
+
+683
+00:49:29,419 --> 00:49:33,950
+dispute situations, but do you have any
+go-to phrases to help diffuse those?
+
+684
+00:49:38,029 --> 00:49:39,079
+Not putting you on the spot?
+
+685
+00:49:39,289 --> 00:49:43,140
+Michele Butcher-Jones: Now, the
+first thing I do is number one,
+
+686
+00:49:43,169 --> 00:49:46,410
+I do not apologize for anything,
+unless it was actually my fault.
+
+687
+00:49:48,599 --> 00:49:50,279
+Um, just because.
+
+688
+00:49:52,429 --> 00:49:56,659
+If it's not your fault, it's not
+something that you did or your team did.
+
+689
+00:49:57,169 --> 00:50:00,259
+You don't want really want
+to take liability of it.
+
+690
+00:50:01,459 --> 00:50:05,109
+However, if you change it in, like,
+someone's like, I can't believe
+
+691
+00:50:05,119 --> 00:50:07,099
+this wasn't done, blah, blah, blah.
+
+692
+00:50:07,459 --> 00:50:10,579
+If this isn't done like
+today, we're gonna fire you.
+
+693
+00:50:11,419 --> 00:50:16,039
+Um, whether it be client or boss,
+um, always give the solutions
+
+694
+00:50:16,099 --> 00:50:21,350
+and be like, okay, um, Thank you.
+
+695
+00:50:21,350 --> 00:50:24,770
+You can even say, thank you
+for reminding me on this.
+
+696
+00:50:24,799 --> 00:50:26,629
+It did slip through the cracks.
+
+697
+00:50:26,629 --> 00:50:27,589
+We will get on this.
+
+698
+00:50:27,589 --> 00:50:31,580
+Or, you know, we had a site that just
+completely blew up because it had
+
+699
+00:50:31,580 --> 00:50:33,229
+a hundred gigs, a mile we're on it.
+
+700
+00:50:33,229 --> 00:50:34,700
+And you know, that took priority.
+
+701
+00:50:35,509 --> 00:50:41,359
+Um, always kind of give the
+solutions instead of excuses, always.
+
+702
+00:50:42,439 --> 00:50:42,529
+Okay.
+
+703
+00:50:44,384 --> 00:50:45,975
+You know, we'll get this done for you.
+
+704
+00:50:45,975 --> 00:50:51,375
+And it kind of goes back to setting those
+boundaries, setting those expectations.
+
+705
+00:50:51,375 --> 00:50:57,944
+At first, to hear like a lot of
+times we will have setbacks on things
+
+706
+00:50:58,424 --> 00:51:00,404
+and like I'll message the client.
+
+707
+00:51:00,404 --> 00:51:03,734
+Cause like I already said, like
+I would give them a response back
+
+708
+00:51:04,035 --> 00:51:05,505
+Tuesday by end of day in Tuesday.
+
+709
+00:51:06,515 --> 00:51:07,654
+We haven't even started it.
+
+710
+00:51:08,584 --> 00:51:14,104
+I'll message you back and be like,
+uh, due to, um, capacity issues.
+
+711
+00:51:14,345 --> 00:51:15,694
+We are still working on this.
+
+712
+00:51:15,694 --> 00:51:17,164
+I will give you another update.
+
+713
+00:51:17,254 --> 00:51:17,734
+X.
+
+714
+00:51:18,035 --> 00:51:22,084
+I always say I'll give you an update
+instead of it will be done by because.
+
+715
+00:51:23,585 --> 00:51:26,795
+Everyone here in the tech world
+knows the whole Murphy's law of
+
+716
+00:51:26,795 --> 00:51:28,504
+what can go wrong will go wrong.
+
+717
+00:51:28,504 --> 00:51:31,024
+And especially if you try to
+deploy anything on a Friday,
+
+718
+00:51:34,865 --> 00:51:35,705
+you say update.
+
+719
+00:51:35,825 --> 00:51:39,575
+I never give definitives because
+Ooh, there's something we'll
+
+720
+00:51:39,575 --> 00:51:41,194
+go two minutes beforehand.
+
+721
+00:51:42,365 --> 00:51:42,815
+Um,
+
+722
+00:51:43,055 --> 00:51:45,125
+Misty Combs: thank you
+again for everything.
+
+723
+00:51:45,125 --> 00:51:46,535
+We're a bit over time.
+
+724
+00:51:46,805 --> 00:51:47,225
+Um,
+
+725
+00:51:52,144 --> 00:51:55,115
+Michele Butcher-Jones: I do want
+to quit, put, put a quick thing out
+
+726
+00:51:55,115 --> 00:51:57,455
+because of Allie coming on next.
+
+727
+00:51:57,694 --> 00:52:00,725
+Yes, she did give me a black eye in 2019.
+
+728
+00:52:02,314 --> 00:52:03,904
+It was quite beautiful.
+
+729
+00:52:04,654 --> 00:52:06,095
+It was done by makeup.
+
+730
+00:52:06,604 --> 00:52:10,325
+Uh, she didn't actually clock
+me because we did the Halloween
+
+731
+00:52:11,044 --> 00:52:13,414
+party and I went as a beat up.
+
+732
+00:52:15,515 --> 00:52:19,685
+Uh, hockey player, this hears
+actually I've got recited.
+
+733
+00:52:19,745 --> 00:52:22,115
+No, Allie Nimmons did
+not beat me up again.
+
+734
+00:52:25,294 --> 00:52:26,734
+Cathy Tibbles: Well, we
+can give her a hard time,
+
+735
+00:52:29,084 --> 00:52:29,745
+Misty Combs: Michele.
+
+736
+00:52:32,254 --> 00:52:35,224
+And again, we'd like to take an
+opportunity to thank our sponsors,
+
+737
+00:52:35,224 --> 00:52:39,374
+Bluehost, Cloudways, GoDaddy
+Pro, Nexcess, Yoast, and Weglot.
+
+738
+00:52:39,844 --> 00:52:42,064
+Please be sure to visit our
+tents and chat with them.
+
+739
+00:52:42,064 --> 00:52:43,234
+You might even win a prize.
+
+740
+00:52:43,264 --> 00:52:46,594
+Don't forget to get your photo snapped
+in the photo booth, sponsored by
+
+741
+00:52:46,794 --> 00:52:53,734
+Multicollab and DreamHost and tweet
+out the WordFest Live hashtag also
+
+742
+00:52:53,734 --> 00:52:57,454
+thank you to our media partners and
+micro sponsors in the community tent
+
+743
+00:52:57,574 --> 00:53:00,464
+with the next hour visiting Cloudways.
+
+744
+00:53:01,430 --> 00:53:02,629
+For the hourly giveaway.
+
+745
+00:53:03,079 --> 00:53:06,169
+We'd love to have your support
+consider donating via the button
+
+746
+00:53:06,169 --> 00:53:08,450
+on the screen or go to the website.
+
+747
+00:53:09,740 --> 00:53:14,629
+Um, y'all make a big difference and
+big, and our Big Orange Heart is full.
+
+748
+00:53:14,720 --> 00:53:15,140
+Thank you.
+
+749
+00:53:16,129 --> 00:53:16,490
+Cathy Tibbles: Thank you.
+
