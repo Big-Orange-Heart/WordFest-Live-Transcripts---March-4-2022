@@ -1,0 +1,4140 @@
+1
+00:00:27,255 --> 00:00:27,825
+Nexcess: Oh, great.
+
+2
+00:00:27,975 --> 00:00:29,535
+My website crashed again.
+
+3
+00:00:29,895 --> 00:00:35,505
+I give up, don't give up on your
+dreams, Jordan, who are you?
+
+4
+00:00:35,595 --> 00:00:36,105
+It's me.
+
+5
+00:00:36,645 --> 00:00:38,235
+You from the future.
+
+6
+00:00:38,535 --> 00:00:40,545
+Your professional website
+is not out of reach.
+
+7
+00:00:40,575 --> 00:00:41,895
+You just need Nexcess.
+
+8
+00:00:42,375 --> 00:00:45,525
+With Nexcess managed hosting, you
+get lightening pass load times
+
+9
+00:00:45,525 --> 00:00:49,635
+built-in performance monitoring and
+updates, and always awesome support.
+
+10
+00:00:49,695 --> 00:00:51,555
+24 7 365.
+
+11
+00:00:51,585 --> 00:00:52,245
+For all your plans.
+
+12
+00:00:52,710 --> 00:00:53,310
+Whoa.
+
+13
+00:00:53,520 --> 00:00:53,910
+Yeah.
+
+14
+00:00:57,285 --> 00:01:02,625
+Weglot: Discover Weglot the simple
+translation solution for your website.
+
+15
+00:01:02,985 --> 00:01:07,515
+All you have to do is add Weglot to
+your website, select the languages
+
+16
+00:01:07,515 --> 00:01:09,465
+that you need, and that's it.
+
+17
+00:01:09,675 --> 00:01:12,795
+Your website is now available
+in multiple languages.
+
+18
+00:02:13,775 --> 00:02:16,954
+Yoast: Do you know, the Yoast SEO,
+plugin, they're red, orange, and
+
+19
+00:02:16,954 --> 00:02:20,135
+green feedback bullets that help
+you optimize your posts for the web.
+
+20
+00:02:20,315 --> 00:02:22,204
+It runs on millions of websites.
+
+21
+00:02:22,655 --> 00:02:26,315
+We try to make SEO understandable
+and accessible to everyone.
+
+22
+00:02:28,530 --> 00:02:31,560
+Bluehost: Who says building
+an online store has to be hard
+
+23
+00:02:31,830 --> 00:02:33,210
+with Bluehost website builder.
+
+24
+00:02:33,330 --> 00:02:34,890
+It's more than just easy.
+
+25
+00:02:35,100 --> 00:02:37,050
+It's tell us your thing in smart AI.
+
+26
+00:02:37,050 --> 00:02:38,190
+We'll take it from there.
+
+27
+00:02:38,190 --> 00:02:40,470
+Easy it's WooCommerce friendly.
+
+28
+00:02:40,530 --> 00:02:43,950
+So you can add one of these
+or swap this for that easy.
+
+29
+00:02:44,190 --> 00:02:47,280
+It's set up shop in minutes
+with unlimited products.
+
+30
+00:02:47,340 --> 00:02:47,790
+Easy.
+
+31
+00:02:47,850 --> 00:02:52,230
+Whether you sell boots, books
+or bowls, it's create an online
+
+32
+00:02:52,230 --> 00:02:56,520
+store with Bluehost, easy build
+beyond boundaries with blue house.
+
+33
+00:02:57,960 --> 00:03:01,290
+Yogesh Londhe: Right now we are in
+Asia session and this is a part of
+
+34
+00:03:01,290 --> 00:03:05,880
+24 hours celebration of the people,
+the technology and the Big Orange
+
+35
+00:03:05,880 --> 00:03:12,270
+Heart of WordPress, WordFest Live, not
+only delivers festivals, educational
+
+36
+00:03:12,270 --> 00:03:17,400
+content, wellness sessions, and
+networking opportunities, but it also
+
+37
+00:03:17,940 --> 00:03:20,400
+is a fundraiser for Big Orange Heart.
+
+38
+00:03:20,820 --> 00:03:23,760
+Please visit that donate link
+at any time to support the
+
+39
+00:03:23,760 --> 00:03:25,640
+mission of our organisation.
+
+40
+00:03:26,760 --> 00:03:31,650
+WordFest Live is a 24 hour opportunity for
+the WordPress community to come together,
+
+41
+00:03:32,370 --> 00:03:37,920
+to feel less isolated, learn from one
+another and be present with each other.
+
+42
+00:03:39,810 --> 00:03:40,260
+Yes.
+
+43
+00:03:40,890 --> 00:03:41,190
+Yeah.
+
+44
+00:03:41,940 --> 00:03:42,210
+Lax Mariappan: Yeah.
+
+45
+00:03:42,240 --> 00:03:44,820
+So we are the Emcee's for this session.
+
+46
+00:03:45,120 --> 00:03:45,840
+I'm lax.
+
+47
+00:03:45,960 --> 00:03:48,120
+I'm a backend engineer at WebDevStudios.
+
+48
+00:03:48,170 --> 00:03:53,150
+And I, I love WordPress and
+all the WordPress communities,
+
+49
+00:03:53,990 --> 00:03:55,610
+so glad you're here.
+
+50
+00:03:56,030 --> 00:03:58,870
+And I hope you, aren't all
+excited for session, Yogesh.
+
+51
+00:04:00,560 --> 00:04:04,850
+Yogesh Londhe: Yes, I am excited for
+all the sessions and even this one.
+
+52
+00:04:05,360 --> 00:04:11,430
+So our first speaker in Asia
+is a Leo Postovoit . I hope
+
+53
+00:04:11,450 --> 00:04:13,010
+I pronounced that correct.
+
+54
+00:04:13,820 --> 00:04:15,980
+And he's going to give a session on why.
+
+55
+00:04:16,865 --> 00:04:23,575
+Website performance as a mindset, Leo
+heads, product and partnership at XWP.
+
+56
+00:04:23,915 --> 00:04:28,955
+One of my favorite organizations,
+a long time technologist Leo has
+
+57
+00:04:28,955 --> 00:04:34,325
+worked for various publishers,
+including San Francisco Chronicle, the
+
+58
+00:04:34,325 --> 00:04:36,875
+Denver post and low rider magazine.
+
+59
+00:04:38,420 --> 00:04:43,820
+With a background in design marketing
+and software engineering, Leo advises
+
+60
+00:04:43,910 --> 00:04:48,470
+on best practices for usability
+deployment and performance, across
+
+61
+00:04:48,860 --> 00:04:53,720
+many verticals from publishing and
+e-commerce to education and nonprofit.
+
+62
+00:04:55,670 --> 00:04:58,280
+Leo, we are here for you.
+
+63
+00:05:01,160 --> 00:05:01,790
+Hey everyone.
+
+64
+00:05:02,515 --> 00:05:04,414
+My name is Leo Postovoit.
+
+65
+00:05:04,435 --> 00:05:07,885
+I'm head of product strategy
+and partnerships, XWP.
+
+66
+00:05:08,155 --> 00:05:09,625
+It is a very early.
+
+67
+00:05:10,309 --> 00:05:11,840
+5:08 AM.
+
+68
+00:05:11,869 --> 00:05:13,489
+This is a real live clock.
+
+69
+00:05:13,820 --> 00:05:17,749
+Uh, this is not some strange recording
+from a distant past in the future, uh,
+
+70
+00:05:17,780 --> 00:05:21,169
+here in Germany where I am currently
+based, but I'm also doing some stuff
+
+71
+00:05:21,229 --> 00:05:25,309
+in APAC and also, uh, in the US I'm
+really excited today to talk to you
+
+72
+00:05:25,309 --> 00:05:27,409
+about website performance as a mindset.
+
+73
+00:05:27,440 --> 00:05:31,520
+And also I'm excited to kick off
+things here in the Asia session.
+
+74
+00:05:32,059 --> 00:05:35,239
+For WordFest live 2022.
+
+75
+00:05:35,239 --> 00:05:38,719
+So, um, if you have real
+questions, I'm a real human being.
+
+76
+00:05:38,749 --> 00:05:42,679
+It's good to see you all excited to
+see everything as we all come together
+
+77
+00:05:42,710 --> 00:05:45,109
+for this wonderful session here today.
+
+78
+00:05:45,979 --> 00:05:49,609
+So first things first, I wanted to
+talk a little bit about XWP, uh,
+
+79
+00:05:49,640 --> 00:05:51,140
+awesome organization that I work with.
+
+80
+00:05:51,200 --> 00:05:54,739
+Um, we are focused on building
+a better web at enterprise.
+
+81
+00:05:55,490 --> 00:05:58,320
+So, what this means for us is we
+build performance web class with
+
+82
+00:05:58,640 --> 00:06:01,940
+world-class solutions for enterprise
+media and technology companies.
+
+83
+00:06:02,330 --> 00:06:06,980
+Um, which means the very best in
+technology and the very best sites
+
+84
+00:06:06,980 --> 00:06:08,300
+that run on that same technology.
+
+85
+00:06:08,870 --> 00:06:13,490
+And so we work in a variety of verticals
+across the web, everything from awesome
+
+86
+00:06:13,490 --> 00:06:17,510
+publishers to awesome technology
+companies, to really cool things in
+
+87
+00:06:17,510 --> 00:06:20,300
+education and video games and nonprofits.
+
+88
+00:06:20,360 --> 00:06:20,660
+And.
+
+89
+00:06:22,175 --> 00:06:25,415
+But that's really not what you're
+here to talk about, uh, with me today,
+
+90
+00:06:25,805 --> 00:06:28,835
+what you really want to hear about is
+the growth and performance mindset.
+
+91
+00:06:29,405 --> 00:06:35,525
+So as we unpack and understand the ideas
+surrounding the web, we want to understand
+
+92
+00:06:35,525 --> 00:06:37,745
+how we measure what success looks like.
+
+93
+00:06:38,285 --> 00:06:41,375
+So how exactly do we measure success?
+
+94
+00:06:41,765 --> 00:06:46,865
+Well, do you know that that bare metric,
+uh, idea performance isn't measurable in a
+
+95
+00:06:46,865 --> 00:06:49,655
+single number or a single way at a level?
+
+96
+00:06:50,359 --> 00:06:53,989
+You have probably a dozen different
+metrics for your organization or
+
+97
+00:06:53,989 --> 00:06:56,030
+your clients even on, on site.
+
+98
+00:06:56,690 --> 00:06:59,750
+Um, as we unpack this conversation,
+you'll see that I'm really trying to
+
+99
+00:06:59,750 --> 00:07:03,950
+help you have the tools and language
+to understand how you'll be able to
+
+100
+00:07:03,950 --> 00:07:08,060
+engage with your audiences or your site
+or your customers in ways that will.
+
+101
+00:07:09,260 --> 00:07:12,110
+In terms of performance, you might
+measure them already around things
+
+102
+00:07:12,110 --> 00:07:16,520
+like form conversion, checkouts, or
+maybe click through rates, sometimes
+
+103
+00:07:16,520 --> 00:07:20,750
+organizations even further, and they might
+say appointments booked or NPS scores,
+
+104
+00:07:20,810 --> 00:07:22,550
+costumes, customer success surveys.
+
+105
+00:07:23,120 --> 00:07:23,630
+I find that.
+
+106
+00:07:24,665 --> 00:07:27,935
+All of these scores are really
+good to useful, but there's a key
+
+107
+00:07:27,935 --> 00:07:31,085
+metric that seems to come up again
+and again with us that we find that
+
+108
+00:07:31,085 --> 00:07:32,825
+it's really useful for your team.
+
+109
+00:07:32,825 --> 00:07:37,235
+Be able to think about at a high
+level, uh, in terms of things you can
+
+110
+00:07:37,235 --> 00:07:39,485
+do to improve your overall scores.
+
+111
+00:07:39,844 --> 00:07:44,015
+And that is page speed and page
+speed and slow loading as a whole.
+
+112
+00:07:44,135 --> 00:07:47,495
+We find that if you don't do this
+correctly, you'll have a softer
+
+113
+00:07:47,495 --> 00:07:48,935
+score across all of these other.
+
+114
+00:07:49,895 --> 00:07:53,175
+So, if you find that your page good
+scores are slow through lighthouse
+
+115
+00:07:53,195 --> 00:07:56,045
+are page speed insights or anything
+else that you're doing altogether,
+
+116
+00:07:56,285 --> 00:07:57,605
+you probably should start there.
+
+117
+00:07:57,665 --> 00:07:59,405
+And then we continue
+to optimize from there.
+
+118
+00:08:00,785 --> 00:08:05,255
+Um, there was a great study done a
+couple of, uh, a couple of years ago
+
+119
+00:08:05,255 --> 00:08:09,575
+now because COVID brain and everything
+else as is the other, uh, Deloitte did
+
+120
+00:08:09,575 --> 00:08:15,245
+a wonderful study and, uh, early 2020
+that talked about the ideas of what
+
+121
+00:08:15,245 --> 00:08:17,435
+it meant to optimize for page views.
+
+122
+00:08:18,125 --> 00:08:21,185
+So when these things come
+together, we really think you
+
+123
+00:08:21,185 --> 00:08:22,745
+need to care about your users.
+
+124
+00:08:23,960 --> 00:08:26,810
+And what delights said was that if
+you give your customers the kind of
+
+125
+00:08:26,810 --> 00:08:29,900
+experience that exact you'd expect
+to watch these customers to be happy,
+
+126
+00:08:29,930 --> 00:08:31,489
+otherwise they would leave quickly.
+
+127
+00:08:32,089 --> 00:08:36,140
+And within this, we saw that at
+based on a 0.1 second, natural
+
+128
+00:08:36,140 --> 00:08:36,950
+mobile student group grouping.
+
+129
+00:08:37,250 --> 00:08:41,180
+We saw a positive change, the
+number of page views version rates.
+
+130
+00:08:41,539 --> 00:08:45,349
+And in some cases we saw for
+just a single 0.1 second.
+
+131
+00:08:45,349 --> 00:08:49,970
+So a hundred milliseconds in total, we
+saw retail conversions increased by 8.4%.
+
+132
+00:08:50,300 --> 00:08:52,520
+And an average order value is by 9.2.
+
+133
+00:08:53,300 --> 00:08:55,760
+So pretty substantial as these things go.
+
+134
+00:08:56,119 --> 00:08:58,790
+Um, in terms of page speed, we
+find that if organizations care
+
+135
+00:08:58,790 --> 00:09:01,579
+about these things, you'll be
+able to grow pretty substantially.
+
+136
+00:09:03,290 --> 00:09:06,500
+Uh, actually people like to call
+this as the mindset of these
+
+137
+00:09:06,619 --> 00:09:07,520
+as this is coming together.
+
+138
+00:09:07,790 --> 00:09:10,760
+So performance is a mindset is
+critical because if you can't
+
+139
+00:09:10,760 --> 00:09:12,079
+identify all the factors that are.
+
+140
+00:09:12,755 --> 00:09:15,785
+You won't be able to make the data
+driven decisions that will be able to
+
+141
+00:09:15,785 --> 00:09:18,545
+help you understand what would be able
+to make it, make you drive further.
+
+142
+00:09:19,175 --> 00:09:23,165
+So if you can decide what you want
+to focus on first, you'll have to
+
+143
+00:09:23,165 --> 00:09:25,505
+ultimately sacrifice the things
+that would be helping you along the
+
+144
+00:09:25,505 --> 00:09:27,065
+way, especially in the context of.
+
+145
+00:09:29,149 --> 00:09:32,450
+Um, another great case study that
+we'd like to talk about is a case that
+
+146
+00:09:32,450 --> 00:09:36,589
+he's done about 10 years ago from an
+Austin journal called behavioral and
+
+147
+00:09:36,589 --> 00:09:37,910
+behavior and information technology.
+
+148
+00:09:38,450 --> 00:09:42,800
+And so this was done back before
+mobile technology was the norm back
+
+149
+00:09:42,800 --> 00:09:46,220
+before we thought mobile technology
+would be the, uh, the standard across.
+
+150
+00:09:47,315 --> 00:09:50,345
+And at the time when people weren't
+engaging just with desktops, which
+
+151
+00:09:50,345 --> 00:09:53,675
+are typically slower as a part of the
+experience, they'd found that users
+
+152
+00:09:53,675 --> 00:09:58,415
+will Bandon a webpage bending to
+form it 50, 50 milliseconds of delay.
+
+153
+00:09:58,655 --> 00:10:00,605
+I prevented them being able to engage.
+
+154
+00:10:00,935 --> 00:10:04,145
+And so if we found is that it's
+critical for you to focus on eight and
+
+155
+00:10:04,145 --> 00:10:05,405
+it prevents your users to be happy.
+
+156
+00:10:05,915 --> 00:10:09,815
+So if you're finding that you have 50,
+50 milliseconds or more of delay beyond
+
+157
+00:10:09,815 --> 00:10:13,535
+what standards, Hey, you're not going
+to be able to engage with users at a
+
+158
+00:10:13,535 --> 00:10:15,005
+high level and you should be tracking.
+
+159
+00:10:16,220 --> 00:10:19,310
+The numbers from 10 years ago are
+just as true as they are today.
+
+160
+00:10:19,550 --> 00:10:24,079
+And so if your numbers don't meet the
+thresholds for critical, do your best.
+
+161
+00:10:24,740 --> 00:10:28,159
+So as we look at this idea of web
+experience, as well as this idea of
+
+162
+00:10:28,159 --> 00:10:32,419
+content as a whole, we really unpack this
+through will be called the four pillars.
+
+163
+00:10:32,869 --> 00:10:36,679
+So our next WP, we talk about this
+four pillar experience as a holistic
+
+164
+00:10:36,679 --> 00:10:41,030
+look, and that holistic look talks
+with the idea of an experiential.
+
+165
+00:10:41,915 --> 00:10:46,234
+So these four experiences, aren't
+just focused on any one of these, but
+
+166
+00:10:46,234 --> 00:10:48,005
+rather they're together interlinked.
+
+167
+00:10:48,454 --> 00:10:50,645
+Um, and we're going to talk primarily
+about page speed, but I've been
+
+168
+00:10:50,645 --> 00:10:51,995
+cooking mentioned the others as well.
+
+169
+00:10:52,295 --> 00:10:55,954
+You spell it out for us as measured
+through the concepts of UX and design.
+
+170
+00:10:56,285 --> 00:10:59,734
+So this is a measurable way of
+understanding how easy it is to
+
+171
+00:10:59,734 --> 00:11:01,685
+engage the webpage conversion.
+
+172
+00:11:01,775 --> 00:11:07,055
+As you probably understand from a forum or
+booking journey, something that will tell
+
+173
+00:11:07,055 --> 00:11:09,185
+us whether a user actually did the thing.
+
+174
+00:11:10,685 --> 00:11:12,004
+And retention either.
+
+175
+00:11:12,004 --> 00:11:15,065
+Are they continuing to come back
+to that customer journey experience
+
+176
+00:11:15,065 --> 00:11:19,024
+as we expect them to, or maybe the
+second or seven or 12 purchase, right.
+
+177
+00:11:19,055 --> 00:11:22,655
+We want to be able to see are they
+doing the things they want to do, but
+
+178
+00:11:22,655 --> 00:11:26,764
+if we were to pinpoint to a single
+metric of these four things, the XVP
+
+179
+00:11:26,764 --> 00:11:30,214
+considers to be the sort of critical
+elements around Patriot experience.
+
+180
+00:11:30,454 --> 00:11:32,494
+We see that, I'm sorry.
+
+181
+00:11:32,494 --> 00:11:34,565
+I brought up performance
+and the experience, the pain
+
+182
+00:11:34,565 --> 00:11:35,645
+space is the critical element.
+
+183
+00:11:36,454 --> 00:11:40,355
+So what that means for us as to how
+long it takes a user to make a request,
+
+184
+00:11:40,415 --> 00:11:43,325
+to build all this into the background
+and deliver that back to that browser.
+
+185
+00:11:43,984 --> 00:11:48,214
+And so if you don't have good page
+experience, we will see all, all of
+
+186
+00:11:48,214 --> 00:11:51,395
+these four metrics will be slower
+and lower than with like humidity.
+
+187
+00:11:51,994 --> 00:11:56,135
+And so what we find is that if you just
+focus on page B, just focus on this
+
+188
+00:11:56,135 --> 00:12:00,125
+as a starting element, you can do why
+the bit to get started with, because.
+
+189
+00:12:01,175 --> 00:12:04,265
+And so page speed, we find
+impacts nearly every site metrics.
+
+190
+00:12:04,265 --> 00:12:08,525
+So also things like conversion,
+things like time on site, bounce rate,
+
+191
+00:12:08,734 --> 00:12:09,724
+things that will go even further.
+
+192
+00:12:10,685 --> 00:12:13,744
+And page speed has a ton of
+metrics, uh, within these
+
+193
+00:12:13,744 --> 00:12:15,395
+different elements you can pull up.
+
+194
+00:12:15,815 --> 00:12:20,824
+Um, however, we'd like to ideally focus on
+just a tiny subset at least a day, because
+
+195
+00:12:20,824 --> 00:12:24,354
+we know that this has a critical metric,
+an oven that's just like to focus on.
+
+196
+00:12:24,374 --> 00:12:26,465
+We talk about these things
+as the core website.
+
+197
+00:12:27,485 --> 00:12:30,935
+So the court vitals are a little bit
+confusing, but I promise you by the end of
+
+198
+00:12:30,935 --> 00:12:34,865
+the day, stop, we'll be able to help you
+understand what you can do to be able to
+
+199
+00:12:34,865 --> 00:12:36,635
+pull from a further level of what's there.
+
+200
+00:12:38,165 --> 00:12:42,005
+So, uh, Google defines the core
+bottles as a framework to measure
+
+201
+00:12:42,064 --> 00:12:43,805
+your users page speed experience.
+
+202
+00:12:44,405 --> 00:12:47,765
+Um, that sounds like a big
+topic, but I promise you it's
+
+203
+00:12:47,795 --> 00:12:49,025
+relatively straightforward.
+
+204
+00:12:50,105 --> 00:12:52,805
+So previously before 2020.
+
+205
+00:12:54,490 --> 00:12:57,730
+Things such as time to first bite,
+especially in the context of posting
+
+206
+00:12:58,270 --> 00:13:01,060
+or first Contentful paint, which
+is how quickly it'll take to load
+
+207
+00:13:01,060 --> 00:13:04,030
+something on the screen or the time
+to interact in that amount of time.
+
+208
+00:13:04,030 --> 00:13:06,880
+It takes to load all those obstacles on
+the page and get all thinking right there.
+
+209
+00:13:07,660 --> 00:13:12,010
+Well, Google bot and Chrome and other
+power special up to 200 different
+
+210
+00:13:12,010 --> 00:13:15,370
+metrics of a pace speed, uh, on
+a site as well as all the other.
+
+211
+00:13:16,745 --> 00:13:19,535
+Each of these different elements
+are kind of confusing because
+
+212
+00:13:19,535 --> 00:13:21,785
+there's a lot of things that seem
+to overlap on top of each other.
+
+213
+00:13:22,084 --> 00:13:25,145
+And it's hard to say, well, whether
+it a good FCP will provide a good
+
+214
+00:13:25,145 --> 00:13:26,435
+experience, if ultimately you want it.
+
+215
+00:13:26,525 --> 00:13:29,795
+I use it to interact after
+all, a lot of discussion.
+
+216
+00:13:29,795 --> 00:13:32,555
+Google came together inside of the
+three metrics, the large screen
+
+217
+00:13:32,555 --> 00:13:36,095
+temporal paint, the first input delay
+and the creative layout shift are
+
+218
+00:13:36,095 --> 00:13:38,314
+actually the three critical things
+you probably should be focusing on.
+
+219
+00:13:39,515 --> 00:13:41,885
+And I know this is going to sound
+a little bit confusing because
+
+220
+00:13:41,885 --> 00:13:44,045
+there's a lot of numbers of lumps
+from a purchase we're talking about.
+
+221
+00:13:44,900 --> 00:13:48,350
+But let's talk about this from the user
+perspective, because users ultimately
+
+222
+00:13:48,350 --> 00:13:49,430
+will tell us what you want to do.
+
+223
+00:13:50,240 --> 00:13:53,240
+And from a user perspective, we
+like to think about, you know, the
+
+224
+00:13:53,240 --> 00:13:57,740
+idea of core vitals, uh, to be happy
+and loyal, want users to be happy
+
+225
+00:13:58,010 --> 00:13:59,390
+and engaged with our platforms.
+
+226
+00:13:59,840 --> 00:14:02,360
+We want project product managers
+who are building platforms with
+
+227
+00:14:02,360 --> 00:14:05,000
+us, or with websites, thus, we'll
+be talking about, yes, there's you
+
+228
+00:14:05,000 --> 00:14:08,090
+have to be in future customers or
+happy, or, Hey, should we feature?
+
+229
+00:14:08,120 --> 00:14:10,250
+Africans are happy or
+Hey should be feature.
+
+230
+00:14:10,280 --> 00:14:11,390
+And our suppliers are happy.
+
+231
+00:14:11,570 --> 00:14:13,459
+We'll want to be ultimately
+trying to move things on.
+
+232
+00:14:14,960 --> 00:14:17,900
+Developers really like to see if
+the core vitals as a meaningful
+
+233
+00:14:17,900 --> 00:14:21,740
+metric that is actually measurable
+in a neutral way across all sites.
+
+234
+00:14:22,040 --> 00:14:25,340
+If you have good fast scores and
+everyone's happy, then executives,
+
+235
+00:14:25,340 --> 00:14:28,040
+of course, who are paying for these
+types of things are looking to monitor
+
+236
+00:14:28,040 --> 00:14:29,450
+these things in terms of success.
+
+237
+00:14:29,870 --> 00:14:31,370
+So this is, that's an
+opportunity for business growth.
+
+238
+00:14:32,720 --> 00:14:33,770
+All of these three metrics.
+
+239
+00:14:33,770 --> 00:14:35,990
+Let's talk about what they
+mean and how we define them.
+
+240
+00:14:36,890 --> 00:14:39,200
+So with LCP, we're focusing on.
+
+241
+00:14:40,160 --> 00:14:43,820
+At a basic level we want to define
+is the thing that we want to see
+
+242
+00:14:44,060 --> 00:14:45,770
+actually loading in an efficient way.
+
+243
+00:14:46,880 --> 00:14:52,219
+Uh, if LCP is a lower than 2.5 seconds
+threshold, we know that load is too
+
+244
+00:14:52,219 --> 00:14:57,320
+slow for what users are expecting in
+terms of FID we're expecting for the
+
+245
+00:14:57,320 --> 00:14:59,270
+first interaction that a user wants.
+
+246
+00:14:59,540 --> 00:15:02,810
+So in this case, we have an example of
+a user trying to interact with a search
+
+247
+00:15:02,810 --> 00:15:07,459
+widget or perhaps on a menu or a back
+button, whatever it might be on that given
+
+248
+00:15:07,459 --> 00:15:09,320
+application, especially in the context of.
+
+249
+00:15:10,655 --> 00:15:14,225
+If the application is not responsive
+and a facet of experience,
+
+250
+00:15:14,375 --> 00:15:15,905
+the user is going to leave.
+
+251
+00:15:16,025 --> 00:15:19,835
+And the public one to build a bad trust
+that experts is there in terms of FID,
+
+252
+00:15:19,835 --> 00:15:23,855
+we're expecting at least a hundred
+millisecond response or faster to be able
+
+253
+00:15:23,855 --> 00:15:25,415
+to determine what's going to be good.
+
+254
+00:15:26,555 --> 00:15:29,105
+And the most egregious I
+like to call out is CLS.
+
+255
+00:15:29,495 --> 00:15:32,375
+So you probably have experienced this,
+this one's at some point in your, and
+
+256
+00:15:32,375 --> 00:15:35,885
+your time on the internet, you've been
+trying to go to cancel button, but
+
+257
+00:15:35,885 --> 00:15:37,505
+instead you actually ended up hitting.
+
+258
+00:15:38,404 --> 00:15:42,394
+And depending on the submit button
+by mistake, this is because that CLS
+
+259
+00:15:42,425 --> 00:15:45,394
+has this idea of positioning where
+things don't necessarily line up.
+
+260
+00:15:45,785 --> 00:15:48,604
+So perhaps you're trying to engage
+with content, but you see an ad.
+
+261
+00:15:48,904 --> 00:15:49,775
+Maybe you want to click.
+
+262
+00:15:49,805 --> 00:15:50,134
+Yes.
+
+263
+00:15:50,134 --> 00:15:51,455
+But you see no that the simple.
+
+264
+00:15:52,219 --> 00:15:54,740
+We don't want you to experience
+things that are ultimately driving
+
+265
+00:15:54,740 --> 00:15:56,180
+you down the wrong direction.
+
+266
+00:15:56,570 --> 00:16:01,370
+So of these three things, we find that
+if you have a good LCP, so a really
+
+267
+00:16:01,370 --> 00:16:06,500
+fast loading site in low FID and easy
+to interact with score that allows you
+
+268
+00:16:06,620 --> 00:16:10,550
+to interact with the application and
+the low CLS where they lay out does
+
+269
+00:16:10,550 --> 00:16:14,750
+not shift very frequently and very low
+altogether within the page painting,
+
+270
+00:16:15,020 --> 00:16:16,459
+you have a good experience there.
+
+271
+00:16:17,975 --> 00:16:21,935
+And so, uh, across the board, one of
+our key partners, Google, we worked with
+
+272
+00:16:21,935 --> 00:16:26,225
+last five or six years at this point,
+we've seen that they've seen incredible
+
+273
+00:16:26,525 --> 00:16:28,594
+growth, uh, with various customers.
+
+274
+00:16:28,955 --> 00:16:33,604
+So on this first example with G
+I G E D I a group, a editorial
+
+275
+00:16:33,904 --> 00:16:39,035
+publisher out of Italy, they saw an
+incredible increase, um, with these
+
+276
+00:16:39,035 --> 00:16:41,675
+types of scores by decreasing CLSC.
+
+277
+00:16:42,469 --> 00:16:46,760
+So by increasing these things we
+saw in major increase in basic
+
+278
+00:16:46,760 --> 00:16:47,930
+performance, things that were there.
+
+279
+00:16:48,350 --> 00:16:53,150
+So by decreasing CLS, we saw that
+people didn't leave a site sending,
+
+280
+00:16:53,390 --> 00:16:55,820
+uh, Lazada, a Singapore based site.
+
+281
+00:16:56,000 --> 00:16:57,709
+We saw by decreasing LCP.
+
+282
+00:16:57,770 --> 00:17:02,390
+We saw an increase in conversion rate
+by 17%, pretty high scoring us there.
+
+283
+00:17:03,229 --> 00:17:06,320
+And then, yeah, which I believe
+is a, um, a Korean website.
+
+284
+00:17:06,500 --> 00:17:10,460
+We saw a decrease of LCP with an
+increase of the rate by a hundred.
+
+285
+00:17:11,119 --> 00:17:15,260
+So pretty powerful scores that we're
+able to increase over time with a
+
+286
+00:17:15,260 --> 00:17:17,540
+certain amount of focus on metrics.
+
+287
+00:17:17,869 --> 00:17:22,070
+So if need, ultimately try to improve
+these basic scores, we should see at
+
+288
+00:17:22,070 --> 00:17:26,090
+basic increase in engagement, but that's
+bounce rate conversion rate, click
+
+289
+00:17:26,090 --> 00:17:27,500
+through rate three different metrics.
+
+290
+00:17:27,500 --> 00:17:29,840
+You might measure it in terms
+of success for your given.
+
+291
+00:17:31,339 --> 00:17:35,480
+Well, Y one of the things at a
+basic level is that core vitals
+
+292
+00:17:35,659 --> 00:17:36,830
+are about user engagement.
+
+293
+00:17:36,830 --> 00:17:39,980
+They're not just measurements of
+what it's pinned on the page, but
+
+294
+00:17:39,980 --> 00:17:42,649
+there are other focused on the
+things that will show when users.
+
+295
+00:17:43,594 --> 00:17:47,435
+So if you ultimately delay content,
+when it doesn't allow users to engage,
+
+296
+00:17:47,585 --> 00:17:49,804
+people will ultimately get away quickly.
+
+297
+00:17:50,404 --> 00:17:52,565
+We also find that in terms
+of publishing content.
+
+298
+00:17:52,565 --> 00:17:55,955
+So this is typically focused on new
+sites, but it does apply to blog sites.
+
+299
+00:17:56,344 --> 00:18:00,605
+The huge sector within WordPress, we found
+that people will, will no longer engage
+
+300
+00:18:00,605 --> 00:18:01,565
+them as that we're expecting for them.
+
+301
+00:18:02,074 --> 00:18:03,514
+And they give good scores.
+
+302
+00:18:03,725 --> 00:18:07,565
+We usually see a 23% lower
+abandonment rate in those sites
+
+303
+00:18:07,565 --> 00:18:08,734
+with excellence, core models.
+
+304
+00:18:09,544 --> 00:18:10,444
+That's what we're after.
+
+305
+00:18:10,565 --> 00:18:13,435
+We want people to be engaging and to be
+happy with the content they're getting.
+
+306
+00:18:14,794 --> 00:18:18,455
+So all of a sudden done, I think it's
+tips of Google are great for you,
+
+307
+00:18:18,904 --> 00:18:21,995
+but how does that actually matter
+for your, your website, your site?
+
+308
+00:18:22,054 --> 00:18:24,815
+It's probably running on WordPress
+and really focused on content.
+
+309
+00:18:25,804 --> 00:18:31,205
+Well, you distill this down to three best
+practices, uh, and primarily paid speed
+
+310
+00:18:31,205 --> 00:18:34,565
+being our main guidance, because we think
+that's probably the first thing you need
+
+311
+00:18:34,565 --> 00:18:38,435
+to care about because it seems that like
+most sites today, for some reason on the
+
+312
+00:18:38,435 --> 00:18:40,444
+web don't care as much as they could.
+
+313
+00:18:41,735 --> 00:18:45,125
+First, we want you to understand
+your current state of your
+
+314
+00:18:45,125 --> 00:18:46,444
+site or multiple sites of.
+
+315
+00:18:47,509 --> 00:18:48,020
+Second.
+
+316
+00:18:48,049 --> 00:18:52,279
+We want you to evaluate that and determine
+how you get your use with the need.
+
+317
+00:18:52,790 --> 00:18:56,060
+And then third, we want you to
+ultimately transform and to treat
+
+318
+00:18:56,060 --> 00:18:57,710
+performance as your long-term goal.
+
+319
+00:18:59,090 --> 00:19:01,940
+So within these three, we're going to
+spend a couple of minutes here going
+
+320
+00:19:01,940 --> 00:19:05,750
+through each of these processes to
+determine the best practice of how we
+
+321
+00:19:05,750 --> 00:19:07,009
+ultimately shift these things forward.
+
+322
+00:19:09,350 --> 00:19:13,219
+So first, do you actually understand your
+current state of your websites before.
+
+323
+00:19:14,150 --> 00:19:17,929
+Um, we use a variety of tools, uh,
+that we think are really useful.
+
+324
+00:19:17,960 --> 00:19:20,270
+So one of them we find
+that's really critical.
+
+325
+00:19:20,270 --> 00:19:20,900
+It's free.
+
+326
+00:19:20,900 --> 00:19:24,290
+It's easy to do is a tool
+called page speed insights.
+
+327
+00:19:25,070 --> 00:19:29,030
+So Patriot insights is probably our main
+tool because it's a neutral heuristic.
+
+328
+00:19:29,420 --> 00:19:30,440
+Anyone can use this.
+
+329
+00:19:30,469 --> 00:19:35,150
+It's a self hosted, sorry, a cloud
+hosted version of lighthouse, uh, on
+
+330
+00:19:35,150 --> 00:19:39,830
+the web that who uses that you can,
+uh, mutually determine a score based
+
+331
+00:19:39,830 --> 00:19:42,000
+on the improvements of lab data.
+
+332
+00:19:42,965 --> 00:19:46,925
+And also synergizes some data from crux,
+the crumb user experience apart, and will
+
+333
+00:19:46,925 --> 00:19:49,085
+tell us about how fast the website is.
+
+334
+00:19:50,284 --> 00:19:52,205
+We have a couple of other tools
+with the are really critical, like
+
+335
+00:19:52,205 --> 00:19:54,784
+Google search console will tell
+you about errors and warnings.
+
+336
+00:19:55,205 --> 00:19:59,134
+Google analytics will tell you about how
+successful you are getting to certain
+
+337
+00:19:59,134 --> 00:20:01,864
+goals within the site and how you navigate
+through these different things that are
+
+338
+00:20:01,864 --> 00:20:05,915
+there to Libra, which we find is really
+useful for determining the overall
+
+339
+00:20:05,915 --> 00:20:10,594
+health within a site and the lab scores
+across over time and new Relic, which
+
+340
+00:20:10,594 --> 00:20:11,614
+should tell you about server performance.
+
+341
+00:20:12,784 --> 00:20:16,715
+Ultimately, we want to be able to
+determine a good set of lab scores
+
+342
+00:20:16,715 --> 00:20:21,154
+and a good set of, uh, uh, real
+user metrics scores, field scores.
+
+343
+00:20:21,154 --> 00:20:25,445
+If you will, within this, we want
+you to ultimately measure good
+
+344
+00:20:25,445 --> 00:20:28,085
+grades, but also aim for results.
+
+345
+00:20:28,475 --> 00:20:32,945
+You want to find how far gets
+and to continue to move along.
+
+346
+00:20:34,070 --> 00:20:37,549
+So of all of these though, there's
+a lot of tools we've talked about.
+
+347
+00:20:37,820 --> 00:20:40,250
+The one I'll mention
+again, is page insights.
+
+348
+00:20:40,549 --> 00:20:44,060
+So the nice thing about business,
+that it's a Google hosted lighthouse
+
+349
+00:20:44,060 --> 00:20:45,980
+scoring that as relatively neutral.
+
+350
+00:20:46,279 --> 00:20:50,090
+So if you poke and prod at this, and
+here's an example of xDB the site
+
+351
+00:20:50,420 --> 00:20:53,330
+that we help maintain, you'll see
+that we've got a pretty good score.
+
+352
+00:20:53,360 --> 00:20:55,790
+It's because we spent a lot of time
+caring and concerning ourselves
+
+353
+00:20:55,790 --> 00:20:57,070
+with what our users are seeking in.
+
+354
+00:20:57,070 --> 00:21:01,310
+The wild that field data is based
+off of real users and what they're
+
+355
+00:21:01,310 --> 00:21:02,179
+actually seeing in the wild.
+
+356
+00:21:02,915 --> 00:21:06,815
+The overall lab score will be helpful
+to determine and tell you like how
+
+357
+00:21:06,815 --> 00:21:08,165
+far along the way you've gotten.
+
+358
+00:21:08,614 --> 00:21:12,844
+Uh, but ultimately if your scores are
+good, it's like getting too many results.
+
+359
+00:21:13,174 --> 00:21:16,114
+If your at scores are low, though,
+it's going to give you a huge set
+
+360
+00:21:16,114 --> 00:21:17,554
+of actionable recommendations.
+
+361
+00:21:17,855 --> 00:21:20,614
+For example, can you improve the
+way your fonts are delivered?
+
+362
+00:21:20,674 --> 00:21:23,975
+Can you improve the way your media is
+delivered in terms of images or videos?
+
+363
+00:21:24,304 --> 00:21:25,955
+There's a lot you can do typically.
+
+364
+00:21:27,755 --> 00:21:31,505
+Even more so though, if you haven't
+actually paid attention to a
+
+365
+00:21:31,505 --> 00:21:34,715
+basic concept of user experience,
+so take your actual phone.
+
+366
+00:21:34,715 --> 00:21:36,395
+And so for me here, it's 5.48.
+
+367
+00:21:36,395 --> 00:21:37,534
+And again, it's a real time.
+
+368
+00:21:37,745 --> 00:21:41,495
+I'm here in a live conversation
+with Hugh out here with you,
+
+369
+00:21:41,554 --> 00:21:43,505
+uh, for work best live 2022.
+
+370
+00:21:44,105 --> 00:21:46,445
+You want to actually
+examine what your users are.
+
+371
+00:21:47,614 --> 00:21:51,725
+So, if you see that your users
+are getting lots of ads and the
+
+372
+00:21:51,725 --> 00:21:53,705
+concept of getting is a headline.
+
+373
+00:21:53,705 --> 00:21:57,574
+So here is a pretty terrible
+example of a fake news experience
+
+374
+00:21:57,784 --> 00:21:59,344
+where the headline is cut off.
+
+375
+00:21:59,645 --> 00:22:04,205
+And we have an ad above an ad
+above a newsletter, above a prompt.
+
+376
+00:22:04,205 --> 00:22:06,304
+We install and install the app button.
+
+377
+00:22:06,605 --> 00:22:06,975
+Right?
+
+378
+00:22:07,085 --> 00:22:09,574
+Pretty typical of the experience
+you're getting across the web.
+
+379
+00:22:09,935 --> 00:22:10,565
+We don't want.
+
+380
+00:22:11,569 --> 00:22:15,020
+At a basic level, similar to the
+principles of agile, the agile manifesto.
+
+381
+00:22:15,020 --> 00:22:18,589
+Many years ago, we care more
+about content than advertisements.
+
+382
+00:22:18,830 --> 00:22:21,049
+We care more about integration
+and attraction that we do
+
+383
+00:22:21,049 --> 00:22:22,399
+about prompts and distraction.
+
+384
+00:22:22,730 --> 00:22:25,909
+We care more about delightful
+experiences than we do about conversion.
+
+385
+00:22:26,389 --> 00:22:29,480
+If you create experiences that people
+want to engage with the things they're
+
+386
+00:22:29,480 --> 00:22:33,440
+presenting, then people are probably
+going to more likely to present themselves
+
+387
+00:22:33,500 --> 00:22:34,879
+with the corn twins use to practice.
+
+388
+00:22:36,530 --> 00:22:41,150
+So, if you can focus on your user, as
+opposed to your conversion goal, the
+
+389
+00:22:41,150 --> 00:22:42,830
+user will more likely one to convert.
+
+390
+00:22:43,639 --> 00:22:47,210
+And if you fail the critical task of
+ultimately getting the user, what they
+
+391
+00:22:47,240 --> 00:22:49,400
+came for, they're going to abandon.
+
+392
+00:22:50,420 --> 00:22:53,270
+And if they abandoned nothing
+else matters, you failed on a
+
+393
+00:22:53,270 --> 00:22:54,409
+basic premise of what you can do.
+
+394
+00:22:55,550 --> 00:22:58,699
+So if you aren't doing a good enough
+job being introspective on what
+
+395
+00:22:58,699 --> 00:23:00,889
+things are there, then you use,
+those are likely going to leave.
+
+396
+00:23:01,820 --> 00:23:04,880
+And we think that's a critical thing you
+should be doing as a review of all of
+
+397
+00:23:04,880 --> 00:23:07,969
+your sites, of all events you're touching
+you could be doing in front of you.
+
+398
+00:23:09,110 --> 00:23:11,389
+Um, well that's the
+first part of us, right?
+
+399
+00:23:11,960 --> 00:23:15,790
+In terms of content, we probably also
+want to consider the other elements of.
+
+400
+00:23:16,730 --> 00:23:18,409
+Um, I'm going to list here.
+
+401
+00:23:18,409 --> 00:23:21,589
+Just four things we thought over the
+last couple of years are critical
+
+402
+00:23:21,589 --> 00:23:22,460
+for you to pay attention to.
+
+403
+00:23:22,460 --> 00:23:25,429
+So for products that we've ultimately
+worked on over the last few years,
+
+404
+00:23:25,639 --> 00:23:28,609
+that we think can help with these
+things along the way, if you thought
+
+405
+00:23:28,609 --> 00:23:31,580
+with the content journey, at least
+for our some awesome plugins that
+
+406
+00:23:31,580 --> 00:23:33,529
+are free and widely available across.
+
+407
+00:23:34,730 --> 00:23:36,590
+The first is jet pack boost.
+
+408
+00:23:36,679 --> 00:23:39,199
+So this is a free plugin
+that helps you with improving
+
+409
+00:23:39,199 --> 00:23:40,520
+CSS and JavaScript delivery.
+
+410
+00:23:40,850 --> 00:23:44,210
+The second is the amp for WordPress
+plugin, which helps things like, um,
+
+411
+00:23:44,480 --> 00:23:47,870
+providing critical CSS, uh, within
+the webpage, uh, that your ultimate.
+
+412
+00:23:48,665 --> 00:23:52,565
+Google scikit-learn should provide in-page
+analysis in terms of the things you're
+
+413
+00:23:52,565 --> 00:23:57,214
+doing for analytics, pretty powerful
+tool built in, uh, to a lot of different
+
+414
+00:23:57,214 --> 00:24:01,174
+aspects of WordPress and the PWA plugin,
+which makes progressive web as possible to
+
+415
+00:24:01,174 --> 00:24:05,495
+do things like offline node and a backer
+and rendering a content in fast way.
+
+416
+00:24:06,484 --> 00:24:09,455
+All of these performance related
+plugins can take your experience
+
+417
+00:24:09,544 --> 00:24:12,395
+even further if you paid attention
+to that experience of style.
+
+418
+00:24:12,875 --> 00:24:16,205
+So give your users what they want
+as early and often as possible.
+
+419
+00:24:16,264 --> 00:24:16,534
+You can be.
+
+420
+00:24:19,060 --> 00:24:21,940
+So after hearing all of this, how
+do you make sure this is going
+
+421
+00:24:21,940 --> 00:24:23,259
+to happen over the longterm?
+
+422
+00:24:23,739 --> 00:24:25,210
+Well, it becomes about strategy.
+
+423
+00:24:25,600 --> 00:24:28,839
+You no longer need to worry about
+the remediation problem, but rather
+
+424
+00:24:28,870 --> 00:24:30,190
+the strategic long-term problem.
+
+425
+00:24:30,940 --> 00:24:34,600
+So the elegant experiments should be
+ultimately focused on the realities
+
+426
+00:24:34,600 --> 00:24:38,319
+of technology and, you know, uh,
+in an era where we're trying to
+
+427
+00:24:38,319 --> 00:24:40,000
+be conservative around energy.
+
+428
+00:24:41,009 --> 00:24:44,940
+You consider it that lower bandwidth and
+also lower processing power means that
+
+429
+00:24:44,940 --> 00:24:46,650
+your users will get a faster experience.
+
+430
+00:24:46,710 --> 00:24:50,549
+If you could consider it, the ultimate
+render that experiences, that means
+
+431
+00:24:50,699 --> 00:24:52,049
+less better that's being consumed.
+
+432
+00:24:52,049 --> 00:24:52,830
+It means less network.
+
+433
+00:24:52,830 --> 00:24:55,770
+Topic is less storage, all
+that content and data it's.
+
+434
+00:24:55,799 --> 00:24:57,810
+Ultimately all the users are
+getting a faster experience.
+
+435
+00:24:58,679 --> 00:25:01,620
+In addition to this, one of our, one
+of my favorite, uh, colleagues, uh,
+
+436
+00:25:01,650 --> 00:25:06,270
+Mike , one of our lead, uh, front
+end developers spends a lot of time
+
+437
+00:25:06,270 --> 00:25:07,440
+with, but this idea of cognitive.
+
+438
+00:25:08,239 --> 00:25:11,870
+If you have a smaller, simpler,
+faster initial paint, your users
+
+439
+00:25:11,870 --> 00:25:14,659
+will experience a much more lighter
+experience at mobile expected.
+
+440
+00:25:15,110 --> 00:25:17,389
+Meaning don't load all
+the stuff above the fold.
+
+441
+00:25:17,659 --> 00:25:20,630
+Don't cram all the things that
+are there, give your users the
+
+442
+00:25:20,639 --> 00:25:22,190
+experience to expecting, right?
+
+443
+00:25:22,639 --> 00:25:25,639
+If you give your users experience are
+going to engage, but if you give them
+
+444
+00:25:25,699 --> 00:25:28,250
+a negative experience, they're going
+to bounce as quickly as possible.
+
+445
+00:25:28,580 --> 00:25:29,270
+We don't want the.
+
+446
+00:25:30,904 --> 00:25:32,165
+Going one step further.
+
+447
+00:25:32,674 --> 00:25:36,844
+What we've found is that everyone
+on your team probably cares what
+
+448
+00:25:36,844 --> 00:25:38,495
+the idea of performance results.
+
+449
+00:25:38,815 --> 00:25:42,545
+This means conversion, retention, page
+experience, and so on and so forth.
+
+450
+00:25:43,114 --> 00:25:46,505
+So if you haven't actually considered
+what your engineers are thinking
+
+451
+00:25:46,505 --> 00:25:50,495
+about, when you're preparing a design,
+you're failing at a default setting
+
+452
+00:25:50,525 --> 00:25:54,304
+to be true under or now analysts
+or SEO, NRLS, talk to your team.
+
+453
+00:25:54,304 --> 00:25:55,114
+Who's focusing on this.
+
+454
+00:25:56,299 --> 00:25:59,839
+You want to ultimately design
+with performance rules in mind to
+
+455
+00:25:59,839 --> 00:26:02,750
+ultimately consider how your scores
+will improve over the long run.
+
+456
+00:26:03,319 --> 00:26:06,799
+You want to be rerunning your
+test early and often and consider
+
+457
+00:26:06,799 --> 00:26:09,080
+how you can ultimately improve
+those experiences over there.
+
+458
+00:26:09,799 --> 00:26:12,080
+Meaning if you ship a feature
+and you haven't rerun those
+
+459
+00:26:12,080 --> 00:26:14,690
+tests, you don't know if that's
+actually going to help you or her.
+
+460
+00:26:15,484 --> 00:26:18,275
+And sometimes the feature you thought
+was going to be good might actually
+
+461
+00:26:18,275 --> 00:26:21,005
+do the opposite or maybe not be
+as big as you thought it would be.
+
+462
+00:26:21,755 --> 00:26:25,205
+So we find that you need to not
+just measure them once, rather than
+
+463
+00:26:25,245 --> 00:26:26,495
+considering them over the long-term.
+
+464
+00:26:27,005 --> 00:26:31,085
+And also not just measure things
+in terms of initial page views, per
+
+465
+00:26:31,085 --> 00:26:33,725
+se, but also consider conversion
+metrics across the board.
+
+466
+00:26:33,964 --> 00:26:34,205
+Right.
+
+467
+00:26:34,205 --> 00:26:35,915
+So consider the entire lens.
+
+468
+00:26:36,154 --> 00:26:36,935
+What things will work by.
+
+469
+00:26:38,600 --> 00:26:41,449
+And the idea of the
+long-term goals are critical.
+
+470
+00:26:41,810 --> 00:26:44,600
+If you ultimately consider what
+is the metrics look like over the
+
+471
+00:26:44,600 --> 00:26:48,590
+proactive long-term metrics, you can
+ultimately be doing things that will
+
+472
+00:26:48,590 --> 00:26:50,120
+help you feel good about these things.
+
+473
+00:26:50,690 --> 00:26:54,650
+So the one funnels we talked about
+are focused on user research and these
+
+474
+00:26:54,650 --> 00:26:58,460
+user research metrics are focused on
+what's considered natural, according
+
+475
+00:26:58,460 --> 00:27:00,920
+to the researchers at Google, and
+then the positions I've thought
+
+476
+00:27:00,920 --> 00:27:02,360
+about there's metrics locally across.
+
+477
+00:27:03,830 --> 00:27:07,460
+And as the goalposts move, we want
+you to be focusing on continuing
+
+478
+00:27:07,460 --> 00:27:09,110
+to make them obsessed even faster.
+
+479
+00:27:09,590 --> 00:27:13,460
+So you can optimize with performance
+mindset across the board website would
+
+480
+00:27:13,460 --> 00:27:15,199
+be lighter, more nimble across the board.
+
+481
+00:27:15,920 --> 00:27:19,360
+So at a basic level, if you're given a
+choice to remove the barrier in a way,
+
+482
+00:27:19,389 --> 00:27:22,040
+your customers wouldn't you do it again.
+
+483
+00:27:22,040 --> 00:27:25,610
+The hardest part is the research which
+Google and other hospitalizations across
+
+484
+00:27:25,610 --> 00:27:27,409
+the board with the white have done.
+
+485
+00:27:27,710 --> 00:27:31,070
+So listen to the research and focus
+on what you can do about getting.
+
+486
+00:27:33,350 --> 00:27:35,300
+So all things said and done.
+
+487
+00:27:35,389 --> 00:27:38,330
+I have a couple of items for you to
+think back to your teams or maybe
+
+488
+00:27:38,330 --> 00:27:41,960
+onto your website and to be asking
+about what we can do to improve
+
+489
+00:27:42,080 --> 00:27:43,460
+the overall performance website.
+
+490
+00:27:44,630 --> 00:27:47,150
+So the first thing you should be
+doing is at least the measuring
+
+491
+00:27:47,179 --> 00:27:48,590
+things in terms of page speed.
+
+492
+00:27:49,310 --> 00:27:51,590
+And if you haven't actually done
+a good job in understanding your
+
+493
+00:27:51,590 --> 00:27:53,400
+current state, your page speed start.
+
+494
+00:27:54,139 --> 00:27:56,960
+So we're view this with the tools
+we talked about earlier at a
+
+495
+00:27:56,960 --> 00:27:58,580
+basic level of using lab tests.
+
+496
+00:27:58,610 --> 00:28:00,469
+Like the ones we talked
+about as well as field data.
+
+497
+00:28:00,770 --> 00:28:03,800
+So you can use Patriot insights,
+Patriot insights, reveals
+
+498
+00:28:03,830 --> 00:28:04,699
+a little bit of crux data.
+
+499
+00:28:05,000 --> 00:28:09,290
+You also pull the press reports directly
+and give your users what they need.
+
+500
+00:28:09,409 --> 00:28:13,400
+So at a bare, bare, bare minimum,
+consider meaning the industry best
+
+501
+00:28:13,400 --> 00:28:15,500
+practices, thresholds, or performance.
+
+502
+00:28:15,889 --> 00:28:18,320
+We also want to talk about
+other things too, right?
+
+503
+00:28:18,320 --> 00:28:21,259
+So not just support vitals
+are probably considered a time
+
+504
+00:28:21,259 --> 00:28:22,280
+interactive and time before.
+
+505
+00:28:23,135 --> 00:28:25,745
+Time interactive is, is important
+because if you've bought lots of
+
+506
+00:28:25,745 --> 00:28:28,415
+third-party JavaScript loading
+your page, it's probably providing
+
+507
+00:28:28,415 --> 00:28:29,315
+a pretty negative experience.
+
+508
+00:28:29,344 --> 00:28:31,175
+It's their time to first bite.
+
+509
+00:28:31,175 --> 00:28:34,185
+It's also critical because if you haven't
+considered how the hosting experience
+
+510
+00:28:34,185 --> 00:28:37,625
+folds into these things with lots of PHP,
+for example, a floating in the background,
+
+511
+00:28:37,895 --> 00:28:39,665
+it's going to end up hurting your scores.
+
+512
+00:28:40,145 --> 00:28:43,054
+You should be considered things like
+object caching, or perhaps a better host.
+
+513
+00:28:43,054 --> 00:28:46,145
+If you haven't done the things, the
+correct way to ultimately improve
+
+514
+00:28:46,145 --> 00:28:47,165
+the experience across the board.
+
+515
+00:28:48,485 --> 00:28:50,614
+Next up, we also want to talk
+about conversion rate metrics.
+
+516
+00:28:51,665 --> 00:28:55,264
+If you don't get Christian metrics are
+lower than Israel, we're expecting do
+
+517
+00:28:55,264 --> 00:28:58,745
+more to improve it and see what you
+can do to match those best practices.
+
+518
+00:28:58,745 --> 00:29:01,775
+And if you haven't done a good enough job,
+there's more, you probably can be doing.
+
+519
+00:29:03,155 --> 00:29:06,275
+And if by any sense, you haven't
+actually met these metrics.
+
+520
+00:29:06,485 --> 00:29:09,425
+We want you to go back and
+focus on mediation before you
+
+521
+00:29:09,425 --> 00:29:10,655
+move into the long-term, etc.
+
+522
+00:29:11,764 --> 00:29:14,255
+Finally, in the blonde combined
+set goals, we want you to talk
+
+523
+00:29:14,255 --> 00:29:17,525
+about this idea is a basic level
+of what we could do with property.
+
+524
+00:29:18,620 --> 00:29:21,859
+So as you ship a new feature, as
+you ship a new update, whatever it
+
+525
+00:29:21,859 --> 00:29:26,299
+might be, you should be acting on
+this idea of how we can improve these
+
+526
+00:29:26,299 --> 00:29:27,830
+integration experiences across the board.
+
+527
+00:29:28,370 --> 00:29:31,639
+Have you actually done a good enough
+job to determine whether you'd
+
+528
+00:29:31,639 --> 00:29:32,989
+be retesting the scores across.
+
+529
+00:29:34,489 --> 00:29:38,900
+And over the long-term, what we've seen
+is that Google and other organizations
+
+530
+00:29:38,929 --> 00:29:43,489
+being and so on have actually measured
+the scores in different ways over time.
+
+531
+00:29:43,969 --> 00:29:47,719
+So at core vitals ships, the new
+feature, which we know that was mentioned
+
+532
+00:29:47,929 --> 00:29:49,610
+a couple of times have less fence.
+
+533
+00:29:49,969 --> 00:29:50,929
+How will you respond to.
+
+534
+00:29:51,565 --> 00:29:54,475
+So at the goalpost moves
+are requires new things.
+
+535
+00:29:54,714 --> 00:29:58,134
+You'll ultimately want to be measuring
+new things along the way for these
+
+536
+00:29:58,134 --> 00:29:59,784
+page page experience metrics.
+
+537
+00:30:00,114 --> 00:30:03,415
+So this approach we've talked about is
+relatively neutral, regardless of what
+
+538
+00:30:03,415 --> 00:30:04,944
+page experience metrics are measuring for.
+
+539
+00:30:05,605 --> 00:30:09,174
+But the idea of caring about your users
+is the consistent part of the seasons.
+
+540
+00:30:11,239 --> 00:30:12,529
+So all that sudden done.
+
+541
+00:30:12,560 --> 00:30:16,159
+I want to say thank you for all coming
+today to talk about this awesome, uh,
+
+542
+00:30:16,190 --> 00:30:22,370
+topic here at the Big Orange Heart,
+uh, session at WordFest live 2022.
+
+543
+00:30:22,819 --> 00:30:24,949
+And I'm going to move into questions.
+
+544
+00:30:24,949 --> 00:30:27,860
+If anyone here in the audience
+has any questions for us.
+
+545
+00:30:33,319 --> 00:30:33,569
+Leo Postovoit: Hello?
+
+546
+00:30:33,620 --> 00:30:34,100
+Hello.
+
+547
+00:30:35,120 --> 00:30:37,819
+Yogesh Londhe: Hey, thank you very
+much for that amazing session.
+
+548
+00:30:38,179 --> 00:30:44,270
+And, uh, Yours was the first
+station in Asia region and a
+
+549
+00:30:44,270 --> 00:30:45,620
+very, very good morning to you.
+
+550
+00:30:46,190 --> 00:30:48,199
+Did you have your coffee or not yet?
+
+551
+00:30:48,980 --> 00:30:50,179
+Leo Postovoit: I I've had a tea.
+
+552
+00:30:50,300 --> 00:30:53,150
+It was a delicious turmeric tea.
+
+553
+00:30:54,230 --> 00:30:54,620
+Yogesh Londhe: Wow.
+
+554
+00:30:54,630 --> 00:30:54,889
+Wow.
+
+555
+00:30:54,889 --> 00:30:58,500
+Well tell me, tell me
+tea and a good t-shirt.
+
+556
+00:31:00,005 --> 00:31:03,094
+Leo Postovoit: Yes, unfortunately cleaned.
+
+557
+00:31:05,255 --> 00:31:05,884
+Okay.
+
+558
+00:31:06,815 --> 00:31:08,465
+Uh, so, uh, yep.
+
+559
+00:31:08,705 --> 00:31:09,364
+Hi Lux.
+
+560
+00:31:09,364 --> 00:31:12,455
+And, um, so we got a
+few questions for you,
+
+561
+00:31:13,924 --> 00:31:16,685
+Lax Mariappan: uh, before, you know
+
+562
+00:31:17,105 --> 00:31:20,705
+Yogesh Londhe: yeah, of course there
+will be ma many questions for you
+
+563
+00:31:20,705 --> 00:31:25,835
+from, you know, once you enter the
+community tent or something, But,
+
+564
+00:31:25,835 --> 00:31:27,695
+uh, we'll take a few questions here.
+
+565
+00:31:28,475 --> 00:31:28,895
+Okay.
+
+566
+00:31:28,955 --> 00:31:32,525
+Uh, you discussed a lot of
+important points and it was
+
+567
+00:31:32,614 --> 00:31:33,915
+very comprehensive the talk.
+
+568
+00:31:34,634 --> 00:31:38,344
+Could you discuss this
+lighthouse score and that, uh,
+
+569
+00:31:38,375 --> 00:31:40,534
+Chrome user experience score?
+
+570
+00:31:41,614 --> 00:31:42,335
+Uh, what is the.
+
+571
+00:31:43,715 --> 00:31:47,344
+Can you compare them and what does
+each one should, tell us more?
+
+572
+00:31:47,585 --> 00:31:47,764
+Yeah.
+
+573
+00:31:48,815 --> 00:31:49,145
+Yeah.
+
+574
+00:31:49,264 --> 00:31:53,585
+Leo Postovoit: So lighthouse is the
+name of a tool that comes with Chrome,
+
+575
+00:31:53,614 --> 00:31:55,565
+Google Chrome, inside your browser.
+
+576
+00:31:55,804 --> 00:31:58,864
+It's a tool that you can set
+up and we'll run on instance.
+
+577
+00:31:59,074 --> 00:32:03,094
+So lighthouse measure is a tool
+based on whatever the environment is.
+
+578
+00:32:03,784 --> 00:32:06,844
+Lighthouse can be measured
+with a specific set of frames.
+
+579
+00:32:07,580 --> 00:32:10,969
+So you can measure it as a mobile
+score or based on network conditions.
+
+580
+00:32:11,270 --> 00:32:15,889
+Um, it would be very different if running
+5g network conditions on a, you know, a
+
+581
+00:32:15,920 --> 00:32:23,000
+nine core, sorry, an eight core or 20 know
+28 core computer in a major developed city
+
+582
+00:32:23,210 --> 00:32:25,520
+versus the same one in an emerging market.
+
+583
+00:32:25,850 --> 00:32:28,699
+Those different scores are critical
+because we won't understand
+
+584
+00:32:28,909 --> 00:32:29,779
+what those things look like.
+
+585
+00:32:30,080 --> 00:32:33,739
+A small device with low spec hardware
+is completely different experience
+
+586
+00:32:33,980 --> 00:32:35,389
+measuring a device on an aspect.
+
+587
+00:32:36,409 --> 00:32:39,500
+Um, also we find is that
+it's a reality of a problem.
+
+588
+00:32:39,530 --> 00:32:43,550
+So as I said earlier on in the meeting
+here, I'm currently based in Germany, we
+
+589
+00:32:43,550 --> 00:32:47,389
+actually have terrible internet and what
+the city that I've been now, I love it.
+
+590
+00:32:47,449 --> 00:32:49,880
+But in reality, I actually have
+slower internet here than I've
+
+591
+00:32:49,880 --> 00:32:51,320
+had in certain developing markets.
+
+592
+00:32:51,650 --> 00:32:54,590
+That reality of what it's like
+to be and even inner cities.
+
+593
+00:32:54,889 --> 00:32:58,550
+So what that means is that I'm
+getting, um, 2, 3, 4 minute bits
+
+594
+00:32:58,550 --> 00:33:01,130
+down, which is slower than you
+might find in certain cities.
+
+595
+00:33:01,310 --> 00:33:04,100
+So even though network conditions
+I'm at currently, even in the
+
+596
+00:33:04,100 --> 00:33:05,179
+idea of a so-called developed.
+
+597
+00:33:05,944 --> 00:33:08,435
+You might find that you have these
+spotty connections and having things
+
+598
+00:33:08,435 --> 00:33:11,525
+like Peter ways or having reconnect
+or other features that are there.
+
+599
+00:33:11,824 --> 00:33:14,045
+These ultimately provide a
+faster experiences there.
+
+600
+00:33:14,495 --> 00:33:18,154
+So lighthouse tries to mimic the
+experience of not being on a perfect
+
+601
+00:33:18,154 --> 00:33:22,565
+condition and crux measures the
+experience of your users in the wild.
+
+602
+00:33:22,654 --> 00:33:25,475
+In fact, one of the things we're doing
+right now, actually BP is trying to
+
+603
+00:33:25,475 --> 00:33:29,194
+explain the idea of your Chrome user
+experience report in terms of what
+
+604
+00:33:29,194 --> 00:33:30,964
+your users being, seeing in the wild.
+
+605
+00:33:31,295 --> 00:33:33,935
+And so Google measures this idea of a 75%.
+
+606
+00:33:34,594 --> 00:33:38,634
+So of all your users on a bell curve,
+the seventh, the percentiles, what did
+
+607
+00:33:38,634 --> 00:33:40,804
+they actually see as the real score?
+
+608
+00:33:41,194 --> 00:33:44,614
+So sometimes your lab's quarter and
+lighthouse, especially on mobile,
+
+609
+00:33:44,614 --> 00:33:49,174
+especially on inspect hardware on mixed
+network traffic, you might find that it's
+
+610
+00:33:49,174 --> 00:33:52,565
+actually faster than your users or even
+slower than users, depending on locations.
+
+611
+00:33:52,565 --> 00:33:56,014
+Look like if that score is different
+than your crux, use the scores,
+
+612
+00:33:56,225 --> 00:33:58,714
+you're not measuring for how your
+users are experiencing those things.
+
+613
+00:33:59,675 --> 00:34:03,795
+So if you find that your scores are faster
+or slower than your crock scores, go get
+
+614
+00:34:03,815 --> 00:34:07,295
+advice, go see what things are looking
+like in that actual number, condition and
+
+615
+00:34:07,295 --> 00:34:08,615
+experience what it's like to be there.
+
+616
+00:34:08,855 --> 00:34:11,855
+So this means building ads
+or loading a web video.
+
+617
+00:34:11,985 --> 00:34:14,165
+It might be looked experienced
+these things together.
+
+618
+00:34:14,405 --> 00:34:16,565
+We want to see what these things
+are actually like in the wild.
+
+619
+00:34:16,835 --> 00:34:19,385
+And in fact, I'll give them going
+one step further and say that
+
+620
+00:34:19,385 --> 00:34:21,125
+your lab scores don't matter.
+
+621
+00:34:21,455 --> 00:34:24,185
+Your crux scores and your real
+user measured scores matter unit.
+
+622
+00:34:25,235 --> 00:34:27,545
+Um, one of the things I'll call
+up a real user metrics because
+
+623
+00:34:27,555 --> 00:34:28,565
+it's pretty much mentioned.
+
+624
+00:34:28,925 --> 00:34:33,065
+We use a tool at Sopp that actually
+attaches your real users scores
+
+625
+00:34:33,095 --> 00:34:36,305
+in the wild, and it passes that as
+a parameter for Google of licks.
+
+626
+00:34:36,485 --> 00:34:38,705
+So there's a couple of techniques on
+the wild, where you can read about this.
+
+627
+00:34:38,715 --> 00:34:41,375
+You can pass through your
+growing vitals as an accustom
+
+628
+00:34:41,375 --> 00:34:42,695
+parameter into Google analytics.
+
+629
+00:34:42,965 --> 00:34:47,135
+It makes it much easier to have
+this as real user metric data as
+
+630
+00:34:47,135 --> 00:34:48,515
+part of each individual session.
+
+631
+00:34:48,815 --> 00:34:51,275
+So you want to be ultimately seeing
+what you're used to seeing in the wild.
+
+632
+00:34:51,425 --> 00:34:52,565
+Otherwise you're not doing the right.
+
+633
+00:34:54,784 --> 00:34:58,925
+Well, that was a very
+elaborate and very good answer.
+
+634
+00:34:59,525 --> 00:35:03,005
+So when you talking, I was, uh,
+I know it brought back memories
+
+635
+00:35:03,005 --> 00:35:05,345
+of some of my own clients.
+
+636
+00:35:05,465 --> 00:35:11,465
+They came up with, they had this legacy,
+what pre-site and, uh, some agency had
+
+637
+00:35:11,465 --> 00:35:18,875
+developed a custom theme and they had
+a few Krause's too many on the front.
+
+638
+00:35:20,330 --> 00:35:25,070
+And you don't like the
+front page loading time.
+
+639
+00:35:25,070 --> 00:35:32,450
+It was very long, but, uh, they had,
+they had a loyal followers, so they had a
+
+640
+00:35:32,509 --> 00:35:37,880
+very good hips and they didn't know much
+about Google analytics school and they
+
+641
+00:35:37,880 --> 00:35:39,890
+didn't know the Google console, nothing.
+
+642
+00:35:40,640 --> 00:35:43,759
+So I installed that Google
+analytics and showed them that
+
+643
+00:35:43,820 --> 00:35:47,570
+they are getting not a fish from
+around the world because you are.
+
+644
+00:35:48,395 --> 00:35:52,145
+Children's publishing
+site and that was popular.
+
+645
+00:35:52,805 --> 00:35:58,895
+But, uh, the problem was they were
+getting, um, investors and investors
+
+646
+00:35:58,924 --> 00:36:03,274
+had a few engineers and they were,
+they wanted technical details.
+
+647
+00:36:03,274 --> 00:36:09,515
+They wanted, uh, the page speed
+and they know the first rendered
+
+648
+00:36:09,545 --> 00:36:10,924
+object and all those things.
+
+649
+00:36:10,924 --> 00:36:12,125
+They, they were looking for that.
+
+650
+00:36:12,694 --> 00:36:15,964
+So that was, it brought, brought
+back memories of all that,
+
+651
+00:36:16,024 --> 00:36:17,285
+uh, when you were talking.
+
+652
+00:36:19,310 --> 00:36:21,529
+Let's do you want to
+take the next question?
+
+653
+00:36:22,310 --> 00:36:22,700
+Yes.
+
+654
+00:36:23,000 --> 00:36:27,410
+Uh, so you said about, uh, for
+example, you read the, you make sure
+
+655
+00:36:27,470 --> 00:36:32,240
+you, you, where you read that popular
+article from smashing magazine about
+
+656
+00:36:32,240 --> 00:36:34,310
+the, uh, it's a recent one, right?
+
+657
+00:36:34,310 --> 00:36:39,770
+I think January or something like, so they
+talked about the field data and they found
+
+658
+00:36:39,770 --> 00:36:44,660
+out, even though they are like a static
+site, like they, they found out that they
+
+659
+00:36:44,660 --> 00:36:47,000
+had more audience from India and India.
+
+660
+00:36:47,735 --> 00:36:53,345
+Poor internet connection and that give
+them like, um, the goal replied a lot.
+
+661
+00:36:53,615 --> 00:36:58,085
+Their scores were less, uh, even though
+they're the tech stack or everything
+
+662
+00:36:58,085 --> 00:36:59,945
+was pretty optimized and it's good.
+
+663
+00:37:00,275 --> 00:37:01,775
+So, um, my question.
+
+664
+00:37:02,465 --> 00:37:05,165
+Um, so you're smashing
+magazine is a popular site.
+
+665
+00:37:05,195 --> 00:37:07,235
+Like a lot of visitors are going there.
+
+666
+00:37:07,535 --> 00:37:11,585
+Let's say if someone like a lot of people
+who come to WordPress are affiliate
+
+667
+00:37:11,585 --> 00:37:14,645
+site owners, niche, blogs, or whatever.
+
+668
+00:37:14,885 --> 00:37:18,725
+So if I'm going to launch a new
+site, I may not have the field data.
+
+669
+00:37:18,755 --> 00:37:19,025
+Right.
+
+670
+00:37:19,325 --> 00:37:23,525
+I may have just the page
+speed insights, lab data.
+
+671
+00:37:23,555 --> 00:37:25,295
+So what's your take on that?
+
+672
+00:37:25,295 --> 00:37:26,795
+Like what advice would you do?
+
+673
+00:37:26,795 --> 00:37:31,235
+Like I should go wait for field
+data or just lab data is fine.
+
+674
+00:37:32,030 --> 00:37:32,960
+How do take it from there.
+
+675
+00:37:33,650 --> 00:37:34,220
+Yeah.
+
+676
+00:37:34,250 --> 00:37:36,200
+So a lot to unpack there.
+
+677
+00:37:36,320 --> 00:37:40,370
+First things first, I think it's
+a core responsibility of every
+
+678
+00:37:40,370 --> 00:37:44,990
+website to be tracking real
+field data as much as possible.
+
+679
+00:37:45,230 --> 00:37:46,520
+So crux is fine.
+
+680
+00:37:46,700 --> 00:37:50,600
+The crux is 30 days late plus 30
+days on top of that, it's really,
+
+681
+00:37:50,600 --> 00:37:51,860
+really slow to get back to you.
+
+682
+00:37:51,860 --> 00:37:52,820
+Things that aren't useful.
+
+683
+00:37:53,150 --> 00:37:54,250
+So Google analytics is.
+
+684
+00:37:55,055 --> 00:37:56,615
+Um, Hotjar is great.
+
+685
+00:37:56,795 --> 00:37:57,785
+New Relic is great.
+
+686
+00:37:57,785 --> 00:37:59,675
+And there's a ton of other
+tools that are there as well.
+
+687
+00:37:59,945 --> 00:38:03,815
+You want to be ultimately measuring to see
+what your users are getting in the wild.
+
+688
+00:38:03,965 --> 00:38:07,505
+And so as you try things and any
+different hospice, we want to see
+
+689
+00:38:07,505 --> 00:38:10,985
+how far you can get to ultimately see
+what you can do from those scores.
+
+690
+00:38:11,315 --> 00:38:14,525
+So you need real numbers to tell you
+whether you're doing a good thing
+
+691
+00:38:14,555 --> 00:38:16,325
+or bad thing, or a neutral thing.
+
+692
+00:38:16,355 --> 00:38:18,635
+We don't, we don't necessarily know
+if it's a good or bad thing, always.
+
+693
+00:38:18,645 --> 00:38:18,965
+Right.
+
+694
+00:38:19,505 --> 00:38:23,125
+Um, first things, first scores
+and measurement has to be valid.
+
+695
+00:38:24,770 --> 00:38:29,360
+Um, as a, at a high level, we
+want to, um, consider what field
+
+696
+00:38:29,360 --> 00:38:30,950
+data means across the board.
+
+697
+00:38:31,250 --> 00:38:34,070
+Um, I find that, uh, it's a
+really interesting problem.
+
+698
+00:38:34,160 --> 00:38:37,910
+So if we talk about a website
+in a traditional big Western
+
+699
+00:38:37,910 --> 00:38:39,680
+city, so a city say like one day.
+
+700
+00:38:40,185 --> 00:38:44,025
+Cisco or Los Angeles or New York
+we've done that scores are faster
+
+701
+00:38:44,055 --> 00:38:45,735
+than the lab scores in field data.
+
+702
+00:38:46,185 --> 00:38:48,465
+But occasionally we find that
+the opposite problem is true.
+
+703
+00:38:48,555 --> 00:38:51,705
+Um, we actually just started
+applying at XRP a couple of days ago.
+
+704
+00:38:51,795 --> 00:38:54,825
+Really interesting site that has a 97 97.
+
+705
+00:38:55,865 --> 00:38:59,855
+That actually has slower scores on
+lab because of how these things work.
+
+706
+00:39:00,125 --> 00:39:02,674
+So sometimes the problem is actually
+an inverted problem as well.
+
+707
+00:39:02,944 --> 00:39:07,115
+Um, we know that that lab data isn't
+actually relevant for measuring what
+
+708
+00:39:07,115 --> 00:39:11,404
+real users are seeing well, and if we
+know that algorithms are measuring the
+
+709
+00:39:11,645 --> 00:39:16,024
+70 percentile as a concern, the question
+is what are your users experiencing?
+
+710
+00:39:16,355 --> 00:39:18,754
+And are you using that as a real
+metric to guide you what you want?
+
+711
+00:39:19,654 --> 00:39:21,275
+So I'll say it one step further.
+
+712
+00:39:21,455 --> 00:39:24,485
+You need to be ultimately trying
+to ship code and ship features
+
+713
+00:39:24,485 --> 00:39:27,305
+that are going to improve what
+your users are getting in the pile.
+
+714
+00:39:27,455 --> 00:39:31,895
+The vast majority of users, according
+to Google, it's 70% say 5% of your
+
+715
+00:39:31,895 --> 00:39:34,565
+total Comodo users across the board.
+
+716
+00:39:34,924 --> 00:39:38,555
+And, uh, and the cases of, you know,
+India being a really critical, uh,
+
+717
+00:39:38,585 --> 00:39:40,055
+concern within smashing magazine.
+
+718
+00:39:40,355 --> 00:39:43,444
+I would say that special magazine
+probably should have a geo cluster
+
+719
+00:39:43,444 --> 00:39:48,295
+for is at CDN within India or a
+close region and doing a better job.
+
+720
+00:39:48,335 --> 00:39:48,575
+What's that?
+
+721
+00:39:49,075 --> 00:39:51,444
+And ask them the question, can
+they reduce their CSS size?
+
+722
+00:39:51,444 --> 00:39:54,325
+Can they offer an alternate style
+sheet, anything to ultimately buy
+
+723
+00:39:54,355 --> 00:39:55,585
+a faster experience it's there.
+
+724
+00:39:55,944 --> 00:39:58,435
+And I'm willing to bet that
+there's a ton more they can do.
+
+725
+00:39:58,464 --> 00:40:01,855
+Um, and we've actually not talked to the
+special magazine team XVP, but if they
+
+726
+00:40:01,855 --> 00:40:04,615
+want to talk to us about how maybe we
+can play faster, I can almost guarantee
+
+727
+00:40:04,615 --> 00:40:07,134
+you, we can make it even faster and you
+can be even better for the audience.
+
+728
+00:40:07,404 --> 00:40:08,665
+We know this is where
+you can do within that.
+
+729
+00:40:08,754 --> 00:40:11,095
+Um, and we can squeeze
+out even more, right?
+
+730
+00:40:11,095 --> 00:40:14,214
+So it's, it's a worthy pursuit
+and we know that helps with
+
+731
+00:40:14,214 --> 00:40:15,025
+conversion across the board.
+
+732
+00:40:17,150 --> 00:40:17,570
+Yogesh Londhe: Hey.
+
+733
+00:40:17,900 --> 00:40:18,259
+Great.
+
+734
+00:40:18,650 --> 00:40:19,220
+Thank you very much.
+
+735
+00:40:20,600 --> 00:40:20,900
+Yeah.
+
+736
+00:40:21,230 --> 00:40:21,529
+Great.
+
+737
+00:40:22,100 --> 00:40:22,430
+Okay.
+
+738
+00:40:22,700 --> 00:40:23,750
+So next question.
+
+739
+00:40:23,810 --> 00:40:29,660
+Um, you discussed this in your talk,
+so let's discuss the delightful
+
+740
+00:40:29,660 --> 00:40:34,970
+experiences versus conversion from this
+different aspects, from the aspect of
+
+741
+00:40:34,970 --> 00:40:40,670
+the users and users who are visiting
+your website, the website owner
+
+742
+00:40:40,880 --> 00:40:44,459
+developer, and sometimes the investors.
+
+743
+00:40:45,660 --> 00:40:46,089
+Leo Postovoit: Yeah.
+
+744
+00:40:46,749 --> 00:40:51,470
+So, um, in terms of delightful
+experiences, I would say that we want
+
+745
+00:40:51,470 --> 00:40:53,540
+these things to feel smooth and natural.
+
+746
+00:40:53,870 --> 00:40:56,150
+So one critical part of how
+we approach the problem.
+
+747
+00:40:56,150 --> 00:41:00,020
+The next to the BP is that we identify
+each persona and then we name them.
+
+748
+00:41:00,020 --> 00:41:03,560
+We say, one is Bob, what is Jim
+was Joe, or might be, we want
+
+749
+00:41:03,560 --> 00:41:04,610
+to navigate through the experts.
+
+750
+00:41:05,525 --> 00:41:09,185
+So a user might have a different
+experience if they're on their mobile
+
+751
+00:41:09,185 --> 00:41:13,415
+device, again, on a train, on a bus,
+navigating through a place maybe on
+
+752
+00:41:13,415 --> 00:41:17,105
+terrible hotel wifi, um, you never know
+what your experience is going to be
+
+753
+00:41:17,315 --> 00:41:18,875
+compared to what someone else's view.
+
+754
+00:41:19,295 --> 00:41:21,335
+Um, and sometimes it's
+actually really funny, right?
+
+755
+00:41:21,335 --> 00:41:22,025
+So maybe.
+
+756
+00:41:22,485 --> 00:41:25,425
+Especially in this ecosystem
+here, we might have heard about
+
+757
+00:41:25,425 --> 00:41:29,385
+the client stakeholder who was on
+internet Explorer, 11 on a computer.
+
+758
+00:41:29,385 --> 00:41:32,295
+That's like many years out of
+date, but they happen to be, you
+
+759
+00:41:32,295 --> 00:41:33,345
+know, they hold the purse strings.
+
+760
+00:41:33,345 --> 00:41:35,565
+They happen to be the most
+important person at the company.
+
+761
+00:41:35,955 --> 00:41:37,155
+And maybe they're really senior.
+
+762
+00:41:37,155 --> 00:41:39,495
+And you know, it has nothing
+to do with developing markets.
+
+763
+00:41:39,505 --> 00:41:40,035
+Shop is good.
+
+764
+00:41:40,245 --> 00:41:41,055
+That's the stakeholder.
+
+765
+00:41:41,055 --> 00:41:42,975
+You have to ultimately shape your answer.
+
+766
+00:41:43,035 --> 00:41:43,485
+What's there.
+
+767
+00:41:44,115 --> 00:41:46,635
+Delightful experience is a
+true question of all of your
+
+768
+00:41:46,635 --> 00:41:47,925
+users and each of your users.
+
+769
+00:41:48,860 --> 00:41:53,750
+Sometimes it's that strange one-off
+example of a a hundred percent or like
+
+770
+00:41:53,810 --> 00:41:56,780
+an investor other times, it's going to
+be the question of you're both users.
+
+771
+00:41:57,290 --> 00:42:01,640
+What I find is critical is your users
+need to be the things you measure by that.
+
+772
+00:42:01,640 --> 00:42:06,175
+So, So consider that entire bell curve
+that you've got and make that experience
+
+773
+00:42:06,195 --> 00:42:08,315
+be as reliable and elegant as possible.
+
+774
+00:42:08,375 --> 00:42:10,115
+And not just some random anecdote.
+
+775
+00:42:10,895 --> 00:42:14,735
+In fact, I would say the investor that's
+on nine 11, as much as he might care
+
+776
+00:42:14,735 --> 00:42:16,145
+about the considerations that are there.
+
+777
+00:42:16,325 --> 00:42:19,655
+I would say Google's idea of centile,
+all the things that are there matter even
+
+778
+00:42:19,655 --> 00:42:23,225
+more, that's the cohort you want to care
+about and to do more than an audience.
+
+779
+00:42:26,195 --> 00:42:26,825
+Yogesh Londhe: Great.
+
+780
+00:42:27,185 --> 00:42:29,375
+Uh, okay Lex, you got a.
+
+781
+00:42:30,985 --> 00:42:34,905
+You have a question for the Leo ? I, I,
+
+782
+00:42:36,405 --> 00:42:42,065
+Lax Mariappan: yeah, so, uh, uh, it
+just, no matter how, so just a simple
+
+783
+00:42:42,065 --> 00:42:45,395
+question though, like you answered
+already, like let's summarize, we have
+
+784
+00:42:45,395 --> 00:42:49,655
+another two minutes left or so it's like,
+uh, how can I make my website faster?
+
+785
+00:42:49,745 --> 00:42:51,485
+It's come to everyone's mind.
+
+786
+00:42:51,515 --> 00:42:53,315
+So your question, your answer.
+
+787
+00:42:53,375 --> 00:42:53,435
+Be.
+
+788
+00:42:54,515 --> 00:42:58,505
+Leo Postovoit: Yeah, TLDR you
+somehow managed totune in for only
+
+789
+00:42:59,205 --> 00:43:03,045
+section high Leo from XWP, run your
+site through a page speed insights
+
+790
+00:43:03,065 --> 00:43:06,845
+or similar tool, pay attention to
+recommendations, probably install
+
+791
+00:43:06,845 --> 00:43:08,435
+plugin that makes your website faster.
+
+792
+00:43:08,735 --> 00:43:09,965
+That's probably not going to be enough.
+
+793
+00:43:09,965 --> 00:43:12,635
+You'd probably want to remove stuff,
+actually pay attention to what your
+
+794
+00:43:12,635 --> 00:43:14,825
+releases are doing and do even more.
+
+795
+00:43:15,125 --> 00:43:17,825
+Your real users are probably going
+to be different than we expected, and
+
+796
+00:43:17,825 --> 00:43:19,055
+you probably can do even more than.
+
+797
+00:43:19,760 --> 00:43:22,520
+So this is going to be, you know,
+optimizing video, forensic images,
+
+798
+00:43:22,670 --> 00:43:26,240
+throwing fonts, and asking the questions
+around letter blocking experiences.
+
+799
+00:43:26,540 --> 00:43:28,820
+We want you to lighten everything, right?
+
+800
+00:43:28,820 --> 00:43:34,040
+So, um, I I'll mention a quote from the
+great team out of the UK many, many years
+
+801
+00:43:34,040 --> 00:43:35,900
+ago in the 1960s, it seems from Lotus.
+
+802
+00:43:35,900 --> 00:43:38,270
+I said, simplify, and then add lightness.
+
+803
+00:43:38,390 --> 00:43:39,500
+That's how you win races.
+
+804
+00:43:39,620 --> 00:43:39,890
+Right?
+
+805
+00:43:39,890 --> 00:43:41,330
+So consider that for your website.
+
+806
+00:43:41,600 --> 00:43:43,160
+Is there a faster way for you to do it?
+
+807
+00:43:43,250 --> 00:43:44,480
+Well, the answer is probably.
+
+808
+00:43:46,880 --> 00:43:47,090
+Lax Mariappan: Yep.
+
+809
+00:43:47,120 --> 00:43:47,750
+Yes.
+
+810
+00:43:47,840 --> 00:43:54,350
+So I can just take it as a performance
+is a process, not just plug it, right?
+
+811
+00:43:54,770 --> 00:43:54,980
+Leo Postovoit: Yeah.
+
+812
+00:43:55,100 --> 00:43:55,960
+It's a hundred percent.
+
+813
+00:43:55,970 --> 00:43:56,090
+Yes.
+
+814
+00:43:56,540 --> 00:43:56,810
+Yogesh Londhe: Yeah.
+
+815
+00:43:56,930 --> 00:43:57,530
+A hundred percent.
+
+816
+00:43:57,560 --> 00:44:00,350
+So, uh, yeah, I think let's
+take one more question.
+
+817
+00:44:01,010 --> 00:44:03,260
+I'll I'll combine few more, few things.
+
+818
+00:44:03,380 --> 00:44:06,230
+So, you know, we are
+talking about performance.
+
+819
+00:44:06,230 --> 00:44:14,080
+So once we have a website, a WordPress
+site, so should I have AMP or PWA?
+
+820
+00:44:14,509 --> 00:44:15,765
+The AMP or PWA.
+
+821
+00:44:16,295 --> 00:44:21,515
+And then can you go ahead and
+tell us, uh, how does CDN affect
+
+822
+00:44:21,815 --> 00:44:23,195
+any of those two are without the.
+
+823
+00:44:24,740 --> 00:44:25,370
+Leo Postovoit: Man.
+
+824
+00:44:25,430 --> 00:44:30,290
+I don't have enough time to answer the
+question, but I would say, I would say
+
+825
+00:44:30,290 --> 00:44:35,540
+about, uh, after they experience update
+in, uh, last year, amp is still a useful
+
+826
+00:44:35,540 --> 00:44:38,240
+thing, but it's shifting in a different
+way, but for customer page has been,
+
+827
+00:44:38,240 --> 00:44:39,650
+so it's there, first of all, I'm up.
+
+828
+00:44:39,650 --> 00:44:43,850
+So I focused on in sambal technologies
+and offline a lot you can do within PWAs.
+
+829
+00:44:43,940 --> 00:44:46,070
+Um, I think he was just, don't be useful.
+
+830
+00:44:46,400 --> 00:44:48,950
+I would also say the CDNs are
+great, but you have to measure
+
+831
+00:44:48,950 --> 00:44:50,120
+where your real users are.
+
+832
+00:44:50,120 --> 00:44:51,700
+And if that's, again is
+ultimately going to help.
+
+833
+00:44:52,695 --> 00:44:56,535
+Um, what we find, for example, um, we work
+a lot with customers that are in Asia,
+
+834
+00:44:56,595 --> 00:45:00,255
+for example, uh, things like Singapore
+or China or India, there's sometimes
+
+835
+00:45:00,255 --> 00:45:01,575
+restrictions within content networks.
+
+836
+00:45:01,635 --> 00:45:04,935
+Um, there's also a huge discussion
+happening today within Russia and Ukraine,
+
+837
+00:45:04,965 --> 00:45:08,205
+which I'm not going to get political,
+but even sometimes we talk about networks
+
+838
+00:45:08,205 --> 00:45:10,125
+and accessibility is a huge concern.
+
+839
+00:45:10,155 --> 00:45:12,885
+Sometimes actually accessing your
+customers might be challenging
+
+840
+00:45:12,915 --> 00:45:13,965
+because of now Netflix work.
+
+841
+00:45:14,265 --> 00:45:16,395
+So we want to ultimately be
+able to access your users.
+
+842
+00:45:16,605 --> 00:45:16,905
+Are the world.
+
+843
+00:45:17,825 --> 00:45:21,815
+And so do you, the network might be
+actually blocked for a variety of reasons.
+
+844
+00:45:22,025 --> 00:45:23,675
+You wanna make sure that your
+CDNs can actually get around
+
+845
+00:45:23,675 --> 00:45:25,565
+these things to connect with
+the customers for your audits.
+
+846
+00:45:26,705 --> 00:45:29,705
+So, um, China's is probably the
+biggest concern because sometimes
+
+847
+00:45:29,735 --> 00:45:32,675
+getting around the so-called great
+firewall of China makes it hard to
+
+848
+00:45:32,675 --> 00:45:35,165
+get this audience of there, that
+your audience is actually there.
+
+849
+00:45:35,195 --> 00:45:38,465
+You wanna make sure that you're either
+noted from an ad standpoint or the
+
+850
+00:45:38,465 --> 00:45:39,815
+actual cluster for your website.
+
+851
+00:45:39,815 --> 00:45:42,635
+That's there, that's hosted on a
+utilized, but WordPress house can
+
+852
+00:45:42,635 --> 00:45:44,495
+actually access that client directly.
+
+853
+00:45:44,855 --> 00:45:45,035
+So.
+
+854
+00:45:46,010 --> 00:45:51,560
+Uh, long story short, probably his AMP
+probably use PWA, probably use a CDN,
+
+855
+00:45:51,710 --> 00:45:53,240
+make sure it matches up for users.
+
+856
+00:45:54,950 --> 00:45:55,160
+Yogesh Londhe: Right.
+
+857
+00:45:55,190 --> 00:45:56,750
+Thank you very much, Leo.
+
+858
+00:45:56,820 --> 00:46:00,530
+It was amazing session and
+really engaging a Q and A.
+
+859
+00:46:00,890 --> 00:46:05,150
+And uh, how do people reach you
+if they are looking for resources,
+
+860
+00:46:05,170 --> 00:46:06,500
+other things, how do they reach you?
+
+861
+00:46:07,850 --> 00:46:08,180
+Are you on.
+
+862
+00:46:09,380 --> 00:46:09,830
+Leo Postovoit: Yeah.
+
+863
+00:46:09,830 --> 00:46:10,070
+Yeah.
+
+864
+00:46:10,070 --> 00:46:14,060
+So XWP has a great blog
+https://xwp.co/blog, tons
+
+865
+00:46:14,060 --> 00:46:15,020
+of resources that are there.
+
+866
+00:46:15,230 --> 00:46:19,630
+I, Leo I'm found on Twitter
+at, at literally @PostPhotos.
+
+867
+00:46:19,970 --> 00:46:22,080
+Um, and I'm also available at leo@xwp.co.
+
+868
+00:46:23,300 --> 00:46:25,160
+So super easy to find on the web.
+
+869
+00:46:25,460 --> 00:46:29,410
+I'm happy to answer any questions people
+have and again, check out WordFest.
+
+870
+00:46:29,480 --> 00:46:31,640
+Uh, I'll be hanging around
+for a little bit, uh, here
+
+871
+00:46:31,640 --> 00:46:33,560
+this morning and good to see.
+
+872
+00:46:33,560 --> 00:46:34,830
+Well, and we'll talk.
+
+873
+00:46:36,500 --> 00:46:39,290
+Yogesh Londhe: Okay, thank you
+very much again, have a great day.
+
+874
+00:46:39,380 --> 00:46:39,680
+Yep.
+
+875
+00:46:40,040 --> 00:46:43,670
+So, okay.
+
+876
+00:46:44,645 --> 00:46:46,295
+That was a fantastic session.
+
+877
+00:46:46,715 --> 00:46:52,595
+And our thanks to our sponsors, Bluehost,
+Cloudways, GoDaddy Pro, Nexcess, Yoast.
+
+878
+00:46:52,895 --> 00:46:57,125
+And Weglot, please be sure to
+visit the tents and chat with them.
+
+879
+00:46:57,815 --> 00:46:59,465
+You might even win some prizes.
+
+880
+00:47:00,095 --> 00:47:00,185
+Okay.
+
+881
+00:47:01,654 --> 00:47:03,194
+Lax Mariappan: Yeah, we have Photo Booth.
+
+882
+00:47:03,215 --> 00:47:06,875
+Don't forget to get your photos snapped
+in the photo booth and it's sponsored
+
+883
+00:47:06,875 --> 00:47:11,375
+by Multicollab and Dreamhost and
+feed it with a hashtag wordFest Live.
+
+884
+00:47:11,780 --> 00:47:15,200
+And also thanks to our media
+partners and micro sponsors.
+
+885
+00:47:18,080 --> 00:47:18,530
+Yogesh Londhe: Okay.
+
+886
+00:47:18,590 --> 00:47:23,900
+Um, in the, in the community tent in the
+next hour, Cloudways have their hourly
+
+887
+00:47:23,900 --> 00:47:32,540
+giveaway with a special guest activity and
+you all make our Big Orange Heart full.
+
+888
+00:47:34,040 --> 00:47:34,190
+Lax Mariappan: Yeah.
+
+889
+00:47:34,190 --> 00:47:35,150
+We'd love your support.
+
+890
+00:47:35,150 --> 00:47:37,520
+Consider donation where donate button or.
+
+891
+00:47:38,404 --> 00:47:42,125
+On the screen or go to our website,
+https://bigorangeheart.org and
+
+892
+00:47:42,125 --> 00:47:42,995
+then you can make a donation.
+
+893
+00:47:45,935 --> 00:47:49,984
+Yogesh Londhe: So now we go for 10
+minutes per week and, uh, we come
+
+894
+00:47:49,984 --> 00:47:51,335
+back in, let's see, eight minutes.
+
+895
+00:47:51,424 --> 00:47:51,694
+Okay.
+
+896
+00:47:51,895 --> 00:47:52,955
+It's not a 10 minute break.
+
+897
+00:47:53,375 --> 00:47:54,365
+Seven to eight minutes.
+
+898
+00:47:54,395 --> 00:48:21,785
+They come for the next session.
+
