@@ -1,4 +1,4 @@
-# 107 - Dan Maby - Community Interview - Dan Maby
+### Dan Maby - Community Interview - Dan Maby
 
 **Yoast:** [00:00:00] Do you know, the Yoast SEO, plugin, they're red, orange, and green feedback bullets that help you optimize your posts for the web. It runs on millions of websites. We tried to make SEO understandable and accessible to everyone.[00:01:00] 
 
