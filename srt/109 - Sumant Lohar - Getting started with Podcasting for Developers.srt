@@ -1,0 +1,3534 @@
+1
+00:00:27,255 --> 00:00:27,825
+Nexcess: Oh, great.
+
+2
+00:00:27,975 --> 00:00:29,535
+My website crashed again.
+
+3
+00:00:29,865 --> 00:00:35,505
+I give up, don't give up on your
+dreams, Jordan, who are you?
+
+4
+00:00:35,595 --> 00:00:36,105
+It's me.
+
+5
+00:00:36,645 --> 00:00:38,235
+You from the future.
+
+6
+00:00:38,535 --> 00:00:40,545
+Your professional website
+is not out of reach.
+
+7
+00:00:40,575 --> 00:00:41,895
+You just need Nexcess.
+
+8
+00:00:42,375 --> 00:00:45,525
+With Nexcess managed hosting, you
+get lightening pass load times
+
+9
+00:00:45,525 --> 00:00:49,635
+built-in performance monitoring and
+updates, and always awesome support.
+
+10
+00:00:49,695 --> 00:00:51,555
+24 7 365.
+
+11
+00:00:51,585 --> 00:00:52,245
+For all your plans.
+
+12
+00:00:52,710 --> 00:00:53,310
+Whoa.
+
+13
+00:00:53,520 --> 00:00:53,910
+Yeah.
+
+14
+00:00:57,285 --> 00:01:02,625
+Weglot: Discover Weglot the simple
+translation solution for your website.
+
+15
+00:01:02,985 --> 00:01:07,515
+All you have to do is add Weglot to
+your website, select the languages
+
+16
+00:01:07,515 --> 00:01:09,465
+that you need, and that's it.
+
+17
+00:01:09,675 --> 00:01:12,795
+Your website is now available
+in multiple languages.
+
+18
+00:02:13,775 --> 00:02:16,954
+Yoast: Do you know, the Yoast SEO,
+plugin, they're red, orange, and
+
+19
+00:02:16,954 --> 00:02:20,135
+green feedback bullets that help
+you optimize your posts for the web.
+
+20
+00:02:20,315 --> 00:02:22,204
+It runs on millions of websites.
+
+21
+00:02:22,655 --> 00:02:26,315
+We try to make SEO understandable
+and accessible to everyone.
+
+22
+00:02:28,530 --> 00:02:31,560
+Bluehost: Who says building
+an online store has to be hard
+
+23
+00:02:31,830 --> 00:02:33,210
+with Bluehost website builder.
+
+24
+00:02:33,330 --> 00:02:34,890
+It's more than just easy.
+
+25
+00:02:35,100 --> 00:02:37,050
+It's tell us your thing in smart AI.
+
+26
+00:02:37,050 --> 00:02:38,190
+We'll take it from there.
+
+27
+00:02:38,190 --> 00:02:40,470
+Easy it's WooCommerce friendly.
+
+28
+00:02:40,530 --> 00:02:43,950
+So you can add one of these
+or swap this for that easy.
+
+29
+00:02:44,190 --> 00:02:47,280
+It's set up shop in minutes
+with unlimited products.
+
+30
+00:02:47,340 --> 00:02:47,790
+Easy.
+
+31
+00:02:47,850 --> 00:02:52,230
+Whether you sell boots, books
+or bowls, it's create an online
+
+32
+00:02:52,230 --> 00:02:56,549
+store with Bluehost, easy build
+beyond boundaries with Bluehost.
+
+33
+00:02:57,360 --> 00:03:00,300
+Lax Mariappan: Yeah, our next speaker
+is Sumant Lohar, and he will be
+
+34
+00:03:00,300 --> 00:03:04,350
+presenting about getting started
+with podcasting for developers.
+
+35
+00:03:04,650 --> 00:03:06,660
+So I love this topic.
+
+36
+00:03:07,050 --> 00:03:10,350
+We want to get started with
+podcasting and I'm a developer myself.
+
+37
+00:03:10,720 --> 00:03:12,770
+Sumant has a dedicated tech blog.
+
+38
+00:03:13,620 --> 00:03:18,160
+Based in Ahmedabad  also specializes
+in crafting content for social
+
+39
+00:03:18,160 --> 00:03:22,269
+media strategies and, uh, for
+various brands, as well as startups.
+
+40
+00:03:22,600 --> 00:03:25,519
+His core strength lies in
+Instagram marketing video reaching.
+
+41
+00:03:25,959 --> 00:03:28,269
+Apart from that podcasting
+is this new skillset.
+
+42
+00:03:29,219 --> 00:03:33,429
+WordPres is a true inspiration for
+him that encouraged him to help
+
+43
+00:03:33,489 --> 00:03:35,109
+businesses through creative content.
+
+44
+00:03:35,929 --> 00:03:37,450
+That's also been a volunteer.
+
+45
+00:03:38,244 --> 00:03:40,954
+Organizer at meaning at WordCamps.
+
+46
+00:03:41,394 --> 00:03:41,664
+Yeah.
+
+47
+00:03:41,724 --> 00:03:45,354
+Many WordCamps and other tech
+conferences and has been active
+
+48
+00:03:45,714 --> 00:03:48,444
+WordPress, community members since 2017.
+
+49
+00:03:49,014 --> 00:03:49,374
+So, but
+
+50
+00:03:51,164 --> 00:03:54,174
+Sumant Lohar: Namaste a warm
+welcome to all of you to this
+
+51
+00:03:54,174 --> 00:03:56,034
+amazing session for today.
+
+52
+00:03:56,484 --> 00:04:00,864
+Today, we are going to talk about getting
+started with podcasting for developers.
+
+53
+00:04:01,854 --> 00:04:06,924
+And I'm Sumant your company, and
+we'll take you through the entire
+
+54
+00:04:07,014 --> 00:04:11,274
+process of starting your own
+podcast, even if you are a developer.
+
+55
+00:04:11,634 --> 00:04:12,894
+So let's get started.
+
+56
+00:04:13,164 --> 00:04:17,274
+I spent, you know, least time
+on introduction because more
+
+57
+00:04:17,274 --> 00:04:21,864
+than introduction, the main area
+is to learn about podcasting.
+
+58
+00:04:22,135 --> 00:04:27,775
+So basically I'm a tech blogger or content
+and social media strategist, video content
+
+59
+00:04:27,775 --> 00:04:30,195
+creator, which had a speaker at various.
+
+60
+00:04:31,140 --> 00:04:32,880
+Podcaster at the idea.
+
+61
+00:04:32,880 --> 00:04:38,580
+Well, content, so I so I Sumant Lohar
+now welcome to this amazing session.
+
+62
+00:04:39,090 --> 00:04:45,299
+So here are some of the amazing, you
+know, agent for today, and we are
+
+63
+00:04:45,299 --> 00:04:50,070
+going to see one by one, all of them
+and explore all the opportunities.
+
+64
+00:04:51,775 --> 00:04:56,935
+What is the first thought that comes to
+mind while we are starting with podcast.
+
+65
+00:04:57,205 --> 00:05:01,795
+So I got this first amazing and
+inspiring thought from Pat Flynn,
+
+66
+00:05:01,825 --> 00:05:03,865
+who is a well-known podcaster.
+
+67
+00:05:04,315 --> 00:05:08,065
+He sees that the riches
+are in the niches friends.
+
+68
+00:05:08,094 --> 00:05:11,305
+You all are almost, I assume that in this.
+
+69
+00:05:12,099 --> 00:05:17,710
+Working as a developer or maybe a
+designer and a CSS, a specialist,
+
+70
+00:05:17,950 --> 00:05:19,750
+a blogger, or a marketer.
+
+71
+00:05:20,200 --> 00:05:26,289
+So if you see that, the way you
+focus on one niche, you get, you
+
+72
+00:05:26,289 --> 00:05:28,719
+know, grow, growing and growing.
+
+73
+00:05:29,169 --> 00:05:34,810
+So the way you are, you know,
+making it a statement, it says
+
+74
+00:05:34,840 --> 00:05:36,070
+the riches are in the niche.
+
+75
+00:05:36,099 --> 00:05:41,289
+So if you just stick to one or two niche,
+you can be rich the way you want it.
+
+76
+00:05:42,539 --> 00:05:46,499
+Okay, now let's get into the
+basics of the podcasting first.
+
+77
+00:05:47,425 --> 00:05:49,435
+Let's say a first history.
+
+78
+00:05:49,735 --> 00:05:53,365
+You know that from our forefathers,
+we have been listening that they
+
+79
+00:05:53,365 --> 00:05:58,015
+used to, uh, listen to all the
+audio part through gramophone.
+
+80
+00:05:58,045 --> 00:06:02,825
+And then we came with her antique
+radio then came tape recorder.
+
+81
+00:06:03,039 --> 00:06:07,120
+Sony Walkman, which we used to put
+in our ear and take it everywhere,
+
+82
+00:06:07,120 --> 00:06:12,640
+video audio castte, and then can be
+apple iPod MP3 players, where you
+
+83
+00:06:12,640 --> 00:06:15,370
+can store 300 more than 300 songs.
+
+84
+00:06:15,400 --> 00:06:15,700
+Right.
+
+85
+00:06:16,180 --> 00:06:21,370
+But all of this was replaced by a
+smartphone where you can do multiple
+
+86
+00:06:21,370 --> 00:06:27,219
+things, audio, video, social media,
+marketing, you know, messaging everything.
+
+87
+00:06:27,609 --> 00:06:29,060
+So what is the definition of.
+
+88
+00:06:30,205 --> 00:06:35,844
+Podcast is an audio format available on
+different distribution platforms, which
+
+89
+00:06:35,844 --> 00:06:40,405
+is downloadable that makes it convenient
+for the people to listen to them while
+
+90
+00:06:40,405 --> 00:06:45,835
+traveling for other activity hours, daily
+workouts, or while relaxing at home.
+
+91
+00:06:46,075 --> 00:06:47,815
+This can be published on website.
+
+92
+00:06:48,325 --> 00:06:50,365
+YouTube social media platforms.
+
+93
+00:06:50,425 --> 00:06:53,305
+So it's something that you
+can download them from the
+
+94
+00:06:53,325 --> 00:06:55,284
+various distribution platforms.
+
+95
+00:06:55,495 --> 00:06:58,104
+These are not the social media platforms.
+
+96
+00:06:58,284 --> 00:07:02,575
+These are the platforms like
+Spotify, Google podcasts, and those
+
+97
+00:07:02,724 --> 00:07:05,935
+where they can download them and
+listen at your own convenience.
+
+98
+00:07:06,354 --> 00:07:06,594
+So.
+
+99
+00:07:07,840 --> 00:07:10,030
+What is the importance of podcasting?
+
+100
+00:07:10,180 --> 00:07:12,969
+It is usually in a series of podcasts.
+
+101
+00:07:13,150 --> 00:07:18,190
+So you, how, like, for example, if we
+are talking about, let's say Gutenberg
+
+102
+00:07:18,250 --> 00:07:23,380
+editor, so it takes into different
+series, like one to 10 and then 10 to 20.
+
+103
+00:07:23,620 --> 00:07:23,710
+Okay.
+
+104
+00:07:24,400 --> 00:07:28,689
+Again, you can have the variations
+and do that different podcast.
+
+105
+00:07:29,469 --> 00:07:34,780
+Now this few points are very
+much, uh, of importance, right?
+
+106
+00:07:35,289 --> 00:07:36,580
+It is a niche based.
+
+107
+00:07:36,789 --> 00:07:40,120
+So if you have forecasting
+generalized away, maybe you get
+
+108
+00:07:40,210 --> 00:07:42,669
+an audience at a lesser pace.
+
+109
+00:07:42,880 --> 00:07:46,510
+But if we are focusing on, let's
+say you are a tech, but that person.
+
+110
+00:07:47,250 --> 00:07:49,110
+Focus on tech tech things.
+
+111
+00:07:49,350 --> 00:07:54,809
+If you are, you know, related to fashion
+industry folk focus on fashion industry.
+
+112
+00:07:54,990 --> 00:07:58,200
+So that's how you slowly,
+slowly grow in this area.
+
+113
+00:07:59,050 --> 00:08:03,580
+It gives you immersive experience while
+listening, you know, you, while you are
+
+114
+00:08:03,580 --> 00:08:08,350
+listening to each podcast, you have the
+combination of audio, uh, you know, the
+
+115
+00:08:08,620 --> 00:08:11,950
+sound effects the voice off a broadcaster.
+
+116
+00:08:12,190 --> 00:08:15,310
+So that gives a very soothing
+effect, that relaxing effect,
+
+117
+00:08:15,490 --> 00:08:17,200
+where you can listen to them any.
+
+118
+00:08:18,325 --> 00:08:23,005
+It's a conversational, it's not a, you
+know, very serious matter or something
+
+119
+00:08:23,185 --> 00:08:26,815
+which, uh, makes you, uh, that you
+are to concentrate on that time.
+
+120
+00:08:27,085 --> 00:08:30,925
+It's a conversational, it's a
+casual form of delivering content.
+
+121
+00:08:31,525 --> 00:08:34,195
+Now next, no barriers for listening.
+
+122
+00:08:34,195 --> 00:08:38,095
+You can listen to them while
+walking, running, traveling,
+
+123
+00:08:38,185 --> 00:08:40,045
+eating, or even relaxing, right.
+
+124
+00:08:40,315 --> 00:08:44,155
+Everyone enjoying with friends
+as well, access them for free.
+
+125
+00:08:44,935 --> 00:08:45,835
+What does this mean?
+
+126
+00:08:46,765 --> 00:08:50,185
+All of the podcast, genders
+today are available for free.
+
+127
+00:08:50,185 --> 00:08:54,055
+Of course you can listen to them,
+but there are some premium channels
+
+128
+00:08:54,145 --> 00:08:58,945
+as well, where you have to subscribe
+on a monthly basis or yearly
+
+129
+00:08:58,945 --> 00:09:00,565
+basis, and you can listen to them.
+
+130
+00:09:00,715 --> 00:09:05,035
+That's what we call about
+as a membership right now.
+
+131
+00:09:05,035 --> 00:09:06,895
+What is the punchline of podcast?
+
+132
+00:09:07,135 --> 00:09:10,945
+It's the new normal for
+travelers and commuters.
+
+133
+00:09:11,425 --> 00:09:14,935
+If you are traveling to any part of
+the world, so you can listen to what.
+
+134
+00:09:15,819 --> 00:09:20,860
+If you are a commuter commuter
+means from home to your workplace or
+
+135
+00:09:20,860 --> 00:09:25,420
+somewhere where you're going for a
+job or you're going for your business
+
+136
+00:09:25,420 --> 00:09:27,730
+or something, that's how you travel.
+
+137
+00:09:27,760 --> 00:09:31,500
+And you listen to podcasts, you
+know, utilizing that precious.
+
+138
+00:09:32,695 --> 00:09:34,585
+Next, this is very important.
+
+139
+00:09:34,585 --> 00:09:39,055
+You can take the screenshot of
+this because, uh, you know, when
+
+140
+00:09:39,055 --> 00:09:44,365
+we talk about podcast, so you need
+to be very clear with what type
+
+141
+00:09:44,365 --> 00:09:46,555
+of podcast you want to start with.
+
+142
+00:09:46,915 --> 00:09:52,675
+So we have solo, solo, or monologue,
+that means you alone right now, while
+
+143
+00:09:52,675 --> 00:09:54,895
+I'm talking to you, that's a solo thing.
+
+144
+00:09:55,225 --> 00:10:02,480
+So that means you can range from 15 to 20
+minutes each episode, and you can publish
+
+145
+00:10:02,540 --> 00:10:08,300
+three to four episodes that depends on
+your expertise, your time, convenience,
+
+146
+00:10:08,390 --> 00:10:11,000
+and the way you want to deliver it.
+
+147
+00:10:11,510 --> 00:10:15,890
+Second is host and co-host, you may
+be seeing in this particular word,
+
+148
+00:10:15,890 --> 00:10:17,690
+WordPress, because that makes you very.
+
+149
+00:10:18,345 --> 00:10:19,905
+Uh, you know, you can relate with that.
+
+150
+00:10:20,235 --> 00:10:23,025
+You see that there is a
+host and there's a cohost.
+
+151
+00:10:23,175 --> 00:10:27,075
+So when their conversation and they're
+introducing to a new guest, so that's
+
+152
+00:10:27,075 --> 00:10:29,325
+how it's a host and co-host part.
+
+153
+00:10:29,685 --> 00:10:34,755
+And that, uh, you know, ranges from
+20 to 25 minutes, you can publish
+
+154
+00:10:34,785 --> 00:10:37,635
+weekly two to three episodes, right?
+
+155
+00:10:38,115 --> 00:10:39,944
+Interview you, you invite.
+
+156
+00:10:40,575 --> 00:10:43,755
+Within your industry, like, let's
+say you are a developer WordPress
+
+157
+00:10:43,995 --> 00:10:49,065
+developer, and you invite someone else,
+uh, you know, WordPress developer from
+
+158
+00:10:49,515 --> 00:10:54,675
+another company and you gain to, uh,
+ask them different questions around
+
+159
+00:10:55,065 --> 00:10:59,385
+their methodology, what challenges they
+face and what are the tools they use.
+
+160
+00:10:59,715 --> 00:11:03,705
+So that's how you make it more
+impactful and influential.
+
+161
+00:11:04,095 --> 00:11:06,345
+So that ranges from 35 to 45.
+
+162
+00:11:07,155 --> 00:11:12,945
+And at least you can, uh, publish one to
+two episodes per week panel discussion.
+
+163
+00:11:13,245 --> 00:11:19,095
+If you have people around, let's
+say a two or three or four guest for
+
+164
+00:11:19,095 --> 00:11:24,735
+your podcast, you can hell around
+50 to 75 minutes of each episode
+
+165
+00:11:24,975 --> 00:11:27,045
+and you can publish one episode of.
+
+166
+00:11:28,405 --> 00:11:33,505
+Storytelling storytelling is, uh,
+not something like solo stories.
+
+167
+00:11:33,685 --> 00:11:39,025
+So storytelling is something about sharing
+about the people of others, or you take it
+
+168
+00:11:39,025 --> 00:11:43,855
+something about, uh, you know, considering
+the, uh, the success stories of others.
+
+169
+00:11:44,155 --> 00:11:47,665
+So in that way, you can, uh,
+you know, share your thoughts
+
+170
+00:11:47,875 --> 00:11:49,955
+as 15 to 20 minutes range.
+
+171
+00:11:50,590 --> 00:11:54,130
+And weekly three episodes
+or even two episodes.
+
+172
+00:11:54,580 --> 00:11:56,110
+Last one is a fusion one.
+
+173
+00:11:56,290 --> 00:11:58,030
+Well, this word is given by me.
+
+174
+00:11:58,270 --> 00:12:02,590
+So why I wanted to make it very, uh,
+you know, impactful and something that,
+
+175
+00:12:02,680 --> 00:12:04,870
+uh, you know, you can easily remember.
+
+176
+00:12:05,260 --> 00:12:06,600
+So fusion is something.
+
+177
+00:12:07,230 --> 00:12:11,280
+Where you are not sure about whether
+you want to go for podcast, which
+
+178
+00:12:11,280 --> 00:12:15,510
+is solo or interview, you can do
+combination of all the above things.
+
+179
+00:12:15,750 --> 00:12:18,300
+So you can have that combination
+and people will love it.
+
+180
+00:12:18,630 --> 00:12:23,400
+So based on the feedback of the, of
+your audience slowly you grow, and
+
+181
+00:12:23,400 --> 00:12:24,990
+that's how you make it impactful.
+
+182
+00:12:25,590 --> 00:12:27,960
+And that ranges from 20 to 30 minutes.
+
+183
+00:12:28,170 --> 00:12:32,760
+And depending upon the frequency
+you can publish on a week basis.
+
+184
+00:12:34,570 --> 00:12:36,730
+Is, this is something very important.
+
+185
+00:12:37,180 --> 00:12:40,480
+Now, here is the real journey
+that starts for you, right?
+
+186
+00:12:40,960 --> 00:12:43,180
+Is this good time to start podcasting?
+
+187
+00:12:43,510 --> 00:12:44,830
+Yes, definitely.
+
+188
+00:12:45,220 --> 00:12:46,390
+So what is the first step?
+
+189
+00:12:46,690 --> 00:12:46,870
+Now?
+
+190
+00:12:46,870 --> 00:12:49,360
+You are clear that you want
+to start with podcasting.
+
+191
+00:12:49,480 --> 00:12:50,500
+So what is the first step?
+
+192
+00:12:50,770 --> 00:12:52,870
+Identify your strengths and weaknesses.
+
+193
+00:12:52,870 --> 00:12:57,730
+See friends, you are developer, and
+when you are starting your journey.
+
+194
+00:12:59,199 --> 00:13:04,000
+But you might have identify your
+strengths and weaknesses or what you
+
+195
+00:13:04,000 --> 00:13:09,939
+might have happened that your seniors
+might have advised you for certain,
+
+196
+00:13:10,000 --> 00:13:13,360
+certain things that you are good
+at this, you are not good at this.
+
+197
+00:13:13,360 --> 00:13:15,069
+You need to improve at this area.
+
+198
+00:13:15,250 --> 00:13:20,380
+So this is the right time to list down
+all the things and see for yourself
+
+199
+00:13:20,770 --> 00:13:22,840
+next while you have listed them.
+
+200
+00:13:23,140 --> 00:13:24,160
+What steps you for.
+
+201
+00:13:25,240 --> 00:13:27,820
+What stops you from
+starting with something new?
+
+202
+00:13:27,850 --> 00:13:28,630
+Always.
+
+203
+00:13:28,840 --> 00:13:31,090
+This is a question around for everyone.
+
+204
+00:13:31,480 --> 00:13:36,160
+When you are starting your new journey for
+anything, that is something, and that is
+
+205
+00:13:36,160 --> 00:13:38,410
+one barrier for each and every one of us.
+
+206
+00:13:38,590 --> 00:13:43,570
+And that is fear, fear of speaking,
+fear of running fear of, uh, talking
+
+207
+00:13:43,570 --> 00:13:45,730
+to someone as fear of networking.
+
+208
+00:13:45,760 --> 00:13:48,880
+So this is RD now, what are
+different types of fear?
+
+209
+00:13:48,940 --> 00:13:52,600
+Let's see the next slide we
+have fear of exploration.
+
+210
+00:13:53,410 --> 00:13:56,740
+So is that, uh, uh, assembling with you?
+
+211
+00:13:57,100 --> 00:14:00,850
+Expiration means you have everything,
+but you are not able to bring
+
+212
+00:14:00,850 --> 00:14:02,680
+up among the people publicly.
+
+213
+00:14:03,220 --> 00:14:07,600
+So this fear you might be having,
+I'm not saying you are having, you
+
+214
+00:14:07,600 --> 00:14:10,390
+might be having fear of communication.
+
+215
+00:14:10,780 --> 00:14:12,220
+You are good at everything.
+
+216
+00:14:12,280 --> 00:14:16,950
+And sometimes you too, the language
+barrier sometimes because you
+
+217
+00:14:17,170 --> 00:14:19,450
+have a shyness, you may be having.
+
+218
+00:14:20,160 --> 00:14:22,290
+Uh, fear of communication.
+
+219
+00:14:22,290 --> 00:14:25,860
+You are not able to communicate with
+people in a very effective manner.
+
+220
+00:14:25,890 --> 00:14:26,580
+That's fine.
+
+221
+00:14:26,880 --> 00:14:29,790
+You just start with something
+and slowly you can improve that.
+
+222
+00:14:30,565 --> 00:14:31,855
+Fear of public speaking.
+
+223
+00:14:32,395 --> 00:14:33,805
+Now see friends today.
+
+224
+00:14:33,865 --> 00:14:36,205
+I'm able to talk in front of you.
+
+225
+00:14:36,445 --> 00:14:40,015
+It's not just because
+I, I am, I was expert.
+
+226
+00:14:40,555 --> 00:14:46,105
+I, you know, took this time and learn from
+different people within the community.
+
+227
+00:14:46,465 --> 00:14:49,555
+So while I'm, uh, you know,
+learning from the community, I make
+
+228
+00:14:49,555 --> 00:14:51,445
+mistakes and that's how I grew.
+
+229
+00:14:51,445 --> 00:14:54,985
+And today I'm able to speak in
+front of you without any fear.
+
+230
+00:14:55,195 --> 00:14:59,695
+So you can also identify your fear and
+you can come out of that knowledge.
+
+231
+00:15:00,550 --> 00:15:04,240
+You know, friends, uh, sometimes
+what happens is you have knowledge,
+
+232
+00:15:04,420 --> 00:15:08,530
+but you are not confident whether I
+should share this publicly or not.
+
+233
+00:15:08,890 --> 00:15:11,770
+So this also fear, uh, you
+know, sometimes, uh, puts
+
+234
+00:15:11,770 --> 00:15:14,080
+you in a wrong direction.
+
+235
+00:15:14,320 --> 00:15:16,360
+Fear of, let's say.
+
+236
+00:15:17,245 --> 00:15:21,895
+Uh, point of view, for example,
+there is something, uh, on a blog
+
+237
+00:15:21,925 --> 00:15:27,745
+or a statement made by a famous, uh,
+influencer or developer or someone,
+
+238
+00:15:27,985 --> 00:15:32,185
+and you want to, you know, write
+something, but you fear what if I write?
+
+239
+00:15:32,275 --> 00:15:38,485
+Or what if I talk about a particular
+discussion on a podcast or something?
+
+240
+00:15:38,755 --> 00:15:39,615
+So this is how.
+
+241
+00:15:40,485 --> 00:15:42,075
+Fear of planning and execution.
+
+242
+00:15:42,075 --> 00:15:49,005
+You are very good at, you have, you know,
+decent years of experience as a developer,
+
+243
+00:15:49,095 --> 00:15:55,575
+but you fear to start, uh, planning and
+executing, uh, each episode, where are
+
+244
+00:15:55,575 --> 00:15:57,555
+you where to start and all those things.
+
+245
+00:15:57,945 --> 00:16:01,965
+Last one is the most important
+and most common one fear of ideas.
+
+246
+00:16:01,965 --> 00:16:05,985
+You have everything with you, but
+you're, uh, you know, figuring out.
+
+247
+00:16:06,810 --> 00:16:11,520
+Uh, how to start when to start, what
+to start and why should I start?
+
+248
+00:16:11,550 --> 00:16:13,170
+So that is also the caution.
+
+249
+00:16:13,470 --> 00:16:15,660
+Like if you are a developer,
+why should I start?
+
+250
+00:16:15,690 --> 00:16:19,170
+So you will get all the
+answers in the upcoming slides.
+
+251
+00:16:22,555 --> 00:16:24,535
+How to overcome the fear of speaking.
+
+252
+00:16:24,535 --> 00:16:28,885
+Now you have identified
+different types of fear.
+
+253
+00:16:29,185 --> 00:16:30,415
+So what is the next one?
+
+254
+00:16:30,805 --> 00:16:35,155
+Networking is the best way that as much
+as you network with people that you
+
+255
+00:16:35,155 --> 00:16:39,895
+will come to know that you are gaining
+confidence and that confidence will
+
+256
+00:16:39,955 --> 00:16:41,905
+eventually help you in podcasting.
+
+257
+00:16:43,815 --> 00:16:47,745
+As well, so always network
+friends, even today.
+
+258
+00:16:47,775 --> 00:16:51,945
+I do not miss out any conferences
+and I network with lots of people
+
+259
+00:16:52,725 --> 00:16:54,405
+participate in the discussions.
+
+260
+00:16:54,615 --> 00:17:00,225
+So the more you discuss, the
+more you discuss with people
+
+261
+00:17:00,735 --> 00:17:02,595
+and that's how you grow.
+
+262
+00:17:02,595 --> 00:17:07,784
+And, you know, you make, uh,
+your network in a more proper.
+
+263
+00:17:08,740 --> 00:17:16,899
+Grab opportunities to become a speaker
+at various grant opportunities to become
+
+264
+00:17:16,930 --> 00:17:20,409
+a speaker at various meetups and events.
+
+265
+00:17:21,369 --> 00:17:24,639
+If you are a new one, new,
+if you are someone who is
+
+266
+00:17:24,639 --> 00:17:26,680
+very shy in sharing publicly.
+
+267
+00:17:27,595 --> 00:17:32,905
+And do not fear, you know, become
+a speaker and let's make a mistake.
+
+268
+00:17:33,325 --> 00:17:37,045
+It's not something you can give
+everything in the first shot, right?
+
+269
+00:17:37,315 --> 00:17:41,545
+So slowly, slowly, you grow, listen
+to various podcasts to understand
+
+270
+00:17:41,545 --> 00:17:44,605
+the flow of delivering a speech
+right now, you are a developer.
+
+271
+00:17:44,755 --> 00:17:48,925
+So there are lots of people, even
+within WordPress community who
+
+272
+00:17:48,925 --> 00:17:52,285
+have started their podcast channel.
+
+273
+00:17:52,465 --> 00:17:55,045
+So listen to them and take
+some inspiration from.
+
+274
+00:17:56,410 --> 00:17:58,600
+Start your watching loud debates.
+
+275
+00:17:58,870 --> 00:17:59,740
+Nonpolitical.
+
+276
+00:17:59,740 --> 00:18:03,760
+Of course I start your
+own YouTube channel.
+
+277
+00:18:04,030 --> 00:18:09,190
+Now, here is something very important
+to note when you are starting with
+
+278
+00:18:09,190 --> 00:18:14,620
+podcast, see friends, uh, it's
+always better to start with video.
+
+279
+00:18:14,650 --> 00:18:15,100
+Why?
+
+280
+00:18:15,940 --> 00:18:19,540
+Because after all podcasting
+is all about audio.
+
+281
+00:18:20,200 --> 00:18:21,880
+So the expression of your face.
+
+282
+00:18:22,960 --> 00:18:27,370
+That automatically reflects
+towards your, you know, this
+
+283
+00:18:27,370 --> 00:18:30,730
+mouth and that comes to the voice.
+
+284
+00:18:31,149 --> 00:18:33,100
+So it's a psychological thing.
+
+285
+00:18:33,820 --> 00:18:38,830
+So always start your YouTube channel
+and come to the comfort level of
+
+286
+00:18:38,889 --> 00:18:42,790
+speaking to the people through first
+video, and then starting with audio
+
+287
+00:18:42,790 --> 00:18:47,199
+part frequently share videos on
+social media platforms about your work
+
+288
+00:18:47,199 --> 00:18:49,179
+progress experience in new learnings.
+
+289
+00:18:51,040 --> 00:18:57,010
+If you are working on a project, let's
+say, and you, uh, explored a particular
+
+290
+00:18:57,070 --> 00:19:02,260
+functionality or a feature, but there
+are a few things that you cannot express,
+
+291
+00:19:02,320 --> 00:19:04,330
+or you cannot talk about publicly.
+
+292
+00:19:04,689 --> 00:19:05,439
+That's fine.
+
+293
+00:19:05,679 --> 00:19:10,479
+But if you come to a challenge or you
+help solve something, you can share
+
+294
+00:19:10,479 --> 00:19:12,520
+with people and take advantage of that.
+
+295
+00:19:12,580 --> 00:19:16,810
+The more you share with people,
+the more networks you get, the
+
+296
+00:19:16,810 --> 00:19:19,149
+more leads you generate now.
+
+297
+00:19:21,270 --> 00:19:26,909
+Come out of language barrier, see friends,
+podcasting is not just about, uh, uh,
+
+298
+00:19:26,909 --> 00:19:28,949
+you're not talking about in just English.
+
+299
+00:19:29,189 --> 00:19:33,310
+You can, if you are, uh, you see
+today, uh, I'm very fortunate.
+
+300
+00:19:33,389 --> 00:19:38,250
+I feel lucky that I have talking
+to people around the world and you
+
+301
+00:19:38,490 --> 00:19:40,500
+all are from different regions.
+
+302
+00:19:40,679 --> 00:19:42,360
+You may have different languages.
+
+303
+00:19:42,629 --> 00:19:44,939
+So you start with that language, right.
+
+304
+00:19:45,555 --> 00:19:46,725
+Be comfort in that.
+
+305
+00:19:46,725 --> 00:19:49,545
+And then you can come to
+English and international level.
+
+306
+00:19:49,545 --> 00:19:50,145
+That's fine.
+
+307
+00:19:50,865 --> 00:19:55,185
+Come out of a language barrier
+and never look at people when
+
+308
+00:19:55,185 --> 00:19:56,355
+they might make fun of you.
+
+309
+00:19:56,985 --> 00:20:02,835
+When you are starting with your
+journey, you know what happens?
+
+310
+00:20:03,735 --> 00:20:09,735
+Uh, people make fun of you because
+you are they mistake now, who does Mr.
+
+311
+00:20:11,019 --> 00:20:13,389
+Because you are taking something action.
+
+312
+00:20:13,570 --> 00:20:16,479
+When you take action, then
+only you make mistake, right?
+
+313
+00:20:16,719 --> 00:20:18,610
+So that's fine.
+
+314
+00:20:18,789 --> 00:20:23,289
+Be comfortable start working
+on it and be consistent.
+
+315
+00:20:23,560 --> 00:20:26,289
+Be keep working and keep
+focusing on yourself.
+
+316
+00:20:27,310 --> 00:20:33,070
+And the last one is be a good listener
+along with being a good auditor.
+
+317
+00:20:33,699 --> 00:20:34,899
+This is also very important.
+
+318
+00:20:35,919 --> 00:20:41,320
+Now, if I just go on speaking
+before luck, uh, let's say one hour,
+
+319
+00:20:41,320 --> 00:20:43,179
+two hour, it's not going to help.
+
+320
+00:20:43,450 --> 00:20:44,980
+I also have to listen a lot.
+
+321
+00:20:45,310 --> 00:20:50,620
+So even today, this is a practice
+that I do when I talk with people
+
+322
+00:20:50,889 --> 00:20:52,270
+and listen to their challenges.
+
+323
+00:20:52,270 --> 00:20:56,409
+First, I, I listened to their
+introduction first, and then only I
+
+324
+00:20:56,409 --> 00:21:00,460
+start with my introduction that helps
+me to understand their perspective.
+
+325
+00:21:01,345 --> 00:21:06,055
+So when I understand their perspective,
+I can address according to them.
+
+326
+00:21:06,445 --> 00:21:08,425
+So this is a good practice for everyone.
+
+327
+00:21:09,580 --> 00:21:10,000
+Next.
+
+328
+00:21:10,450 --> 00:21:10,690
+Okay.
+
+329
+00:21:10,690 --> 00:21:12,940
+Now you have overcome the fear next.
+
+330
+00:21:13,149 --> 00:21:14,530
+You want to start your podcast.
+
+331
+00:21:14,800 --> 00:21:15,940
+Get that information.
+
+332
+00:21:16,180 --> 00:21:17,440
+That's the important thing.
+
+333
+00:21:17,649 --> 00:21:18,790
+Listen to podcasts.
+
+334
+00:21:19,000 --> 00:21:21,610
+As I said earlier, record your own voice.
+
+335
+00:21:21,760 --> 00:21:25,930
+Now, when you have started a podcast,
+uh, let's say, uh, your YouTube
+
+336
+00:21:25,960 --> 00:21:28,180
+channel now record your own voice.
+
+337
+00:21:28,210 --> 00:21:32,290
+I'll talk about different
+tools at the very last.
+
+338
+00:21:34,090 --> 00:21:36,940
+Take feedback from your
+friends and seniors.
+
+339
+00:21:37,810 --> 00:21:42,970
+Keep consistency in networking consistency
+in context, that will help you to grow
+
+340
+00:21:43,030 --> 00:21:47,620
+at a, you know, at a very larger level,
+explore topics, trends, and interests.
+
+341
+00:21:47,890 --> 00:21:51,940
+Don't randomly start
+podcasting on different topics.
+
+342
+00:21:51,940 --> 00:21:57,730
+No learn out, identify topics
+on which you are comfortable.
+
+343
+00:21:58,000 --> 00:22:01,420
+Identify times I did have
+a interest of the audience.
+
+344
+00:22:02,560 --> 00:22:07,209
+For example, you are, uh, on,
+let's say on Twitter and you
+
+345
+00:22:07,209 --> 00:22:09,159
+have 1000 followers with you.
+
+346
+00:22:09,520 --> 00:22:15,639
+So do not just, uh, uh, start with
+something that I'm going to start hell
+
+347
+00:22:15,730 --> 00:22:20,050
+you know, their feedback, what they
+are interested in, learn about their
+
+348
+00:22:20,050 --> 00:22:21,699
+interests and then start your journey.
+
+349
+00:22:22,240 --> 00:22:26,544
+So now, Are you excited to
+start a new journey for podcast?
+
+350
+00:22:26,875 --> 00:22:27,324
+Yes.
+
+351
+00:22:27,355 --> 00:22:33,175
+Now next few slides are the most
+important one, so never miss out,
+
+352
+00:22:33,205 --> 00:22:35,784
+you know, keep focusing on this.
+
+353
+00:22:36,594 --> 00:22:40,014
+So what are they the reasons to start now?
+
+354
+00:22:41,034 --> 00:22:45,024
+If I, I have been telling you
+start your podcast journey, but why
+
+355
+00:22:45,024 --> 00:22:48,084
+you don't need to start, you will
+have this question in mind, right?
+
+356
+00:22:48,415 --> 00:22:51,415
+So it's a, one of the most
+preferred form of content.
+
+357
+00:22:51,774 --> 00:22:55,884
+Even if you do not have ability
+to write blogs, if you do not
+
+358
+00:22:55,884 --> 00:23:00,475
+have the ability to, um, you know,
+work on your videos, that's fine.
+
+359
+00:23:00,475 --> 00:23:01,975
+You can start with podcasting.
+
+360
+00:23:02,304 --> 00:23:03,685
+You can listen to anywhere.
+
+361
+00:23:04,675 --> 00:23:06,384
+It's the era of multitasking.
+
+362
+00:23:08,965 --> 00:23:10,854
+What is the meaning of the multitasking?
+
+363
+00:23:11,124 --> 00:23:14,965
+So multitasking doesn't mean that,
+uh, you do everything at a time.
+
+364
+00:23:15,264 --> 00:23:20,394
+Multitasking means if you are doing some
+activity less a year, you're working on
+
+365
+00:23:20,394 --> 00:23:22,104
+some coding part and you'll feel bored.
+
+366
+00:23:22,344 --> 00:23:24,804
+So at the same time, you can
+even listen to a podcast.
+
+367
+00:23:25,014 --> 00:23:31,225
+So like, listen now, Uh, just imagine
+you are starting your own podcast
+
+368
+00:23:31,225 --> 00:23:37,375
+channel and someone other developer,
+they want to, uh, get some to podcasts.
+
+369
+00:23:37,675 --> 00:23:38,905
+So they search for you.
+
+370
+00:23:38,965 --> 00:23:39,265
+Okay.
+
+371
+00:23:39,265 --> 00:23:43,105
+This is something that I will do, uh,
+listen, and also I want to work on.
+
+372
+00:23:44,170 --> 00:23:49,060
+Now that's a, uh, you know, multitask
+and, uh, they will find it very useful,
+
+373
+00:23:49,570 --> 00:23:51,520
+has lot of potential to generate leads.
+
+374
+00:23:51,580 --> 00:23:57,790
+As I said earlier, forecasting has lot of,
+uh, you know, uh, potential to generate
+
+375
+00:23:57,790 --> 00:24:02,980
+leads and to make connections, but it
+takes a lot of time with team based
+
+376
+00:24:02,980 --> 00:24:05,410
+medium to build a relationship with.
+
+377
+00:24:06,280 --> 00:24:10,899
+Businesses, whether it is agency owners,
+whether it is enterprises, whether it is
+
+378
+00:24:10,899 --> 00:24:17,199
+it companies or even Browns, they want to
+invite you, or they want to collaborate
+
+379
+00:24:17,199 --> 00:24:20,889
+with you because you are delivering
+something very valuable to them.
+
+380
+00:24:22,060 --> 00:24:23,500
+Opportunity to be guest or not.
+
+381
+00:24:23,500 --> 00:24:26,350
+This podcast series see
+friends, if you want to grow.
+
+382
+00:24:26,500 --> 00:24:27,459
+Okay, that's fine.
+
+383
+00:24:27,459 --> 00:24:34,090
+You are starting your podcast series,
+but also apparently simultaneously focus
+
+384
+00:24:34,090 --> 00:24:36,909
+on being a guest on different platforms.
+
+385
+00:24:37,540 --> 00:24:41,199
+Uh, and, uh, you know, you
+do not have to be doing.
+
+386
+00:24:42,040 --> 00:24:47,889
+By yourself slowly and steadily while you
+share a good, valuable content with them,
+
+387
+00:24:48,219 --> 00:24:51,489
+they will, uh, reach out to you as today.
+
+388
+00:24:51,519 --> 00:24:56,709
+Even today, people reach out to me for,
+uh, you know, interviewing or for getting,
+
+389
+00:24:57,030 --> 00:25:03,264
+uh, you know, Uh, let's say published on
+their articles, like blogs or something.
+
+390
+00:25:03,745 --> 00:25:08,394
+So I hope almost a given my interview
+on two to three podcast channels.
+
+391
+00:25:08,725 --> 00:25:09,864
+So that's how you grow.
+
+392
+00:25:09,864 --> 00:25:12,054
+You share your address with their guest.
+
+393
+00:25:12,564 --> 00:25:16,014
+Now podcast has just
+opened up a long way to go.
+
+394
+00:25:16,014 --> 00:25:16,945
+What does this mean?
+
+395
+00:25:17,155 --> 00:25:22,584
+It's not that it's just how
+awkward, but you have so much to
+
+396
+00:25:22,584 --> 00:25:24,445
+share with people through podcast.
+
+397
+00:25:25,600 --> 00:25:29,889
+And that's where it makes it very
+unique from different forms of
+
+398
+00:25:29,889 --> 00:25:34,570
+content today, forecasts episodes
+are available in different languages
+
+399
+00:25:34,810 --> 00:25:37,779
+for various niches market is here.
+
+400
+00:25:39,504 --> 00:25:40,614
+So what's the next.
+
+401
+00:25:41,125 --> 00:25:43,014
+Now you will know that.
+
+402
+00:25:43,044 --> 00:25:48,084
+What are the reasons now, second
+question that may arise in your mind
+
+403
+00:25:48,114 --> 00:25:53,094
+is should I use website development,
+team development and plugin
+
+404
+00:25:53,094 --> 00:25:54,925
+development to start with podcasts?
+
+405
+00:25:55,649 --> 00:25:58,860
+Because podcasting has
+its own process, right?
+
+406
+00:25:59,040 --> 00:26:01,560
+Recording, editing, and everything.
+
+407
+00:26:01,739 --> 00:26:07,350
+So that does mean that you have to
+live your, uh, present, uh, uh, you
+
+408
+00:26:07,350 --> 00:26:09,719
+know, business or a job or something.
+
+409
+00:26:10,530 --> 00:26:17,310
+No, you do not have to live that, but in
+fact, forecasting improves your knowledge.
+
+410
+00:26:17,610 --> 00:26:19,919
+It helps you in personal branding.
+
+411
+00:26:20,340 --> 00:26:20,820
+It has.
+
+412
+00:26:21,639 --> 00:26:25,929
+Gaining confidence, talking to
+people, the removes fear of public
+
+413
+00:26:25,929 --> 00:26:28,360
+speaking, no one is there to see you.
+
+414
+00:26:28,389 --> 00:26:28,750
+Yeah.
+
+415
+00:26:29,830 --> 00:26:34,120
+When you are recording a voice,
+no one is there to see you or
+
+416
+00:26:34,120 --> 00:26:35,919
+judge you how you are looking.
+
+417
+00:26:36,700 --> 00:26:38,020
+See it the way you are speaking.
+
+418
+00:26:38,020 --> 00:26:40,780
+No, it's all dependent on your voice.
+
+419
+00:26:40,929 --> 00:26:43,360
+So you have to only work on just one area.
+
+420
+00:26:43,540 --> 00:26:44,320
+And that is what.
+
+421
+00:26:45,564 --> 00:26:47,094
+You have a dead areas.
+
+422
+00:26:47,304 --> 00:26:50,154
+Sound is that, uh, you
+know, the volume is there.
+
+423
+00:26:50,154 --> 00:26:53,455
+That's different, but you have
+only one focus that is audio.
+
+424
+00:26:53,455 --> 00:26:57,354
+Part process is easy at first.
+
+425
+00:26:57,534 --> 00:27:03,024
+You might find it very difficult, but
+as in V when you progress, it will,
+
+426
+00:27:03,114 --> 00:27:04,975
+uh, you know, uh, look very easy.
+
+427
+00:27:07,254 --> 00:27:08,665
+Abs in business growth.
+
+428
+00:27:08,965 --> 00:27:09,354
+Yeah.
+
+429
+00:27:09,475 --> 00:27:12,925
+If you are doing business, let's
+say freelancing, if you are doing,
+
+430
+00:27:12,955 --> 00:27:17,394
+or if you are an individual, this
+helps a lot in your business as well.
+
+431
+00:27:17,784 --> 00:27:20,004
+You scope of various topics to talk about.
+
+432
+00:27:20,364 --> 00:27:22,044
+It's not just about one or two topics.
+
+433
+00:27:22,044 --> 00:27:25,614
+You have a lot of industry you
+have today in, uh, even in,
+
+434
+00:27:26,215 --> 00:27:28,314
+uh, WordPress community itself.
+
+435
+00:27:28,614 --> 00:27:30,225
+We have so much to talk about.
+
+436
+00:27:30,895 --> 00:27:35,665
+From the perspective of marketing from the
+perspective of SEO, from the perspective
+
+437
+00:27:35,695 --> 00:27:41,185
+of, uh, let's say, uh, front-end
+back-end and everything is there, right?
+
+438
+00:27:41,575 --> 00:27:44,095
+So can be a form of giving
+back to the community.
+
+439
+00:27:44,365 --> 00:27:48,865
+See friends, uh, community is giving
+us in a lot of different models.
+
+440
+00:27:49,584 --> 00:27:55,314
+But, uh, when we share with people
+through, uh, podcasting is we share
+
+441
+00:27:55,344 --> 00:27:59,965
+knowledge, we share our experience,
+we share our challenges and we
+
+442
+00:27:59,965 --> 00:28:03,774
+invite some of the famous people
+or some well-known people or people
+
+443
+00:28:03,774 --> 00:28:07,824
+who are working in community day
+and night, if you invite them.
+
+444
+00:28:08,215 --> 00:28:12,834
+So you see you are in the form of you are
+giving them back to the community right?
+
+445
+00:28:14,364 --> 00:28:14,844
+Next.
+
+446
+00:28:16,405 --> 00:28:18,445
+What is podcasting for developers?
+
+447
+00:28:18,475 --> 00:28:23,815
+Now we all ready, talked about
+fear and everything, but actually,
+
+448
+00:28:23,905 --> 00:28:26,095
+what is forecasting for developers?
+
+449
+00:28:26,515 --> 00:28:28,375
+It improves work efficiency.
+
+450
+00:28:29,350 --> 00:28:33,159
+When you collaborate with others or
+when you take interviews with others
+
+451
+00:28:33,399 --> 00:28:38,169
+or when you, uh, you know, listen to
+podcast, you get to know a lot of things.
+
+452
+00:28:38,379 --> 00:28:44,919
+You, you, uh, explore different resources,
+you explore different methods, you explore
+
+453
+00:28:44,919 --> 00:28:47,469
+different, uh, functionality to send fi.
+
+454
+00:28:48,310 --> 00:28:51,159
+Among the WordPress community itself.
+
+455
+00:28:51,189 --> 00:28:53,229
+So this is something very important.
+
+456
+00:28:53,499 --> 00:28:58,629
+Get broader idea about themes, plugins for
+press lettuce updates, get to know about
+
+457
+00:28:58,689 --> 00:29:01,539
+other developers, their methodology tools.
+
+458
+00:29:01,570 --> 00:29:03,129
+They use challenges.
+
+459
+00:29:03,129 --> 00:29:04,989
+They have best practices.
+
+460
+00:29:05,379 --> 00:29:06,699
+Stand out from the crowd.
+
+461
+00:29:06,999 --> 00:29:10,330
+You are a developer, you are
+doing something amazing within
+
+462
+00:29:10,330 --> 00:29:11,439
+the WordPress community.
+
+463
+00:29:11,709 --> 00:29:14,320
+And I believe you all are doing amazing.
+
+464
+00:29:14,649 --> 00:29:16,600
+Not just one person
+you all are doing with.
+
+465
+00:29:17,485 --> 00:29:21,774
+Uh, something which is a commendable,
+but if you are starting your
+
+466
+00:29:21,774 --> 00:29:26,334
+podcast journey in the beginning,
+you might face a lot of challenges.
+
+467
+00:29:26,544 --> 00:29:31,644
+You might, uh, how the fear that's
+fine, but when you get going with
+
+468
+00:29:31,644 --> 00:29:36,715
+that, You, if people would recognize
+in that form, that this person is
+
+469
+00:29:36,804 --> 00:29:41,845
+also a developer and a podcaster as
+well, people will want you to give
+
+470
+00:29:41,845 --> 00:29:45,205
+advices as an expert on their podcast.
+
+471
+00:29:45,415 --> 00:29:49,315
+So they will invite you as
+an, uh, you know, someone who
+
+472
+00:29:49,315 --> 00:29:51,685
+will, uh, give them advice.
+
+473
+00:29:52,315 --> 00:29:55,554
+For example, I went to give a very
+simple example, a quick example.
+
+474
+00:29:56,125 --> 00:29:57,955
+Let's say you are in a growing stage.
+
+475
+00:29:57,985 --> 00:29:59,935
+You just started with one or two episodes.
+
+476
+00:30:00,205 --> 00:30:01,315
+People love to listen to it.
+
+477
+00:30:02,470 --> 00:30:07,660
+And you get the invitation from
+a, another podcast channel who
+
+478
+00:30:07,660 --> 00:30:13,690
+is having around 10,000 to 15,000
+audience regularly watching each
+
+479
+00:30:13,720 --> 00:30:15,520
+episode or listening to them.
+
+480
+00:30:15,970 --> 00:30:19,150
+Now, just see the impact
+you are giving them.
+
+481
+00:30:19,390 --> 00:30:24,280
+You are going there as a guest, you are
+sharing your knowledge and the response
+
+482
+00:30:24,280 --> 00:30:27,040
+you get, or people will approach you.
+
+483
+00:30:27,550 --> 00:30:29,710
+It's just unimaginable, right?
+
+484
+00:30:30,475 --> 00:30:36,625
+You can focus in that manner, better
+visibility among the people down yourself
+
+485
+00:30:36,655 --> 00:30:42,145
+from knowledge equity to knowledge
+provider right now, while you do not
+
+486
+00:30:42,145 --> 00:30:44,395
+have much knowledge about podcasting.
+
+487
+00:30:44,754 --> 00:30:49,705
+Uh, so you are getting knowledge,
+you know, you're acquiring no.
+
+488
+00:30:50,499 --> 00:30:54,759
+Once you get the steps once, you
+know, the process of podcasting.
+
+489
+00:30:54,939 --> 00:30:58,540
+And when you share with other
+people, that's where you
+
+490
+00:30:58,570 --> 00:31:00,699
+become knowledge provider.
+
+491
+00:31:00,939 --> 00:31:07,149
+So see that transformation from knowledge
+equator to knowledge provider next.
+
+492
+00:31:08,739 --> 00:31:12,580
+Now this is something very,
+uh, much of your useful.
+
+493
+00:31:12,580 --> 00:31:14,919
+This is something very useful resources.
+
+494
+00:31:15,790 --> 00:31:20,499
+You can listen to some of this
+podcast, uh, on, at your convenience.
+
+495
+00:31:20,800 --> 00:31:26,050
+First one is pat Flynn to who even I
+follow on a regular basis and I are
+
+496
+00:31:26,060 --> 00:31:28,899
+learned so much of things from him.
+
+497
+00:31:29,139 --> 00:31:31,209
+So I highly recommend
+to learn from scratch.
+
+498
+00:31:31,239 --> 00:31:31,719
+If you don't have.
+
+499
+00:31:32,400 --> 00:31:37,410
+Any of the steps to start with podcasting,
+you can start listening to pat Flynn.
+
+500
+00:31:37,740 --> 00:31:43,020
+Gary Vernicek, we know is good at branding
+and different aspects of marketing.
+
+501
+00:31:43,320 --> 00:31:48,960
+Tim Ferris set called in who, uh, he
+runs like a akimbo or cuss channel.
+
+502
+00:31:49,290 --> 00:31:51,240
+Do the VU from the WordPress community.
+
+503
+00:31:51,240 --> 00:31:55,620
+We have WVU is a to Zed WP coffee talk.
+
+504
+00:31:55,860 --> 00:31:57,240
+The guiding was which.
+
+505
+00:31:58,029 --> 00:32:03,759
+Oh, it's focused on interviewing, uh,
+it professionals and other experts from
+
+506
+00:32:03,789 --> 00:32:05,469
+various industries around the world.
+
+507
+00:32:05,979 --> 00:32:09,189
+Post status forecast, your website aging.
+
+508
+00:32:09,259 --> 00:32:12,729
+So these are the, some of the,
+uh, well-known, uh, forecast.
+
+509
+00:32:12,759 --> 00:32:18,909
+And I think that if you refer them,
+you'll get to know a lot of things now.
+
+510
+00:32:21,545 --> 00:32:27,215
+This is something of the real
+formula, or you can say the
+
+511
+00:32:27,215 --> 00:32:29,075
+real ingredient of podcasting.
+
+512
+00:32:29,285 --> 00:32:31,055
+You can take the screenshot of this.
+
+513
+00:32:31,385 --> 00:32:35,465
+I have been working in most of,
+uh, I have been working on some of
+
+514
+00:32:35,465 --> 00:32:37,445
+the tools and still I'm exploring.
+
+515
+00:32:37,775 --> 00:32:39,825
+So there are some things that.
+
+516
+00:32:40,600 --> 00:32:46,240
+Uh, uh, you know, that keeps changing
+and even as they change the features
+
+517
+00:32:46,330 --> 00:32:47,919
+functionalities and all those things.
+
+518
+00:32:48,189 --> 00:32:51,669
+So you have recording and editing
+where you can use garage band
+
+519
+00:32:51,669 --> 00:32:56,860
+and logic pro for Mac or sat, or
+the Adobe audition for windows.
+
+520
+00:32:56,949 --> 00:32:59,439
+You have zoom and Skype
+for recording purpose.
+
+521
+00:32:59,889 --> 00:33:03,909
+You have designing for Canva, Adobe
+illustrator, Adobe spark Raila,
+
+522
+00:33:03,909 --> 00:33:07,899
+wispy post, a podcast distribution,
+where you can distribute.
+
+523
+00:33:08,755 --> 00:33:11,095
+Recorded and completed episodes.
+
+524
+00:33:11,095 --> 00:33:16,075
+So these are the, uh, areas where
+you can start with anchor.fm.
+
+525
+00:33:16,105 --> 00:33:16,405
+Why?
+
+526
+00:33:16,405 --> 00:33:21,145
+Because it allows you to
+distribute into multiple channels.
+
+527
+00:33:21,505 --> 00:33:28,525
+But, uh, uh, you can also learn to, uh,
+distribute separately manually, right?
+
+528
+00:33:29,155 --> 00:33:33,535
+You have podcasters streaming platforms
+where all the podcast episodes will be
+
+529
+00:33:33,535 --> 00:33:36,235
+streamed, uh, for all of your channel.
+
+530
+00:33:37,029 --> 00:33:41,379
+And when you want to get your, uh,
+you know, sound effects or let's
+
+531
+00:33:41,379 --> 00:33:45,519
+say a background music you can get
+from the YouTube's audio library,
+
+532
+00:33:45,549 --> 00:33:48,939
+music for content creator, you can
+search this and you can get that.
+
+533
+00:33:49,569 --> 00:33:53,409
+And the book that the heart
+of the podcasting planning
+
+534
+00:33:53,409 --> 00:33:55,179
+and execution is mind map.
+
+535
+00:33:55,479 --> 00:33:57,309
+So you can use whimsical or mine.
+
+536
+00:33:57,309 --> 00:33:58,870
+Mister, I use whimsical.
+
+537
+00:33:58,899 --> 00:33:59,259
+Why?
+
+538
+00:33:59,679 --> 00:34:01,209
+Because it's very simple.
+
+539
+00:34:01,389 --> 00:34:03,669
+You just have to plan
+out the anti-oppressive.
+
+540
+00:34:04,555 --> 00:34:11,245
+Just think I, you know, uh, how,
+uh, plan of, uh, exit complete, uh,
+
+541
+00:34:11,335 --> 00:34:13,705
+execution from the scratch level.
+
+542
+00:34:13,705 --> 00:34:20,545
+So it's a like, uh, research work,
+inviting guest, uh, execution marketing.
+
+543
+00:34:21,400 --> 00:34:26,830
+Distribution editing all episodes,
+recording all episodes, title, everything.
+
+544
+00:34:26,830 --> 00:34:30,730
+Is there, uh, for me at, uh, mind maps.
+
+545
+00:34:30,910 --> 00:34:37,450
+So use for yourself also slowly, slowly,
+you know, first, uh, you know, you, uh,
+
+546
+00:34:37,690 --> 00:34:39,890
+create smaller mindmaps and then you.
+
+547
+00:34:41,665 --> 00:34:46,105
+And before I, uh, you know, tell about
+or share about this monster thought in
+
+548
+00:34:46,105 --> 00:34:51,625
+the end, I would highly recommend when
+you are recording your voice or you are
+
+549
+00:34:51,625 --> 00:34:57,025
+starting your podcast channel, do not plan
+to start with 10 minutes or 15 minutes.
+
+550
+00:34:57,265 --> 00:35:00,255
+Always start with two to three
+minutes because that's your,
+
+551
+00:35:00,255 --> 00:35:02,995
+your space to grow, to improve.
+
+552
+00:35:03,295 --> 00:35:05,695
+And, uh, to find out that
+where you are lacking.
+
+553
+00:35:06,475 --> 00:35:10,765
+Because if you are starting for 10, 15
+minutes, you have large, huge scope you
+
+554
+00:35:10,765 --> 00:35:13,555
+at right now, you do not need huge scope.
+
+555
+00:35:13,735 --> 00:35:17,845
+You need to take action for forecasting.
+
+556
+00:35:18,325 --> 00:35:22,405
+So this a last thought, something
+that I want to share with you, good
+
+557
+00:35:22,405 --> 00:35:27,055
+ideas are common, but those who are
+willing to take action and execute
+
+558
+00:35:27,085 --> 00:35:29,725
+those ideas are far more rare.
+
+559
+00:35:30,055 --> 00:35:30,865
+What does this mean?
+
+560
+00:35:30,865 --> 00:35:34,315
+You have, we all have, uh,
+ideas which are very common.
+
+561
+00:35:35,230 --> 00:35:38,470
+Who all take action and execute them.
+
+562
+00:35:38,650 --> 00:35:43,180
+Those ideas become rarest
+thing in today's world.
+
+563
+00:35:43,600 --> 00:35:45,190
+This is again by pat Flynn.
+
+564
+00:35:45,460 --> 00:35:46,630
+Well-known podcaster.
+
+565
+00:35:47,110 --> 00:35:48,370
+So that's it from me.
+
+566
+00:35:48,520 --> 00:35:50,320
+Thank you for your precious time.
+
+567
+00:35:50,590 --> 00:35:55,180
+I highly appreciate your time
+spending on this particular session.
+
+568
+00:35:55,420 --> 00:35:59,500
+So thank you and namaste from India.
+
+569
+00:36:04,375 --> 00:36:06,595
+Yogesh Londhe: I see you here.
+
+570
+00:36:09,265 --> 00:36:09,775
+What did you say?
+
+571
+00:36:09,775 --> 00:36:11,834
+Lax Mariappan: That that was a good talk.
+
+572
+00:36:12,145 --> 00:36:14,335
+Very encouraging, motivating.
+
+573
+00:36:14,904 --> 00:36:19,495
+And thanks for putting all the, uh, all
+the questions that a beginner might have
+
+574
+00:36:20,465 --> 00:36:23,125
+answered everything in the slides already.
+
+575
+00:36:24,145 --> 00:36:26,845
+Yogesh Londhe: So Lax, by the
+way, in just distracting from the
+
+576
+00:36:27,085 --> 00:36:28,765
+topic that I'm just loving that.
+
+577
+00:36:30,760 --> 00:36:36,640
+You know WordFest, uh, that you get
+the bite, the music it's very catchy,
+
+578
+00:36:37,810 --> 00:36:42,770
+you know, 24 hours, 60 sessions,
+one community it's very engaging.
+
+579
+00:36:42,790 --> 00:36:47,530
+And, uh, Sumant mentioned about, uh,
+finding, uh, copyright free music.
+
+580
+00:36:47,740 --> 00:36:48,820
+Copy, left music in.
+
+581
+00:36:49,660 --> 00:36:49,960
+Yeah.
+
+582
+00:36:50,050 --> 00:36:52,120
+So we've got few questions for someone.
+
+583
+00:36:52,660 --> 00:36:52,930
+Yes.
+
+584
+00:36:52,960 --> 00:36:53,450
+Lax.
+
+585
+00:36:53,530 --> 00:36:55,150
+Uh, you want to go with
+the first question?
+
+586
+00:36:56,760 --> 00:36:57,150
+Lax Mariappan: Yeah.
+
+587
+00:36:57,180 --> 00:37:04,410
+So, uh, you know, podcasting is, um,
+it's also like, uh, blogging or like
+
+588
+00:37:04,740 --> 00:37:07,710
+there's a lot of competition that
+are already established podcasts.
+
+589
+00:37:08,160 --> 00:37:11,460
+So how do a developer or
+someone who's just starting
+
+590
+00:37:11,460 --> 00:37:13,320
+out, make a podcast, stand out.
+
+591
+00:37:15,370 --> 00:37:15,730
+Sumant Lohar: Yeah.
+
+592
+00:37:15,759 --> 00:37:20,680
+So, as I said earlier, there are so many
+resources within WordPress community.
+
+593
+00:37:20,800 --> 00:37:21,850
+You can refer them.
+
+594
+00:37:21,940 --> 00:37:26,950
+And apart from that, you can start
+with just two, two to three episodes
+
+595
+00:37:27,220 --> 00:37:30,000
+and publish on just Audacity.
+
+596
+00:37:30,340 --> 00:37:34,960
+And once you publish that, and when
+you share with your friends or your,
+
+597
+00:37:35,050 --> 00:37:40,090
+uh, let's say, uh, your companions,
+companions, and that's how you come to
+
+598
+00:37:40,090 --> 00:37:45,385
+know that where are the areas that you
+need to improve because at first shot.
+
+599
+00:37:45,475 --> 00:37:50,185
+If you just, uh, go on distributing on
+different channels, there'll be a little,
+
+600
+00:37:50,395 --> 00:37:52,795
+uh, space for the improvement part.
+
+601
+00:37:56,875 --> 00:37:57,295
+Yogesh Londhe: Okay.
+
+602
+00:37:57,295 --> 00:37:57,925
+That's nice.
+
+603
+00:37:57,955 --> 00:37:58,315
+Okay.
+
+604
+00:37:59,065 --> 00:38:04,465
+Um, now, and I have a question
+how to promote my podcast.
+
+605
+00:38:04,555 --> 00:38:06,685
+I have made a proud
+podcast how to promote it.
+
+606
+00:38:06,805 --> 00:38:08,725
+I would do the same thing.
+
+607
+00:38:08,785 --> 00:38:10,165
+I think it's the same question.
+
+608
+00:38:10,585 --> 00:38:12,025
+So we'll go to the next question.
+
+609
+00:38:12,655 --> 00:38:12,865
+Yeah.
+
+610
+00:38:14,100 --> 00:38:16,150
+Well, I will put, put a question to you.
+
+611
+00:38:17,170 --> 00:38:17,530
+Yeah.
+
+612
+00:38:17,590 --> 00:38:20,830
+What kind of debates and
+podcasts do you listen to?
+
+613
+00:38:20,860 --> 00:38:22,330
+Um, in what languages?
+
+614
+00:38:24,190 --> 00:38:28,600
+Sumant Lohar: Uh, usually I listen
+to podcasts in a Hindi and English
+
+615
+00:38:28,630 --> 00:38:34,000
+languages, uh, and the debates are
+around, uh, let's say, uh, the,
+
+616
+00:38:34,420 --> 00:38:36,790
+uh, cross border, uh, discussing.
+
+617
+00:38:37,475 --> 00:38:41,165
+Or maybe let's say around,
+uh, technology part.
+
+618
+00:38:41,405 --> 00:38:44,945
+We, we have seen that in the
+recent, uh, just few months
+
+619
+00:38:45,155 --> 00:38:46,865
+we have seen Meta Verse there.
+
+620
+00:38:47,075 --> 00:38:51,965
+And a lot of other technology has come
+up, but, uh, are we ready for that?
+
+621
+00:38:51,965 --> 00:38:58,895
+So, uh, the experts, uh, talk very
+nicely with an example, how to be ready
+
+622
+00:38:58,895 --> 00:39:00,965
+with all those upcoming technologies.
+
+623
+00:39:02,815 --> 00:39:07,735
+Yogesh Londhe: Okay, so you listen to
+Hindi and, uh, uh, how so, how about,
+
+624
+00:39:07,735 --> 00:39:09,625
+how about the podcasts in Hindi?
+
+625
+00:39:09,625 --> 00:39:14,655
+Like, is there, uh, English has lot
+of possible podcasts, but how many
+
+626
+00:39:15,515 --> 00:39:18,195
+podcasts are they in Hindi or Gujarati?,
+
+627
+00:39:19,165 --> 00:39:23,125
+Sumant Lohar: uh, see uh, compared
+to of course English is the most, uh,
+
+628
+00:39:23,365 --> 00:39:28,945
+uh, preferred one, but even, uh, as
+of last three months, if you count
+
+629
+00:39:29,365 --> 00:39:35,575
+so regional languages, uh, podcasts
+are in demand, huge demand and people
+
+630
+00:39:35,575 --> 00:39:39,025
+are still in fear how to start them.
+
+631
+00:39:39,355 --> 00:39:43,955
+If they start, they will get huge
+popularity from the beginning itself.
+
+632
+00:39:45,370 --> 00:39:45,790
+Yogesh Londhe: Okay.
+
+633
+00:39:46,900 --> 00:39:48,340
+Lax, any questions?
+
+634
+00:39:54,190 --> 00:39:56,740
+We can't hear you, your mic is off.
+
+635
+00:39:57,280 --> 00:39:57,610
+Lax Mariappan: Okay.
+
+636
+00:39:57,610 --> 00:39:58,850
+So maybe I muted my mic.
+
+637
+00:39:59,080 --> 00:40:01,330
+So, uh, it's almost the same question.
+
+638
+00:40:01,660 --> 00:40:05,500
+So what do you recommend or what do
+you, uh, yeah, what do you recommend?
+
+639
+00:40:05,500 --> 00:40:09,190
+Like someone should start broadcasting
+their language, like in their
+
+640
+00:40:09,190 --> 00:40:11,380
+mother tongue I am from Tamil Nadu.
+
+641
+00:40:11,380 --> 00:40:16,210
+I speak Tamil more fluently, so I should
+start a podcast in Tamil, or I can try
+
+642
+00:40:16,240 --> 00:40:18,630
+English or like other popular language?
+
+643
+00:40:19,340 --> 00:40:20,520
+Sumant Lohar: Yeah, definitely.
+
+644
+00:40:20,650 --> 00:40:21,310
+Definitely.
+
+645
+00:40:21,310 --> 00:40:26,320
+If you start, uh, broadcasting in mother
+tongue, you'll be more comfortable, you
+
+646
+00:40:26,320 --> 00:40:31,150
+know, comfortable and even, uh, you know,
+confident because you know something about
+
+647
+00:40:31,300 --> 00:40:36,160
+your language and if you are starting
+in English, what will happen is you will
+
+648
+00:40:36,160 --> 00:40:40,900
+first be struggling with the process of
+podcasting as well as with the language.
+
+649
+00:40:41,320 --> 00:40:43,240
+So this, uh, uh, difference.
+
+650
+00:40:45,400 --> 00:40:52,170
+Yogesh Londhe: Okay, so you suggest,
+um, mother tongue podcasts should be, it
+
+651
+00:40:52,170 --> 00:40:54,940
+should take, it should take priority okay.
+
+652
+00:40:55,000 --> 00:40:55,570
+That's good.
+
+653
+00:40:55,660 --> 00:40:56,110
+That's good.
+
+654
+00:40:56,620 --> 00:41:00,009
+Technology podcasts in Tamil
+or canada would be amazing.
+
+655
+00:41:00,430 --> 00:41:00,820
+Amazing.
+
+656
+00:41:01,960 --> 00:41:02,380
+Yeah.
+
+657
+00:41:02,860 --> 00:41:03,340
+Okay.
+
+658
+00:41:03,790 --> 00:41:06,790
+Um, Sumant, now.
+
+659
+00:41:07,150 --> 00:41:07,390
+Okay.
+
+660
+00:41:07,390 --> 00:41:08,980
+I'll ask a question.
+
+661
+00:41:10,405 --> 00:41:15,955
+Uh, can you give us the popular,
+uh, podcasts platforms like people?
+
+662
+00:41:15,985 --> 00:41:20,845
+What kind of platforms do people listen
+to sound cloud or, uh, I don't know.
+
+663
+00:41:23,005 --> 00:41:27,655
+Sumant Lohar: So there are platform
+platforms, mainly, uh, Spotify
+
+664
+00:41:27,655 --> 00:41:29,815
+is that apple iTunes is there.
+
+665
+00:41:29,875 --> 00:41:31,555
+So these are the two platforms.
+
+666
+00:41:31,915 --> 00:41:36,794
+If any of the  podcaster, uh, whether
+they are new or the existing one,
+
+667
+00:41:37,214 --> 00:41:42,345
+if they focus, they will get a huge
+popularity in terms of views, in terms
+
+668
+00:41:42,345 --> 00:41:44,814
+of audience, in terms of downloads.
+
+669
+00:41:45,765 --> 00:41:46,194
+Yogesh Londhe: Okay.
+
+670
+00:41:46,814 --> 00:41:49,484
+Uh, what about, do you see
+about this one pocket cast?
+
+671
+00:41:49,484 --> 00:41:51,134
+I, I listened to pocket cast.
+
+672
+00:41:51,194 --> 00:41:51,734
+I dunno.
+
+673
+00:41:52,345 --> 00:41:52,634
+Yeah.
+
+674
+00:41:54,015 --> 00:41:56,325
+I, I like the content there too.
+
+675
+00:41:57,915 --> 00:42:03,825
+Um, is there a way to, uh, host
+your audio file somewhere and just
+
+676
+00:42:03,855 --> 00:42:06,825
+let Google do its magic on Google?
+
+677
+00:42:07,154 --> 00:42:12,375
+Because Google has a tool, which a
+collates podcast from around the web
+
+678
+00:42:12,375 --> 00:42:16,785
+and just gives you, it's not a platform,
+it's just a tool which lets the.
+
+679
+00:42:18,900 --> 00:42:19,140
+Sumant Lohar: Yeah.
+
+680
+00:42:19,140 --> 00:42:26,009
+So every, every content format has
+its own SEO, uh, you know, framework.
+
+681
+00:42:26,400 --> 00:42:32,009
+So like if you are using a YouTube SEO,
+so you have video, uh, uh, part and all
+
+682
+00:42:32,009 --> 00:42:34,040
+those titles and everything in the same.
+
+683
+00:42:34,745 --> 00:42:39,395
+If you are sharing those audio files
+through this platform, which I told you,
+
+684
+00:42:39,755 --> 00:42:43,115
+so they will help to in, in such also.
+
+685
+00:42:43,595 --> 00:42:48,605
+So, but if you randomly upload
+somewhere, uh, it might not be
+
+686
+00:42:48,605 --> 00:42:50,195
+recognizable as it should be.
+
+687
+00:42:51,425 --> 00:42:51,785
+Okay.
+
+688
+00:42:51,925 --> 00:42:52,135
+Yogesh Londhe: Okay.
+
+689
+00:42:52,925 --> 00:42:53,405
+Okay.
+
+690
+00:42:54,545 --> 00:42:57,605
+I got my own opinions on
+some of the platforms.
+
+691
+00:42:58,950 --> 00:43:01,049
+Yeah, talk side.
+
+692
+00:43:01,259 --> 00:43:02,549
+We'll listen to your views.
+
+693
+00:43:03,420 --> 00:43:03,750
+Okay.
+
+694
+00:43:03,810 --> 00:43:04,529
+Um, yeah.
+
+695
+00:43:05,190 --> 00:43:08,700
+Lax Mariappan: So far developers,
+what are the, some popular
+
+696
+00:43:08,759 --> 00:43:13,140
+podcasts or broadcasters, uh,
+that you recommend to listen?
+
+697
+00:43:15,105 --> 00:43:19,065
+Sumant Lohar: Uh, yeah, as, as, uh, you
+know, uh, shared in the slide itself.
+
+698
+00:43:19,095 --> 00:43:23,355
+So there are some, uh, podcasters,
+like Do The Woo is also there.
+
+699
+00:43:23,745 --> 00:43:30,145
+And we have, uh, I suppose there is
+some, uh, uh, w Elementor or Yoast
+
+700
+00:43:30,165 --> 00:43:36,315
+or other, uh, areas where you can
+listen to podcasts and, uh, get
+
+701
+00:43:36,315 --> 00:43:38,685
+updated knowledge from them itself.
+
+702
+00:43:38,805 --> 00:43:39,045
+Yeah.
+
+703
+00:43:41,285 --> 00:43:44,504
+Yogesh Londhe: Lax, do you listen
+to this podcast distributed?
+
+704
+00:43:46,245 --> 00:43:50,714
+Lax Mariappan: Uh, no, but, uh, I
+listened to some other WordPress
+
+705
+00:43:50,714 --> 00:43:57,234
+related, like a Post Excerpt from
+Post Status, uh, WP Minute from
+
+706
+00:43:57,415 --> 00:43:58,694
+Yogesh Londhe: very nice podcast.
+
+707
+00:43:59,294 --> 00:44:03,285
+It's not a technology, but it
+talks a lot about distributed
+
+708
+00:44:03,555 --> 00:44:05,805
+nature of work sometimes.
+
+709
+00:44:09,510 --> 00:44:12,140
+Uh, the name of the podcast
+itself is distributed.
+
+710
+00:44:12,150 --> 00:44:18,270
+It's it's started by some, uh,
+angel investor jazz musician.
+
+711
+00:44:19,200 --> 00:44:19,650
+Okay.
+
+712
+00:44:20,430 --> 00:44:21,360
+Yeah, it sounds interesting.
+
+713
+00:44:22,200 --> 00:44:22,530
+Okay.
+
+714
+00:44:25,260 --> 00:44:25,650
+Okay.
+
+715
+00:44:25,650 --> 00:44:30,230
+So do we have any other
+questions for, uh, Sumant, Lax?.
+
+716
+00:44:32,160 --> 00:44:32,430
+Lax Mariappan: Yeah.
+
+717
+00:44:32,460 --> 00:44:37,859
+So, um, I have, uh, some questions
+like, uh, I mean, can we go with
+
+718
+00:44:37,859 --> 00:44:43,819
+the TLDR version of his talk
+or something like, uh, yeah.
+
+719
+00:44:43,980 --> 00:44:48,690
+It's like, yeah, you can summarize
+within another, like, uh, one or
+
+720
+00:44:48,690 --> 00:44:53,700
+two minutes about like most of the
+challenges, like what people, um,
+
+721
+00:44:54,750 --> 00:44:56,129
+like the common challenges that every.
+
+722
+00:44:57,615 --> 00:45:02,535
+Experience and what should they can
+avoid and also how they can monetize
+
+723
+00:45:02,535 --> 00:45:04,125
+are how they can benefit from it.
+
+724
+00:45:04,125 --> 00:45:05,115
+So again,
+
+725
+00:45:05,115 --> 00:45:06,535
+Yogesh Londhe: Monetize,
+monetize, yeah, monetize.
+
+726
+00:45:06,555 --> 00:45:09,085
+Yes, that's a good question.
+
+727
+00:45:09,185 --> 00:45:09,515
+Sumant Lohar: Yeah.
+
+728
+00:45:09,545 --> 00:45:13,325
+So, uh, first thing is, uh, the
+common challenge that, uh, most
+
+729
+00:45:13,325 --> 00:45:17,975
+of the business face is using the
+tools because every tool has its own
+
+730
+00:45:17,975 --> 00:45:20,435
+functionality and a different purpose.
+
+731
+00:45:20,674 --> 00:45:24,745
+For example, if you are doing it
+for you have recorded and, uh, an
+
+732
+00:45:24,745 --> 00:45:29,875
+episode in a zoom or Skype, and
+then you're taking it for editing.
+
+733
+00:45:30,085 --> 00:45:36,115
+So you edit on audacity for windows
+and GarageBand on a Mac, but
+
+734
+00:45:36,315 --> 00:45:40,795
+you, how to first learn all the
+features and everything around that.
+
+735
+00:45:40,825 --> 00:45:42,385
+And then only you can move forward.
+
+736
+00:45:43,465 --> 00:45:46,705
+And at the same time talking
+about the monetization part.
+
+737
+00:45:47,095 --> 00:45:53,325
+So, uh, say monetization, uh, does not
+happen, uh, within one or two months.
+
+738
+00:45:53,654 --> 00:45:59,674
+But slowly, when you go with like 25,
+30, 40 episodes and you collaborate
+
+739
+00:45:59,674 --> 00:46:04,865
+with more, more and more, uh, you know,
+podcasters, you upper, you know, approach
+
+740
+00:46:04,895 --> 00:46:07,145
+them or they invite you as guests.
+
+741
+00:46:07,174 --> 00:46:11,825
+So the collaboration here, the
+important element is the collaboration.
+
+742
+00:46:12,035 --> 00:46:17,015
+The more collaborations you have, the more
+audience you have, the, you know, to get
+
+743
+00:46:17,015 --> 00:46:19,365
+better with, uh, the monitorization part.
+
+744
+00:46:20,975 --> 00:46:23,255
+Yogesh Londhe: Okay, thanks for the tips.
+
+745
+00:46:24,035 --> 00:46:30,935
+So, um, so Sumant there is a
+question and how to promote podcasts
+
+746
+00:46:30,964 --> 00:46:33,125
+without installing any apps.
+
+747
+00:46:35,615 --> 00:46:36,035
+Sumant Lohar: Yeah.
+
+748
+00:46:36,095 --> 00:46:42,365
+So, uh, without installing any apps,
+I think, uh, you can, uh, you know, be
+
+749
+00:46:42,365 --> 00:46:48,095
+very active on social media platforms,
+especially on Instagram and Twitter.
+
+750
+00:46:48,465 --> 00:46:53,030
+Because these are two areas where
+you can share with people and talk
+
+751
+00:46:53,030 --> 00:46:57,410
+about your podcast or what you
+are looking at and you have today,
+
+752
+00:46:57,590 --> 00:46:59,300
+uh, Twitter spaces are so there.
+
+753
+00:46:59,300 --> 00:47:03,650
+And a lot of other things
+also are there in a line, so
+
+754
+00:47:03,920 --> 00:47:05,630
+you can, uh, share with them.
+
+755
+00:47:05,690 --> 00:47:10,550
+And apart from that, if you want to,
+you know, promote your podcast channel.
+
+756
+00:47:10,730 --> 00:47:15,590
+So along with the audio part,
+record them in video part and share.
+
+757
+00:47:16,759 --> 00:47:19,090
+As a video on YouTube channel.
+
+758
+00:47:20,270 --> 00:47:21,770
+Yogesh Londhe: Okay, great.
+
+759
+00:47:22,310 --> 00:47:24,629
+So thank you very much Sumant.
+
+760
+00:47:25,289 --> 00:47:25,700
+Sumant Lohar: thank you.
+
+761
+00:47:27,379 --> 00:47:31,279
+Yogesh Londhe: Someone is a friend is
+always whenever there is a WordPress
+
+762
+00:47:31,279 --> 00:47:34,279
+event, Sumant is there to volunteer.
+
+763
+00:47:34,790 --> 00:47:36,399
+Thank you very much nice seeing you here.
+
+764
+00:47:36,990 --> 00:47:37,669
+Sumant Lohar: Thank you so much.
+
+765
+00:47:37,730 --> 00:47:38,089
+Thank you.
+
+766
+00:47:40,730 --> 00:47:43,669
+Yogesh Londhe: So Lax do we want to thank.
+
+767
+00:47:43,669 --> 00:47:45,740
+Our sponsors?.
+
+768
+00:47:45,740 --> 00:47:47,630
+Lax Mariappan: Yeah, we'd
+like to thank our sponsors,
+
+769
+00:47:48,020 --> 00:47:50,150
+uh, for giving us this space.
+
+770
+00:47:50,660 --> 00:47:57,030
+Uh, our thanks to our sponsors,
+Bluehost, Cloudways, uh, GoDaddy
+
+771
+00:47:57,030 --> 00:47:59,710
+Pro, Nexcess, Yoast, and Weglot.
+
+772
+00:48:00,080 --> 00:48:02,509
+Please be sure to visit their
+tents and chat with them.
+
+773
+00:48:02,810 --> 00:48:05,270
+And there is a chance
+it might win prizes too.
+
+774
+00:48:05,569 --> 00:48:07,720
+And there are some guests
+visiting in the tents.
+
+775
+00:48:08,945 --> 00:48:13,895
+And also don't forget to get your,
+uh, photo snap in the photo booth.
+
+776
+00:48:14,255 --> 00:48:20,715
+That's sponsored by Multicollab
+and Dreamhost and and Tweet your
+
+777
+00:48:20,735 --> 00:48:26,825
+photo, uh, with the hashtag WordFest
+Live, and also thanks to our
+
+778
+00:48:27,634 --> 00:48:29,765
+media partners and micro sponsors.
+
+779
+00:48:31,384 --> 00:48:45,105
+Yogesh Londhe: You all make
+our Big Orange Heart full.
+
