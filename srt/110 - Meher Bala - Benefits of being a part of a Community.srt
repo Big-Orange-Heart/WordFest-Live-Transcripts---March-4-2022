@@ -1,0 +1,2726 @@
+1
+00:00:28,005 --> 00:00:31,185
+Yoast: Do you know, the Yoast SEO,
+plugin, they're red, orange, and
+
+2
+00:00:31,185 --> 00:00:34,335
+green feedback bullets that help
+you optimize your posts for the web.
+
+3
+00:00:34,545 --> 00:00:36,435
+It runs on millions of websites.
+
+4
+00:00:36,855 --> 00:00:40,545
+We tried to make SEO understandable
+and accessible to everyone.
+
+5
+00:01:12,790 --> 00:01:15,820
+Bluehost: Who says building
+an online store has to be hard
+
+6
+00:01:16,090 --> 00:01:17,470
+with Bluehost website builder.
+
+7
+00:01:17,590 --> 00:01:19,150
+It's more than just easy.
+
+8
+00:01:19,360 --> 00:01:21,310
+It's tell us your thing in smart AI.
+
+9
+00:01:21,310 --> 00:01:22,450
+We'll take it from there.
+
+10
+00:01:22,450 --> 00:01:24,730
+Easy it's WooCommerce friendly.
+
+11
+00:01:24,790 --> 00:01:27,670
+So you can add one of these
+or swap this for that.
+
+12
+00:01:28,429 --> 00:01:31,550
+It's set up shop in minutes
+with unlimited products.
+
+13
+00:01:31,580 --> 00:01:32,060
+Easy.
+
+14
+00:01:32,120 --> 00:01:36,470
+Whether you sell boots, books
+or bowls, it's create an online
+
+15
+00:01:36,470 --> 00:01:40,899
+store with Bluehost, easy build
+beyond boundaries with Bluehost.
+
+16
+00:01:42,360 --> 00:01:42,930
+Nexcess: Oh, great.
+
+17
+00:01:43,080 --> 00:01:44,670
+My website crashed again.
+
+18
+00:01:44,970 --> 00:01:50,640
+I give up, don't give up on your
+dreams, Jordan, who are you?
+
+19
+00:01:50,700 --> 00:01:51,210
+It's me.
+
+20
+00:01:51,750 --> 00:01:53,340
+You from the future.
+
+21
+00:01:53,640 --> 00:01:55,680
+Your professional website
+is not out of reach.
+
+22
+00:01:55,710 --> 00:01:57,009
+You just need the Nexcess.
+
+23
+00:01:57,539 --> 00:02:00,990
+With Nexcess managed hosting, you
+get lightning Paslode times built
+
+24
+00:02:00,990 --> 00:02:04,770
+and performance monitoring and
+updates, and always awesome support.
+
+25
+00:02:04,800 --> 00:02:06,690
+24 7 365.
+
+26
+00:02:06,720 --> 00:02:07,350
+For all your props.
+
+27
+00:02:07,845 --> 00:02:08,414
+Whoa.
+
+28
+00:02:08,655 --> 00:02:09,014
+Yeah.
+
+29
+00:02:12,375 --> 00:02:17,745
+Weglot: Discover Weglot the simple
+translation solution for your website.
+
+30
+00:02:18,105 --> 00:02:21,945
+All you have to do is add
+Weglot to your website, select
+
+31
+00:02:21,945 --> 00:02:23,225
+the languages that you need.
+
+32
+00:02:23,755 --> 00:02:24,595
+And that's it.
+
+33
+00:02:24,775 --> 00:02:27,924
+Your website is now available
+in multiple languages.
+
+34
+00:02:58,345 --> 00:03:02,405
+Yogesh Londhe: We are enjoying these
+amazing sessions and even on stage two,
+
+35
+00:03:02,454 --> 00:03:04,704
+there are some fantastic sessions there.
+
+36
+00:03:06,805 --> 00:03:06,954
+Lax Mariappan: Yeah.
+
+37
+00:03:06,954 --> 00:03:10,765
+That's the beauty of online, uh,
+events like you are free to choose
+
+38
+00:03:11,475 --> 00:03:12,234
+Yogesh Londhe: So much choice.
+
+39
+00:03:13,465 --> 00:03:13,685
+Yeah.
+
+40
+00:03:13,704 --> 00:03:15,505
+So I will catch up with I've.
+
+41
+00:03:15,505 --> 00:03:20,035
+I've got some of the couple of sessions
+that I would love to catch up on a
+
+42
+00:03:20,035 --> 00:03:26,415
+stage two when the recorded sessions
+already to be able to catch it.
+
+43
+00:03:26,465 --> 00:03:26,825
+Yeah.
+
+44
+00:03:27,455 --> 00:03:30,465
+Lax you want to introduce
+our next speaker?
+
+45
+00:03:31,905 --> 00:03:32,205
+Meher Bala: Yeah.
+
+46
+00:03:32,445 --> 00:03:39,075
+Uh, coming up next, we have our speaker
+Meher Bala uh, she will be talking about
+
+47
+00:03:39,105 --> 00:03:40,845
+the benefits of being part of a committee.
+
+48
+00:03:41,790 --> 00:03:47,220
+Uh, if you are part of, uh, Twitter,
+our WordPress follow at  communities
+
+49
+00:03:47,489 --> 00:03:50,010
+and she's nothing new she's well-known.
+
+50
+00:03:50,280 --> 00:03:54,059
+So my Meher Bala is a WordPress
+consultant and a front-end web
+
+51
+00:03:54,059 --> 00:03:56,190
+developer specializing in WordPress.
+
+52
+00:03:56,700 --> 00:04:00,420
+She builds and maintains premium
+websites for her clients and delivers
+
+53
+00:04:01,350 --> 00:04:03,899
+them on the tight deadlines with care.
+
+54
+00:04:04,410 --> 00:04:06,910
+She co-hosts the podcast.
+
+55
+00:04:07,029 --> 00:04:11,685
+Unplugged Tech, uh, which seeks to
+amplify inspiring and fascinating
+
+56
+00:04:11,685 --> 00:04:15,614
+stories of friendly talk, a
+friendly folks in the tech world.
+
+57
+00:04:16,125 --> 00:04:20,684
+And Meher supports the WordPress
+community as a member of, uh, make
+
+58
+00:04:20,684 --> 00:04:23,625
+teams and contributes to release us, uh.
+
+59
+00:04:24,105 --> 00:04:27,284
+Benefits of being part of the community.
+
+60
+00:04:28,485 --> 00:04:35,934
+Hello, my name is Meher Bala . I'm a
+front-end and an expert at Codeable.
+
+61
+00:04:37,985 --> 00:04:40,225
+I work as a WordPress consultant.
+
+62
+00:04:40,595 --> 00:04:43,044
+And partner at a hosting
+company, happy post.
+
+63
+00:04:44,784 --> 00:04:47,095
+I'm very active in the open source space.
+
+64
+00:04:48,475 --> 00:04:53,015
+I'm a co-organiser of WordCamp
+Mumbai, WordCamp India,
+
+65
+00:04:53,365 --> 00:04:55,015
+WordPress translation days.
+
+66
+00:04:56,814 --> 00:05:00,784
+I'm, fascinated by the inspiring
+stories from the people tech.
+
+67
+00:05:01,204 --> 00:05:04,905
+And as part of that, I
+co-founded and co-host.
+
+68
+00:05:05,355 --> 00:05:07,194
+Unplugged Tech podcast.
+
+69
+00:05:09,140 --> 00:05:11,360
+This meant very first WordFest Talk.
+
+70
+00:05:11,789 --> 00:05:17,329
+I'm delighted to be sharing this team
+inspired you to join your local or
+
+71
+00:05:17,329 --> 00:05:23,719
+global community and discover the
+benefits for you and the wider project.
+
+72
+00:05:26,230 --> 00:05:30,819
+In this talk I will share with you
+the learnings and the insights of
+
+73
+00:05:30,819 --> 00:05:34,490
+being a part of a tech community
+during the last seven years.
+
+74
+00:05:37,840 --> 00:05:40,355
+Let's get started with
+what is a community.
+
+75
+00:05:43,424 --> 00:05:47,385
+It is defined as a group of
+people who interact with one
+
+76
+00:05:47,385 --> 00:05:49,664
+another and share common goals.
+
+77
+00:05:49,934 --> 00:05:50,505
+or vision.
+
+78
+00:05:52,664 --> 00:05:58,365
+It can be anything from a place, from
+a physical place where people connect
+
+79
+00:05:58,784 --> 00:06:04,950
+or a virtual space as social media
+groups and private community platform.
+
+80
+00:06:06,919 --> 00:06:11,000
+I think part of an engaging community
+can give us a sense of belonging.
+
+81
+00:06:11,720 --> 00:06:16,580
+It can help us to share persons,
+thoughts, and learnings to which
+
+82
+00:06:16,610 --> 00:06:20,659
+others can relate and support the
+personal growth of each other.
+
+83
+00:06:22,710 --> 00:06:26,940
+As humans, we tend to benefit
+from being with others.
+
+84
+00:06:29,905 --> 00:06:34,435
+Connecting at a part of the meaningful
+community is important for their
+
+85
+00:06:34,435 --> 00:06:36,685
+wellbeing and general mental health.
+
+86
+00:06:39,145 --> 00:06:44,185
+In the next three slides, I'm going
+to share some research data would show
+
+87
+00:06:44,185 --> 00:06:46,725
+how important community engage is.
+
+88
+00:06:48,145 --> 00:06:55,914
+That's have a deeper look at the first
+data done on open source, engaging.
+
+89
+00:06:57,840 --> 00:07:02,909
+Thank you to nonstop news and non-stop
+business support, which led me to the
+
+90
+00:07:02,909 --> 00:07:11,280
+source and let us data from 2018 to
+2022 in my talk today, this was such
+
+91
+00:07:11,309 --> 00:07:16,679
+elapsed illustrate the benefit that a
+community engagement can bring to you.
+
+92
+00:07:18,640 --> 00:07:27,189
+In 2018, 2019, a survey was done
+with 67% oh, those who replied.
+
+93
+00:07:27,870 --> 00:07:32,280
+Found being a part of an open source
+community was an important part of the
+
+94
+00:07:32,280 --> 00:07:35,760
+support system in business and local area.
+
+95
+00:07:37,510 --> 00:07:45,240
+In 2000, 2021, the pandemic here, the
+same survey was conducted when it showed
+
+96
+00:07:45,260 --> 00:07:52,939
+an increase of 89%, the comments shared,
+examples of how the different committees.
+
+97
+00:07:53,789 --> 00:07:56,250
+Had helped people connect
+and to take together.
+
+98
+00:07:57,360 --> 00:08:02,640
+This varied from weekly get together to
+drop it, to look at a particular issue.
+
+99
+00:08:04,640 --> 00:08:10,010
+Let's now take a look at the second survey
+which is related to community engagement.
+
+100
+00:08:13,350 --> 00:08:20,025
+In 2000 2018, a survey was conducted
+where people said what they
+
+101
+00:08:20,025 --> 00:08:21,465
+learned through tech communities.
+
+102
+00:08:21,554 --> 00:08:26,085
+They had learned practical skills
+that they had put into the work place.
+
+103
+00:08:27,315 --> 00:08:30,375
+The same survey was conducted in 2021.
+
+104
+00:08:31,065 --> 00:08:36,165
+The pandemic here at it showed
+a decrease in percentage.
+
+105
+00:08:36,225 --> 00:08:42,645
+Do you find the decline was partly due to
+fluctuating internet access to office and
+
+106
+00:08:42,645 --> 00:08:44,655
+job opportunities during the pandemic.
+
+107
+00:08:46,025 --> 00:08:49,910
+People also reported difficulties
+adjusting to learning environment
+
+108
+00:08:50,420 --> 00:08:55,460
+on video calls, especially with
+dealing with multiple demands on
+
+109
+00:08:55,460 --> 00:09:02,660
+their time from work at home, online
+events can add an extra pressure.
+
+110
+00:09:02,960 --> 00:09:07,400
+We all know that, but by being
+a part of the community, people
+
+111
+00:09:07,400 --> 00:09:11,710
+found ways to adjust their learning
+needs and make networks to help.
+
+112
+00:09:13,490 --> 00:09:16,730
+Let's take a look at the last
+survey, which is conducted for
+
+113
+00:09:16,730 --> 00:09:18,980
+community engagement and wellbeing.
+
+114
+00:09:19,939 --> 00:09:23,810
+We've talked about how contributing
+to a community can help you move
+
+115
+00:09:23,810 --> 00:09:29,139
+forward and be connected, especially
+during the period of crisis.
+
+116
+00:09:29,810 --> 00:09:34,430
+This has been shown to in many research
+studies during and after the pandemic,
+
+117
+00:09:35,720 --> 00:09:40,040
+let's look at 2018 to 2022 research.
+
+118
+00:09:41,600 --> 00:09:46,790
+People said involved in open source
+and open source community had a
+
+119
+00:09:46,790 --> 00:09:49,010
+positive effect on their wellbeing.
+
+120
+00:09:50,180 --> 00:09:52,100
+They felt part of something bigger.
+
+121
+00:09:53,120 --> 00:09:57,170
+This was a case of both of these
+who described themselves as being
+
+122
+00:09:57,590 --> 00:10:01,280
+on the edge of the community
+engagement and regular contributors.
+
+123
+00:10:02,750 --> 00:10:11,915
+In 2008, 2009, the survey showed 34%
+of the people that believed in this.
+
+124
+00:10:12,695 --> 00:10:19,415
+In 2000, 2021, 7, 3 73% of
+the people believed in this.
+
+125
+00:10:20,465 --> 00:10:26,735
+And 12% of the people reported no effect
+or highlighted stress effects from the
+
+126
+00:10:26,735 --> 00:10:31,185
+way of communication had changed in 2021.
+
+127
+00:10:32,530 --> 00:10:37,180
+This was in line with the wider research
+done by non-stop business support and
+
+128
+00:10:37,180 --> 00:10:41,710
+from other studies global lead showing
+that active community engagement can aid
+
+129
+00:10:41,710 --> 00:10:48,760
+well-being thank you to [inaudible] for
+allowing me to include all the research
+
+130
+00:10:48,760 --> 00:10:50,920
+information for this presentation.
+
+131
+00:10:51,910 --> 00:10:55,720
+At the end of this presentation,
+I will share a link where you
+
+132
+00:10:55,720 --> 00:10:57,760
+can go and vote anonymous.
+
+133
+00:10:59,410 --> 00:11:01,600
+Share your thoughts on
+benefits at the community.
+
+134
+00:11:02,470 --> 00:11:07,060
+It will help researchers and
+aware, rising being done by groups,
+
+135
+00:11:07,090 --> 00:11:09,460
+including unplug tech podcast.
+
+136
+00:11:10,990 --> 00:11:16,360
+It will be shared to assist the Big Orange
+Heart the charity behind this wonderful
+
+137
+00:11:16,360 --> 00:11:19,720
+WordFest event it collaboration is like.
+
+138
+00:11:19,720 --> 00:11:23,920
+This is another example of how people
+come together in a community for
+
+139
+00:11:23,920 --> 00:11:26,440
+greater participation, diversity, and.
+
+140
+00:11:29,635 --> 00:11:34,975
+Now let's look at how, how you find
+a community, understand the different
+
+141
+00:11:34,975 --> 00:11:39,625
+communities around you, choose the
+one which help you nurture, and
+
+142
+00:11:39,625 --> 00:11:41,875
+you feel really where you belong.
+
+143
+00:11:43,045 --> 00:11:47,395
+Community plays an important
+role in all aspects of our life.
+
+144
+00:11:48,954 --> 00:11:55,685
+We have communities in our friends, our
+family, our neighbors in our employment.
+
+145
+00:11:55,710 --> 00:12:00,060
+And so many other places, wherever
+you go, you will find a community.
+
+146
+00:12:02,700 --> 00:12:06,690
+Being a part of the community can
+make ourselves feel as though we are
+
+147
+00:12:06,690 --> 00:12:12,030
+a part of something greater, even more
+reasons to research and find communities
+
+148
+00:12:12,060 --> 00:12:14,760
+where you will feel at home and grow.
+
+149
+00:12:18,450 --> 00:12:20,030
+People always ask me this question.
+
+150
+00:12:20,390 --> 00:12:23,270
+Why, why am I an advocate of a community?
+
+151
+00:12:25,630 --> 00:12:30,875
+I believe, I believe a community can
+help each one of us in many aspects of
+
+152
+00:12:30,875 --> 00:12:37,385
+our life, a community like WordPress
+and give us an opportunity to connect
+
+153
+00:12:37,385 --> 00:12:42,185
+with people, to just search our goals
+and be a part of a confidence building.
+
+154
+00:12:45,835 --> 00:12:49,285
+Before joining the WordPress
+community, I was asked a few questions.
+
+155
+00:12:52,854 --> 00:12:54,895
+Why are you joining the local community?
+
+156
+00:12:56,655 --> 00:12:59,714
+What are the benefits of
+the WordPress community?
+
+157
+00:13:01,985 --> 00:13:04,474
+Is it community a waste
+of time and energy?
+
+158
+00:13:06,385 --> 00:13:07,915
+What help can they provide?
+
+159
+00:13:09,964 --> 00:13:11,704
+It seems to be a few, a woman.
+
+160
+00:13:11,944 --> 00:13:13,175
+How will you survive?
+
+161
+00:13:14,375 --> 00:13:17,864
+These questions did not stop me
+from finding a local community.
+
+162
+00:13:21,494 --> 00:13:25,215
+I wanted to surround myself with value
+driven people who knew the language
+
+163
+00:13:25,215 --> 00:13:30,314
+of tech and coding and wants to be a
+part of helping me make things bigger.
+
+164
+00:13:32,035 --> 00:13:35,095
+This led me to WordPress Mumbai community.
+
+165
+00:13:36,685 --> 00:13:41,834
+This is where I attended and wanting
+to add my first WordCamp Mumbai.
+
+166
+00:13:43,204 --> 00:13:45,464
+Once part of the local community.
+
+167
+00:13:45,480 --> 00:13:51,810
+I got to know there was a WordPress
+community that stretched around the
+
+168
+00:13:51,810 --> 00:13:57,420
+world events like this means we can
+share our voices across the globe.
+
+169
+00:14:00,460 --> 00:14:07,660
+Let's look at some of the benefits of
+joining an source community, first friends
+
+170
+00:14:07,660 --> 00:14:12,240
+and network, making friends and network
+who live locally and across the globe.
+
+171
+00:14:13,290 --> 00:14:17,030
+You never know when friends can
+turn into business or life partners.
+
+172
+00:14:18,020 --> 00:14:22,040
+This is a good way to get to know cultures
+and different countries around the world.
+
+173
+00:14:23,600 --> 00:14:26,570
+Next knowledge learning and mentorship.
+
+174
+00:14:27,290 --> 00:14:31,340
+Join the community to learn from
+and with others and share knowledge.
+
+175
+00:14:32,030 --> 00:14:36,770
+You will meet different types of
+people with different views, experience
+
+176
+00:14:36,800 --> 00:14:39,500
+and beliefs, learning from them.
+
+177
+00:14:41,220 --> 00:14:44,370
+Reach insight that we may not
+have learned in on our own.
+
+178
+00:14:45,360 --> 00:14:47,430
+I can certainly vouch for this
+
+179
+00:14:50,890 --> 00:14:58,150
+next collaborating and work opportunities,
+collaborating, collaborating
+
+180
+00:14:58,150 --> 00:15:01,390
+with people from the community to
+work on different and interesting
+
+181
+00:15:01,390 --> 00:15:05,860
+projects, like building websites for
+nonprofits and support good causes.
+
+182
+00:15:07,090 --> 00:15:08,490
+Everyone loves to it.
+
+183
+00:15:08,500 --> 00:15:08,590
+Right.
+
+184
+00:15:09,860 --> 00:15:13,214
+WordCamps gives us, gives us the
+opportunity to, with her friends
+
+185
+00:15:13,485 --> 00:15:17,175
+in the community and explore
+different parts of the country.
+
+186
+00:15:19,745 --> 00:15:25,204
+Inspiration in the community
+you will find many people who
+
+187
+00:15:25,204 --> 00:15:27,064
+inspire and motivate others.
+
+188
+00:15:28,145 --> 00:15:31,745
+Those are the people who you need
+to follow, and then don't try
+
+189
+00:15:31,745 --> 00:15:33,694
+to be an inspiration for others.
+
+190
+00:15:34,714 --> 00:15:35,194
+It has been.
+
+191
+00:15:36,810 --> 00:15:39,330
+It is because of the people
+who have inspired me.
+
+192
+00:15:40,110 --> 00:15:44,370
+And I have had the privilege
+of being mentored by that.
+
+193
+00:15:44,400 --> 00:15:49,320
+I'm here with you today, able to deliver
+a talk on an international platform
+
+194
+00:15:50,040 --> 00:15:52,200
+and share my experience with everyone
+
+195
+00:15:55,250 --> 00:15:57,890
+next support being a
+part of the community.
+
+196
+00:15:58,010 --> 00:16:00,970
+And it was asked to give
+support to other members.
+
+197
+00:16:01,335 --> 00:16:05,535
+Supporting others and help them
+feel good about themselves and be
+
+198
+00:16:05,535 --> 00:16:11,145
+more confident with so much stress
+in busy in today's busy world.
+
+199
+00:16:11,355 --> 00:16:11,835
+We live in.
+
+200
+00:16:12,645 --> 00:16:16,515
+There's never been the right
+time to help those struggling
+
+201
+00:16:16,515 --> 00:16:17,775
+with the physical and what
+
+202
+00:16:21,115 --> 00:16:22,835
+the physical and mental wellbeing.
+
+203
+00:16:24,715 --> 00:16:29,645
+Next sharing, chatting
+activities, ideas, feelings.
+
+204
+00:16:30,115 --> 00:16:34,800
+Reinforces not only a sense
+of self, but also adds what
+
+205
+00:16:35,040 --> 00:16:36,600
+and value to that community.
+
+206
+00:16:37,620 --> 00:16:38,340
+Indeed.
+
+207
+00:16:38,670 --> 00:16:42,240
+The more the merrier lies in this case,
+
+208
+00:16:45,400 --> 00:16:52,780
+the last don't just take, but give to
+any community works better, better when
+
+209
+00:16:52,780 --> 00:16:57,280
+relationship with it travels in both
+direction being apart of the committee.
+
+210
+00:16:58,005 --> 00:17:02,475
+Does not always mean that you should,
+you should expect automatically.
+
+211
+00:17:02,955 --> 00:17:06,135
+You should expect people continuously
+and automatically helping you.
+
+212
+00:17:07,454 --> 00:17:13,244
+You need to make an effort to encourage
+interact and know people in the community
+
+213
+00:17:13,965 --> 00:17:15,554
+and support them when they need it.
+
+214
+00:17:20,195 --> 00:17:24,074
+Remember being a part of the
+community is a two way street.
+
+215
+00:17:24,810 --> 00:17:29,130
+There may be so many other benefits
+and fossilized ones, especially to you
+
+216
+00:17:33,840 --> 00:17:39,389
+Sharing my top ten list, which will
+hopefully inspire you to step outside
+
+217
+00:17:39,630 --> 00:17:46,409
+your comfort zone and join the community
+that that will help you feel braver to.
+
+218
+00:17:48,560 --> 00:17:50,380
+WordCamps, and WordPress events.
+
+219
+00:17:51,170 --> 00:17:57,165
+I attended ,volunteered,
+sponsored, spoken at different
+
+220
+00:17:57,165 --> 00:17:58,844
+WordCamps and WordPress events.
+
+221
+00:17:59,295 --> 00:18:03,404
+And in 2019, I was lead
+organizer for WordCamp Mumbai.
+
+222
+00:18:08,324 --> 00:18:13,005
+Be great to be interviewed by
+international podcasts, including
+
+223
+00:18:13,185 --> 00:18:15,415
+WP Water Cooler and Do The Woo.
+
+224
+00:18:17,344 --> 00:18:22,885
+Sharing my story with HeroPress to
+inspire others, to overcome barriers that
+
+225
+00:18:22,885 --> 00:18:24,745
+they may face in their lives and work
+
+226
+00:18:28,345 --> 00:18:32,304
+finding opportunities to contribute
+to WordPress and becoming a team rep
+
+227
+00:18:32,635 --> 00:18:37,135
+for the global WordPress marketing
+team, all these oppurtunities
+
+228
+00:18:37,135 --> 00:18:38,784
+means I can encouraged others.
+
+229
+00:18:43,074 --> 00:18:47,904
+Being a part of the WordPress 5.6
+release squad and a contributor
+
+230
+00:18:47,935 --> 00:18:49,525
+to a number of other releases.
+
+231
+00:18:50,844 --> 00:18:54,355
+This is how you can be a bot or the
+future development of the software.
+
+232
+00:18:54,775 --> 00:18:55,945
+And it's open to all,
+
+233
+00:18:59,255 --> 00:19:04,725
+A, panelists on the page
+builder, the summit 2000.
+
+234
+00:19:06,960 --> 00:19:11,610
+Uh, panelist on a page builder
+summit, 2021, a big thanks to
+
+235
+00:19:11,610 --> 00:19:15,480
+Adam, Maya and the rest of the
+team at GoDaddy in believing in me.
+
+236
+00:19:19,780 --> 00:19:26,120
+Thank you to the Bluehost in your
+team for asking me to be a jury member
+
+237
+00:19:26,120 --> 00:19:27,890
+for the WordPress creators award
+
+238
+00:19:31,130 --> 00:19:34,540
+and the first edition of WordFest,
+my podcast Unplugged Dot Tech
+
+239
+00:19:34,910 --> 00:19:36,630
+contributed at the media partner.
+
+240
+00:19:38,909 --> 00:19:42,920
+In the second edition, I was selected
+to be a part of the community interview.
+
+241
+00:19:45,330 --> 00:19:46,210
+Third edition.
+
+242
+00:19:46,320 --> 00:19:51,420
+I was third edition, which is now I
+stepped up further and applied to be
+
+243
+00:19:51,780 --> 00:19:56,009
+a speaker on the main team for the
+event and support Big Orange Heart.
+
+244
+00:19:58,679 --> 00:20:02,550
+I have partnered with community
+friends, opened up businesses and
+
+245
+00:20:02,550 --> 00:20:04,810
+worked together on good projects.
+
+246
+00:20:07,610 --> 00:20:11,420
+But the, for the past two years, I
+have been a part of the organizing
+
+247
+00:20:11,420 --> 00:20:13,730
+team of WordPress translation day.
+
+248
+00:20:14,210 --> 00:20:19,550
+I've supported the event as a developer,
+as a tech support giver as a marketer, as
+
+249
+00:20:19,550 --> 00:20:22,389
+a translator and as a community advocate.
+
+250
+00:20:28,280 --> 00:20:31,159
+I inspired to find the
+community and get started.
+
+251
+00:20:32,270 --> 00:20:36,830
+I would love to your how, how my
+story has inspired you and what your
+
+252
+00:20:36,830 --> 00:20:44,930
+journey will be chatting with me
+on Twitter at @MeherBala via direct
+
+253
+00:20:44,930 --> 00:20:47,639
+message or leave a message on my feed.
+
+254
+00:20:50,179 --> 00:20:55,140
+A lot of people ask me where do you find
+these active and engaging communities?
+
+255
+00:20:58,780 --> 00:20:59,930
+Here are a few names.
+
+256
+00:21:00,140 --> 00:21:04,430
+I am going to tell you, which you
+may consider as part of your journey,
+
+257
+00:21:05,420 --> 00:21:06,920
+the local WordPress community.
+
+258
+00:21:07,640 --> 00:21:10,700
+This can be in your local town or area.
+
+259
+00:21:11,390 --> 00:21:17,090
+If you don't have one, start
+one, find people who love the
+
+260
+00:21:17,090 --> 00:21:19,340
+software and build a committee.
+
+261
+00:21:22,149 --> 00:21:30,540
+The Big Orange Heart Slack, HeroPress
+network, ladies of the WordPress.
+
+262
+00:21:32,550 --> 00:21:33,490
+Remote India.
+
+263
+00:21:33,780 --> 00:21:38,790
+This is the largest community of
+folks working remotely in India and
+
+264
+00:21:38,790 --> 00:21:44,520
+has grown four times in the last
+two years because of the pandemic.
+
+265
+00:21:47,139 --> 00:21:52,944
+Post Status, WooCommerce
+community and Do The Woo.
+
+266
+00:21:54,884 --> 00:21:57,064
+WordPress product community on LinkedIn.
+
+267
+00:21:59,985 --> 00:22:07,215
+If you love Facebook, there's a group
+named advanced WordPress on Facebook.
+
+268
+00:22:07,215 --> 00:22:12,445
+There's an other group name, web
+creators community on Facebook.
+
+269
+00:22:12,445 --> 00:22:18,274
+There's an other group theme,
+WP Builds, but not the least.
+
+270
+00:22:18,874 --> 00:22:21,604
+Don't forget your work for me.
+
+271
+00:22:21,844 --> 00:22:26,104
+It is a codeable for me, it
+is at codeable with other
+
+272
+00:22:26,104 --> 00:22:27,644
+developers from across the globe.
+
+273
+00:22:31,674 --> 00:22:35,424
+I would like to take this opportunity
+and give a special shout out to some
+
+274
+00:22:35,424 --> 00:22:41,794
+of the amazing people I have met first
+Big Orange Heart team for giving me
+
+275
+00:22:41,814 --> 00:22:43,404
+this opportunity to share my thoughts.
+
+276
+00:22:43,404 --> 00:22:49,019
+Vachan Kudmule a community
+friend business partner.
+
+277
+00:22:50,769 --> 00:22:54,870
+Abha Thakor for being my mentor
+and access to training courses.
+
+278
+00:22:56,710 --> 00:23:01,270
+Michelle Frechette, Maja Loncar
+and Andrea Middleton for being
+
+279
+00:23:01,270 --> 00:23:03,460
+inspirational community managers.
+
+280
+00:23:05,300 --> 00:23:10,639
+I told all my friends globally, I
+locally for believing and encouraging me.
+
+281
+00:23:13,245 --> 00:23:19,934
+As promised, sharing this bitly link,
+where you can express anonymously on the
+
+282
+00:23:20,084 --> 00:23:25,424
+community benefits to help for the work
+to encourage open source participation,
+
+283
+00:23:25,934 --> 00:23:27,794
+diversity and sustainability.
+
+284
+00:23:29,634 --> 00:23:35,824
+Thank you to everyone who came to listen
+to my talk, ways to connect with me on
+
+285
+00:23:35,824 --> 00:23:43,040
+Twitter and LinkedIn @MeherBala, WordPress
+global marketing channel is @Meher.
+
+286
+00:23:43,740 --> 00:23:47,620
+You can contact me on my
+website https://meherbala.com.
+
+287
+00:23:48,220 --> 00:23:54,169
+if you have interesting stories to
+share, come contact me on unplug.tech.
+
+288
+00:23:55,120 --> 00:23:56,379
+Yogesh Londhe: Meher how
+are things in Mumbai?
+
+289
+00:23:56,379 --> 00:23:57,929
+And how are you?
+
+290
+00:23:58,179 --> 00:24:00,959
+Meher Bala: On how are you back to normal?
+
+291
+00:24:01,020 --> 00:24:02,010
+Full speed.
+
+292
+00:24:02,370 --> 00:24:05,399
+Everything is opened
+up, so I'm doing what?
+
+293
+00:24:06,899 --> 00:24:08,230
+Yogesh Londhe: Oh, good,
+good, good, good, good.
+
+294
+00:24:09,495 --> 00:24:12,254
+And, uh, thank you very much
+for a fantastic session.
+
+295
+00:24:13,034 --> 00:24:19,574
+And, uh, everybody who knows me
+knows that Meher is a community
+
+296
+00:24:19,574 --> 00:24:22,185
+person, a fantastic community leader.
+
+297
+00:24:22,904 --> 00:24:29,924
+So we have a few questions for you meher
+and, uh, I'm just glad to chat with you.
+
+298
+00:24:31,695 --> 00:24:40,574
+So start with, could you share an
+anecdote, uh, how, what community has
+
+299
+00:24:41,294 --> 00:24:43,574
+benefited you are someone that, you know,
+
+300
+00:24:46,905 --> 00:24:53,834
+so first question is, could you share
+an anecdote how, what birth community
+
+301
+00:24:53,834 --> 00:24:56,534
+has benefited you are someone who is.
+
+302
+00:24:58,589 --> 00:25:01,320
+Meher Bala: I think one of
+the main benefits on the
+
+303
+00:25:01,449 --> 00:25:07,040
+Yogesh Londhe: Can we have
+the questions on the screen.
+
+304
+00:25:07,040 --> 00:25:08,129
+Did you hear that question?
+
+305
+00:25:09,389 --> 00:25:09,629
+Meher Bala: Yes.
+
+306
+00:25:09,629 --> 00:25:10,259
+I heard it.
+
+307
+00:25:11,699 --> 00:25:11,969
+Yeah.
+
+308
+00:25:12,989 --> 00:25:19,229
+One of the main benefits I think
+anyone gets is friendship because
+
+309
+00:25:19,229 --> 00:25:22,350
+that's where the bond is created.
+
+310
+00:25:22,350 --> 00:25:24,059
+That's where the communication goes.
+
+311
+00:25:26,145 --> 00:25:31,084
+If it's for me, it's the different
+friendships around the world, but I
+
+312
+00:25:31,104 --> 00:25:38,324
+own the local community because that
+is where it makes a person strong.
+
+313
+00:25:39,885 --> 00:25:46,514
+For example, if I give my example
+becoming a part of the local Mumbai
+
+314
+00:25:46,534 --> 00:25:49,814
+community, I met so many different people.
+
+315
+00:25:50,145 --> 00:25:52,695
+It made me go around different words.
+
+316
+00:25:54,049 --> 00:25:55,339
+It made me travel.
+
+317
+00:25:55,399 --> 00:26:00,769
+It made me meet people like Yogesh
+and a lot of other people Rahul
+
+318
+00:26:00,769 --> 00:26:08,299
+and a lot of other people around
+India, which by not joining the
+
+319
+00:26:08,299 --> 00:26:10,249
+community, I may not not have met you.
+
+320
+00:26:11,629 --> 00:26:16,399
+Oh, by joining the international
+community, I met amazing
+
+321
+00:26:16,399 --> 00:26:17,269
+people around the world.
+
+322
+00:26:19,709 --> 00:26:23,999
+I'm sure if I travel anywhere, I am
+going to have one person, at least in
+
+323
+00:26:23,999 --> 00:26:28,079
+the WordPress community who will be
+a part of that city or that country.
+
+324
+00:26:28,919 --> 00:26:37,409
+And I'll get to explore the local place,
+not like a tourist, but like being a part
+
+325
+00:26:37,409 --> 00:26:43,289
+of the city because a lot of times like
+tourist, you miss a lot of great cities.
+
+326
+00:26:43,289 --> 00:26:45,360
+So for me, community is.
+
+327
+00:26:46,230 --> 00:26:48,449
+First friendship and then everything.
+
+328
+00:26:51,389 --> 00:26:52,379
+Lax Mariappan: Yeah, that is great.
+
+329
+00:26:52,379 --> 00:26:57,959
+Like communities help you grow your,
+uh, you know, grow your network.
+
+330
+00:26:58,080 --> 00:27:00,449
+And that network opens
+the door to many options.
+
+331
+00:27:01,365 --> 00:27:05,625
+And then it can be your new job or
+like you may meet your new client and
+
+332
+00:27:05,655 --> 00:27:10,185
+in your talk, you mentioned you may
+meet you, you know, um, friends, even
+
+333
+00:27:10,305 --> 00:27:12,105
+business partner, or even like partners.
+
+334
+00:27:12,105 --> 00:27:12,705
+It was great.
+
+335
+00:27:13,335 --> 00:27:13,754
+Meher Bala: Yeah.
+
+336
+00:27:14,385 --> 00:27:20,925
+Actually, because I have seen
+recently you do meet your life
+
+337
+00:27:20,925 --> 00:27:23,355
+partners as well in the community.
+
+338
+00:27:24,135 --> 00:27:24,405
+Lax Mariappan: Yeah.
+
+339
+00:27:24,405 --> 00:27:25,395
+Like minded people.
+
+340
+00:27:25,455 --> 00:27:25,725
+Yeah.
+
+341
+00:27:25,784 --> 00:27:27,975
+That, that ignites the spark.
+
+342
+00:27:29,459 --> 00:27:30,120
+It's nice.
+
+343
+00:27:30,149 --> 00:27:36,000
+Nice to, uh, and so, so, um, how
+about the five for the future?
+
+344
+00:27:36,030 --> 00:27:39,840
+Like, you know, it's a community
+driven event, so can you share us
+
+345
+00:27:39,840 --> 00:27:44,300
+like, uh, you know, maybe some of us
+who are watching this may not know
+
+346
+00:27:44,330 --> 00:27:48,540
+about five for the feature and a lot
+of people assume that it's for, only
+
+347
+00:27:48,540 --> 00:27:52,590
+for developers are like, you know,
+contributing to the code or, uh, like,
+
+348
+00:27:52,679 --> 00:27:54,659
+uh, and maybe other ways to contribute.
+
+349
+00:27:54,659 --> 00:27:54,929
+Right.
+
+350
+00:27:54,929 --> 00:27:56,490
+So please tell us about.
+
+351
+00:27:57,689 --> 00:28:00,330
+It can be a part of the
+community and contribute in
+
+352
+00:28:00,330 --> 00:28:01,649
+the five for the feature works.
+
+353
+00:28:03,479 --> 00:28:06,870
+Meher Bala: So being a part of the
+WordPress community doesn't mean you
+
+354
+00:28:06,870 --> 00:28:11,509
+need to be a developer or you need to
+know code, or you need to know, you
+
+355
+00:28:11,509 --> 00:28:17,219
+know what all, you know, you just need
+to know PHP or, uh, any coding, like.
+
+356
+00:28:18,075 --> 00:28:20,145
+If you are a market out
+there, a space for you.
+
+357
+00:28:20,145 --> 00:28:22,485
+If you are a translator,
+there is space for you.
+
+358
+00:28:22,905 --> 00:28:27,794
+If you're a designer that has space
+for you, if you are a community
+
+359
+00:28:27,794 --> 00:28:29,264
+manager, there is space for you.
+
+360
+00:28:30,075 --> 00:28:36,585
+There is space for everyone in this
+community to five for futures, not only
+
+361
+00:28:37,004 --> 00:28:43,155
+for sponsored contributors, but for sales,
+sales, sponsored contributors as well.
+
+362
+00:28:44,054 --> 00:28:44,315
+Give.
+
+363
+00:28:45,240 --> 00:28:50,850
+Some part of your time to the
+software, which is helping you on
+
+364
+00:28:50,850 --> 00:28:53,610
+your bread and butter for some people.
+
+365
+00:28:54,030 --> 00:29:01,050
+Because when you spend time with the
+software, that's because indirectly
+
+366
+00:29:01,050 --> 00:29:06,629
+the software, if you help the software
+grow, you're growing yourself as well.
+
+367
+00:29:07,695 --> 00:29:14,434
+So that's why five for future helps
+and anyone is allowed to join.
+
+368
+00:29:14,485 --> 00:29:15,945
+Everyone is allowed to join.
+
+369
+00:29:15,945 --> 00:29:21,674
+Everyone is encouraged to contribute
+to different aspects of the community.
+
+370
+00:29:22,364 --> 00:29:25,844
+If you're hesitant joining the global
+community, start with your local
+
+371
+00:29:25,844 --> 00:29:30,794
+community, start with, you know, if you
+don't have a local community building.
+
+372
+00:29:31,784 --> 00:29:35,235
+There is ways and means
+to get people together.
+
+373
+00:29:35,235 --> 00:29:38,264
+Like nowadays everyone
+uses with WordPress.
+
+374
+00:29:38,905 --> 00:29:44,774
+A lot of non developers use WordPress
+has set up this shop, set up the, uh,
+
+375
+00:29:46,395 --> 00:29:52,095
+websites and all, get them together,
+start a local community and encourage
+
+376
+00:29:52,125 --> 00:29:55,185
+people translate in your own language.
+
+377
+00:29:56,175 --> 00:29:58,514
+That's the best way to get started.
+
+378
+00:30:03,179 --> 00:30:03,509
+Lax Mariappan: Great.
+
+379
+00:30:04,860 --> 00:30:07,469
+A lot of people assume like
+they have to be a coder.
+
+380
+00:30:09,870 --> 00:30:10,439
+Meher Bala: Yes.
+
+381
+00:30:11,639 --> 00:30:16,080
+Even when I joined the local community,
+I felt only coders are required.
+
+382
+00:30:16,769 --> 00:30:23,279
+And once I joined the community,
+that thought went away because
+
+383
+00:30:23,340 --> 00:30:24,749
+I joined the marketing team.
+
+384
+00:30:27,030 --> 00:30:32,280
+I have a strong background of coding,
+but being a freelancer marketing also
+
+385
+00:30:32,280 --> 00:30:39,930
+is my, is there in me, so I didn't join
+the code, but I joined the marketing.
+
+386
+00:30:39,990 --> 00:30:41,950
+So, so,
+
+387
+00:30:42,540 --> 00:30:44,580
+Lax Mariappan: uh, can you hear me now?
+
+388
+00:30:45,060 --> 00:30:46,710
+Meher Bala: Yes, I can still hear you.
+
+389
+00:30:47,550 --> 00:30:47,820
+Lax Mariappan: Okay.
+
+390
+00:30:47,820 --> 00:30:48,210
+Great.
+
+391
+00:30:48,270 --> 00:30:49,530
+So I have a question.
+
+392
+00:30:49,560 --> 00:30:54,540
+This is, uh, maybe a difficult one, but
+not little controversial, but still,
+
+393
+00:30:54,900 --> 00:30:56,970
+you know, cause I never felt this one.
+
+394
+00:30:57,090 --> 00:30:59,790
+So you are also from
+India, like from Asia.
+
+395
+00:31:00,030 --> 00:31:04,650
+So how diverse and inclusive the WordPress
+communities are because I I've seen
+
+396
+00:31:04,650 --> 00:31:08,970
+you are part of communities in your
+experiences like 15 plus years with
+
+397
+00:31:08,970 --> 00:31:11,129
+WordPress and you are part of communities.
+
+398
+00:31:12,060 --> 00:31:13,169
+Not just a participant.
+
+399
+00:31:13,169 --> 00:31:15,659
+You are a volunteer, you
+are, are a lead organizer.
+
+400
+00:31:15,689 --> 00:31:19,439
+So what do you think like, is that
+any discrimination or the people
+
+401
+00:31:19,439 --> 00:31:24,030
+are not inclusive in terms of
+maybe race, community identity or
+
+402
+00:31:24,030 --> 00:31:25,590
+whatever language, or I think that
+
+403
+00:31:27,480 --> 00:31:32,610
+Meher Bala: I have not seen the
+inclusive, exclusive as of now.
+
+404
+00:31:34,020 --> 00:31:38,850
+Yes, though participation
+of women is a bit less.
+
+405
+00:31:40,590 --> 00:31:42,570
+You cannot stay back because of that.
+
+406
+00:31:43,110 --> 00:31:45,959
+Because when I joined the Mumbai
+community, there were hardly any
+
+407
+00:31:45,959 --> 00:31:50,820
+women, but if you were not going
+to be the first woman to step up,
+
+408
+00:31:52,080 --> 00:31:54,149
+someone needs a familiar face.
+
+409
+00:31:54,149 --> 00:31:56,639
+Someone needs familiarity in the crowd.
+
+410
+00:31:58,469 --> 00:32:04,620
+And that's where I think one
+needs to take the initiative.
+
+411
+00:32:05,745 --> 00:32:07,634
+WordPress is welcoming to everyone.
+
+412
+00:32:08,024 --> 00:32:14,114
+It doesn't discriminate based on
+color or gender or any other thing.
+
+413
+00:32:14,414 --> 00:32:16,544
+It's an open, welcoming community.
+
+414
+00:32:17,324 --> 00:32:22,554
+I have been welcomed by
+people who have never met.
+
+415
+00:32:22,584 --> 00:32:28,674
+I have interacted with people who
+have very down-to-earth people.
+
+416
+00:32:30,629 --> 00:32:34,679
+It's not that, you know, just because
+there are no women or just because,
+
+417
+00:32:35,429 --> 00:32:38,399
+you know, there are very few moments
+where you should not participate.
+
+418
+00:32:39,149 --> 00:32:39,600
+No.
+
+419
+00:32:39,629 --> 00:32:44,639
+If there are few women start creating
+a group start encouraging woman.
+
+420
+00:32:44,729 --> 00:32:51,990
+That's how women in WordPress woman
+in WP got developed, got created.
+
+421
+00:32:54,019 --> 00:32:57,679
+Lax Mariappan: Uh, that's
+good, like, uh, that will help
+
+422
+00:32:57,679 --> 00:32:59,149
+inspire other women to join.
+
+423
+00:32:59,149 --> 00:33:03,979
+Like you pointed out be the first, like
+in WordPress, our default comments, right.
+
+424
+00:33:04,399 --> 00:33:06,529
+Are like, are WordPress.
+
+425
+00:33:06,539 --> 00:33:11,120
+We will say be the first one to review
+something, like be the first one to join.
+
+426
+00:33:11,809 --> 00:33:13,669
+So that will help.
+
+427
+00:33:13,669 --> 00:33:16,639
+And it will bring, like, for
+example, if Meher joints, maybe
+
+428
+00:33:16,639 --> 00:33:17,870
+her friends might be interested in.
+
+429
+00:33:18,735 --> 00:33:24,315
+So it might be like they might be using
+WordPress, maybe shy or hesitant to join.
+
+430
+00:33:24,375 --> 00:33:28,455
+Or then if someone joins there,
+they have a familiar face and it
+
+431
+00:33:28,455 --> 00:33:30,155
+brings more women to the community.
+
+432
+00:33:30,584 --> 00:33:37,485
+And it's like also I personally like,
+um, uh, bringing tech to women, uh, they
+
+433
+00:33:37,485 --> 00:33:41,895
+can be users and, uh, they can be like,
+um, you know, giving the feedback, like
+
+434
+00:33:42,175 --> 00:33:44,594
+any sorts of contribution is welcome.
+
+435
+00:33:44,955 --> 00:33:48,375
+And, uh, especially when you
+teach a woman, it's like, you're
+
+436
+00:33:48,375 --> 00:33:49,544
+teaching your whole family that.
+
+437
+00:33:49,554 --> 00:33:52,064
+So saying in our language,
+it's like, you know, cause see
+
+438
+00:33:52,064 --> 00:33:53,465
+some others, she's a sister.
+
+439
+00:33:53,834 --> 00:33:57,915
+Like she is going to teach and spread
+the word and that's how things work.
+
+440
+00:33:58,949 --> 00:34:00,899
+Uh, so women who are watching this
+
+441
+00:34:12,559 --> 00:34:12,889
+Meher Bala: hello
+
+442
+00:34:17,449 --> 00:34:22,880
+from 2016, till now every WordCamp
+I used to go, we used to take out a
+
+443
+00:34:22,880 --> 00:34:24,649
+group photograph  of all the women.
+
+444
+00:34:27,069 --> 00:34:31,120
+I think if you go compare each
+photograph, you'll see the increase in
+
+445
+00:34:31,120 --> 00:34:32,970
+the number of women attending WordCamps.
+
+446
+00:34:34,000 --> 00:34:38,170
+And to me, it is like
+you creating a network.
+
+447
+00:34:38,170 --> 00:34:40,120
+You're creating comfort zone.
+
+448
+00:34:40,120 --> 00:34:42,159
+You're creating familiar faces.
+
+449
+00:34:42,880 --> 00:34:45,399
+So yes, women need to be encouraged.
+
+450
+00:34:45,489 --> 00:34:46,690
+Women need to be.
+
+451
+00:34:49,755 --> 00:34:53,925
+So I would encourage all the
+women out there participate.
+
+452
+00:34:53,925 --> 00:34:58,934
+If you are hesitant, talk to
+someone, there are a lot of known
+
+453
+00:34:58,934 --> 00:35:02,835
+faces out in the community who
+will be happy to talk to you.
+
+454
+00:35:03,345 --> 00:35:06,585
+If you want to talk to me, you can reach
+out to me on Twitter or my website.
+
+455
+00:35:06,585 --> 00:35:07,125
+I'll be happy to.
+
+456
+00:35:09,675 --> 00:35:09,975
+Lax Mariappan: Yeah.
+
+457
+00:35:10,005 --> 00:35:13,725
+And here I would like to highlight
+or something that we do for every
+
+458
+00:35:13,725 --> 00:35:15,675
+WordCamp or meet up in everything.
+
+459
+00:35:15,854 --> 00:35:19,365
+Cause we have community rules just like
+when you join a Facebook group, they
+
+460
+00:35:19,365 --> 00:35:20,925
+have rules rights or something like that.
+
+461
+00:35:21,165 --> 00:35:26,115
+So every person who's joining or
+participating in the WordPress or any
+
+462
+00:35:26,115 --> 00:35:30,944
+WordPress event, we have, um, almost
+local or international communities.
+
+463
+00:35:30,975 --> 00:35:35,685
+They have, uh, uh, like any
+harassment, violence related or
+
+464
+00:35:35,685 --> 00:35:36,675
+like anything, something that.
+
+465
+00:35:37,545 --> 00:35:40,005
+Uh, inappropriate behavior or whatever.
+
+466
+00:35:40,005 --> 00:35:41,385
+Like you can report that as well.
+
+467
+00:35:41,684 --> 00:35:46,005
+So it's like, not because of some,
+uh, I don't know how to call them.
+
+468
+00:35:46,005 --> 00:35:51,075
+Like, it don't have to be, uh, or
+read or like you don't have to step
+
+469
+00:35:51,075 --> 00:35:53,325
+away just because of someone bad.
+
+470
+00:35:53,340 --> 00:35:54,990
+So there are a lot of
+good people out there.
+
+471
+00:35:55,170 --> 00:35:59,460
+So you might get, find your new employer,
+new job in, like, there are many good
+
+472
+00:35:59,460 --> 00:36:01,649
+opportunities that came out of WordPress.
+
+473
+00:36:01,649 --> 00:36:07,470
+And for me, it's like, I got this, um,
+clients and also I met a lot of new
+
+474
+00:36:07,470 --> 00:36:10,529
+people, friends, and I got me new job.
+
+475
+00:36:10,529 --> 00:36:14,670
+Also, everything is related because
+I know somebody in the community
+
+476
+00:36:14,729 --> 00:36:16,680
+and I get to know more about them.
+
+477
+00:36:17,010 --> 00:36:19,109
+I meet them, learn them, learn from them.
+
+478
+00:36:19,800 --> 00:36:20,279
+So things like.
+
+479
+00:36:22,095 --> 00:36:22,274
+Meher Bala: Yeah.
+
+480
+00:36:22,274 --> 00:36:25,154
+Eventually when you're a part of
+the community, when you interact
+
+481
+00:36:25,154 --> 00:36:28,515
+with community, I think slowly
+steady, everything falls into place.
+
+482
+00:36:29,684 --> 00:36:34,635
+But as I said in my talk community, this
+two way street, if you only expect the
+
+483
+00:36:34,635 --> 00:36:40,814
+community to give you every information
+and you don't reply, or you don't engage
+
+484
+00:36:40,814 --> 00:36:43,755
+with people, how would people come to
+know that you are a part of the committee?
+
+485
+00:36:45,045 --> 00:36:46,995
+You also need to make that effort.
+
+486
+00:36:47,115 --> 00:36:49,245
+I understand people are shy.
+
+487
+00:36:49,274 --> 00:36:50,115
+Even I was shy.
+
+488
+00:36:50,115 --> 00:36:51,404
+I'm not going to say no.
+
+489
+00:36:51,734 --> 00:36:58,274
+The first two meetups, I did not come
+in together to anyone, but it was great.
+
+490
+00:36:58,604 --> 00:37:05,894
+It was, I made an effort to break the
+barrier and start talking to people.
+
+491
+00:37:06,285 --> 00:37:07,394
+I made that effort.
+
+492
+00:37:07,514 --> 00:37:08,924
+So it is a two way.
+
+493
+00:37:11,404 --> 00:37:14,135
+Yogesh Londhe: So nice
+chatting with you, Meher.
+
+494
+00:37:15,185 --> 00:37:22,835
+Um, any, any advice you have for,
+uh, the WordPress community is a
+
+495
+00:37:23,825 --> 00:37:27,635
+budding WordPress community is new
+WordPress communities to thrive?
+
+496
+00:37:30,425 --> 00:37:33,035
+Meher Bala: If you're just
+started and you're not getting the
+
+497
+00:37:34,295 --> 00:37:38,705
+people, you're not finding people,
+don't lose heart, give it time.
+
+498
+00:37:40,514 --> 00:37:47,175
+Give it energy because initial stage
+of starting is difficult for any group
+
+499
+00:37:47,205 --> 00:37:53,774
+to go ahead, but don't close heart,
+better people who will support you
+
+500
+00:37:54,645 --> 00:38:00,600
+just keep on building and you will
+grow to a very big community even, I
+
+501
+00:38:00,600 --> 00:38:04,800
+think Yogesh can agree with me with
+when he started WordCamp Bangalore
+
+502
+00:38:05,070 --> 00:38:07,740
+community from a small community.
+
+503
+00:38:07,740 --> 00:38:09,120
+It became large.
+
+504
+00:38:09,720 --> 00:38:13,740
+Like when I started WordCamp
+Mumbai, I didn't start the
+
+505
+00:38:13,740 --> 00:38:14,940
+WordCamp Mumbai community.
+
+506
+00:38:14,940 --> 00:38:20,040
+But when I joined, I heard that the
+WordCamp Mumbai community was started
+
+507
+00:38:20,960 --> 00:38:28,230
+by, two people sharing one big dosa
+and today's a very huge community.
+
+508
+00:38:28,290 --> 00:38:31,589
+So don't lose hope if
+you're just getting started.
+
+509
+00:38:34,650 --> 00:38:43,180
+Yogesh Londhe: I had talking to two south
+Indians and we know the magic dosa can do.
+
+510
+00:38:43,180 --> 00:38:45,089
+Dosa can make anything possible.
+
+511
+00:38:46,170 --> 00:38:51,100
+Meher Bala: Yeah,
+[inaudible] three people.
+
+512
+00:38:52,785 --> 00:38:55,935
+Yogesh Londhe: Uh, the influence of
+south India is not the power, the
+
+513
+00:38:55,935 --> 00:39:01,815
+soft power, the culture, the style.
+
+514
+00:39:04,505 --> 00:39:05,115
+Lax?.
+
+515
+00:39:06,915 --> 00:39:07,125
+Lax Mariappan: Yeah.
+
+516
+00:39:07,215 --> 00:39:13,245
+So was actually, uh, wondering about,
+uh, for example, if I have a local
+
+517
+00:39:13,245 --> 00:39:17,525
+community, like, I like to say like
+WordCamp Chennai or maybe WordPress
+
+518
+00:39:17,525 --> 00:39:19,095
+Chennai, something like that.
+
+519
+00:39:19,365 --> 00:39:19,875
+I have a.
+
+520
+00:39:20,895 --> 00:39:25,035
+Uh, some part of remote village or
+somewhere in India or something.
+
+521
+00:39:25,125 --> 00:39:29,865
+And how can I, uh, connect with what
+comes central or like WordPress central
+
+522
+00:39:29,925 --> 00:39:33,045
+thing, like a local community, how
+they can interact with international
+
+523
+00:39:33,465 --> 00:39:38,145
+community and how, how things go, uh,
+like, um, it's going to be difficult or
+
+524
+00:39:38,145 --> 00:39:40,155
+is it kind of welcoming or how it works
+
+525
+00:39:40,835 --> 00:39:45,225
+Meher Bala: No, it is welcoming, uh, to
+join the international community, come
+
+526
+00:39:45,225 --> 00:39:47,565
+on slack, coming to community channel.
+
+527
+00:39:48,495 --> 00:39:50,715
+Put your, uh, credit.
+
+528
+00:39:50,985 --> 00:39:53,475
+There are a lot of
+people who will help you.
+
+529
+00:39:53,925 --> 00:39:58,335
+There are a lot of people in India who are
+there, the international slack as well.
+
+530
+00:39:58,335 --> 00:40:00,045
+You know, you will get it.
+
+531
+00:40:00,495 --> 00:40:05,265
+You'll get every help needed,
+whether it be local or international,
+
+532
+00:40:05,265 --> 00:40:06,705
+you'll get every help needed.
+
+533
+00:40:07,335 --> 00:40:10,605
+So just reach out to people on slack.
+
+534
+00:40:15,795 --> 00:40:16,545
+Lax Mariappan: So great.
+
+535
+00:40:16,575 --> 00:40:18,405
+So it was actually nice talking to you.
+
+536
+00:40:18,465 --> 00:40:22,005
+And when you see Meher's profile
+on WordPress, it's like she
+
+537
+00:40:22,005 --> 00:40:23,495
+got almost all the badges.
+
+538
+00:40:23,925 --> 00:40:24,255
+That's no
+
+539
+00:40:24,285 --> 00:40:26,655
+Meher Bala: No, I have
+not got all the badges.
+
+540
+00:40:27,255 --> 00:40:28,725
+Lax Mariappan: Oh, what is missing?
+
+541
+00:40:28,935 --> 00:40:30,384
+Uh, I'm just curious.
+
+542
+00:40:31,255 --> 00:40:32,255
+Meher Bala: Lots.
+
+543
+00:40:32,305 --> 00:40:34,275
+I think design is missing,
+
+544
+00:40:35,745 --> 00:40:39,135
+Lax Mariappan: but you are a
+designer, you are a content person.
+
+545
+00:40:40,565 --> 00:40:44,475
+Meher Bala: Yeah, that team I still
+have to collaborate with, but there are
+
+546
+00:40:44,475 --> 00:40:47,865
+other teams that I have contributed to,
+
+547
+00:40:52,665 --> 00:40:54,405
+but it's not the badges only.
+
+548
+00:40:54,405 --> 00:40:58,455
+It's just contributing and doing
+and seeing the software grow.
+
+549
+00:40:59,715 --> 00:41:00,165
+Lax Mariappan: Yeah.
+
+550
+00:41:00,585 --> 00:41:03,585
+But it's like a badge, just like a,
+we can take it like a recognition
+
+551
+00:41:03,645 --> 00:41:04,785
+or like something that's like.
+
+552
+00:41:05,730 --> 00:41:09,630
+Uh, you know, milestone or something
+that motivates others like to do.
+
+553
+00:41:09,660 --> 00:41:12,660
+That's why we, we to gamification.
+
+554
+00:41:12,660 --> 00:41:14,230
+So that's why we gamify it.
+
+555
+00:41:16,250 --> 00:41:18,060
+Meher Bala: Partly yes, I agree.
+
+556
+00:41:18,690 --> 00:41:19,120
+Yes.
+
+557
+00:41:21,840 --> 00:41:21,930
+Lax Mariappan: Yeah.
+
+558
+00:41:21,930 --> 00:41:24,899
+Thank we are out of time
+
+559
+00:41:24,899 --> 00:41:25,549
+Yogesh Londhe: Thank you, Meher.
+
+560
+00:41:25,549 --> 00:41:29,040
+Thank you very much for a fantastic
+session and a very interactive,
+
+561
+00:41:29,100 --> 00:41:31,650
+uh, uh, discussion at the end.
+
+562
+00:41:32,910 --> 00:41:34,020
+Meher Bala: Thank you everyone.
+
+563
+00:41:34,020 --> 00:41:38,610
+Thank you to the entire Big Orange
+Heart team organizers volunteers.
+
+564
+00:41:38,610 --> 00:41:42,690
+Y'all not doing a great
+event and sponsors.
+
+565
+00:41:44,040 --> 00:41:44,510
+Yogesh Londhe: Of course.
+
+566
+00:41:44,520 --> 00:41:44,610
+Yeah.
+
+567
+00:41:45,555 --> 00:41:45,885
+Thank you.
+
+568
+00:41:45,885 --> 00:41:47,055
+So here we go.
+
+569
+00:41:47,055 --> 00:41:48,345
+Thanking our sponsors.
+
+570
+00:41:48,694 --> 00:41:51,885
+Meher thank you very much, and
+it was fantastic having you here.
+
+571
+00:41:52,455 --> 00:41:55,975
+So our thanks to sponsors
+Bluehost, Cloudways, GoDaddy
+
+572
+00:41:55,975 --> 00:41:59,035
+Pro, Nexcess, Yoast and Weglot.
+
+573
+00:41:59,745 --> 00:42:02,535
+Please be sure to visit the
+tents and chat with them.
+
+574
+00:42:03,075 --> 00:42:04,665
+You might even win some prizes.
+
+575
+00:42:05,925 --> 00:42:09,225
+Don't forget to get your photo snap
+at the photo booth and tweet it
+
+576
+00:42:09,225 --> 00:42:12,425
+out with the hashtag WordFest Live.
+
+577
+00:42:13,785 --> 00:42:18,625
+Also thank you to our media
+partners and micro responses, Lax.
+
+578
+00:42:20,265 --> 00:42:20,505
+Lax Mariappan: Yeah.
+
+579
+00:42:20,535 --> 00:42:22,925
+So we talked about the community tent.
+
+580
+00:42:22,925 --> 00:42:26,535
+So if we go to the community tent on
+the, in your minutes, so you can see
+
+581
+00:42:26,535 --> 00:42:31,695
+Cloudways Cloudways is now having,
+uh, with a special guest and they are
+
+582
+00:42:31,695 --> 00:42:33,855
+having a giveaway event for this hour.
+
+583
+00:42:35,085 --> 00:42:35,805
+So don't miss it.
+
+584
+00:42:37,335 --> 00:42:41,295
+Yogesh Londhe: So now we have a
+one hour break or I don't know how.
+
+585
+00:42:42,375 --> 00:42:42,795
+A few minutes.
+
+586
+00:42:44,055 --> 00:42:44,265
+Lax Mariappan: Yeah.
+
+587
+00:42:44,985 --> 00:42:48,225
+And then it starts, it goes to Europe now.
+
+588
+00:42:48,255 --> 00:42:50,535
+I mean, it goes to Africa, Africa.
+
+589
+00:42:53,805 --> 00:42:54,045
+Yogesh Londhe: Yeah.
+
+590
+00:42:54,075 --> 00:42:59,195
+So bye from Asia, um, you all
+make our Big Orange Heart full.
+
+591
+00:42:59,970 --> 00:43:03,510
+Lax Mariappan: Yeah, and we, we
+appreciate your donations and if
+
+592
+00:43:03,510 --> 00:43:08,040
+you are not yet donated, consider
+donating, so visit our, uh, click
+
+593
+00:43:08,040 --> 00:43:12,870
+the donate button and be gracious
+with your, it helps the community.
+
+594
+00:43:13,350 --> 00:43:16,350
+And now we all, again, once
+again, we thank over organizing.
+
+595
+00:43:17,145 --> 00:43:19,875
+Uh, volunteers sponsors and
+everyone who's participated.
+
+596
+00:43:20,115 --> 00:43:20,535
+Thank you.
+
