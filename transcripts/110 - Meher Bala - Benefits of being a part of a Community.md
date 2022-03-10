@@ -1,4 +1,4 @@
-# 110 - Meher Bala - Benefits of being a part of a Community
+### Meher Bala - Benefits of being a part of a Community
 
 **Yoast:** [00:00:00] Do you know, the Yoast SEO, plugin, they're red, orange, and green feedback bullets that help you optimize your posts for the web. It runs on millions of websites. We tried to make SEO understandable and accessible to everyone.[00:01:00] 
 
