@@ -1,4 +1,4 @@
-# 114 - Andrija Radojev - WooCommerce Automation - tips and tricks to save your time and money
+### Andrija Radojev - WooCommerce Automation - tips and tricks to save your time and money
 
 **Yoast:** Do you know the Yoast SEO plugin? They're red, orange, and green feedback bullets that help you optimize your posts for the web. It runs on millions of websites. We tried to make SEO understandable and accessible to everyone. 
 
