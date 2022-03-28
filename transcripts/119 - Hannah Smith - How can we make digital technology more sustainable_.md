@@ -1,4 +1,4 @@
-# 119 - Hannah Smith - How can we make digital technology more sustainable?
+### Hannah Smith - How can we make digital technology more sustainable?
 
 **Yoast:** Do you know the Yoast SEO plugin? They're red, orange, and green feedback bullets that help you optimize your posts for the web. It runs on millions of websites. We tried to make SEO understandable and accessible to everyone.
 
