@@ -1,0 +1,3252 @@
+1
+00:00:58,035 --> 00:00:59,714
+Yoast: Do you know the Yoast SEO plugin?
+
+2
+00:01:00,075 --> 00:01:02,805
+They're red, orange, and green
+feedback bullets that help you
+
+3
+00:01:02,805 --> 00:01:04,394
+optimize your posts for the web.
+
+4
+00:01:04,575 --> 00:01:06,435
+It runs on millions of websites.
+
+5
+00:01:06,885 --> 00:01:10,575
+We tried to make SEO understandable
+and accessible to everyone.
+
+6
+00:01:12,375 --> 00:01:12,945
+Nexcess: Oh great.
+
+7
+00:01:13,095 --> 00:01:14,155
+My website crashed.
+
+8
+00:01:14,990 --> 00:01:15,590
+I give up.
+
+9
+00:01:17,870 --> 00:01:19,490
+Don't give up on your dreams, Jordan.
+
+10
+00:01:19,550 --> 00:01:20,630
+Who are you?
+
+11
+00:01:20,720 --> 00:01:21,230
+It's me.
+
+12
+00:01:21,770 --> 00:01:23,360
+You from the future.
+
+13
+00:01:23,660 --> 00:01:25,670
+Your professional website
+is not at a breach.
+
+14
+00:01:25,700 --> 00:01:29,600
+You just need Nexcess with Nexcess
+managed hosting you get lightening
+
+15
+00:01:29,600 --> 00:01:34,280
+fast load times, built-in performance
+monitoring and updates, and always awesome
+
+16
+00:01:34,280 --> 00:01:37,580
+support 24 7 365 for all your projects.
+
+17
+00:01:37,880 --> 00:01:38,450
+Whoa.
+
+18
+00:01:38,660 --> 00:01:39,020
+Yeah.
+
+19
+00:01:42,390 --> 00:01:47,760
+Weglot: Discover Weglot the simple
+translation solution for your website.
+
+20
+00:01:48,120 --> 00:01:52,650
+All you have to do is add Weglot to
+your website, select the languages
+
+21
+00:01:52,650 --> 00:01:54,630
+that you need, and that's it.
+
+22
+00:01:54,810 --> 00:01:57,960
+Your website is now available
+in multiple languages.
+
+23
+00:01:58,500 --> 00:02:01,530
+Bluehost: Who says building an
+online store has to be hard?
+
+24
+00:02:01,800 --> 00:02:06,305
+With Bluehost website it's more than
+just easy, it's tell us your thing and
+
+25
+00:02:06,305 --> 00:02:08,615
+smart AI we'll take it from there easy.
+
+26
+00:02:09,215 --> 00:02:13,925
+It's WooCommerce friendly so you can add
+one of these or swap this for that easy.
+
+27
+00:02:14,135 --> 00:02:17,765
+It's set up shop in minutes
+with unlimited products easy.
+
+28
+00:02:17,825 --> 00:02:22,205
+Whether you sell boots, books
+or bowls, it's create an online
+
+29
+00:02:22,205 --> 00:02:41,585
+store with Bluehost, easy build
+beyond boundaries with Bluehost.
+
+30
+00:02:58,234 --> 00:03:02,435
+Michelle Frechette: Hello, and
+welcome back to WordFest Live.
+
+31
+00:03:03,274 --> 00:03:09,875
+Our next speaker is Andrija Radojev
+presenting WooCommerce automation, tips
+
+32
+00:03:09,875 --> 00:03:12,274
+and tricks to save your time and money.
+
+33
+00:03:12,894 --> 00:03:18,154
+Andrija has worked on various projects in
+the field of IT, which include websites,
+
+34
+00:03:18,185 --> 00:03:20,254
+video games, and information systems.
+
+35
+00:03:20,874 --> 00:03:24,450
+He's the founder of the video game
+studio, thunder strike, which has
+
+36
+00:03:24,450 --> 00:03:27,720
+received multiple awards at home
+and abroad for innovative and
+
+37
+00:03:27,720 --> 00:03:29,490
+socially responsible projects.
+
+38
+00:03:29,910 --> 00:03:32,250
+He has been in WordPress
+development for six years.
+
+39
+00:03:32,460 --> 00:03:35,790
+Currently enrolled as technical
+website builder at the GoDaddy
+
+40
+00:03:35,790 --> 00:03:37,410
+WordPress premium support team.
+
+41
+00:03:37,859 --> 00:03:40,590
+He's empowering business owners
+and professionals to get the
+
+42
+00:03:40,590 --> 00:03:42,300
+most out of their websites.
+
+43
+00:03:45,060 --> 00:03:46,800
+And you are going to be presenting live.
+
+44
+00:03:47,070 --> 00:03:47,430
+Welcome.
+
+45
+00:03:48,315 --> 00:03:49,545
+And how do you pronounce your name?
+
+46
+00:03:49,545 --> 00:03:51,015
+Because I probably said it wrong.
+
+47
+00:03:52,025 --> 00:03:55,235
+Andrija Radojev: Andrija, you
+actually, you actually sent it through.
+
+48
+00:03:56,085 --> 00:03:56,475
+Michelle Frechette: Okay.
+
+49
+00:03:56,595 --> 00:03:57,075
+Very close.
+
+50
+00:03:57,085 --> 00:03:57,555
+Anyway.
+
+51
+00:03:59,295 --> 00:03:59,955
+Well welcome.
+
+52
+00:03:59,955 --> 00:04:00,465
+I'm great.
+
+53
+00:04:00,495 --> 00:04:03,615
+I'm going to, uh, they're gonna take
+me off and let you have the floor.
+
+54
+00:04:03,885 --> 00:04:06,045
+And then I will come back
+and meet with you afterwards.
+
+55
+00:04:06,045 --> 00:04:06,975
+We'll do some Q and a.
+
+56
+00:04:10,950 --> 00:04:12,739
+Andrija Radojev: Hey
+guys, my name is Andrija.
+
+57
+00:04:12,840 --> 00:04:17,790
+And uh, now I want to talk with you
+about, uh, uh, how we can automate
+
+58
+00:04:17,790 --> 00:04:27,280
+WooCommerce stores and, uh, use those we
+have at our disposal to, uh, to basically
+
+59
+00:04:27,280 --> 00:04:33,070
+save time and money, uh, doing complex
+WooCommerce tasks that we do every day or
+
+60
+00:04:33,100 --> 00:04:35,890
+to resolve, uh, issues that may come up.
+
+61
+00:04:36,960 --> 00:04:38,909
+I hope you guys can see my screen.
+
+62
+00:04:40,650 --> 00:04:41,490
+Okay.
+
+63
+00:04:42,840 --> 00:04:45,930
+If somebody can't see my
+screen, just let me know.
+
+64
+00:04:47,010 --> 00:04:50,989
+Uh, so let's start shall we?
+
+65
+00:04:53,669 --> 00:04:57,330
+First of all, uh, this
+topic will be, yeah.
+
+66
+00:04:57,360 --> 00:04:57,780
+Great.
+
+67
+00:04:57,870 --> 00:05:02,549
+Uh, so this topic will be particularly
+interesting, uh, to WooCommerce
+
+68
+00:05:02,760 --> 00:05:03,870
+store owners and managers.
+
+69
+00:05:05,445 --> 00:05:12,225
+Uh, however, it is also a very useful
+for WooCommerce developers who regularly
+
+70
+00:05:12,225 --> 00:05:17,895
+work on, uh, improving WooCommerce
+stores and, uh, and saying, and,
+
+71
+00:05:17,895 --> 00:05:20,175
+uh, finding ways to, to improve it.
+
+72
+00:05:20,385 --> 00:05:24,945
+Uh, if you have ever worked with
+WooCommerce as, uh, technology and
+
+73
+00:05:24,945 --> 00:05:30,555
+the developed the websites then you
+probably know that, uh, making certain
+
+74
+00:05:30,585 --> 00:05:35,295
+that, uh, that the, the process is
+most efficient is one of the most
+
+75
+00:05:35,295 --> 00:05:37,615
+challenging tasks of WooCommerce.
+
+76
+00:05:38,175 --> 00:05:42,265
+Does this, this lecture, uh,
+can be also useful for you.
+
+77
+00:05:43,005 --> 00:05:46,065
+And of course I will talk
+about some depth technologies.
+
+78
+00:05:46,395 --> 00:05:47,295
+Don't worry, guys.
+
+79
+00:05:47,295 --> 00:05:48,945
+I'm a developer myself.
+
+80
+00:05:48,945 --> 00:05:50,325
+I did not forget you guys.
+
+81
+00:05:50,925 --> 00:05:55,575
+So we're going to have a
+variety of topics to talk about.
+
+82
+00:05:55,785 --> 00:06:01,625
+And, uh, also, uh, you don't
+have to actually be uh, current
+
+83
+00:06:01,635 --> 00:06:05,195
+owner of a WooCommerce store or
+working with WooCommerce business.
+
+84
+00:06:05,375 --> 00:06:08,765
+Everybody who wants to do that,
+or to learn something new or
+
+85
+00:06:08,885 --> 00:06:12,335
+doing basically how WooCommerce
+and e-commerce technologies work.
+
+86
+00:06:12,905 --> 00:06:15,335
+Uh, this actually will be
+definitely interesting.
+
+87
+00:06:15,335 --> 00:06:20,375
+We are going to share some details
+on how commerce stores can operate
+
+88
+00:06:20,405 --> 00:06:24,320
+and, uh, basically, uh, They do that.
+
+89
+00:06:24,380 --> 00:06:29,409
+You're going to learn something new,
+even though, even if you're not directly
+
+90
+00:06:29,440 --> 00:06:31,570
+involved with WooCommerce or eCommerce.
+
+91
+00:06:33,670 --> 00:06:38,550
+So, uh, we are talking about to
+commerce today, but why WooCommerce?
+
+92
+00:06:38,710 --> 00:06:42,550
+Uh, that, that is probably the,
+uh, first question, uh, new,
+
+93
+00:06:42,880 --> 00:06:46,870
+new commerce to WooCommerce
+would ask why is it so popular?
+
+94
+00:06:47,620 --> 00:06:48,340
+Why is it a.
+
+95
+00:06:49,289 --> 00:06:51,840
+Why don't, why don't
+we use something else?
+
+96
+00:06:51,900 --> 00:06:57,359
+Uh, we can have a WooCommerce site and we
+want to set up, uh, we can work the site
+
+97
+00:06:57,359 --> 00:06:58,979
+and we want to set up a WooCommerce store.
+
+98
+00:06:59,400 --> 00:07:01,289
+Why do we choose WooCommerce instantly?
+
+99
+00:07:01,739 --> 00:07:05,880
+Uh, are there any other, uh, other
+plugins that's similar to WooCommerce
+
+100
+00:07:06,270 --> 00:07:07,559
+and actually, yes, they are.
+
+101
+00:07:07,590 --> 00:07:12,299
+However, you can pretty much see
+that WooCommerce is a big guy.
+
+102
+00:07:13,315 --> 00:07:17,095
+Uh, takes most the, of the, uh, market.
+
+103
+00:07:17,185 --> 00:07:22,225
+And, uh, you also have Ecwid easy
+digital downloads, but as you
+
+104
+00:07:22,225 --> 00:07:24,205
+can see, they're minority here.
+
+105
+00:07:24,205 --> 00:07:29,065
+So you're mainly going to talk about
+WooCommerce, however, uh, the, the
+
+106
+00:07:29,065 --> 00:07:34,435
+tools I will show to you are, uh, most
+of them can be implemented, implemented
+
+107
+00:07:34,465 --> 00:07:36,865
+on Ecwid or easy digital downloads.
+
+108
+00:07:36,925 --> 00:07:43,575
+So I'm definitely, uh, so that,
+uh, those, uh, E-commerce stores
+
+109
+00:07:43,575 --> 00:07:45,375
+can be automated that way as well.
+
+110
+00:07:47,475 --> 00:07:51,585
+Now, uh, we are talking about a
+WooCommerce automation, but we
+
+111
+00:07:51,585 --> 00:07:53,475
+did not answer the main question.
+
+112
+00:07:53,625 --> 00:07:55,215
+Uh, why should they help me?
+
+113
+00:07:55,245 --> 00:07:56,565
+They can't have a WooCommerce store.
+
+114
+00:07:56,595 --> 00:07:57,975
+I earn money from it.
+
+115
+00:07:58,005 --> 00:08:05,355
+I, uh, I'm, uh, pretty confident about
+my business and I'm, uh, definitely,
+
+116
+00:08:05,415 --> 00:08:10,485
+uh, I'm definitely happy with how it's
+going, but why should they help me?
+
+117
+00:08:11,400 --> 00:08:18,210
+Uh, I'm not like a big company that
+needs a major, a majorly solution.
+
+118
+00:08:18,210 --> 00:08:22,710
+I'm not, uh, I don't have enough
+money to pay for it and I'm pretty
+
+119
+00:08:22,710 --> 00:08:24,140
+happy with this, with my stats.
+
+120
+00:08:24,240 --> 00:08:25,310
+Why should I help me?
+
+121
+00:08:26,220 --> 00:08:30,300
+Well, uh, even though if you're not
+a big company, if you're a small
+
+122
+00:08:30,570 --> 00:08:37,320
+business, if you're just starting off,
+if you have, uh, if you have a, like,
+
+123
+00:08:38,444 --> 00:08:44,415
+Just started your business, uh, of,
+and you're working for three months
+
+124
+00:08:44,535 --> 00:08:49,185
+you, you should still automate because
+if you have aspirations to grow your
+
+125
+00:08:49,185 --> 00:08:55,005
+business or, uh, basically just to have
+more time to, uh, develop some more
+
+126
+00:08:55,005 --> 00:08:59,625
+interesting stuff and the basically
+invest your time to do something else,
+
+127
+00:08:59,714 --> 00:09:01,995
+then automation is definitely for you.
+
+128
+00:09:02,625 --> 00:09:06,435
+And the first topic that
+is very important is.
+
+129
+00:09:07,319 --> 00:09:12,420
+Uh, how much time we do spend, uh,
+for updates, you know, a market is
+
+130
+00:09:12,420 --> 00:09:17,310
+changing prices, changing costs are
+changing, and we need to adjust to that.
+
+131
+00:09:18,000 --> 00:09:25,515
+Uh, our ability to adjust to, uh, To be,
+to basically adjust to market changes
+
+132
+00:09:26,145 --> 00:09:32,415
+mainly depends on how much time do we need
+to make changes to our website and, uh,
+
+133
+00:09:32,745 --> 00:09:38,775
+how, uh, how responsive are we to the,
+to the changes, uh, that that can happen.
+
+134
+00:09:39,405 --> 00:09:44,084
+Uh, that said there are lots
+of, uh, things, uh, that.
+
+135
+00:09:44,775 --> 00:09:45,944
+That can go on.
+
+136
+00:09:45,944 --> 00:09:48,225
+You can, uh, change your supply.
+
+137
+00:09:48,344 --> 00:09:54,555
+Uh, you can, uh, you can, uh, find out
+that, uh, sometimes it's changed the
+
+138
+00:09:54,615 --> 00:09:58,545
+overnight and the, that your business
+is not so profitable as it used to be.
+
+139
+00:09:58,545 --> 00:10:00,045
+And you need to adjust to that.
+
+140
+00:10:00,645 --> 00:10:07,844
+Uh, you, you basically need to ensure
+that you're always evolved in your, that
+
+141
+00:10:07,844 --> 00:10:12,960
+you're always involved, uh, with, with
+the market and that, that, uh, That you
+
+142
+00:10:12,960 --> 00:10:20,610
+can quickly respond to those changes,
+having manual, uh, updating, uh, manually
+
+143
+00:10:20,610 --> 00:10:26,880
+updating the products can be very tricky
+and can definitely get to get in your way.
+
+144
+00:10:27,480 --> 00:10:31,560
+So you're going to definitely
+needs to find ways to, uh,
+
+145
+00:10:31,890 --> 00:10:33,210
+improve or speed up your work.
+
+146
+00:10:37,155 --> 00:10:40,905
+Also when you see that your website
+is working fine on your end, that
+
+147
+00:10:40,905 --> 00:10:46,334
+does not necessarily mean that that's,
+that is the same for your customer.
+
+148
+00:10:47,055 --> 00:10:53,385
+Uh, and issue detection can definitely
+be tricky sometimes, uh, especially
+
+149
+00:10:53,385 --> 00:10:58,155
+if, uh, the issue only targets specific
+devices or specific customers, for
+
+150
+00:10:58,155 --> 00:11:04,525
+instance, uh, you might be used to,
+uh, working on Google Chrome uh, and
+
+151
+00:11:04,545 --> 00:11:07,035
+using it as your main web browser.
+
+152
+00:11:07,035 --> 00:11:10,725
+And you're like, okay, I'm using Google
+Chrome, it has all the features I have.
+
+153
+00:11:11,055 --> 00:11:14,285
+However, somebody else in the
+road might still be using Edge
+
+154
+00:11:15,584 --> 00:11:18,285
+browser, even internet Explorer.
+
+155
+00:11:19,290 --> 00:11:22,230
+In some governments, it is still used.
+
+156
+00:11:22,319 --> 00:11:26,910
+And if you cannot get to those
+customers, if they cannot complete
+
+157
+00:11:26,910 --> 00:11:30,990
+the purchase, post is the CMA you do
+then you're basically losing money.
+
+158
+00:11:31,560 --> 00:11:35,760
+Uh, identifying those errors and
+issues is very important in, uh,
+
+159
+00:11:36,000 --> 00:11:38,760
+making sure that you are putting
+the best of the few business.
+
+160
+00:11:40,199 --> 00:11:46,230
+Another topic that is, uh, very, uh,
+commonly, uh, ignored when you, when
+
+161
+00:11:46,230 --> 00:11:47,610
+you start to WooCommerce business.
+
+162
+00:11:48,405 --> 00:11:54,194
+Uh, his lead management, uh, when
+you're having, uh, auto, uh, leads that
+
+163
+00:11:54,194 --> 00:11:59,954
+you need to, uh, to post this somehow
+WooCommerce by itself is not enough.
+
+164
+00:12:00,435 --> 00:12:06,370
+Uh, Having all the information you need
+about your customers and your leads
+
+165
+00:12:06,420 --> 00:12:12,420
+is, uh, probably the key, uh, the key
+factor in, uh, managing those customers
+
+166
+00:12:12,450 --> 00:12:19,740
+and, uh, uh, and the putting the best
+out of them out of, uh, to basically,
+
+167
+00:12:19,770 --> 00:12:23,520
+uh, ensure that they are going to be
+engaged gauge within your business.
+
+168
+00:12:23,610 --> 00:12:30,240
+And, uh, that, uh, you can, uh, for
+instance, quickly spot tissues or find
+
+169
+00:12:30,240 --> 00:12:35,160
+the ways to improve your business, uh,
+that needs to be a two-way process.
+
+170
+00:12:35,160 --> 00:12:38,970
+So basically you have to always
+be in touch with your customers
+
+171
+00:12:39,210 --> 00:12:42,660
+in order to ensure that that, uh,
+you're going to receive the correct
+
+172
+00:12:42,660 --> 00:12:44,670
+feedback for your specific business.
+
+173
+00:12:46,170 --> 00:12:51,330
+And, uh, one last thing I
+already spoke about it, uh, that
+
+174
+00:12:51,330 --> 00:12:54,810
+is, uh, basically managing...
+
+175
+00:12:57,194 --> 00:13:00,854
+let's see something is off here.
+
+176
+00:13:03,285 --> 00:13:03,765
+Oh yeah.
+
+177
+00:13:04,334 --> 00:13:05,234
+Uh, finally.
+
+178
+00:13:05,324 --> 00:13:05,745
+Okay.
+
+179
+00:13:06,015 --> 00:13:12,310
+So basically, uh, You will try to
+avoid, uh, manual data transfer at all
+
+180
+00:13:12,329 --> 00:13:17,670
+costs, whenever you can, because, uh,
+eat when you have lots of, uh, lots
+
+181
+00:13:17,670 --> 00:13:22,620
+of information that you need to enter
+that can lead to serious issues, errors
+
+182
+00:13:22,709 --> 00:13:28,500
+and of course, you're going to spend
+lots of time, uh, or, uh, pay lots of
+
+183
+00:13:28,500 --> 00:13:34,630
+money, uh, hiring employees, that will
+that will manage, uh, the post of, uh,
+
+184
+00:13:34,720 --> 00:13:42,130
+data entry or, uh, uh, data transfer,
+uh, which obviously is not, uh, which
+
+185
+00:13:42,130 --> 00:13:47,410
+is, uh, basically you to the business
+post is that is not the most efficient.
+
+186
+00:13:49,750 --> 00:13:53,589
+That is, uh, pretty much the
+time that you don't do not have.
+
+187
+00:13:56,060 --> 00:14:02,055
+Uh, let's talk about, uh, the first
+case of we've mentioned, uh, how does
+
+188
+00:14:02,055 --> 00:14:05,084
+it affect a specific, uh, business?
+
+189
+00:14:05,175 --> 00:14:13,635
+Uh, how can we, uh, how can we
+basically, uh, how can we, uh, see
+
+190
+00:14:13,635 --> 00:14:19,665
+how, uh, how can we see that, uh,
+that things in, uh, in the world.
+
+191
+00:14:20,625 --> 00:14:28,215
+He's a real life example, uh, of how that,
+uh, that can affect the business meet.
+
+192
+00:14:28,335 --> 00:14:30,165
+Um, yeah.
+
+193
+00:14:30,255 --> 00:14:31,065
+Uh, okay.
+
+194
+00:14:31,095 --> 00:14:33,375
+Meet Mary she's, the website coordinator.
+
+195
+00:14:33,435 --> 00:14:39,165
+And, uh, as you can see, many
+is, uh, working in a furniture.
+
+196
+00:14:39,315 --> 00:14:40,305
+These are competent.
+
+197
+00:14:41,055 --> 00:14:44,895
+Uh, of course, you know, if you're
+working with furniture, you have
+
+198
+00:14:44,895 --> 00:14:49,380
+lots of, uh, You need to be a quota.
+
+199
+00:14:49,439 --> 00:14:53,699
+Uh, you need to, uh, kept connections
+with the market to adjust to
+
+200
+00:14:53,699 --> 00:15:00,240
+changes in prices shipping, uh,
+in suppliers, uh, it's attracting
+
+201
+00:15:00,270 --> 00:15:05,850
+those is I actually can work for a
+furniture, uh, uh, uh, sales company.
+
+202
+00:15:05,870 --> 00:15:07,079
+So basically.
+
+203
+00:15:07,750 --> 00:15:10,870
+Explains that, that myself
+and the, this situation,
+
+204
+00:15:11,230 --> 00:15:13,960
+obviously Mary is somebody else.
+
+205
+00:15:13,990 --> 00:15:20,780
+However, I, I had to, I got to experience
+this situation in, uh, in real life.
+
+206
+00:15:23,060 --> 00:15:24,710
+Uh, okay.
+
+207
+00:15:24,710 --> 00:15:30,730
+So, uh, here's the problem, her company.
+
+208
+00:15:31,130 --> 00:15:36,720
+Uh, has just found a supplier that
+has a cheaper prices and the, of
+
+209
+00:15:36,720 --> 00:15:42,510
+course, that is going to make them, uh,
+competitive, uh, on the market even more.
+
+210
+00:15:43,260 --> 00:15:46,410
+Uh, they, they, they need
+to change their supplier.
+
+211
+00:15:46,410 --> 00:15:52,620
+And, uh, so, uh, and as, as a direct
+consequence of changing supplier, they
+
+212
+00:15:52,620 --> 00:15:56,250
+also need to adjust their prices and.
+
+213
+00:15:57,775 --> 00:16:00,864
+If, you know, uh,
+adjusted prices, uh, okay.
+
+214
+00:16:00,954 --> 00:16:01,645
+No big deal.
+
+215
+00:16:01,645 --> 00:16:03,594
+I can adjust 10 products.
+
+216
+00:16:03,745 --> 00:16:05,905
+Uh, I don't need automation.
+
+217
+00:16:05,905 --> 00:16:07,645
+I can type typing myself.
+
+218
+00:16:07,675 --> 00:16:14,280
+Uh, any changes that they have, uh,
+There is not going to be, uh, th there's
+
+219
+00:16:14,280 --> 00:16:20,280
+not going to be, uh, any, any like
+specific, uh, specific issues with that.
+
+220
+00:16:20,729 --> 00:16:24,569
+And I don't need to really
+automate the task if I can, uh,
+
+221
+00:16:24,990 --> 00:16:26,849
+do it basically in 15 minutes.
+
+222
+00:16:27,270 --> 00:16:33,390
+However, uh, when you're running, uh,
+lots of products and you have lots
+
+223
+00:16:33,390 --> 00:16:38,369
+of variations for those products,
+essentially, uh, WooCommerce treats
+
+224
+00:16:38,369 --> 00:16:42,855
+those variations and separate
+products, uh, not entirely.
+
+225
+00:16:42,855 --> 00:16:46,185
+But, uh, if you have like, uh,
+
+226
+00:16:47,625 --> 00:16:49,395
+I'm going to make an example.
+
+227
+00:16:49,395 --> 00:16:53,685
+If you have chairs that from, uh,
+different types of food, obviously the
+
+228
+00:16:53,685 --> 00:16:55,605
+pricing is not going to be the same.
+
+229
+00:16:56,025 --> 00:17:01,455
+And, uh, each of those variations have its
+own prices uh, that needs to be addressed.
+
+230
+00:17:02,885 --> 00:17:08,974
+And the once Mary, uh, calculated
+how much time will it take to,
+
+231
+00:17:09,065 --> 00:17:10,925
+uh, implement those changes.
+
+232
+00:17:10,954 --> 00:17:15,724
+She found out that, uh, she's going
+to need at least eight days since,
+
+233
+00:17:15,724 --> 00:17:21,454
+uh, uh, can stalk has a total of 500
+products that need to be adjusted.
+
+234
+00:17:21,994 --> 00:17:25,615
+If you can multiply that
+with variations or let's say.
+
+235
+00:17:26,480 --> 00:17:30,890
+Uh, a channel that has five
+different types of three.
+
+236
+00:17:31,250 --> 00:17:38,870
+Uh, let's say, uh, we are shipping this,
+uh, in, uh, two different sizes and,
+
+237
+00:17:38,900 --> 00:17:42,800
+uh, also in like five different cars.
+
+238
+00:17:43,910 --> 00:17:51,110
+So, uh, five times, five times two
+equals 50, actually for that prompt
+
+239
+00:17:51,110 --> 00:17:57,330
+product of chair  she needs, uh, to, uh,
+Make changes to 50 profits essentially.
+
+240
+00:17:58,020 --> 00:18:03,000
+And that, that could be really,
+really time consuming and also
+
+241
+00:18:03,030 --> 00:18:07,230
+extremely boring if you have ever
+about, uh, this, uh, business.
+
+242
+00:18:07,949 --> 00:18:14,610
+Uh, web coordinators are very important
+in making sure that those tasks are,
+
+243
+00:18:14,790 --> 00:18:17,310
+are handled properly and, uh, it is.
+
+244
+00:18:18,210 --> 00:18:19,710
+For WooCommerce developers.
+
+245
+00:18:19,800 --> 00:18:27,179
+Uh, one of, uh, key jobs is to secure
+that they're doing their, uh, their pro
+
+246
+00:18:27,270 --> 00:18:33,389
+uh, their process of data entry and, uh,
+making sure that the story is flexible
+
+247
+00:18:33,389 --> 00:18:41,010
+enough to make changes is one of the key
+factors of, uh, Uh, basically making sure
+
+248
+00:18:41,010 --> 00:18:47,430
+that, uh, they're not gonna get, uh, not
+gonna have any delays or, uh, issues, uh,
+
+249
+00:18:47,430 --> 00:18:50,760
+that can, that can pop up in the process.
+
+250
+00:18:53,040 --> 00:18:57,540
+The big question we need to answer
+is how can she get the job done fast?
+
+251
+00:18:57,840 --> 00:19:02,580
+Eight days is a lot, uh, five
+content products is a lot.
+
+252
+00:19:02,760 --> 00:19:07,249
+If she had like, uh, fivehundred chairs.
+
+253
+00:19:07,445 --> 00:19:12,185
+Obviously that's going to
+be, uh, an overkill, but
+
+254
+00:19:12,215 --> 00:19:14,915
+that is, uh, 55,000 products.
+
+255
+00:19:14,915 --> 00:19:18,935
+And obviously that is not humanely
+possible even for the eight days,
+
+256
+00:19:19,325 --> 00:19:21,425
+uh, that, uh, she calculated.
+
+257
+00:19:21,995 --> 00:19:27,185
+Uh, however, there are some things
+that, uh, we can do here to, uh,
+
+258
+00:19:27,215 --> 00:19:32,375
+ensure that Mary's going to have,
+uh, her, uh, process improved.
+
+259
+00:19:33,965 --> 00:19:35,705
+And one of the things.
+
+260
+00:19:37,240 --> 00:19:40,590
+Uh, could help her out our bulk edits.
+
+261
+00:19:42,010 --> 00:19:43,960
+Uh, for bulk editing.
+
+262
+00:19:44,050 --> 00:19:46,870
+Uh, you can have lots of tools available.
+
+263
+00:19:46,870 --> 00:19:49,480
+I have only mentioned some of those tools.
+
+264
+00:19:49,900 --> 00:19:57,100
+So th there is, uh, I think 10 or 15
+varied, uh, w WooCommerce, bargains, or
+
+265
+00:19:57,190 --> 00:20:02,560
+other the way to do, uh, WordPress plugin
+that allow you to, to bulk edit products.
+
+266
+00:20:02,650 --> 00:20:05,320
+Uh, basically what that means instead of.
+
+267
+00:20:06,435 --> 00:20:11,895
+Opening each product when you need to edit
+it, uh, at the opening each variation,
+
+268
+00:20:11,895 --> 00:20:19,335
+when you need to make edits, you can, uh,
+basically, uh, open multiple products and,
+
+269
+00:20:19,365 --> 00:20:24,345
+uh, edit them, uh, uh, at the same time.
+
+270
+00:20:24,915 --> 00:20:29,715
+And once you save, save changes or the
+changes in pricing for instance will
+
+271
+00:20:29,715 --> 00:20:32,535
+be saved uh, to all of those products.
+
+272
+00:20:33,435 --> 00:20:38,625
+So this is one of the, uh, Cubase
+you can, uh, use to basically
+
+273
+00:20:38,625 --> 00:20:41,535
+improve, uh, to improve these poses.
+
+274
+00:20:43,815 --> 00:20:47,135
+Uh, there is, uh, one another way.
+
+275
+00:20:47,325 --> 00:20:52,425
+Uh, if you have lots of products and
+for instance, uh, supplier sentence,
+
+276
+00:20:52,515 --> 00:20:59,775
+uh, Excel sheet, you can export to
+the Excel sheet in a CSV file, or you
+
+277
+00:20:59,775 --> 00:21:07,905
+can uh get the next smell file at, uh,
+uh, also, uh, export, uh, data in, uh,
+
+278
+00:21:08,235 --> 00:21:14,264
+in this, uh, form and, uh, input this
+data, basically you would replace your
+
+279
+00:21:14,264 --> 00:21:21,885
+products, uh, one-on-one uh, using, uh,
+using the data, uh, this like, uh, this
+
+280
+00:21:21,885 --> 00:21:24,135
+post is scan, uh, see what's of time.
+
+281
+00:21:24,135 --> 00:21:29,354
+If you have, uh, if you have a, like
+a story that has, uh, more than, uh,
+
+282
+00:21:30,435 --> 00:21:33,435
+It comes with products, 1000 products.
+
+283
+00:21:33,915 --> 00:21:38,505
+However, it does come with a, with
+some downsides because, uh, there are
+
+284
+00:21:38,505 --> 00:21:44,235
+limitations as to which data you can
+export and how you can import them,
+
+285
+00:21:44,565 --> 00:21:47,115
+especially when it comes to CSV.
+
+286
+00:21:47,415 --> 00:21:52,825
+Uh, Handling images just can sometimes
+be an issue and, uh, they're the plenty
+
+287
+00:21:52,845 --> 00:21:58,365
+of factors, uh, that, uh, that can go
+wrong with, uh, with, uh, importing
+
+288
+00:21:58,545 --> 00:22:05,430
+this, uh, This, uh, uh, amount of
+products, however, even the, even the
+
+289
+00:22:05,490 --> 00:22:12,480
+wheat, uh, with those side effects, uh,
+if you able to import crucial data like
+
+290
+00:22:12,490 --> 00:22:22,200
+pricing or, uh, or changes in, uh, but
+changes, uh, in, uh, shipping or, uh,
+
+291
+00:22:22,410 --> 00:22:27,390
+cars, if you have like products that have
+different that attributes as well, then.
+
+292
+00:22:28,500 --> 00:22:30,540
+That can definitely save you lots of time.
+
+293
+00:22:30,540 --> 00:22:35,939
+And, uh, if anything goes wrong, you
+can, uh, basically, and enter those,
+
+294
+00:22:35,969 --> 00:22:43,050
+uh, the missing information, uh, once
+you verified that, uh, everything that
+
+295
+00:22:43,050 --> 00:22:48,540
+could be, uh, imported can be actually,
+uh, is actually imported properly.
+
+296
+00:22:49,350 --> 00:22:56,040
+Some of the tools you can use, uh,
+for, uh, For this, uh, uh, basically,
+
+297
+00:22:56,100 --> 00:23:00,570
+uh, yeah, that, that is actually
+really important for common scan, uh,
+
+298
+00:23:01,200 --> 00:23:03,240
+can, uh, make those changes directly.
+
+299
+00:23:03,960 --> 00:23:09,420
+Uh, you, you also have, uh, uh, basically
+you have, uh, the default template
+
+300
+00:23:09,420 --> 00:23:16,560
+system, which can be used to input
+WooCommerce products, uh, and, uh, you
+
+301
+00:23:16,560 --> 00:23:24,345
+would, uh, and then you're presented
+with, uh, with, uh, With the system
+
+302
+00:23:24,405 --> 00:23:29,264
+that to allow you to map fields and to
+connect everything that can be connected,
+
+303
+00:23:29,264 --> 00:23:34,845
+like dicing the names of products,
+descriptions, all of the, all the stuff
+
+304
+00:23:34,845 --> 00:23:39,555
+that would take lots time to enter,
+especially if you're starting a new.
+
+305
+00:23:40,805 --> 00:23:41,865
+VPO in parties.
+
+306
+00:23:42,044 --> 00:23:43,095
+I go level up to that.
+
+307
+00:23:43,785 --> 00:23:48,105
+So, uh, about a couple of
+products is very similar.
+
+308
+00:23:48,465 --> 00:23:52,935
+However, uh, there, there are also
+many tools that, that you can use,
+
+309
+00:23:52,965 --> 00:24:01,215
+uh, to, uh, to basically complete,
+uh, complete this task and just drop
+
+310
+00:24:01,215 --> 00:24:05,145
+all the products that you can then
+replace them with new products from a,
+
+311
+00:24:05,655 --> 00:24:07,965
+uh, from a new vendor, for instance.
+
+312
+00:24:10,530 --> 00:24:16,050
+And also there is a, another cool
+feature, uh, that, that you can use.
+
+313
+00:24:16,110 --> 00:24:22,590
+And, uh, that is to actually sync
+products, uh, from a third party.
+
+314
+00:24:23,580 --> 00:24:30,240
+Uh, for instance, if you're your supplier
+is using, uh, Using some third party,
+
+315
+00:24:30,330 --> 00:24:36,000
+uh, third party technology, uh, for
+listing those products and the ha has it
+
+316
+00:24:36,000 --> 00:24:45,030
+available for, uh, everyone, uh, uh, that
+that's, uh, completing, uh, a big, uh,
+
+317
+00:24:45,179 --> 00:24:47,699
+that is actually working in B2C market.
+
+318
+00:24:47,790 --> 00:24:52,080
+Then, uh, then, uh, syncing
+products, they actually, from that
+
+319
+00:24:52,080 --> 00:24:54,300
+drink will definitely help you out.
+
+320
+00:24:55,980 --> 00:25:00,960
+And, uh, There are lots of different
+technologies that can, that you can use.
+
+321
+00:25:01,050 --> 00:25:05,910
+Uh, actually I'm going just to mention
+a WooCommerce CPI product thing,
+
+322
+00:25:05,940 --> 00:25:13,930
+because, uh, it can be useful even
+for, uh, the, the smallest, uh, stores.
+
+323
+00:25:13,950 --> 00:25:15,810
+And I'm going to give you a use case.
+
+324
+00:25:15,840 --> 00:25:20,220
+You have like a one store that
+sells furniture in, for instance,
+
+325
+00:25:20,220 --> 00:25:24,330
+Dallas, uh, another store that
+sells furniture in Houston.
+
+326
+00:25:25,845 --> 00:25:28,185
+Third store that sells furniture in LA.
+
+327
+00:25:28,365 --> 00:25:35,564
+And, uh, basically all stores look the
+same, but, uh, they, uh, and, and the
+
+328
+00:25:35,564 --> 00:25:39,945
+show different products from one stock,
+however, they have a different pricing,
+
+329
+00:25:39,945 --> 00:25:45,405
+different marketing, and, uh, basically,
+uh, their, their branding is different.
+
+330
+00:25:45,554 --> 00:25:52,200
+Uh, if you need to, uh, if you need
+to, uh, Update changes, uh, uh, or
+
+331
+00:25:52,200 --> 00:25:57,360
+the one store you need to do that
+also for the others, unless you have
+
+332
+00:25:57,420 --> 00:26:04,020
+a way to actually propagate those
+changes directly on our stores.
+
+333
+00:26:04,020 --> 00:26:08,960
+And these two can really help you
+out, uh, automate IO and some things,
+
+334
+00:26:09,240 --> 00:26:15,090
+more advanced technology center have
+a in integration systems to basically
+
+335
+00:26:15,389 --> 00:26:18,030
+connect you to a third party services?
+
+336
+00:26:18,120 --> 00:26:25,649
+Uh, I think their, uh, their, uh,
+integration library, uh, is, uh, filling
+
+337
+00:26:25,649 --> 00:26:32,790
+them with lots of, uh, basically the,
+the integration library, uh, is expanding
+
+338
+00:26:33,179 --> 00:26:39,780
+every day and some of them even have
+the, the ability to, uh, expand the.
+
+339
+00:26:40,814 --> 00:26:46,185
+Uh, to basically allow developers to, to
+add their own libraries for integration
+
+340
+00:26:46,304 --> 00:26:50,175
+with which can be really cool and, uh,
+can, uh, can save you lots of time.
+
+341
+00:26:50,595 --> 00:26:58,784
+Essentially this so eliminate the post-its
+of, uh, of, uh, basically, uh, trying to
+
+342
+00:26:58,784 --> 00:27:05,595
+find the different ways of export to give,
+just connect to the two technologies and
+
+343
+00:27:05,595 --> 00:27:07,814
+you don't have to write custom apps to.
+
+344
+00:27:08,760 --> 00:27:13,410
+Uh, basically to connect,
+uh, to connect those two.
+
+345
+00:27:15,000 --> 00:27:20,600
+And, uh, if you say, uh, if for
+instance, supplier changes, prices.
+
+346
+00:27:20,909 --> 00:27:24,370
+Your, uh, your product pricing
+can also change that day.
+
+347
+00:27:24,370 --> 00:27:28,979
+You can make a, for instance,
+if you're, obviously you want
+
+348
+00:27:28,979 --> 00:27:30,149
+to learn something from that.
+
+349
+00:27:30,149 --> 00:27:35,550
+So, uh, if you want to, uh,
+amplify the price, uh, that, uh,
+
+350
+00:27:35,610 --> 00:27:37,560
+you can do that automatically.
+
+351
+00:27:37,560 --> 00:27:40,290
+So basically you have a
+mathematic formula, the, to, uh,
+
+352
+00:27:40,350 --> 00:27:41,580
+do the heavy lifting for you.
+
+353
+00:27:45,004 --> 00:27:47,165
+Now let's talk about the second issue.
+
+354
+00:27:47,225 --> 00:27:53,525
+And, uh, that is, uh, the fact that issues
+can be really tricky to, uh, to detect.
+
+355
+00:27:54,785 --> 00:27:55,715
+Here we have Dan.
+
+356
+00:27:56,655 --> 00:28:02,105
+Dan owns a WooCommerce store and, uh,
+he sells, uh, office equipment and,
+
+357
+00:28:02,105 --> 00:28:03,995
+uh, things are generally going well.
+
+358
+00:28:03,995 --> 00:28:05,105
+He's not complaining.
+
+359
+00:28:05,105 --> 00:28:10,115
+He's a very happy how the things
+that are going however, after one
+
+360
+00:28:10,115 --> 00:28:18,120
+year of business, Customer calls and,
+uh, uh, his customer says that, uh,
+
+361
+00:28:18,180 --> 00:28:20,820
+she cannot, uh, add product to cart.
+
+362
+00:28:21,630 --> 00:28:26,940
+If you had experienced the issue, uh, for
+instance, then you add to cart and then
+
+363
+00:28:26,940 --> 00:28:29,070
+go to the cart page and cart is empty.
+
+364
+00:28:29,550 --> 00:28:33,780
+Then you know, that it can be really
+annoying and, uh, uh, can definitely
+
+365
+00:28:33,780 --> 00:28:36,210
+dive state the sales of from a website.
+
+366
+00:28:36,840 --> 00:28:42,455
+Uh, When she speaks with customers
+to find out how is it possible?
+
+367
+00:28:42,545 --> 00:28:47,135
+He finds out that the customer is
+using Firefox as their main browser.
+
+368
+00:28:47,825 --> 00:28:55,155
+Uh, and, uh, obviously, uh, Mo uh, most of
+Dan's customers, uh, used Google Chrome.
+
+369
+00:28:55,235 --> 00:29:00,245
+So he was unaware of the issue
+until a customer reported it.
+
+370
+00:29:02,375 --> 00:29:04,595
+He paid the developer to fix the issue.
+
+371
+00:29:04,835 --> 00:29:10,335
+And once he did that, the
+sales just went up by 15%.
+
+372
+00:29:11,355 --> 00:29:15,315
+Uh, however, obviously one year is passed.
+
+373
+00:29:16,035 --> 00:29:21,765
+Uh, so we lost 15% of,
+uh, income for one year.
+
+374
+00:29:21,765 --> 00:29:26,565
+Obviously that's not a simple math,
+however, uh, we can definitely see how
+
+375
+00:29:26,925 --> 00:29:33,555
+a simple issue, uh, basically, uh, a
+stupid issue affected the business grade.
+
+376
+00:29:35,715 --> 00:29:41,625
+Uh, Is there any way we could help
+Dan  , uh, prevent this situation?
+
+377
+00:29:41,715 --> 00:29:44,805
+What could help Dan spot the issue sooner?
+
+378
+00:29:45,615 --> 00:29:51,135
+And the answer to that question
+is basically do whatever you can.
+
+379
+00:29:51,345 --> 00:29:52,785
+However, don't rely that.
+
+380
+00:29:53,745 --> 00:29:56,775
+That a specific technology will tell
+you everything you need to know.
+
+381
+00:29:57,555 --> 00:30:03,285
+So if you do not receive animals, so
+if you do not, uh, see any, uh, major
+
+382
+00:30:03,285 --> 00:30:09,525
+changes, uh, do not see any major
+changes, uh, to, uh, for instance,
+
+383
+00:30:09,525 --> 00:30:14,925
+Google analytics results, uh, then,
+uh, you might still have an issue.
+
+384
+00:30:17,395 --> 00:30:23,365
+One of the, the, uh, apps that the top,
+the most efficient of, uh, for using,
+
+385
+00:30:23,465 --> 00:30:29,605
+uh, for improving the overall process
+is customer behavior monitoring apps.
+
+386
+00:30:30,145 --> 00:30:38,745
+Uh, those apps are, uh, are mainly,
+uh, Like a specific dashboard in
+
+387
+00:30:38,745 --> 00:30:43,274
+which you're going to enter and see
+all your, uh, customers interactions,
+
+388
+00:30:43,335 --> 00:30:44,955
+whether it is a quick stream.
+
+389
+00:30:44,985 --> 00:30:52,125
+Some of those bathrooms also have a
+recording features so that you can, uh,
+
+390
+00:30:52,155 --> 00:30:57,895
+see, uh, what, what customer was seeing at
+the, basically it can help you replicate
+
+391
+00:30:57,915 --> 00:31:07,879
+the error that a customer got, uh,
+Basically when we are working on, uh, when
+
+392
+00:31:07,879 --> 00:31:12,830
+we are working on a WooCommerce stores and
+whenever we are carrying the product, we
+
+393
+00:31:12,830 --> 00:31:19,610
+are, uh, that, that we use, uh, regularly,
+we are trying to put, uh, put ourselves
+
+394
+00:31:19,639 --> 00:31:27,200
+in the equation and think of a customer
+as how would I purchase something and.
+
+395
+00:31:28,524 --> 00:31:33,865
+Sometimes sometimes that, uh, does create,
+uh, that, that can create lots of issues.
+
+396
+00:31:34,104 --> 00:31:39,834
+Uh, and, uh, we cannot, uh, replicate
+the purchase process of somebody else.
+
+397
+00:31:39,865 --> 00:31:44,365
+For instance, uh, we might
+be using a trackpad somebody
+
+398
+00:31:44,365 --> 00:31:45,834
+else might be using a mouse.
+
+399
+00:31:46,344 --> 00:31:52,135
+Uh, we might, uh, be for instance, a
+solo in cooking things while we have some
+
+400
+00:31:52,135 --> 00:31:58,169
+customers that very fast to complete,
+but it just builds this, uh, To complete
+
+401
+00:31:58,169 --> 00:32:03,540
+purchase process is faster and, uh,
+they're used to quick, faster than us.
+
+402
+00:32:04,110 --> 00:32:10,320
+Uh, they can easily expose issues at
+break our websites, uh, does a lot
+
+403
+00:32:10,320 --> 00:32:15,030
+actually break the websites, but, uh,
+they can the PC virus because they
+
+404
+00:32:15,030 --> 00:32:21,510
+are about using the, our WooCommerce,
+uh, application the way it is intended
+
+405
+00:32:21,540 --> 00:32:24,060
+or the way it is, uh, designed.
+
+406
+00:32:26,310 --> 00:32:28,780
+However, obviously
+customer is always right.
+
+407
+00:32:28,800 --> 00:32:34,650
+So you need to make sure that you
+can handle those, uh, those, uh,
+
+408
+00:32:35,130 --> 00:32:40,290
+situations and, uh, be prepared
+that, uh, your store can work even
+
+409
+00:32:40,290 --> 00:32:42,990
+in the, this, uh, in this situation.
+
+410
+00:32:44,010 --> 00:32:49,850
+Another way to, uh, easily spot some
+errors is RD error reporting plugins.
+
+411
+00:32:50,669 --> 00:32:55,320
+Uh, some of the most common error
+reporting plugins as he'd be all,
+
+412
+00:32:55,350 --> 00:32:58,020
+however, you all slowed that, uh, work.
+
+413
+00:32:58,020 --> 00:33:04,469
+This also has a, uh, reporting that,
+uh, obviously can be, uh, can be very
+
+414
+00:33:04,469 --> 00:33:09,419
+effective if you have, uh, issue that
+CA that actually built the website.
+
+415
+00:33:10,590 --> 00:33:16,050
+However, tracking time, if a
+EOC get the Iris notices that.
+
+416
+00:33:16,905 --> 00:33:22,665
+Something is wrong or that something
+is getting deprecated can lead
+
+417
+00:33:22,665 --> 00:33:28,155
+you to additional information, uh,
+that can, uh, that can basically
+
+418
+00:33:28,335 --> 00:33:33,840
+prevent the issue, uh, before it
+happens or, uh, if an issue happens.
+
+419
+00:33:33,930 --> 00:33:40,320
+You will be the first to know, uh, you
+can have, uh, you can have the, uh, L
+
+420
+00:33:40,320 --> 00:33:44,850
+sock that reported in your dashboard,
+or you can receive emails that are
+
+421
+00:33:44,850 --> 00:33:52,390
+going to, uh, if, if, uh, something
+went wrong or some of the crucial
+
+422
+00:33:52,410 --> 00:33:55,510
+steps, uh, the purchase process.
+
+423
+00:33:58,250 --> 00:34:03,979
+Also, uh, another cool feature, uh,
+another cool tool that you can use,
+
+424
+00:34:04,040 --> 00:34:09,120
+uh, uptime monitor platforms, uh,
+those plugins you probably use the
+
+425
+00:34:09,279 --> 00:34:12,049
+already, uh, there are lots of them.
+
+426
+00:34:12,139 --> 00:34:19,759
+Uh, Jetpack also has, uh, also has, uh,
+uptime monitoring system integrated.
+
+427
+00:34:19,759 --> 00:34:24,880
+However, uh, I also used
+the, I also listed the.
+
+428
+00:34:25,950 --> 00:34:30,870
+These, these three platforms that, uh, I
+personally had good experience with you,
+
+429
+00:34:30,940 --> 00:34:33,210
+you may, you might use something else.
+
+430
+00:34:33,900 --> 00:34:39,330
+Uh, however, when you have, uh, goes
+down at the, I'm not going to say if
+
+431
+00:34:39,330 --> 00:34:45,630
+your website goes down because you know,
+uh, that, uh, eventually it is going to
+
+432
+00:34:45,630 --> 00:34:51,690
+happen, but the question is how, or get
+the, uh, how, how well are you prepared
+
+433
+00:34:51,720 --> 00:34:53,430
+to handle the issue and fix these.
+
+434
+00:34:54,480 --> 00:34:59,970
+Uh, either the case or you need to be
+prepared to, uh, make sure that, uh,
+
+435
+00:35:00,150 --> 00:35:05,370
+issues popped at the instantly and
+that, uh, you're not going to lose sales
+
+436
+00:35:05,370 --> 00:35:14,760
+because of, uh, uh, because of the issue,
+uh, here we have, uh, lead management
+
+437
+00:35:14,760 --> 00:35:22,755
+difficulties and, uh, We are going
+to meet with, uh, I forgot her name.
+
+438
+00:35:23,085 --> 00:35:23,715
+Oh, mic.
+
+439
+00:35:23,775 --> 00:35:24,165
+Yeah.
+
+440
+00:35:24,555 --> 00:35:30,525
+Maggie's a sales manager of a WooCommerce
+store that sells office equipment.
+
+441
+00:35:30,705 --> 00:35:38,335
+Uh, oh, sorry guys, yeah, she, uh, and.
+
+442
+00:35:39,134 --> 00:35:41,625
+Basically an embarrassing thing happened.
+
+443
+00:35:41,714 --> 00:35:47,024
+Uh, she, uh, she did make real
+checks though, but she noticed
+
+444
+00:35:47,024 --> 00:35:49,814
+that a checkout is broken.
+
+445
+00:35:49,875 --> 00:35:50,834
+Something is wrong.
+
+446
+00:35:51,435 --> 00:35:52,484
+She cannot checkout.
+
+447
+00:35:52,515 --> 00:35:55,665
+She cannot, uh, for instance,
+get access to PayPal.
+
+448
+00:35:56,084 --> 00:36:03,825
+And, uh, uh, basically, uh, she knows
+that, uh, whenever you have a, uh,
+
+449
+00:36:03,854 --> 00:36:06,254
+issue of this kind you're losing sales.
+
+450
+00:36:06,675 --> 00:36:08,955
+And she reacted instantly.
+
+451
+00:36:09,045 --> 00:36:15,975
+I, the developer who fixed the
+issue, but, uh, uh, she, uh, noticed
+
+452
+00:36:15,975 --> 00:36:22,925
+that, uh, 15 sales have been lost,
+uh, because 15 customers saw that
+
+453
+00:36:22,935 --> 00:36:26,625
+he reached to the checkout pages,
+according to analytics, and they did
+
+454
+00:36:26,625 --> 00:36:28,925
+not complete the checkout process.
+
+455
+00:36:31,235 --> 00:36:34,155
+Now the question we have is.
+
+456
+00:36:34,785 --> 00:36:39,615
+Was there any way to minimize the
+damage from the worst sales and, uh,
+
+457
+00:36:39,975 --> 00:36:45,105
+there, uh, quite a lot of tools that
+are very simple to use don't require
+
+458
+00:36:45,195 --> 00:36:50,565
+any significant, uh, investments, but,
+uh, can definitely save you, uh, or
+
+459
+00:36:50,565 --> 00:36:52,215
+lots of money if you implement them.
+
+460
+00:36:52,215 --> 00:36:52,755
+Correct.
+
+461
+00:36:54,555 --> 00:37:01,035
+First of all, If you have a WooCommerce
+store that sells products, uh, then you
+
+462
+00:37:01,035 --> 00:37:03,255
+also need to have the abandoned cart.
+
+463
+00:37:04,365 --> 00:37:11,235
+Uh, basically, uh, abandoned cart system,
+uh, is, uh, application basically accepts
+
+464
+00:37:11,415 --> 00:37:16,065
+that is going to capture information that
+design to the checkout page, uh, before
+
+465
+00:37:16,065 --> 00:37:18,195
+the purchase is, uh, has completely.
+
+466
+00:37:19,274 --> 00:37:24,285
+Uh, if, uh, for instance, that can
+capture notably if you have an issue, but
+
+467
+00:37:24,285 --> 00:37:29,685
+also in the situations where customers,
+where there are two, uh, two's your
+
+468
+00:37:29,685 --> 00:37:34,484
+public and that they change their
+mind, the public somewhere else, or
+
+469
+00:37:34,484 --> 00:37:39,075
+you can invite them shake, uh, yo you,
+you still have a product to your cart.
+
+470
+00:37:39,854 --> 00:37:42,544
+Uh, and, uh, working,
+
+471
+00:37:46,064 --> 00:37:47,654
+look, utilize this technology.
+
+472
+00:37:48,750 --> 00:37:49,200
+Uh, we.
+
+473
+00:37:50,565 --> 00:37:55,725
+Which is very sad because,
+uh, the implementation of this
+
+474
+00:37:55,725 --> 00:38:00,705
+technology, uh, basically costs
+installing, uh, overcast park.
+
+475
+00:38:01,305 --> 00:38:05,625
+Here are some plugins that you can use
+there are lots of plugins that the, uh,
+
+476
+00:38:05,685 --> 00:38:08,085
+made we used, uh, for abandoned cart.
+
+477
+00:38:08,730 --> 00:38:13,230
+Uh, let's, let's say like this, uh,
+this technology is not foolproof.
+
+478
+00:38:13,260 --> 00:38:18,420
+You still need to have email address
+to which, uh, customers will, uh, be
+
+479
+00:38:19,200 --> 00:38:21,470
+doing to complete the checkout process.
+
+480
+00:38:21,750 --> 00:38:26,280
+However, if you can arrange your fields
+correctly, then you can capture, uh,
+
+481
+00:38:26,280 --> 00:38:32,340
+capture to the purchase information that
+is needed, like, uh, email addresses
+
+482
+00:38:32,370 --> 00:38:37,395
+or, uh, Th this new information
+that is, uh, that can be used to
+
+483
+00:38:37,455 --> 00:38:39,435
+recover basically those lost sales.
+
+484
+00:38:41,085 --> 00:38:47,685
+Another, uh, way to spot tissues would
+be using a CRM system or, or a similar
+
+485
+00:38:47,685 --> 00:38:51,105
+solution, uh, for lead management here.
+
+486
+00:38:51,135 --> 00:38:57,660
+Some of the popular CRM systems at, uh,
+I just thought to say those apps a lot
+
+487
+00:38:57,660 --> 00:39:02,580
+strictly CRM systems, because they have
+up of additional integration tools.
+
+488
+00:39:03,180 --> 00:39:10,650
+Uh, however, what I noticed the
+most, uh, is that, uh, having a chat
+
+489
+00:39:10,650 --> 00:39:13,460
+integration is very important, uh, to.
+
+490
+00:39:14,955 --> 00:39:20,295
+To basically collect information, uh,
+from customers, uh, and to reach out to
+
+491
+00:39:20,295 --> 00:39:29,865
+them in case of, uh, in case of issues,
+uh, therefore, uh, heavy, heavy, the CRM
+
+492
+00:39:29,895 --> 00:39:32,295
+that collects that, uh, that information.
+
+493
+00:39:35,805 --> 00:39:40,275
+is the key to, uh, notice
+if there are any problems.
+
+494
+00:39:40,305 --> 00:39:44,955
+And if customer did not have all
+the old information, you might have
+
+495
+00:39:45,015 --> 00:39:47,805
+said, customer, they're just going
+to be a web city area and that you
+
+496
+00:39:47,805 --> 00:39:52,395
+can, the, uh, they actually, uh,
+correct this information to customer.
+
+497
+00:39:53,255 --> 00:39:58,355
+Uh, they talked to him to see if,
+uh, uh, to him, for instance, that
+
+498
+00:39:58,355 --> 00:40:02,045
+the, she is fixing the, that, uh,
+he can complete the checkout posts.
+
+499
+00:40:02,825 --> 00:40:09,695
+Also, uh, you make, have noticed that,
+uh, uh, abandoned cart is, uh, uh,
+
+500
+00:40:09,695 --> 00:40:17,045
+Michael, uh, system for, uh, basically
+a bad guy is also my microsystem for,
+
+501
+00:40:17,045 --> 00:40:24,390
+uh, with the generation, uh, However,
+uh, you will, you will sometimes
+
+502
+00:40:24,390 --> 00:40:26,190
+need to integrate both of them.
+
+503
+00:40:26,190 --> 00:40:30,660
+So basically both the bad guy in CRM
+and the, there are some small events
+
+504
+00:40:30,690 --> 00:40:35,370
+solutions that you can use here is
+called probably some that, uh, I
+
+505
+00:40:35,370 --> 00:40:37,200
+have personally used Rico forever.
+
+506
+00:40:37,290 --> 00:40:42,270
+Uh, those two solutions I've heard
+very, uh, HubSpot, that guide stack.
+
+507
+00:40:42,330 --> 00:40:43,770
+I've heard the odds of.
+
+508
+00:40:45,089 --> 00:40:52,319
+What's useful information, uh, that can
+basically help you out and, uh, and,
+
+509
+00:40:52,319 --> 00:40:59,549
+uh, allow you to manage your reads more
+easily at the Cabo deformations about
+
+510
+00:40:59,580 --> 00:41:05,490
+their bad guides, about, uh, the, uh,
+purchase bills that has not been completed
+
+511
+00:41:05,640 --> 00:41:07,710
+and to know how to handle that properly.
+
+512
+00:41:09,735 --> 00:41:13,545
+Finally, we go to a
+manual date to translate.
+
+513
+00:41:13,575 --> 00:41:16,845
+And for this case, we're
+going to meet Gary.
+
+514
+00:41:17,415 --> 00:41:24,015
+Gary has a very successful, uh, online
+bookstore and the business is going
+
+515
+00:41:24,045 --> 00:41:29,055
+well, actually, so well that it, that,
+uh, it actually is not going well
+
+516
+00:41:29,085 --> 00:41:32,115
+because, uh, he has two Bob's customers.
+
+517
+00:41:32,115 --> 00:41:34,545
+Uh, two books are sold.
+
+518
+00:41:34,905 --> 00:41:41,415
+Uh he's uh, His staff is unable to add
+to all the changes and the days lots
+
+519
+00:41:41,415 --> 00:41:43,695
+of fill station at the KP workers.
+
+520
+00:41:43,755 --> 00:41:48,855
+Uh, they're, they're leaving their space
+because of the stress and, uh, that, uh,
+
+521
+00:41:48,915 --> 00:41:56,085
+obviously, uh, although he he's, uh, he's
+always selling, uh, his, uh, his books.
+
+522
+00:41:56,145 --> 00:42:01,155
+Uh, he, he's not happy because he's losing
+valuable customers that, that can the
+
+523
+00:42:01,545 --> 00:42:04,215
+w w he's using valuable staff at the.
+
+524
+00:42:05,174 --> 00:42:07,065
+And the debt can easily cure business.
+
+525
+00:42:07,634 --> 00:42:10,095
+Uh, even though it is successful though.
+
+526
+00:42:11,085 --> 00:42:15,345
+And, uh, obviously when you have
+a lots of manual work, mistakes
+
+527
+00:42:15,345 --> 00:42:21,194
+captured in his case, uh, he sold more
+books than he has in stock because,
+
+528
+00:42:21,285 --> 00:42:25,935
+uh, somebody basically had a back
+study to add that case to the best.
+
+529
+00:42:26,685 --> 00:42:27,975
+How can we rectify the.
+
+530
+00:42:28,905 --> 00:42:35,895
+How can we, uh, actually, uh, prevent
+those mistakes and, uh, uh, overall,
+
+531
+00:42:35,985 --> 00:42:38,325
+uh, how, how else we can save time?
+
+532
+00:42:38,565 --> 00:42:42,035
+There are a couple of ways I'm not
+going to say that these ways are
+
+533
+00:42:42,035 --> 00:42:46,635
+exclusive or, uh, that, uh, there
+are a lot better ways to do that.
+
+534
+00:42:47,775 --> 00:42:51,345
+Uh, you have a lots of cool
+technologies that you can explore.
+
+535
+00:42:52,455 --> 00:42:56,444
+Uh, first source and the,
+the cheapest deepest of the
+
+536
+00:42:56,444 --> 00:42:58,305
+Mo is to just to emit stock.
+
+537
+00:42:58,515 --> 00:43:05,055
+There are lots of pockets that you can
+use to, to weed stock, uh, and those that
+
+538
+00:43:05,055 --> 00:43:07,065
+can be done for WooCommerce directly.
+
+539
+00:43:07,694 --> 00:43:15,705
+Uh, therefore, uh, I would say if you
+D if you have lots of stores, then the.
+
+540
+00:43:17,025 --> 00:43:21,585
+Then you will need more, more events
+to solution, uh, that the emitting
+
+541
+00:43:21,585 --> 00:43:27,645
+stock, therefore you need to, you need
+to see, uh, what works the best for
+
+542
+00:43:27,645 --> 00:43:30,585
+your business and twos to the topic.
+
+543
+00:43:30,585 --> 00:43:36,605
+So should, uh, other way to
+basically remediate the process of.
+
+544
+00:43:38,165 --> 00:43:41,555
+A manual data entry would
+be automatic updates.
+
+545
+00:43:41,645 --> 00:43:47,315
+Uh, I don't that many, many
+companies still use Google
+
+546
+00:43:47,315 --> 00:43:49,175
+sheets for managing stock.
+
+547
+00:43:49,355 --> 00:43:54,935
+Uh, at the via Google sheets is very,
+very useful as technology, uh, can be
+
+548
+00:43:54,935 --> 00:44:01,484
+expanded, uh, basically, uh, As much
+as it is evolved using Google script,
+
+549
+00:44:01,575 --> 00:44:06,044
+which is a technology that you can use
+to write a script that they're going
+
+550
+00:44:06,075 --> 00:44:10,785
+to, uh, affect, uh, the , uh, table.
+
+551
+00:44:11,444 --> 00:44:13,274
+Uh, it is not the most efficient way.
+
+552
+00:44:13,274 --> 00:44:17,964
+And, uh, if you have all the folders
+that that's going to quickly pile up and
+
+553
+00:44:18,075 --> 00:44:20,444
+become a sole table, that's going to cash.
+
+554
+00:44:20,984 --> 00:44:21,774
+I know this from.
+
+555
+00:44:23,355 --> 00:44:29,055
+Uh, if you can automate the process of
+entering golden standard, you can, the,
+
+556
+00:44:30,015 --> 00:44:36,405
+for instance, if you're already using,
+uh, uh, ex uh, exosuits, import them to
+
+557
+00:44:36,435 --> 00:44:41,325
+Google sheets and, uh, you can connect
+that directly to have a cover story.
+
+558
+00:44:41,385 --> 00:44:44,835
+And the once you make change there,
+the page is going to propagate.
+
+559
+00:44:44,895 --> 00:44:50,735
+They actually are used for
+another, uh, another system that.
+
+560
+00:44:52,215 --> 00:44:56,595
+Probably, uh, needs to be spoken
+more than, than it already is,
+
+561
+00:44:56,655 --> 00:44:58,425
+is a stock management system.
+
+562
+00:44:58,545 --> 00:45:02,745
+Especially if you have multiple
+stores, uh, there are lots of,
+
+563
+00:45:02,835 --> 00:45:04,755
+uh, stock beds with systems.
+
+564
+00:45:04,995 --> 00:45:07,215
+Some of them are completely feed.
+
+565
+00:45:07,215 --> 00:45:08,295
+Some of them are paid.
+
+566
+00:45:08,985 --> 00:45:14,865
+Uh, my personal advice regarding that is
+five to what best works for your business.
+
+567
+00:45:14,865 --> 00:45:16,785
+Start small and then go big.
+
+568
+00:45:19,110 --> 00:45:21,900
+Now he agreed to talk
+about advanced automation.
+
+569
+00:45:22,620 --> 00:45:27,660
+Uh, and yes, this is where
+developers come into play.
+
+570
+00:45:29,400 --> 00:45:33,930
+Uh, colleagues will probably
+staple to be, uh, be customized,
+
+571
+00:45:34,049 --> 00:45:36,360
+uh, using different technologies.
+
+572
+00:45:36,390 --> 00:45:40,950
+Well, recovers is a very, very
+flexible in that guide has multiple
+
+573
+00:45:40,950 --> 00:45:43,590
+fixed features, uh, that can be used.
+
+574
+00:45:43,799 --> 00:45:50,115
+We'll call the subject is, uh, One of
+the easy methods to collect the data.
+
+575
+00:45:50,115 --> 00:45:54,165
+If you're there, they actually, from a
+working from a workplace environment.
+
+576
+00:45:54,735 --> 00:45:59,265
+And for instance, you have a custom
+parking that you need to, uh, for
+
+577
+00:45:59,265 --> 00:46:00,795
+which you need to pull the data.
+
+578
+00:46:00,885 --> 00:46:04,095
+Uh, we'll cover a subject
+is very useful, uh, as.
+
+579
+00:46:05,190 --> 00:46:09,660
+W, uh, as long as you have a WooCommerce
+pocket active, that you can pull the
+
+580
+00:46:09,660 --> 00:46:11,460
+data that is stored in the object.
+
+581
+00:46:12,240 --> 00:46:19,529
+A rest API is, uh, probably underused in
+the circumstances, but it is, uh, one of
+
+582
+00:46:19,529 --> 00:46:21,660
+the fastest ways, ways to pull data from.
+
+583
+00:46:22,350 --> 00:46:27,090
+Uh, what the swept state, uh, if you
+have a rest API connection, then you
+
+584
+00:46:27,090 --> 00:46:32,380
+can make us API requests to, to pull
+the data that is, uh, that is needed.
+
+585
+00:46:32,430 --> 00:46:37,590
+So, so to these data, uh, any way
+you want, uh, using, uh, the cusp
+
+586
+00:46:37,590 --> 00:46:42,840
+of technology, are you using at
+the, you you're basically, uh,
+
+587
+00:46:42,930 --> 00:46:46,860
+you basically see the limits in
+the, in terms of, uh, technology.
+
+588
+00:46:46,860 --> 00:46:48,420
+So Gabby going with you, see you.
+
+589
+00:46:49,470 --> 00:46:57,870
+Uh, you also can, uh, manage your,
+uh, your tasks using, uh, uh, WP, uh,
+
+590
+00:46:58,410 --> 00:47:05,180
+CRI, which is a, basically a shared
+application, which allows you to put
+
+591
+00:47:05,180 --> 00:47:09,570
+the, if you use the T you know, what
+I'm talking about, but it's a shallow
+
+592
+00:47:09,570 --> 00:47:17,040
+application used to, uh, to automate
+some of the tasks and basically to, uh,
+
+593
+00:47:18,370 --> 00:47:24,069
+Uh, make to, to work with them as if
+you're a Linux system administrator.
+
+594
+00:47:24,669 --> 00:47:33,069
+So if you like command lines that the
+school, uh, also, uh, jobs and web
+
+595
+00:47:33,069 --> 00:47:37,299
+hooks are useful com jobs, because
+if you can schedule tasks, you can,
+
+596
+00:47:37,330 --> 00:47:41,410
+uh, you can, uh, write the contract
+that is going to complete that task,
+
+597
+00:47:41,890 --> 00:47:44,709
+uh, at specific periods of time.
+
+598
+00:47:45,630 --> 00:47:47,730
+Web hooks are made useful.
+
+599
+00:47:47,730 --> 00:47:52,260
+If you need to pull data from another
+technology, do you need the, basically a
+
+600
+00:47:52,260 --> 00:47:54,510
+point for which you can, you can do that.
+
+601
+00:47:55,270 --> 00:48:01,380
+If you're, if you're a specific third
+party providers, it has the ability
+
+602
+00:48:01,380 --> 00:48:06,900
+to, to pull data for vocables that you
+may, uh, you may need to use that for.
+
+603
+00:48:09,134 --> 00:48:16,365
+Uh, other than, uh, the technologist that
+they most used, uh, they're also dedicated
+
+604
+00:48:16,365 --> 00:48:18,825
+to covering cyber is a beta on the
+
+605
+00:48:21,854 --> 00:48:24,915
+to the official, correct me if
+I'm wrong, but, uh, there are
+
+606
+00:48:24,915 --> 00:48:26,625
+also many more libraries that.
+
+607
+00:48:27,470 --> 00:48:33,919
+Community, uh, basically councils to
+libraries, uh, created by community,
+
+608
+00:48:34,009 --> 00:48:35,990
+uh, that can also be implemented.
+
+609
+00:48:36,799 --> 00:48:43,339
+And also as a developer, I always have
+to, uh, but if you can, uh, resources
+
+610
+00:48:43,339 --> 00:48:48,470
+to do that, that if you have, uh,
+ways to do that, always create the
+
+611
+00:48:48,470 --> 00:48:51,379
+custom source called customized.
+
+612
+00:48:51,410 --> 00:48:56,089
+The customer is the source of that is
+going to be best suited for your business.
+
+613
+00:48:57,030 --> 00:49:06,960
+Uh, and, uh, and, uh, probably the,
+the, the fastest way to, to pull data
+
+614
+00:49:06,960 --> 00:49:12,330
+would be to use the custom source,
+uh, that, that you can, the, that you
+
+615
+00:49:12,330 --> 00:49:15,840
+can modify per your personal needs,
+especially if those needs change.
+
+616
+00:49:17,234 --> 00:49:22,785
+And if you're using a custom solution,
+actually not only custom source with the
+
+617
+00:49:22,785 --> 00:49:28,424
+30 other solution, mind security and the
+data protection, uh, because sometimes,
+
+618
+00:49:28,484 --> 00:49:34,605
+uh, when you, you need, uh, I'm, I'm
+actually encouraging you to, to check
+
+619
+00:49:34,605 --> 00:49:39,884
+your, uh, local legislation to see if
+any of the technologies you're using some
+
+620
+00:49:39,884 --> 00:49:41,895
+colleagues, iwi go in your countries.
+
+621
+00:49:43,575 --> 00:49:48,495
+In most cases, it's five because the car
+is wide spread, especially the webs that
+
+622
+00:49:48,495 --> 00:49:51,045
+the, uh, that the publicly available.
+
+623
+00:49:51,075 --> 00:49:56,685
+However, we go advice is a absolute,
+absolute must in this case.
+
+624
+00:49:58,725 --> 00:50:04,315
+And, uh, I just thought to image about
+the basics, make sure that you keep your
+
+625
+00:50:04,425 --> 00:50:07,305
+workers' comp up to date pockets teams.
+
+626
+00:50:08,730 --> 00:50:14,400
+And, uh, and so that your story is
+protected, that, uh, that is secure,
+
+627
+00:50:14,490 --> 00:50:20,730
+uh, most of Marvel infections that get
+the debit, your website are, uh, of
+
+628
+00:50:20,730 --> 00:50:23,430
+course by a cop that is out of date.
+
+629
+00:50:24,720 --> 00:50:28,020
+I only to overuse the WooCommerce
+pockets that can pile up at that,
+
+630
+00:50:28,080 --> 00:50:37,455
+uh, that can, uh, Kate performance
+issues also make sure that you . Yeah.
+
+631
+00:50:37,485 --> 00:50:40,005
+Uh, not getting tripped
+on your hosting server.
+
+632
+00:50:40,245 --> 00:50:45,825
+Find the server that is going to, uh,
+be able to support all the old you have,
+
+633
+00:50:46,125 --> 00:50:52,095
+uh, all the world, uh, that, uh, your
+customers may, uh, make the eight on it.
+
+634
+00:50:52,875 --> 00:50:57,915
+Optimize your e-commerce store, uh, use,
+uh, tools like geomatics or Google page
+
+635
+00:50:57,945 --> 00:50:59,765
+page to find the ways to optimize your.
+
+636
+00:51:01,634 --> 00:51:05,145
+As I already mentioned, the legislation
+needs to be top of your mind.
+
+637
+00:51:05,205 --> 00:51:08,774
+There are some pockets that can also
+help you with that as you can see,
+
+638
+00:51:08,835 --> 00:51:15,734
+but, uh, I do still advise you to,
+uh, talk to, uh, your legal advisor at
+
+639
+00:51:15,734 --> 00:51:21,315
+the, see if you're in compliance that
+you have the local, uh, regulations.
+
+640
+00:51:22,274 --> 00:51:27,404
+And the most important thing, uh, as
+somebody who works in the tech supported
+
+641
+00:51:27,404 --> 00:51:32,865
+to see, I can say that scheduled
+backups save lives trust me on my word.
+
+642
+00:51:34,605 --> 00:51:35,745
+Michelle Frechette: At
+least they save websites.
+
+643
+00:51:35,755 --> 00:51:36,145
+Right?
+
+644
+00:51:39,375 --> 00:51:40,095
+Dan Maby: Absolutely.
+
+645
+00:51:41,145 --> 00:51:44,385
+And I'm afraid we were going to,
+unfortunately, to wrap up, we
+
+646
+00:51:44,385 --> 00:51:46,335
+are rapidly running out of time.
+
+647
+00:51:46,365 --> 00:51:50,565
+Um, did you have a quick two
+minutes summary before you, uh,
+
+648
+00:51:50,595 --> 00:51:51,995
+before we take off your slides.
+
+649
+00:51:52,740 --> 00:51:52,930
+Andrija Radojev: Yeah.
+
+650
+00:51:52,930 --> 00:51:53,270
+Yeah.
+
+651
+00:51:53,310 --> 00:51:55,810
+Uh, actually that is my last slide.
+
+652
+00:51:55,890 --> 00:52:00,990
+So a lot of our key takeaways, I'm
+going to split it up basically.
+
+653
+00:52:00,990 --> 00:52:05,430
+We're faster time to, uh, try to
+find ways to improve the business
+
+654
+00:52:05,430 --> 00:52:08,549
+process, uh, automate crucial tasks.
+
+655
+00:52:08,580 --> 00:52:08,970
+Correct.
+
+656
+00:52:09,029 --> 00:52:11,160
+Quite though deformation, you need to.
+
+657
+00:52:12,345 --> 00:52:17,404
+Uh, adaptive, uh, social style
+preferences, and obviously the resources,
+
+658
+00:52:17,505 --> 00:52:25,215
+the budget you have start small, uh, that
+the go big, uh, and, uh, obviously, uh,
+
+659
+00:52:29,235 --> 00:52:31,695
+issues and ensure you're is up to date.
+
+660
+00:52:33,585 --> 00:52:38,775
+My, my final advice is, uh, always
+try to think for the future.
+
+661
+00:52:39,165 --> 00:52:40,875
+And you're going to thank yourself for.
+
+662
+00:52:40,875 --> 00:52:44,655
+Dan Maby: A great piece
+of advice to end on there.
+
+663
+00:52:44,655 --> 00:52:45,435
+Thank you.
+
+664
+00:52:45,465 --> 00:52:46,695
+Thank you very much.
+
+665
+00:52:46,725 --> 00:52:49,935
+Uh, clearly an enormous subject
+and obviously a lot that
+
+666
+00:52:49,935 --> 00:52:51,225
+can be covered across this.
+
+667
+00:52:51,225 --> 00:52:55,365
+So really appreciate you, uh, giving the
+time and bringing that, bringing that
+
+668
+00:52:55,365 --> 00:52:57,135
+session to us here at WordPress live.
+
+669
+00:52:57,615 --> 00:52:58,605
+Um, unfortunately,
+
+670
+00:53:00,375 --> 00:53:00,585
+Michelle Frechette: Okay.
+
+671
+00:53:00,615 --> 00:53:03,045
+So Maya says that you're going
+to be at my essence, you'll be
+
+672
+00:53:03,045 --> 00:53:05,174
+over in the GoDaddy pro table.
+
+673
+00:53:05,174 --> 00:53:08,835
+So if people do want to continue the
+conversation and have questions for you,
+
+674
+00:53:09,075 --> 00:53:10,455
+they're going to look for you over there.
+
+675
+00:53:10,455 --> 00:53:12,645
+We really appreciate the time
+that you've given us today.
+
+676
+00:53:13,845 --> 00:53:14,475
+Andrija Radojev: Thanks guys.
+
+677
+00:53:14,475 --> 00:53:16,035
+Sorry if I was a bit nervous.
+
+678
+00:53:16,065 --> 00:53:23,340
+Uh it's like, uh, it does good,
+you know, Continuous side that I
+
+679
+00:53:23,340 --> 00:53:24,900
+wanted to cover lots of topics.
+
+680
+00:53:24,900 --> 00:53:29,310
+So I apologize if I made something
+like a, you know, uh, if something
+
+681
+00:53:29,310 --> 00:53:32,400
+was not clean, I will be happy to
+answer all the questions either book.
+
+682
+00:53:32,440 --> 00:53:32,610
+Yeah.
+
+683
+00:53:33,240 --> 00:53:33,600
+Dan Maby: Excellent.
+
+684
+00:53:33,720 --> 00:53:37,170
+So if you are, if you have, if you
+do have questions, head over to
+
+685
+00:53:37,170 --> 00:53:41,540
+the community tent to jump onto the
+GoDaddy pro table, uh, and the can
+
+686
+00:53:41,540 --> 00:53:42,480
+continue the conversation about.
+
+687
+00:53:43,875 --> 00:53:44,685
+Michelle Frechette: Absolutely.
+
+688
+00:53:45,315 --> 00:53:48,645
+In addition to thanking our sponsors, I
+do want to just point out other things
+
+689
+00:53:48,645 --> 00:53:52,695
+happening in the community tent to the
+next hour Cloudways has their WP builds
+
+690
+00:53:52,695 --> 00:53:57,345
+tent takeover with Nathan Wrigley, GoDaddy
+Pro are going to be running a panel on the
+
+691
+00:53:57,345 --> 00:54:00,105
+WooCommerce automation again with Andrija.
+
+692
+00:54:00,404 --> 00:54:02,905
+And Yoast are running
+games with a Yoasters.
+
+693
+00:54:03,105 --> 00:54:04,154
+We'd love your support.
+
+694
+00:54:04,485 --> 00:54:08,225
+Hit that donation button, but
+it's part of the menu on here.
+
+695
+00:54:08,225 --> 00:54:13,504
+We'd love to have you be part of the
+solution of helping us reduce the feelings
+
+696
+00:54:13,504 --> 00:54:16,265
+of isolation in a remote community.
+
+697
+00:54:16,475 --> 00:54:20,044
+And at the top of the hour, which
+is rapidly approaching, uh, we are
+
+698
+00:54:20,044 --> 00:54:24,785
+going to be meeting with Samuel
+Femi Taiwa  as he is presenting on
+
+699
+00:54:24,785 --> 00:54:50,475
+dealing with epilepsy and mental
+disorders in the tech space community.
+
