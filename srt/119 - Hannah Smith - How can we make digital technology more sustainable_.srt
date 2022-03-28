@@ -1,0 +1,4287 @@
+1
+00:00:28,005 --> 00:00:29,685
+Yoast: Do you know the Yoast SEO plugin?
+
+2
+00:00:30,045 --> 00:00:32,775
+They're red, orange, and green
+feedback bullets that help you
+
+3
+00:00:32,775 --> 00:00:34,335
+optimize your posts for the web.
+
+4
+00:00:34,545 --> 00:00:36,435
+It runs on millions of websites.
+
+5
+00:00:36,855 --> 00:00:40,545
+We tried to make SEO understandable
+and accessible to everyone.
+
+6
+00:01:12,775 --> 00:01:15,835
+Bluehost: Who says building
+an online store has to be hard
+
+7
+00:01:16,105 --> 00:01:17,485
+with Bluehost website builder.
+
+8
+00:01:17,575 --> 00:01:19,165
+It's more than just easy.
+
+9
+00:01:19,345 --> 00:01:21,295
+It's tell us your thing in smart AI.
+
+10
+00:01:21,295 --> 00:01:22,435
+We'll take it from there.
+
+11
+00:01:22,435 --> 00:01:24,715
+Easy it's WooCommerce friendly.
+
+12
+00:01:24,775 --> 00:01:27,685
+So you can add one of these
+or swap this for that.
+
+13
+00:01:28,429 --> 00:01:32,060
+It's set up shop in minutes
+with unlimited products easy.
+
+14
+00:01:32,120 --> 00:01:36,470
+Whether you sell boots, books
+or bowls, it's create an online
+
+15
+00:01:36,470 --> 00:01:38,180
+store with Bluehost easy.
+
+16
+00:01:38,450 --> 00:01:40,899
+Build beyond boundaries with Bluehost.
+
+17
+00:01:42,360 --> 00:01:42,960
+Nexcess: Oh, great.
+
+18
+00:01:43,080 --> 00:01:44,820
+My website crashed again.
+
+19
+00:01:44,970 --> 00:01:45,570
+I give up.
+
+20
+00:01:47,820 --> 00:01:49,470
+Don't give up on your dreams, Jordan.
+
+21
+00:01:49,560 --> 00:01:50,640
+Who are you?
+
+22
+00:01:50,700 --> 00:01:51,210
+It's me.
+
+23
+00:01:51,750 --> 00:01:53,340
+You from the future.
+
+24
+00:01:53,640 --> 00:01:55,630
+Your professional website
+is not out of reach.
+
+25
+00:01:55,710 --> 00:01:59,580
+You just need Nexcess with Nexcess
+managed hosting you get lightening
+
+26
+00:01:59,580 --> 00:02:04,260
+fast load times built-in performance
+monitoring and updates, and always awesome
+
+27
+00:02:04,260 --> 00:02:07,680
+support 24 7 365, for all your projects.
+
+28
+00:02:07,845 --> 00:02:08,414
+Whoa.
+
+29
+00:02:08,655 --> 00:02:09,014
+Yeah.
+
+30
+00:02:12,405 --> 00:02:17,745
+Weglot: Discover Weglot  the simple
+translation solution for your website.
+
+31
+00:02:18,105 --> 00:02:22,635
+All you have to do is add Weglot to
+your website, select the languages
+
+32
+00:02:22,635 --> 00:02:24,595
+that you need, and that's it.
+
+33
+00:02:24,775 --> 00:02:27,924
+Your website is now available
+in multiple languages.
+
+34
+00:02:59,725 --> 00:03:00,505
+Kim Coleman: We're back.
+
+35
+00:03:00,535 --> 00:03:01,495
+Welcome back everyone.
+
+36
+00:03:01,495 --> 00:03:03,024
+I hope you had fun in the community tent.
+
+37
+00:03:03,505 --> 00:03:05,125
+I hope you want some cool stuff.
+
+38
+00:03:05,274 --> 00:03:08,245
+Um, I'm excited to introduce
+our next speaker, Hannah Smith,
+
+39
+00:03:08,665 --> 00:03:12,204
+presenting how can we make digital
+technology more sustainable.
+
+40
+00:03:12,984 --> 00:03:17,364
+Hannah is a freelance WordPress
+developer from the Southwest of the UK
+
+41
+00:03:17,665 --> 00:03:19,755
+with a background in computer science.
+
+42
+00:03:20,220 --> 00:03:22,530
+Before freelance life,
+amongst other things.
+
+43
+00:03:22,590 --> 00:03:26,310
+She honed her management skills at
+the environment agency where she
+
+44
+00:03:26,310 --> 00:03:28,470
+managed large business change projects.
+
+45
+00:03:29,040 --> 00:03:33,570
+She's now co-founder of green tech
+Southwest founder of the hashtag
+
+46
+00:03:33,570 --> 00:03:38,190
+let's green the web campaign
+run with climateaction.tech and
+
+47
+00:03:38,190 --> 00:03:39,960
+a green web foundation fellow.
+
+48
+00:03:40,440 --> 00:03:44,400
+Aside from helping other technologists
+take action on climate change, she also
+
+49
+00:03:44,400 --> 00:03:46,830
+likes dogs, plants, and snow sports.
+
+50
+00:03:50,695 --> 00:03:51,505
+Hannah Smith: Fantastic.
+
+51
+00:03:51,535 --> 00:03:52,614
+Hello, Kim and Lindsey.
+
+52
+00:03:52,644 --> 00:03:53,934
+Hello, everyone watching.
+
+53
+00:03:55,855 --> 00:03:56,845
+Lindsey Miller: Welcome Hannah.
+
+54
+00:03:57,714 --> 00:03:58,435
+Hannah Smith: Thank you.
+
+55
+00:03:59,994 --> 00:04:00,685
+All right.
+
+56
+00:04:00,744 --> 00:04:01,315
+Okay.
+
+57
+00:04:01,315 --> 00:04:02,394
+I have the screens.
+
+58
+00:04:02,424 --> 00:04:04,435
+I have a few screens in front of me here.
+
+59
+00:04:04,435 --> 00:04:06,714
+I can see what's going on in my left eye.
+
+60
+00:04:06,725 --> 00:04:09,894
+My slides are in front of
+me, so let's get going.
+
+61
+00:04:09,894 --> 00:04:12,894
+I'm just going to check my
+clicker works and then let's
+
+62
+00:04:12,894 --> 00:04:15,114
+get talking about today's topic.
+
+63
+00:04:16,589 --> 00:04:16,980
+Okay.
+
+64
+00:04:17,070 --> 00:04:17,370
+Great.
+
+65
+00:04:17,370 --> 00:04:21,600
+Well, thank you to WordFest, um,
+for accepting this talk and thank
+
+66
+00:04:21,600 --> 00:04:25,530
+you so much to all of you that
+are here, um, in difficult times.
+
+67
+00:04:25,590 --> 00:04:28,290
+Um, it's really nice to know that
+you have the head space to come
+
+68
+00:04:28,290 --> 00:04:32,469
+along and learn about how we can make
+digital technology more sustainable.
+
+69
+00:04:33,550 --> 00:04:34,830
+Let me introduce myself.
+
+70
+00:04:34,859 --> 00:04:37,830
+I'm already had a very nice
+introduction so I guess I don't
+
+71
+00:04:37,830 --> 00:04:39,270
+need to say an awful lot more.
+
+72
+00:04:39,330 --> 00:04:41,039
+Um, I live in bris.
+
+73
+00:04:41,070 --> 00:04:42,630
+Uh, I live in the Southwest.
+
+74
+00:04:42,630 --> 00:04:45,630
+I'm a freelancer who works with
+WordPress and I liked dogs.
+
+75
+00:04:45,930 --> 00:04:47,969
+So if you're not into digital
+tech, you can always talk
+
+76
+00:04:47,969 --> 00:04:49,140
+to me about dogs or plants.
+
+77
+00:04:49,140 --> 00:04:50,310
+That's absolutely fine.
+
+78
+00:04:50,880 --> 00:04:54,060
+I run a meetup group in the
+Southwest called Greentech Southwest.
+
+79
+00:04:54,510 --> 00:04:57,690
+Um, I also used to run the
+Bristol WordPress meetup.
+
+80
+00:04:58,969 --> 00:05:02,539
+Um, and as mentioned, I'm a fellow
+with the green web foundation too.
+
+81
+00:05:03,080 --> 00:05:08,539
+And co-organizer of, uh, uh, sorry,
+co-founder of an, uh, an online campaign
+
+82
+00:05:08,539 --> 00:05:12,140
+we did on Twitter called let's green
+the web run with climateaction.Tech.
+
+83
+00:05:13,099 --> 00:05:14,539
+So today's talk.
+
+84
+00:05:16,025 --> 00:05:18,515
+I'm just going to reset my timer.
+
+85
+00:05:18,515 --> 00:05:18,905
+There we go.
+
+86
+00:05:19,235 --> 00:05:20,195
+So today's talk.
+
+87
+00:05:20,195 --> 00:05:21,305
+What am I going to cover?
+
+88
+00:05:21,755 --> 00:05:25,265
+Well, the first thing I'm going to talk
+about with you all is I'm going to give
+
+89
+00:05:25,265 --> 00:05:27,575
+you an overview of what sustainability is.
+
+90
+00:05:27,605 --> 00:05:31,055
+We've all got probably different
+ideas of what that word means.
+
+91
+00:05:31,415 --> 00:05:32,675
+So I'm going to talk about that.
+
+92
+00:05:33,515 --> 00:05:36,875
+I'm going to talk a little bit about
+areas we can focus our efforts on,
+
+93
+00:05:36,875 --> 00:05:41,675
+particularly for those of us working in
+the system with digital technologies.
+
+94
+00:05:42,475 --> 00:05:44,125
+And all throughout the talk.
+
+95
+00:05:44,215 --> 00:05:49,015
+My plan is to litter um, talk
+with approaches and ideas that you
+
+96
+00:05:49,015 --> 00:05:50,785
+might find useful to investigate.
+
+97
+00:05:52,465 --> 00:05:54,535
+I think when you talk about
+what something is, it's useful
+
+98
+00:05:54,535 --> 00:05:55,795
+to talk about what it isn't.
+
+99
+00:05:55,825 --> 00:05:58,585
+So let's just get that bit
+out of the way straight away.
+
+100
+00:05:58,855 --> 00:06:03,385
+So what this talk isn't I'm not hating on
+digital tape, WordPress or the internet.
+
+101
+00:06:03,745 --> 00:06:07,705
+They bring some significant
+possibilities and solutions, um, but
+
+102
+00:06:07,705 --> 00:06:09,385
+they do have an environmental impact.
+
+103
+00:06:09,385 --> 00:06:10,765
+So we're going to talk about that.
+
+104
+00:06:11,909 --> 00:06:15,210
+Um, this is not a masterclass
+on the whole topic.
+
+105
+00:06:15,510 --> 00:06:16,679
+We've got half an hour.
+
+106
+00:06:17,039 --> 00:06:22,739
+Um, I think you could literally, um, you
+know, run a whole week's worth of content
+
+107
+00:06:22,770 --> 00:06:24,630
+on, on what we're talking about today.
+
+108
+00:06:25,289 --> 00:06:30,840
+So the idea with my talk is to give
+you a food for thought introduction
+
+109
+00:06:31,020 --> 00:06:35,400
+to kind of get some conversation
+started and maybe to get your brain
+
+110
+00:06:35,400 --> 00:06:38,669
+whirring in a different direction that
+perhaps it hasn't worked in before.
+
+111
+00:06:39,650 --> 00:06:44,865
+And ultimately my goal today is to empower
+you with some knowledge that you might
+
+112
+00:06:44,865 --> 00:06:50,745
+take away, uh, you might choose to, to
+use, um, or talk to other people about.
+
+113
+00:06:51,555 --> 00:06:55,275
+Okay, so that's the intro
+let's get to talking about how
+
+114
+00:06:55,275 --> 00:06:57,315
+do we define sustainability.
+
+115
+00:06:57,915 --> 00:07:02,505
+Um, so this is how I tend
+to think of sustainability.
+
+116
+00:07:03,375 --> 00:07:08,325
+It's meeting the needs of the present
+without compromising the ability of
+
+117
+00:07:08,325 --> 00:07:10,935
+future generations to meet their needs.
+
+118
+00:07:11,415 --> 00:07:17,635
+So it's about not taking more today than
+those in the future, uh, can sustain it.
+
+119
+00:07:17,655 --> 00:07:19,725
+It's about taking our fair shares.
+
+120
+00:07:20,115 --> 00:07:24,585
+Um, and there's three pillars,
+uh, with sustainability.
+
+121
+00:07:25,485 --> 00:07:25,935
+Um,
+
+122
+00:07:27,620 --> 00:07:33,349
+So I tend to think about these three sort
+of facets, which all interconnect and
+
+123
+00:07:33,349 --> 00:07:37,849
+you definitely can't sort of draw these
+very clear, fine lines between them all.
+
+124
+00:07:38,240 --> 00:07:42,440
+Um, but you can broadly think about
+sustainability in three buckets.
+
+125
+00:07:42,469 --> 00:07:43,130
+If you like.
+
+126
+00:07:43,520 --> 00:07:51,195
+The environmental considerations, economic
+considerations and social considerations.
+
+127
+00:07:52,125 --> 00:07:54,075
+So that's three areas to think of.
+
+128
+00:07:54,135 --> 00:07:58,065
+And I think the first thing that I
+really wants to get across to you in
+
+129
+00:07:58,065 --> 00:08:02,385
+this talk is if you're here wanting
+to learn about sustainability,
+
+130
+00:08:04,905 --> 00:08:08,055
+Yeah, as I say, the first thing to
+take away is that sustainability is
+
+131
+00:08:08,055 --> 00:08:11,414
+way more than just carbon emissions.
+
+132
+00:08:11,984 --> 00:08:16,155
+So a lot of people come to one thing
+to make things more sustainable or
+
+133
+00:08:16,155 --> 00:08:17,745
+wanting to tackle climate change.
+
+134
+00:08:17,835 --> 00:08:22,065
+And they're very focused on carbon
+emissions and that is a fantastic
+
+135
+00:08:22,065 --> 00:08:25,995
+starting point, but I think it's really
+important for us to all understand
+
+136
+00:08:26,205 --> 00:08:34,010
+that real sustainability is going to
+be work across those three sectors.
+
+137
+00:08:34,010 --> 00:08:38,450
+So carbon emissions falls into
+environmental, but we've got economic
+
+138
+00:08:38,539 --> 00:08:41,120
+and social to think about as well.
+
+139
+00:08:41,419 --> 00:08:46,160
+So that's my first tip for you
+from today's talk is sustainability
+
+140
+00:08:46,160 --> 00:08:50,240
+is a lot more than just thinking
+about carbon emission reductions.
+
+141
+00:08:51,230 --> 00:08:51,710
+Okay.
+
+142
+00:08:52,920 --> 00:08:56,670
+What I'm going to do for the rest of
+this talk is get into each of those
+
+143
+00:08:56,670 --> 00:09:00,930
+three pillars and talk about how
+those relate to digital technologies.
+
+144
+00:09:02,400 --> 00:09:04,380
+So let's start off with
+environmental pillar.
+
+145
+00:09:05,010 --> 00:09:08,520
+Um, now I tend to think of this
+pillar as natural resources.
+
+146
+00:09:10,110 --> 00:09:13,410
+And, uh, many, many of you
+may be aware of this already.
+
+147
+00:09:13,530 --> 00:09:17,250
+Many of you may not know this already,
+but digital tech does actually
+
+148
+00:09:17,250 --> 00:09:19,170
+use a lot of natural resources.
+
+149
+00:09:19,740 --> 00:09:26,250
+First of all, we actually have to power
+our digital tech and a lot of that
+
+150
+00:09:26,250 --> 00:09:28,320
+power still comes from fossil fuels.
+
+151
+00:09:28,620 --> 00:09:30,720
+And we'll talk about that a
+little bit more in a second.
+
+152
+00:09:32,670 --> 00:09:36,360
+We also have a lot of rare raw
+materials in our digital tech,
+
+153
+00:09:36,390 --> 00:09:38,160
+for example, cobalt and lithium.
+
+154
+00:09:38,580 --> 00:09:41,790
+Um, both of which do
+used in mobile phones.
+
+155
+00:09:41,790 --> 00:09:44,430
+Lithium is a very important
+component in battery.
+
+156
+00:09:45,885 --> 00:09:49,365
+Digital tech is also using
+an increasing amount of land.
+
+157
+00:09:50,025 --> 00:09:53,324
+Now you might be wondering what,
+where where's that land coming from?
+
+158
+00:09:53,355 --> 00:09:58,785
+Well, data centers are taking up
+an increasing amount of land land
+
+159
+00:09:58,785 --> 00:10:03,015
+that could be used for other things,
+of course, and water as well.
+
+160
+00:10:03,225 --> 00:10:08,415
+A significant amount of water is used in
+the production of our digital technology
+
+161
+00:10:08,655 --> 00:10:13,545
+and also use for example, for cooling,
+um, power, um, uh, data centers.
+
+162
+00:10:14,910 --> 00:10:18,600
+This is not an exhaustive list of all
+the ways that digital technologies
+
+163
+00:10:18,600 --> 00:10:22,530
+use natural resources, but I wanted
+just to put across to you that digital
+
+164
+00:10:22,530 --> 00:10:24,960
+tech uses more than just energy.
+
+165
+00:10:25,320 --> 00:10:28,890
+There are some other things that
+digital tech also consumes as well.
+
+166
+00:10:30,315 --> 00:10:32,805
+Now, one of the things that we
+need to bear in mind is that
+
+167
+00:10:32,805 --> 00:10:38,115
+the misuse of resources leads to
+interconnected ecological problems.
+
+168
+00:10:39,105 --> 00:10:43,305
+You can see on this diagram that
+there are nine points in this circle.
+
+169
+00:10:43,515 --> 00:10:49,455
+Now these nine points come from, um,
+a bunch of academics at the Stockholm
+
+170
+00:10:49,455 --> 00:10:53,775
+resilience center and they are the
+ecological boundaries defined by them.
+
+171
+00:10:53,925 --> 00:10:57,375
+And these slides will be made
+available to you after the talk.
+
+172
+00:10:58,140 --> 00:11:00,240
+There's links all throughout these slides.
+
+173
+00:11:00,570 --> 00:11:04,590
+Um, and you can see at the bottom
+of this slide, there is a link to
+
+174
+00:11:04,590 --> 00:11:06,270
+the Stockholm resilience center.
+
+175
+00:11:06,930 --> 00:11:13,350
+Um, The Stockholm resilience center have
+defined these nine ecological services
+
+176
+00:11:13,350 --> 00:11:19,200
+or nine ecological boundaries within
+which our environments, uh, works.
+
+177
+00:11:19,620 --> 00:11:23,910
+So can you see in the top right there that
+we've got kind of, I'm pointing, obviously
+
+178
+00:11:23,910 --> 00:11:25,470
+you, you can't see what I'm pointing at.
+
+179
+00:11:25,830 --> 00:11:29,520
+Uh, still not got the hang of
+online talks, um, after two years.
+
+180
+00:11:29,970 --> 00:11:34,140
+Um, so in the, in the sort of what,
+just, I don't know, like five past 12
+
+181
+00:11:34,140 --> 00:11:35,970
+position, you can see climate change.
+
+182
+00:11:37,064 --> 00:11:40,694
+So climate change is typically where
+the consideration of climate emission
+
+183
+00:11:40,694 --> 00:11:46,375
+falls in, but we have these eight other
+points as well, which are all types
+
+184
+00:11:46,375 --> 00:11:49,950
+of ecological problems and they're
+all ecological problems that the
+
+185
+00:11:49,980 --> 00:11:52,020
+earth is suffering with at the moment.
+
+186
+00:11:52,620 --> 00:11:56,550
+So again, just coming back to that
+point, that sustainability is a lot more
+
+187
+00:11:56,550 --> 00:12:00,990
+than just thinking about the climate
+change ecological problem that's hot
+
+188
+00:12:01,020 --> 00:12:02,490
+on everybody's lips at the moment.
+
+189
+00:12:02,820 --> 00:12:04,680
+There are other things to consider.
+
+190
+00:12:05,550 --> 00:12:07,050
+And it's an ecosystem.
+
+191
+00:12:07,110 --> 00:12:08,490
+It's complicated.
+
+192
+00:12:08,850 --> 00:12:13,500
+So an issue in one area will have
+knock-on effects in others as well.
+
+193
+00:12:13,860 --> 00:12:18,330
+So this is why we need to take a
+holistic picture and a holistic view
+
+194
+00:12:18,720 --> 00:12:23,790
+of the intergalactic interconnected,
+ecological problems that exist.
+
+195
+00:12:24,910 --> 00:12:28,094
+Um, so this is, I think this
+is a really cool diagram.
+
+196
+00:12:28,155 --> 00:12:29,525
+I'm really into diagrams.
+
+197
+00:12:29,525 --> 00:12:33,194
+So maybe this will resonate with some
+of you watching, maybe not all of you.
+
+198
+00:12:33,854 --> 00:12:36,525
+Um, but this is taken again
+from the Stockholm resilience.
+
+199
+00:12:37,740 --> 00:12:42,930
+And what they've done here is they have
+rated the severity of these ecological
+
+200
+00:12:43,560 --> 00:12:50,490
+systems and the sort of taller and
+more orange, the, um, the, the segment
+
+201
+00:12:50,520 --> 00:12:52,650
+that the more we're we're in trouble.
+
+202
+00:12:53,030 --> 00:12:55,760
+So novel entities, this is academic speak.
+
+203
+00:12:55,760 --> 00:13:01,520
+It basically means kind of like plastics
+and chemicals that are in our ecosystem
+
+204
+00:13:01,520 --> 00:13:02,780
+that shouldn't really be there.
+
+205
+00:13:03,080 --> 00:13:06,650
+So you can see, again, that one
+sort of it's five past 12, or sort
+
+206
+00:13:06,650 --> 00:13:11,330
+of between 12 and two that says
+novel entities is, is very extreme.
+
+207
+00:13:11,330 --> 00:13:12,740
+We're in massive trouble there.
+
+208
+00:13:13,490 --> 00:13:15,950
+Interestingly enough, climate
+change, which is just over
+
+209
+00:13:15,950 --> 00:13:18,350
+to the left, um, is orange.
+
+210
+00:13:18,350 --> 00:13:18,740
+So we.
+
+211
+00:13:19,395 --> 00:13:21,375
+Operating outside of the safe space.
+
+212
+00:13:21,615 --> 00:13:24,495
+And you're also noticed there,
+maybe you can see the writing,
+
+213
+00:13:24,495 --> 00:13:25,755
+it says increasing risk.
+
+214
+00:13:26,325 --> 00:13:29,865
+And for any of you that are following
+climate change news, you might
+
+215
+00:13:29,865 --> 00:13:34,335
+be aware of the recent IPC report
+that came out this week that, um,
+
+216
+00:13:34,365 --> 00:13:38,415
+painted a rather scary picture as
+far as climate change is concerned.
+
+217
+00:13:38,685 --> 00:13:43,035
+Um, so I wonder whether the Stockholm
+resilience center might revise where that
+
+218
+00:13:43,035 --> 00:13:45,705
+climate change market is in light of.
+
+219
+00:13:47,070 --> 00:13:50,700
+Anyway, I just wanted to paint
+a sort of picture for you of a
+
+220
+00:13:50,700 --> 00:13:52,800
+wider context of what's going on.
+
+221
+00:13:53,070 --> 00:13:56,730
+And I really strongly recommend if
+you're into this kind of stuff, go
+
+222
+00:13:56,730 --> 00:13:59,700
+and have a look at the work that
+they're doing there, it's fantastic.
+
+223
+00:14:00,630 --> 00:14:04,800
+But anyway, I want to sort of come
+back to the world of digital tech
+
+224
+00:14:04,860 --> 00:14:08,490
+and anchor some points for you
+that that will be relevant to you.
+
+225
+00:14:09,060 --> 00:14:12,120
+Um, so let's talk about
+energy and greenhouse gas
+
+226
+00:14:12,120 --> 00:14:14,270
+emissions, which includes CO2.
+
+227
+00:14:15,130 --> 00:14:17,925
+And as I mentioned already,
+this is a great starting point.
+
+228
+00:14:18,255 --> 00:14:22,905
+So if you're new to considering tech
+sustainability and new to considering your
+
+229
+00:14:22,905 --> 00:14:27,495
+place within tech sustainability, this
+is a great place to begin your journey,
+
+230
+00:14:27,555 --> 00:14:29,415
+and we've all got to start somewhere.
+
+231
+00:14:30,015 --> 00:14:33,735
+So what I don't want this talk to
+do is to sort of almost paralyze
+
+232
+00:14:33,735 --> 00:14:35,925
+you with the enormity of everything.
+
+233
+00:14:36,885 --> 00:14:40,755
+Just be aware of the wider context
+and hone in and start your journey.
+
+234
+00:14:41,805 --> 00:14:46,755
+And just consider it as entering one
+part of one of those nine boundaries.
+
+235
+00:14:46,755 --> 00:14:48,705
+So w we're talking climate change.
+
+236
+00:14:49,425 --> 00:14:51,885
+Oh, and it's the point here that
+it's worth me just mentioning.
+
+237
+00:14:52,275 --> 00:14:55,005
+I did talk about greenhouse gas emissions.
+
+238
+00:14:56,265 --> 00:15:00,105
+So the sub point here is that
+greenhouse gas emissions do include
+
+239
+00:15:00,105 --> 00:15:05,505
+carbon dioxide, but there are some
+other, um, types of gases as well that
+
+240
+00:15:05,505 --> 00:15:07,185
+are contributing to climate change.
+
+241
+00:15:07,185 --> 00:15:11,295
+You've probably heard about methane, but
+there's also nitrous oxide and a couple
+
+242
+00:15:11,295 --> 00:15:12,855
+of others, which are very long words.
+
+243
+00:15:12,945 --> 00:15:16,815
+And I'm not going to try and
+say right now, but you can read
+
+244
+00:15:16,815 --> 00:15:18,135
+those at the bottom of the slide.
+
+245
+00:15:19,365 --> 00:15:21,285
+So let's talk about digital services.
+
+246
+00:15:22,140 --> 00:15:26,550
+I mentioned already that digital
+tech uses natural resources
+
+247
+00:15:26,610 --> 00:15:29,430
+and does use a lot of energy.
+
+248
+00:15:29,940 --> 00:15:32,940
+And that energy creates
+greenhouse gas emissions.
+
+249
+00:15:33,690 --> 00:15:38,580
+And it's estimated that ICT, which is
+another way of saying digital services.
+
+250
+00:15:38,700 --> 00:15:42,300
+ICT stands for information
+communication technologies.
+
+251
+00:15:42,570 --> 00:15:46,350
+If you haven't heard that term before,
+it's estimated that it creates between
+
+252
+00:15:46,350 --> 00:15:50,850
+1.2 and 3.9% of greenhouse gas emissions.
+
+253
+00:15:52,485 --> 00:15:57,645
+So you might be sitting there thinking
+I've really no idea if that's a lot
+
+254
+00:15:57,705 --> 00:15:59,865
+or if that's not, not a, not a lot.
+
+255
+00:16:00,885 --> 00:16:04,125
+So here's some ways to think about
+it, and maybe some ways you may
+
+256
+00:16:04,125 --> 00:16:05,775
+have already seen this talked about.
+
+257
+00:16:06,525 --> 00:16:09,915
+So we can think about the greenhouse
+gas emissions arising from
+
+258
+00:16:09,915 --> 00:16:12,355
+tech, as bigger than aviation.
+
+259
+00:16:13,350 --> 00:16:19,230
+Now, this is often talked about, and it
+is a sort of attention grabbing fact,
+
+260
+00:16:19,590 --> 00:16:23,420
+but I would say, please do consider
+how many people have access to flying.
+
+261
+00:16:23,770 --> 00:16:28,500
+It's about 20% of the global population
+versus have access to the internet
+
+262
+00:16:28,500 --> 00:16:34,140
+and digital services, which is about
+60% and also the benefits of each.
+
+263
+00:16:34,170 --> 00:16:38,400
+So I might argue that digital tech
+actually holds a lot more benefits for
+
+264
+00:16:38,400 --> 00:16:40,380
+people than perhaps taking a flight.
+
+265
+00:16:40,829 --> 00:16:45,270
+So just to put that into context,
+but it is still bigger than aviation.
+
+266
+00:16:46,290 --> 00:16:50,699
+And if ICT or the digital services
+was a country, it would be the
+
+267
+00:16:50,699 --> 00:16:52,829
+seventh biggest polluter in the world.
+
+268
+00:16:53,655 --> 00:16:56,055
+So again, just putting
+that into context for you.
+
+269
+00:16:57,305 --> 00:16:59,040
+Um, I mentioned already.
+
+270
+00:16:59,040 --> 00:17:00,060
+I love diagrams.
+
+271
+00:17:00,150 --> 00:17:02,190
+Um, so I've popped this in very briefly.
+
+272
+00:17:02,190 --> 00:17:03,480
+We're not going to spend long on it.
+
+273
+00:17:03,810 --> 00:17:07,589
+Um, this comes from a fantastic
+website called the, our world in
+
+274
+00:17:07,589 --> 00:17:10,680
+data and it's just there to show you.
+
+275
+00:17:11,865 --> 00:17:12,075
+Good.
+
+276
+00:17:12,105 --> 00:17:15,315
+What sectors are creating
+greenhouse gas emissions.
+
+277
+00:17:15,345 --> 00:17:20,385
+Now you won't see digital tech or ICT or
+the internet on this diagram, but you will
+
+278
+00:17:20,385 --> 00:17:23,514
+see aviation and aviation is bottom right.
+
+279
+00:17:23,535 --> 00:17:25,395
+So it's about what like five o'clock.
+
+280
+00:17:25,875 --> 00:17:30,945
+And you'll see that that says 1.9%,
+but you can see the vast majority of
+
+281
+00:17:30,945 --> 00:17:34,965
+greenhouse gas emissions are being
+caused by the creation and use of energy.
+
+282
+00:17:35,615 --> 00:17:39,695
+Agriculture and forestry
+and land use is about 18%.
+
+283
+00:17:40,625 --> 00:17:42,905
+So anyway, just again, to
+put things into context.
+
+284
+00:17:44,160 --> 00:17:47,430
+Now the other thing that we should
+be aware of with digital tech is that
+
+285
+00:17:47,430 --> 00:17:50,010
+demand and usage for ICT is on the up.
+
+286
+00:17:50,430 --> 00:17:53,280
+At the moment we've only got
+60% of the world who really
+
+287
+00:17:53,280 --> 00:17:55,140
+have access to digital services.
+
+288
+00:17:55,410 --> 00:17:59,940
+So there's that other 40% of the world
+hopefully are able to join the rest of us.
+
+289
+00:18:00,270 --> 00:18:03,810
+We're going to see demand and usage go
+up and we're going to see it go up for
+
+290
+00:18:03,810 --> 00:18:09,240
+all sorts of other reasons as we invent
+new things, um, and as we're using
+
+291
+00:18:09,240 --> 00:18:11,400
+digital services more in our lives,
+
+292
+00:18:12,555 --> 00:18:16,335
+So again, I just want to put that
+growth into some context for you.
+
+293
+00:18:17,055 --> 00:18:21,645
+Let's just say for argument's sake,
+the internet was built in about 1987,
+
+294
+00:18:21,645 --> 00:18:23,295
+like it's roughly around that time.
+
+295
+00:18:24,014 --> 00:18:28,575
+Um, you can see that roughly then the,
+the amount of global IP traffic was two
+
+296
+00:18:28,575 --> 00:18:33,105
+terabytes hop on 40 years later to 2017.
+
+297
+00:18:33,105 --> 00:18:34,965
+And it's 1.1 zettabyte.
+
+298
+00:18:35,700 --> 00:18:38,310
+If you're wondering how bit a zettabyte
+is that a boat is it's that big.
+
+299
+00:18:38,580 --> 00:18:40,680
+It's got that many zeros at the end of it.
+
+300
+00:18:41,100 --> 00:18:43,620
+Um, so it's 21 zeros at the end of it.
+
+301
+00:18:43,620 --> 00:18:44,580
+So it's rather large.
+
+302
+00:18:44,640 --> 00:18:46,440
+We're a terabytes only got 12.
+
+303
+00:18:47,250 --> 00:18:51,900
+And the really mad thing is that when
+this report was written, um, it was
+
+304
+00:18:51,900 --> 00:18:58,680
+predicted to grow again in a five-year
+period to 4.8 zettabytes per year of,
+
+305
+00:18:58,830 --> 00:19:00,810
+of data flying around the internet.
+
+306
+00:19:04,120 --> 00:19:05,250
+Going to take a quick drink.
+
+307
+00:19:07,140 --> 00:19:08,070
+So that's quite a lot.
+
+308
+00:19:08,970 --> 00:19:09,900
+Let's move on then.
+
+309
+00:19:10,050 --> 00:19:12,780
+Lots to talk to you about, hang on.
+
+310
+00:19:12,840 --> 00:19:13,800
+I'm going to have a little cough.
+
+311
+00:19:17,430 --> 00:19:20,040
+Sorry, not COVID, but I am
+just getting over a nasty cold.
+
+312
+00:19:26,595 --> 00:19:27,075
+Okay.
+
+313
+00:19:27,915 --> 00:19:32,865
+So I'm going to very briefly talk to you
+about how you might calculate the CO2
+
+314
+00:19:32,865 --> 00:19:35,385
+emissions of a website that you have.
+
+315
+00:19:35,625 --> 00:19:37,125
+Now I'm going to do this briefly.
+
+316
+00:19:37,155 --> 00:19:40,785
+And the idea of this part of the
+talk is to give you a flavor and
+
+317
+00:19:40,785 --> 00:19:44,205
+to send you off, uh, to find some
+resources that you, you can look up.
+
+318
+00:19:46,575 --> 00:19:47,025
+Oh, dear.
+
+319
+00:19:48,345 --> 00:19:50,325
+I was worried I might get a
+bit of a tickle in my throat.
+
+320
+00:19:50,445 --> 00:19:50,865
+Okay.
+
+321
+00:19:50,985 --> 00:19:53,115
+Let's talk about the
+key considerations then.
+
+322
+00:19:54,825 --> 00:19:58,395
+If you're trying to calculate
+digital carbon emissions, there are
+
+323
+00:19:58,395 --> 00:20:00,045
+three things for you to consider.
+
+324
+00:20:00,615 --> 00:20:04,875
+First of all, what device are you using
+or what device is your user using?
+
+325
+00:20:05,685 --> 00:20:10,365
+Where does your energy come from and
+how much data is being sent to the user
+
+326
+00:20:10,365 --> 00:20:13,465
+or being transferred, EG per page load.
+
+327
+00:20:13,465 --> 00:20:16,515
+So let's talk a little bit about devices.
+
+328
+00:20:16,665 --> 00:20:18,045
+What devices are you using?
+
+329
+00:20:18,645 --> 00:20:22,515
+Well, as we've mentioned already,
+digital tech uses quite a
+
+330
+00:20:22,515 --> 00:20:24,795
+lot of rare earth materials.
+
+331
+00:20:24,885 --> 00:20:26,805
+And I mentioned to you cobalt and lithium.
+
+332
+00:20:27,585 --> 00:20:32,265
+And one way to think about it
+is that manufacturing any device
+
+333
+00:20:32,265 --> 00:20:35,835
+literally cost the earth it's
+has to be made of something.
+
+334
+00:20:36,735 --> 00:20:40,395
+And the majority of total pollution
+from digital devices actually comes from
+
+335
+00:20:40,395 --> 00:20:47,040
+manufacture, not use, which is still a
+very surprising fact for me, but it's
+
+336
+00:20:47,040 --> 00:20:51,899
+been corroborated by a number of different
+places and smartphones are the worst.
+
+337
+00:20:53,949 --> 00:20:57,939
+Um, and these rare raw materials,
+which are hard to find and very
+
+338
+00:20:57,939 --> 00:21:02,919
+destructive to find and extract and
+do affect the communities from which
+
+339
+00:21:02,919 --> 00:21:07,540
+these things are being extracted are
+also very hard to recycle currently.
+
+340
+00:21:10,129 --> 00:21:11,750
+So this is a cool report.
+
+341
+00:21:11,840 --> 00:21:15,530
+Uh, the energy and carbon
+footprint of the global ICT and
+
+342
+00:21:15,590 --> 00:21:17,810
+E and M sectors catchy title.
+
+343
+00:21:18,080 --> 00:21:20,030
+Um, it was written in 2018.
+
+344
+00:21:20,209 --> 00:21:24,620
+Um, and I just picked out a nice
+graphic from there, which shows you.
+
+345
+00:21:25,365 --> 00:21:30,735
+Um, for some of the main devices that
+are manufactured, the gray bar is telling
+
+346
+00:21:30,735 --> 00:21:36,585
+you basically how much CO2 is embodied
+in the manufacturer of that device versus
+
+347
+00:21:36,585 --> 00:21:42,690
+how much CO2 is, is, is admitted, when
+uh, the device used or how much energy
+
+348
+00:21:42,840 --> 00:21:46,560
+is, is used over the life of that device.
+
+349
+00:21:46,919 --> 00:21:48,240
+So you can see TVs.
+
+350
+00:21:48,270 --> 00:21:48,629
+Okay.
+
+351
+00:21:48,629 --> 00:21:53,310
+TVs do actually generate a lot of
+pollution when they're created.
+
+352
+00:21:53,669 --> 00:21:56,820
+And if you accept that it's kept for
+seven years, you can see that the
+
+353
+00:21:56,909 --> 00:21:59,100
+energy use is really, really high.
+
+354
+00:21:59,850 --> 00:22:04,450
+So big, big screens, basically
+guzzle a lot of energy to run.
+
+355
+00:22:05,760 --> 00:22:08,385
+Let's hop over to the
+right-hand side of that diagram.
+
+356
+00:22:08,385 --> 00:22:09,854
+Let's have a look at smartphones.
+
+357
+00:22:10,155 --> 00:22:15,705
+So a smartphone generally will take a
+lot less to manufacture, I think we're
+
+358
+00:22:15,705 --> 00:22:18,074
+looking at what, 70 odd kilograms.
+
+359
+00:22:18,764 --> 00:22:22,185
+And if you keep it for three
+years, the energy consumption is.
+
+360
+00:22:23,070 --> 00:22:24,450
+Um, is much lower.
+
+361
+00:22:25,050 --> 00:22:30,240
+So something that we can take away from
+this is try and use your phone for perhaps
+
+362
+00:22:30,240 --> 00:22:35,760
+shopping or watching content or, or doing
+things on rather than a very big screen,
+
+363
+00:22:35,940 --> 00:22:39,300
+because you can see that you'd be using
+a significant, less amount of energy.
+
+364
+00:22:41,280 --> 00:22:46,530
+Something else that I hope we could take
+away from looking at a diagram like this
+
+365
+00:22:46,590 --> 00:22:51,975
+is how important it is to extend the
+life of any device that you are lucky
+
+366
+00:22:51,975 --> 00:22:53,655
+enough to come into the ownership of.
+
+367
+00:22:54,075 --> 00:23:00,105
+The longer that you are able to keep that
+device the less, um, the longer you can
+
+368
+00:23:00,105 --> 00:23:05,055
+make the, the carbon or the, the carbon
+that went into manufacturing the device,
+
+369
+00:23:05,055 --> 00:23:07,215
+the longer you can make that work for.
+
+370
+00:23:08,085 --> 00:23:12,615
+So for example, what I'm talking about
+is not switch, not replacing your phone
+
+371
+00:23:12,795 --> 00:23:15,795
+often, not replacing your laptop often.
+
+372
+00:23:16,805 --> 00:23:20,550
+So how can we reframe
+how we value our devices?
+
+373
+00:23:20,699 --> 00:23:24,090
+Can we reframe to think about
+these devices as precious
+
+374
+00:23:24,449 --> 00:23:26,189
+and not just disposable?
+
+375
+00:23:26,580 --> 00:23:28,050
+And I encourage you to do that.
+
+376
+00:23:28,500 --> 00:23:32,520
+Um, I encourage you to think about, do
+you really need to upgrade to the latest
+
+377
+00:23:32,520 --> 00:23:36,990
+device or is it just effective marketing
+making you think you need something
+
+378
+00:23:36,990 --> 00:23:39,419
+faster and bigger and, and flashy.
+
+379
+00:23:40,365 --> 00:23:44,805
+So, if you're thinking about digital
+sustainability, something you can do is
+
+380
+00:23:44,805 --> 00:23:47,505
+just hold on to your devices for longer.
+
+381
+00:23:47,775 --> 00:23:51,195
+It's actually a really easy
+thing, a really easy action to
+
+382
+00:23:51,195 --> 00:23:52,635
+do, and it will save you money.
+
+383
+00:23:52,725 --> 00:23:54,045
+So what's not to love hate?
+
+384
+00:23:54,915 --> 00:24:01,035
+Um, if perhaps your phone does break or
+it does need, uh, to be a bit beefier,
+
+385
+00:24:01,095 --> 00:24:03,375
+maybe you could repair or upgrade it.
+
+386
+00:24:03,645 --> 00:24:08,240
+Now I know that that's a little tricky
+with phones, but that's becoming more
+
+387
+00:24:08,240 --> 00:24:11,240
+easy across a whole suite of electronics.
+
+388
+00:24:11,570 --> 00:24:14,510
+Um, and I encourage you to have a
+look at the right to repair movement.
+
+389
+00:24:15,620 --> 00:24:18,139
+Could you get a refurbed
+or secondhand device?
+
+390
+00:24:18,470 --> 00:24:23,120
+And it is now possible, increasingly
+possible to buy ethically made devices.
+
+391
+00:24:23,480 --> 00:24:26,780
+Now, these ethically made devices
+do typically cost a lot more, but
+
+392
+00:24:26,780 --> 00:24:30,260
+the idea is that you hold onto
+them for a lot time, longer time.
+
+393
+00:24:30,889 --> 00:24:34,129
+So Fairphone, I wonder how many of
+you here have heard of Fairphone?
+
+394
+00:24:34,550 --> 00:24:36,710
+Um, a mobile phone manufacturer.
+
+395
+00:24:38,295 --> 00:24:41,835
+So, this is a tweet from someone I hold
+in very high esteem, a lady called Kate
+
+396
+00:24:41,865 --> 00:24:46,065
+Raworth, um, who is the originator of
+doughnut economics, which we're going to
+
+397
+00:24:46,065 --> 00:24:48,585
+touch on briefly in, in a few slides time.
+
+398
+00:24:49,125 --> 00:24:52,365
+Um, and once this tweet, this
+tweet is getting on a bit
+
+399
+00:24:52,365 --> 00:24:53,895
+now actually is from 2020.
+
+400
+00:24:54,255 --> 00:24:57,585
+Um, but she was talking about
+how fair phones are made, the
+
+401
+00:24:57,585 --> 00:24:59,295
+way that phones should be made.
+
+402
+00:24:59,745 --> 00:25:03,165
+Um, they're made to be repairable
+upgradable, and there the
+
+403
+00:25:03,165 --> 00:25:07,585
+resources that are put into
+them come from ethical sources.
+
+404
+00:25:08,005 --> 00:25:11,665
+So yeah, we do end up playing, paying a
+little bit more for these things, but that
+
+405
+00:25:11,665 --> 00:25:14,065
+reflects perhaps the true cost to society.
+
+406
+00:25:15,510 --> 00:25:18,090
+I'm just going to talk very
+briefly about e-waste as well.
+
+407
+00:25:18,270 --> 00:25:21,870
+So I mentioned in a previous slide
+that it can be quite tough to recycle,
+
+408
+00:25:22,230 --> 00:25:24,690
+um, uh, that the resources that go in.
+
+409
+00:25:25,050 --> 00:25:28,530
+Um, and so what happens is that we just
+I'm sure many of you will find that
+
+410
+00:25:28,530 --> 00:25:32,250
+the same, you don't know what to do
+with your electronic waste cables or
+
+411
+00:25:32,250 --> 00:25:34,560
+laptops or phones, and we throw it away.
+
+412
+00:25:35,250 --> 00:25:39,030
+And 50 million tons of e-waste
+is being produced each year.
+
+413
+00:25:39,840 --> 00:25:48,254
+And from 2016, that UN estimated that only
+20% of that waste is actually recycled.
+
+414
+00:25:49,305 --> 00:25:53,534
+Um, and the EU parliament estimates
+that obsolete cables generate over
+
+415
+00:25:53,565 --> 00:25:56,504
+51,000 tons of e-waste per year.
+
+416
+00:25:56,504 --> 00:25:59,085
+And I don't know about you,
+but I've got a drawer of cables
+
+417
+00:25:59,205 --> 00:26:00,284
+I don't know what to do with.
+
+418
+00:26:01,324 --> 00:26:05,085
+And the key question to consider
+is where does our e-waste end up
+
+419
+00:26:05,715 --> 00:26:09,795
+and who is ultimately paying for
+the disposal of that e-waste?
+
+420
+00:26:10,395 --> 00:26:14,955
+Now this is a photo from an e-waste
+recycling facility in Ghana.
+
+421
+00:26:14,985 --> 00:26:16,275
+It's called ACBL blushy.
+
+422
+00:26:16,485 --> 00:26:17,925
+It's now been closed down.
+
+423
+00:26:18,405 --> 00:26:22,005
+And if you're interested in climate
+justice this is a fascinating case study
+
+424
+00:26:22,335 --> 00:26:28,200
+because on the one hand You could argue
+that recycling facilities such as this
+
+425
+00:26:28,200 --> 00:26:33,870
+whilst perhaps not the most technology
+technologically advanced do have some
+
+426
+00:26:33,870 --> 00:26:37,170
+social good because they're giving
+people jobs, they're creating a circular
+
+427
+00:26:37,170 --> 00:26:41,530
+economy, but on the one hand, on the
+other hand is unregulated and unsafe.
+
+428
+00:26:42,000 --> 00:26:44,340
+Um, so there's all sorts
+of interesting issues here.
+
+429
+00:26:44,370 --> 00:26:48,659
+And I've put a few links in the
+bottom of these, this slide.
+
+430
+00:26:48,750 --> 00:26:55,350
+Um,  is a fantastic reporter based in
+Africa who has written some incredibly
+
+431
+00:26:55,350 --> 00:27:02,040
+insightful reporting about ag Bob blushy
+and, um, raising the voices of the people
+
+432
+00:27:02,040 --> 00:27:05,399
+that, that live and exist on that site.
+
+433
+00:27:05,850 --> 00:27:08,879
+Um, as I say, it's complicated situation.
+
+434
+00:27:10,020 --> 00:27:11,669
+Worth looking into anyway,
+
+435
+00:27:11,700 --> 00:27:15,240
+I'm going to move on because I've got
+tons of slides and time is ticking.
+
+436
+00:27:15,750 --> 00:27:19,680
+So let's talk briefly about that second
+point where your energy comes from.
+
+437
+00:27:20,520 --> 00:27:24,690
+So worldwide 63% of the
+world's electricity came
+
+438
+00:27:24,690 --> 00:27:26,820
+from fossil fuels in 2019.
+
+439
+00:27:27,300 --> 00:27:33,780
+So as a global society, we are still
+burning fossil fuels far too readily.
+
+440
+00:27:35,490 --> 00:27:38,460
+But we should also be aware that
+renewable energy is not a panacea,
+
+441
+00:27:39,570 --> 00:27:43,380
+so creating renewable energy still
+requires natural resources and there's
+
+442
+00:27:43,380 --> 00:27:47,460
+still an issue of what to do with
+the solar panels and wind turbines
+
+443
+00:27:47,730 --> 00:27:49,230
+when they reach their end of life.
+
+444
+00:27:49,830 --> 00:27:51,420
+But it is less than fossil fuels.
+
+445
+00:27:51,420 --> 00:27:53,850
+So it's the right
+direction to transition to.
+
+446
+00:27:54,420 --> 00:27:58,740
+However we should be looking to
+reduce the overall overall amount
+
+447
+00:27:58,740 --> 00:28:02,730
+of energy needed by addressing
+consumption and efficiency issues.
+
+448
+00:28:03,800 --> 00:28:08,210
+And then once we've reduced the amount
+of energy possible, we want to look
+
+449
+00:28:08,240 --> 00:28:12,650
+for the energy with the lowest impact,
+which at this time is renewable energy.
+
+450
+00:28:13,580 --> 00:28:14,780
+This is a cool fact.
+
+451
+00:28:15,190 --> 00:28:23,450
+Apparently 80% is the amounts if
+everyone in the ICT sector used
+
+452
+00:28:23,450 --> 00:28:28,130
+renewable energy, we could reduce the
+car, the sector's footprint by 80%.
+
+453
+00:28:28,550 --> 00:28:33,780
+So that is a massive,
+massive, uh, motivator to, um,
+
+454
+00:28:34,605 --> 00:28:35,865
+Switch to renewable energy.
+
+455
+00:28:37,095 --> 00:28:37,935
+So here we go.
+
+456
+00:28:37,935 --> 00:28:41,985
+Here's something that all of us
+listening to this talk, all of our
+
+457
+00:28:42,045 --> 00:28:46,575
+colleagues can do is look for hosting
+that runs on renewable energy.
+
+458
+00:28:46,575 --> 00:28:48,615
+It makes a big difference.
+
+459
+00:28:49,315 --> 00:28:52,975
+And the green web foundation, which I
+do a lot of work with is a fantastic
+
+460
+00:28:52,975 --> 00:28:57,025
+resource for understanding what energy
+sources, hosts, and servers are using.
+
+461
+00:28:57,325 --> 00:29:02,035
+And we've got plans to really expand
+that data set and provide a lot more
+
+462
+00:29:02,035 --> 00:29:05,784
+information and cover a lot more than
+hosts and servers so watch this space.
+
+463
+00:29:06,830 --> 00:29:10,590
+Another thing, if you're sort of a
+bit more technical, perhaps you are
+
+464
+00:29:10,590 --> 00:29:15,780
+choosing a data center to work with,
+um, also consider the PUE, which
+
+465
+00:29:15,780 --> 00:29:17,820
+is the power usage effectiveness.
+
+466
+00:29:18,120 --> 00:29:22,530
+And that basically determines how much and
+how energy efficient the data center is.
+
+467
+00:29:23,040 --> 00:29:25,950
+So if it's 1.2, it's
+considered very efficient.
+
+468
+00:29:26,639 --> 00:29:28,919
+So just a little bit for
+you to think about there.
+
+469
+00:29:29,670 --> 00:29:32,550
+I'm going to move on to talk about
+how much data are you sending.
+
+470
+00:29:32,700 --> 00:29:33,450
+So there's a third one.
+
+471
+00:29:34,635 --> 00:29:37,754
+So data transfer equals
+energy consumption.
+
+472
+00:29:38,895 --> 00:29:43,365
+So we, if, well, I say we as developers,
+I'm sure that many of you listening,
+
+473
+00:29:43,365 --> 00:29:47,235
+won't be developers you'll have other
+roles as well, but for those of us
+
+474
+00:29:47,235 --> 00:29:51,195
+who are developers, something that
+we can do is reduce the amount of
+
+475
+00:29:51,195 --> 00:29:57,334
+stuff, loading every single time a
+page, um, is, um, is, is requested.
+
+476
+00:29:58,004 --> 00:30:02,250
+So this is yet another reason to
+care ever so greatly about web
+
+477
+00:30:02,250 --> 00:30:03,840
+performance and optimization.
+
+478
+00:30:04,080 --> 00:30:08,250
+We know we should care about this stuff,
+but sometimes it's easy not to, especially
+
+479
+00:30:08,250 --> 00:30:11,580
+if you're lucky enough to live in a
+Western country with a fast broadband
+
+480
+00:30:11,580 --> 00:30:17,940
+connection, but not only should we
+care about making services accessible.
+
+481
+00:30:18,120 --> 00:30:20,700
+We also have a climate change reason.
+
+482
+00:30:20,880 --> 00:30:24,180
+The more efficient our tech
+is the less energy it uses.
+
+483
+00:30:24,540 --> 00:30:26,190
+And the better that is for the planet.
+
+484
+00:30:27,680 --> 00:30:30,970
+And the sustainable web design
+has a great write-up about this.
+
+485
+00:30:31,270 --> 00:30:33,850
+And I've added some really
+useful measurement tools at the
+
+486
+00:30:33,850 --> 00:30:36,040
+end of this slide pack as well.
+
+487
+00:30:37,240 --> 00:30:43,360
+So I'm going to rattle through a few tips
+for you, how you can reduce data transfer,
+
+488
+00:30:43,450 --> 00:30:45,730
+sorts of things that you can think about.
+
+489
+00:30:46,210 --> 00:30:50,205
+So if you are a developer, How
+about creating and storing the
+
+490
+00:30:50,205 --> 00:30:52,125
+data that you actually need.
+
+491
+00:30:52,635 --> 00:30:55,665
+So perhaps reduce backups
+and archives and logs.
+
+492
+00:30:55,695 --> 00:30:58,815
+Not saying don't have them, but
+maybe go back and think, do I really
+
+493
+00:30:58,815 --> 00:31:00,405
+need these logs from 12 years ago?
+
+494
+00:31:01,455 --> 00:31:02,985
+Reduce analytics, data.
+
+495
+00:31:03,135 --> 00:31:05,264
+Google analytics is very, very heavy.
+
+496
+00:31:05,355 --> 00:31:09,945
+And I would argue that Google analytics,
+depending on the size of your site,
+
+497
+00:31:09,975 --> 00:31:13,995
+but Google analytics probably shouldn't
+be your default choice for analytics
+
+498
+00:31:14,175 --> 00:31:16,245
+because of the amount of cruft it loads.
+
+499
+00:31:17,940 --> 00:31:21,270
+And also remove plugins and
+any third party services that
+
+500
+00:31:21,270 --> 00:31:22,590
+we no longer written need.
+
+501
+00:31:24,210 --> 00:31:26,160
+Transfer media content on demand.
+
+502
+00:31:26,160 --> 00:31:30,000
+So ditch auto play videos,
+they consume a lot of energy
+
+503
+00:31:30,000 --> 00:31:31,290
+because they run immediately.
+
+504
+00:31:31,290 --> 00:31:34,110
+And while there's lots of evidence
+to say users don't like them
+
+505
+00:31:34,560 --> 00:31:36,600
+and lazy load images and video.
+
+506
+00:31:37,905 --> 00:31:41,085
+Other things you can do, especially
+if you're a content editor is pay
+
+507
+00:31:41,085 --> 00:31:45,105
+attention to images, use the right
+image format for the right type.
+
+508
+00:31:45,915 --> 00:31:50,385
+Compress and optimized JPEGs, and
+display images of the right dimensions.
+
+509
+00:31:50,685 --> 00:31:57,135
+So don't have a 2000 pixel image in a 1000
+pixel space, just load in the 1000 pixel
+
+510
+00:31:57,135 --> 00:31:58,935
+image when you're creating the content.
+
+511
+00:31:59,765 --> 00:32:03,600
+And do have a look at things like image
+source set or the picture tags, which are
+
+512
+00:32:03,630 --> 00:32:09,600
+HTML tags, which really help you to serve
+images responsibly and WordPress has some
+
+513
+00:32:09,600 --> 00:32:13,380
+helper functions as well that can help you
+with installing, uh, with making use of.
+
+514
+00:32:15,000 --> 00:32:19,409
+Update the latest, the latest version
+of PHP and WordPress, and as mentioned
+
+515
+00:32:19,409 --> 00:32:24,000
+disabled and needed code plugins and
+dequeue scripts you don't need that.
+
+516
+00:32:24,000 --> 00:32:27,899
+It's basically a whistle-stop tour of
+what Tom Greenwood has talked about
+
+517
+00:32:27,899 --> 00:32:29,610
+in his book, sustainable web design.
+
+518
+00:32:32,010 --> 00:32:32,280
+Now.
+
+519
+00:32:33,149 --> 00:32:36,030
+If you recall at the beginning of the
+talk, I said that there were three
+
+520
+00:32:36,030 --> 00:32:37,830
+pillars to deal with sustainability.
+
+521
+00:32:37,889 --> 00:32:41,850
+We focused nearly all of our time
+on today's talk, talking about the
+
+522
+00:32:41,850 --> 00:32:46,740
+environmental pillars, but I do want
+to just briefly touch on the social and
+
+523
+00:32:46,740 --> 00:32:51,960
+economic ones as well, because the thing
+is that making things more efficient,
+
+524
+00:32:52,200 --> 00:32:54,600
+doesn't always decrease consumption.
+
+525
+00:32:56,220 --> 00:33:01,590
+So actually there's a lot of research
+that says that it can actually
+
+526
+00:33:01,590 --> 00:33:05,909
+increase usage because we make it
+easier for people to use things.
+
+527
+00:33:06,659 --> 00:33:11,429
+So making our websites more efficient is
+a very worthwhile thing to do, but it's
+
+528
+00:33:11,429 --> 00:33:13,590
+not the only thing we need to be doing.
+
+529
+00:33:13,919 --> 00:33:16,229
+We need to be asking
+some bigger questions.
+
+530
+00:33:16,739 --> 00:33:19,560
+And if you're interested in this
+concept that I've just talked about,
+
+531
+00:33:19,560 --> 00:33:21,449
+have a look at Jevons paradox.
+
+532
+00:33:23,290 --> 00:33:27,880
+So this leads us into why we
+need to think about economics.
+
+533
+00:33:27,970 --> 00:33:32,440
+And a brief definition of economics
+is it's a social science that studies
+
+534
+00:33:32,440 --> 00:33:36,340
+the site it's oh, I put science
+twice in there, a social science that
+
+535
+00:33:36,340 --> 00:33:39,970
+studies the science of production,
+distribution and consumption of wealth.
+
+536
+00:33:40,420 --> 00:33:43,330
+And it's basically the bit that
+dues the other two pillars together.
+
+537
+00:33:44,020 --> 00:33:48,310
+And it is also a way of articulating
+the systems, the decision-making
+
+538
+00:33:48,310 --> 00:33:50,080
+systems that we exist with.
+
+539
+00:33:51,240 --> 00:33:55,290
+Now I mentioned one of my absolute
+heroes, Kate Raworth earlier, if you're
+
+540
+00:33:55,290 --> 00:33:59,010
+interested in this kind of thing, do you
+have a look at donut economics, her book,
+
+541
+00:33:59,400 --> 00:34:03,389
+and there's also a fantastic website
+called the doughnut economics action lab,
+
+542
+00:34:03,389 --> 00:34:05,100
+which I spend a lot of time on as well.
+
+543
+00:34:05,100 --> 00:34:09,810
+It's full of really interesting resources
+about the wider questions we should be
+
+544
+00:34:09,810 --> 00:34:11,989
+asking about the systems that we exist.
+
+545
+00:34:13,545 --> 00:34:18,225
+Um, and also if you're really interested
+in this, I'd highly recommend a book
+
+546
+00:34:18,225 --> 00:34:22,995
+called less is more by Jason Hickle,
+which is actually suggesting that I
+
+547
+00:34:22,995 --> 00:34:28,335
+would desire to grow, grow, grow, needs
+to be an inhabited if we're really going
+
+548
+00:34:28,335 --> 00:34:29,625
+to seriously tackle climate change.
+
+549
+00:34:30,620 --> 00:34:34,340
+And I bring that up here because I
+do think that within the tech sector,
+
+550
+00:34:34,580 --> 00:34:39,710
+we are still a little bit beholden
+to this idea of growing all the time.
+
+551
+00:34:40,040 --> 00:34:44,239
+More, features, more sites,
+more clients, more, more, more.
+
+552
+00:34:44,989 --> 00:34:47,630
+And I think that this is a very
+interesting concept to think of.
+
+553
+00:34:49,225 --> 00:34:53,094
+Okay, I've got a few more
+slides and then we'll be done.
+
+554
+00:34:53,484 --> 00:34:56,185
+Um, so apologies to the, um, facilitators.
+
+555
+00:34:56,185 --> 00:34:58,105
+I might run over by a minute or two.
+
+556
+00:34:58,825 --> 00:35:00,714
+Um, social change.
+
+557
+00:35:00,865 --> 00:35:05,544
+Oh, so this pillar I wanted just to
+make relevant to us as tech makers.
+
+558
+00:35:05,904 --> 00:35:10,245
+So those of us who are creating
+digital services or are somehow
+
+559
+00:35:10,275 --> 00:35:12,045
+involved in the creation.
+
+560
+00:35:13,095 --> 00:35:18,045
+Now we need to change the way that we
+are working if we want to make tech
+
+561
+00:35:18,134 --> 00:35:23,115
+more sustainable, if we want there
+to be the same opportunities for
+
+562
+00:35:23,115 --> 00:35:25,305
+future generations that we have today.
+
+563
+00:35:25,365 --> 00:35:27,555
+We need to ask some
+questions of ourselves.
+
+564
+00:35:28,275 --> 00:35:30,375
+We need to ask what do we create tech?
+
+565
+00:35:31,964 --> 00:35:36,765
+So I think of tech websites,
+digital services are simply
+
+566
+00:35:36,765 --> 00:35:39,015
+an accelerator of solutions.
+
+567
+00:35:39,435 --> 00:35:44,265
+Intrinsically my personal belief is
+that I don't think tech is good or bad.
+
+568
+00:35:44,565 --> 00:35:49,275
+It is a bit bad when it's used wastefully
+is, as I talked about in my previous
+
+569
+00:35:49,275 --> 00:35:54,105
+slides, but on balance, essentially,
+it just accelerates solutions.
+
+570
+00:35:54,674 --> 00:35:59,065
+So we have to ask ourselves, well, which
+solutions are we choosing to accelerate?
+
+571
+00:35:59,654 --> 00:36:02,205
+Who are we choosing to lift up?
+
+572
+00:36:03,225 --> 00:36:08,265
+And most importantly, who is benefiting
+from what we're accelerating?
+
+573
+00:36:09,044 --> 00:36:11,024
+Who benefits from these solutions?
+
+574
+00:36:11,595 --> 00:36:15,105
+Who's standing to lose out
+from what we're creating?
+
+575
+00:36:15,765 --> 00:36:17,145
+Whose needs are we ignoring?
+
+576
+00:36:17,654 --> 00:36:19,544
+Who has the decision-making power?
+
+577
+00:36:19,575 --> 00:36:22,185
+And I think within the WordPress
+community, that's a really
+
+578
+00:36:22,185 --> 00:36:23,714
+interesting question at the moment.
+
+579
+00:36:24,345 --> 00:36:25,165
+Um, more.
+
+580
+00:36:26,069 --> 00:36:29,560
+I was getting Morton's full name,
+wrong Morten Rand-Hendriksen.
+
+581
+00:36:29,669 --> 00:36:33,359
+I'm sure y'all know who, I mean has
+just done a really interesting podcast
+
+582
+00:36:33,359 --> 00:36:35,250
+with WP Tavern talking about this.
+
+583
+00:36:35,819 --> 00:36:38,549
+So I think this is an issue
+within our own community that
+
+584
+00:36:38,549 --> 00:36:39,930
+we could be addressing as well.
+
+585
+00:36:40,589 --> 00:36:43,319
+And who feels the
+burdens of our decisions.
+
+586
+00:36:45,765 --> 00:36:49,485
+So, what I want to say to you is that
+if you're interested in sustainability,
+
+587
+00:36:49,515 --> 00:36:53,955
+you are going to, by default, end up
+going down a road of realizing that
+
+588
+00:36:53,955 --> 00:36:56,205
+climate justice equals social justice.
+
+589
+00:36:56,535 --> 00:37:00,915
+And you're going to realize that
+social issues are completely wrapped
+
+590
+00:37:00,915 --> 00:37:03,315
+up in making things more sustainable.
+
+591
+00:37:04,305 --> 00:37:07,755
+So it's a core concept of climate
+justice to think about social justice.
+
+592
+00:37:08,895 --> 00:37:12,075
+And as I mentioned before, it may
+be difficult doing these things
+
+593
+00:37:12,075 --> 00:37:16,035
+because we exist within systems
+that don't make it easy for us.
+
+594
+00:37:16,515 --> 00:37:20,955
+So we have to think beyond current
+paradigms that we're in and you
+
+595
+00:37:20,955 --> 00:37:23,235
+might hear the phrase system
+change, not climate change.
+
+596
+00:37:23,235 --> 00:37:24,255
+And that's what that means.
+
+597
+00:37:24,255 --> 00:37:27,855
+It means that the systems that are
+making the decisions around us are
+
+598
+00:37:27,855 --> 00:37:29,505
+not fit for purpose at the moment.
+
+599
+00:37:29,775 --> 00:37:34,785
+They don't allow us to tackle
+social injustice in the world.
+
+600
+00:37:37,875 --> 00:37:39,165
+Okay, I'm going to skip this slide.
+
+601
+00:37:39,165 --> 00:37:41,295
+That's a terribly scary diagram.
+
+602
+00:37:41,295 --> 00:37:44,924
+So as technologists, we need to
+challenge how we think and behave as
+
+603
+00:37:44,924 --> 00:37:48,615
+individuals as well as challenging
+the systems we exist within.
+
+604
+00:37:49,605 --> 00:37:52,965
+So summing up, this is a diagram
+I've been working on recently.
+
+605
+00:37:53,745 --> 00:37:57,795
+Two highlights what it means to
+build a sustainable internet.
+
+606
+00:37:58,455 --> 00:38:02,325
+Um, a lot of people may have come to
+this talk, expecting my talk to talk
+
+607
+00:38:02,385 --> 00:38:07,035
+loads about efficient tech and renewable
+energy and maybe even buying offsets.
+
+608
+00:38:07,395 --> 00:38:09,865
+So the stuff on the left-hand
+side of the diagram.
+
+609
+00:38:10,725 --> 00:38:14,865
+But actually, if we're interested in
+sustainable internet or in sustainable
+
+610
+00:38:14,865 --> 00:38:21,165
+digital services, there's a whole
+myriad of interrelated, social and
+
+611
+00:38:21,195 --> 00:38:25,875
+economic factors that we need to
+think about as well as efficient
+
+612
+00:38:25,875 --> 00:38:28,215
+tech and using renewable energy.
+
+613
+00:38:28,545 --> 00:38:33,055
+And again, I just want to stress to
+you if you're new to this journey.
+
+614
+00:38:33,345 --> 00:38:34,755
+Because it is a journey
+and it's a journey.
+
+615
+00:38:34,755 --> 00:38:35,925
+We're all going to have to go on.
+
+616
+00:38:36,015 --> 00:38:40,335
+If you're new to this and your starting
+steps are to make the tech that you're
+
+617
+00:38:40,335 --> 00:38:42,465
+using more efficient, then good for you.
+
+618
+00:38:42,825 --> 00:38:45,015
+That's a fantastic thing to be doing.
+
+619
+00:38:45,765 --> 00:38:50,505
+Once you've done that and you're ready
+to move on there's a myriad of other
+
+620
+00:38:50,505 --> 00:38:55,215
+things that you can put your time and
+energy into that will make a difference.
+
+621
+00:38:56,055 --> 00:38:57,615
+And of course, there's
+lots of co-benefits.
+
+622
+00:38:58,710 --> 00:39:02,520
+So improving the sustainability of
+digital services creates all sorts
+
+623
+00:39:02,520 --> 00:39:07,799
+of lovely side benefits to humans and
+the planet we can reduce resource use,
+
+624
+00:39:07,830 --> 00:39:13,049
+improve accessibility in UX, improve
+performance and speed, and ultimately
+
+625
+00:39:13,200 --> 00:39:17,340
+make us more fulfilled and happier
+humans, which is good for everyone.
+
+626
+00:39:17,430 --> 00:39:18,800
+It's good for the social good.
+
+627
+00:39:18,800 --> 00:39:21,885
+So there's lots and lots
+of reasons to do this.
+
+628
+00:39:22,605 --> 00:39:27,525
+Um, and I look forward to hearing
+any questions, any reactions to what
+
+629
+00:39:27,525 --> 00:39:32,415
+I've talked about today and hopefully
+meeting some of you in the communities
+
+630
+00:39:32,415 --> 00:39:36,575
+that are seeking to make these kinds
+of changes for everybody's good.
+
+631
+00:39:37,575 --> 00:39:38,775
+So, thank you very much.
+
+632
+00:39:38,805 --> 00:39:40,035
+That's the end of my talk.
+
+633
+00:39:40,424 --> 00:39:42,825
+Thank you for bearing with me
+and apologies to the organizers
+
+634
+00:39:42,825 --> 00:39:44,145
+for running a few minutes over.
+
+635
+00:39:44,745 --> 00:39:48,225
+Um, my slides will have been
+published on Twitter by now.
+
+636
+00:39:48,345 --> 00:39:52,035
+So my handle is hanopcan, so
+you can find the slides there
+
+637
+00:39:52,515 --> 00:39:54,375
+and there's loads more to go.
+
+638
+00:39:54,375 --> 00:39:57,795
+There's all these sort of resources that
+I've put at the end for you as well.
+
+639
+00:39:58,065 --> 00:40:01,185
+So you can have a look through
+those and kind of go on a really
+
+640
+00:40:01,185 --> 00:40:03,225
+fantastic journey of discovery.
+
+641
+00:40:04,095 --> 00:40:04,884
+Thank you very much.
+
+642
+00:40:07,004 --> 00:40:08,115
+Kim Coleman: Thank you so much, Hannah.
+
+643
+00:40:08,174 --> 00:40:09,285
+Lindsey Miller: Great Hannah.
+
+644
+00:40:09,495 --> 00:40:09,825
+Yep.
+
+645
+00:40:09,855 --> 00:40:11,654
+We're both excited way to go.
+
+646
+00:40:11,654 --> 00:40:12,645
+That was really awesome.
+
+647
+00:40:13,214 --> 00:40:13,395
+Hannah Smith: Good.
+
+648
+00:40:13,395 --> 00:40:13,694
+Good.
+
+649
+00:40:13,694 --> 00:40:14,024
+Okay.
+
+650
+00:40:14,024 --> 00:40:18,855
+I'm just going to stop sharing my
+screen a second and I can come back
+
+651
+00:40:18,855 --> 00:40:23,745
+to you and like look at you square on
+because otherwise you're on my profile.
+
+652
+00:40:26,055 --> 00:40:27,285
+I'm a big Roman nose right.
+
+653
+00:40:27,285 --> 00:40:27,705
+There we go.
+
+654
+00:40:28,634 --> 00:40:30,225
+Hello Kim and Lindsey.
+
+655
+00:40:31,680 --> 00:40:32,069
+Kim Coleman: Awesome.
+
+656
+00:40:32,069 --> 00:40:35,160
+I'm going to kick off the questioning
+with just kind of a background.
+
+657
+00:40:35,160 --> 00:40:40,470
+How did you personally get invested
+and involved in this topic and the
+
+658
+00:40:40,470 --> 00:40:42,109
+topics in general that you presented?
+
+659
+00:40:43,365 --> 00:40:43,754
+Hannah Smith: Yeah.
+
+660
+00:40:43,754 --> 00:40:46,665
+I mean, I've always been really
+interested in environmental
+
+661
+00:40:46,665 --> 00:40:48,674
+issues ever since a little kid.
+
+662
+00:40:48,794 --> 00:40:51,975
+Um, I worked for the environment
+agency is, as you mentioned in my
+
+663
+00:40:52,185 --> 00:40:56,504
+intro, um, and then about two and
+a half years ago, I went to word
+
+664
+00:40:56,504 --> 00:41:01,125
+camp Europe in Berlin and heard Jack
+Lennox give a talk at WordCamp Europe
+
+665
+00:41:01,214 --> 00:41:04,515
+about making websites more efficient.
+
+666
+00:41:05,384 --> 00:41:08,115
+And I'd been thinking for quite
+some time, I didn't think that
+
+667
+00:41:08,115 --> 00:41:11,960
+the WordPress community had been
+doing enough around sustainability.
+
+668
+00:41:12,020 --> 00:41:14,210
+I wasn't hearing enough conversations.
+
+669
+00:41:14,660 --> 00:41:17,990
+Um, so love to hear Jack's talk,
+Jack and I, and our good friends.
+
+670
+00:41:17,990 --> 00:41:19,880
+We've been working on a
+few projects together.
+
+671
+00:41:20,540 --> 00:41:24,350
+But it was that, and the work of whole
+grain digital that really made me realize,
+
+672
+00:41:24,350 --> 00:41:28,730
+Hey, they're all people in the WordPress
+community who are talking about this.
+
+673
+00:41:29,180 --> 00:41:31,640
+Um, and you know, there's hope for us.
+
+674
+00:41:31,640 --> 00:41:33,080
+We can, we can do this.
+
+675
+00:41:33,470 --> 00:41:36,860
+Um, so yeah, so it was sort
+of other community members
+
+676
+00:41:36,860 --> 00:41:37,640
+really that, that kind of.
+
+677
+00:41:38,505 --> 00:41:41,295
+Really pushed me on this direction.
+
+678
+00:41:41,295 --> 00:41:45,735
+And then I've sort of been finding
+my own path, um, since then as well.
+
+679
+00:41:48,235 --> 00:41:48,775
+Lindsey Miller: Absolutely.
+
+680
+00:41:48,775 --> 00:41:49,945
+I see that you're not alone.
+
+681
+00:41:51,315 --> 00:41:52,095
+Oh, sorry.
+
+682
+00:41:53,775 --> 00:41:54,525
+We're not good at this.
+
+683
+00:41:55,725 --> 00:42:00,645
+I know they have so many things to
+say, like, Hannah, I was slacking
+
+684
+00:42:00,975 --> 00:42:04,875
+Kim, as you were talking, like, I just
+felt like my jaw dropping through so
+
+685
+00:42:04,875 --> 00:42:08,205
+much of your talk and I can't wait
+to download the slides on Twitter.
+
+686
+00:42:08,505 --> 00:42:11,385
+Um, cause it really was
+absolutely fascinating.
+
+687
+00:42:11,445 --> 00:42:14,975
+And as you mentioned, there are other
+people in the community that are
+
+688
+00:42:15,345 --> 00:42:18,165
+interested in leaning into this area.
+
+689
+00:42:18,555 --> 00:42:21,435
+Um, but I haven't seen it presented
+in quite the way that you had.
+
+690
+00:42:21,674 --> 00:42:23,145
+So, um, thank you for that.
+
+691
+00:42:23,984 --> 00:42:24,435
+Hannah Smith: Um,
+
+692
+00:42:28,265 --> 00:42:29,595
+Lindsey Miller: no, it was really good.
+
+693
+00:42:29,654 --> 00:42:33,944
+Um, at least, I mean, even as I was paying
+attention and wanting to like learn more,
+
+694
+00:42:33,944 --> 00:42:42,225
+so, um, Um, so I have a question from
+from the chat she asks, does recycling
+
+695
+00:42:42,254 --> 00:42:48,134
+e-waste with our, does recycling the
+waste also increase the CO2 and if so,
+
+696
+00:42:48,345 --> 00:42:50,475
+what is the best way to dispose of it?
+
+697
+00:42:51,254 --> 00:42:52,845
+Hannah Smith: Oh, that's
+such a good question.
+
+698
+00:42:52,904 --> 00:42:55,395
+And thank you for asking that.
+
+699
+00:42:55,634 --> 00:42:58,544
+Um, there's no easy answer.
+
+700
+00:42:58,634 --> 00:43:00,615
+So, so recycling something.
+
+701
+00:43:01,904 --> 00:43:06,765
+Any kind of e-waste, as I mentioned,
+e-waste will, um, contain these
+
+702
+00:43:06,765 --> 00:43:11,325
+rare raw materials that are hard
+to find and extracting those from
+
+703
+00:43:11,325 --> 00:43:15,705
+the earth and producing them in the
+first place is crazy, crazy, bad.
+
+704
+00:43:15,765 --> 00:43:16,935
+Like it's not good.
+
+705
+00:43:17,685 --> 00:43:21,855
+So any way that you can find to
+recycle or reuse those things.
+
+706
+00:43:22,360 --> 00:43:25,810
+It's definitely going to be better for
+carbon emissions, because if we were to
+
+707
+00:43:25,810 --> 00:43:29,260
+extract the same amount of resources,
+again, that's going to be way more
+
+708
+00:43:29,260 --> 00:43:31,930
+policing than recycling and reusing.
+
+709
+00:43:33,070 --> 00:43:36,580
+The second part of the
+question is to how we recycle.
+
+710
+00:43:36,580 --> 00:43:38,680
+Well, that's not easy.
+
+711
+00:43:39,010 --> 00:43:42,910
+There are some companies that now allow
+you to send electronics back to them.
+
+712
+00:43:43,480 --> 00:43:45,580
+Um, certainly the bigger manufacturers.
+
+713
+00:43:46,620 --> 00:43:50,190
+Depending on where in the world you live,
+maybe you have a local council that's good
+
+714
+00:43:50,190 --> 00:43:52,170
+enough to accept those resources for you.
+
+715
+00:43:52,980 --> 00:43:57,330
+But honestly, there's no easy answer
+and it's kind of the tragedy of,
+
+716
+00:43:57,390 --> 00:44:01,529
+of a lot of this that we, we don't
+know, and we're producing all this
+
+717
+00:44:01,529 --> 00:44:03,359
+stuff and it just goes into landfill.
+
+718
+00:44:04,875 --> 00:44:07,785
+So, um, it was so [audience name],
+I think that asked the question.
+
+719
+00:44:07,785 --> 00:44:11,535
+I'm sorry that I can't give you like
+an awesome answer because I don't think
+
+720
+00:44:11,535 --> 00:44:17,115
+there is one, um, just consume less
+buy secondhand if you possibly can
+
+721
+00:44:17,174 --> 00:44:21,975
+and reuse what you can, you know, if
+you've got that big drawer of cables
+
+722
+00:44:21,975 --> 00:44:25,424
+or that big drawer of stuff, see if
+you can donate it to somebody else to
+
+723
+00:44:25,424 --> 00:44:28,845
+a local school or a community group
+that that maybe could make use of it.
+
+724
+00:44:30,075 --> 00:44:30,915
+It's a great question.
+
+725
+00:44:31,004 --> 00:44:31,995
+Thank you for asking it.
+
+726
+00:44:33,610 --> 00:44:36,840
+Lindsey Miller: It may not have an
+easy answer, but that's the point of
+
+727
+00:44:36,840 --> 00:44:39,060
+having this conversation, I think right?
+
+728
+00:44:39,120 --> 00:44:44,610
+Is continuing to bring this topic
+up, um, until we do have answers.
+
+729
+00:44:44,790 --> 00:44:47,940
+Um, so anyway, just wanted
+to throw that out there.
+
+730
+00:44:48,330 --> 00:44:49,970
+Um, what's our next question.
+
+731
+00:44:51,240 --> 00:44:51,689
+Kim Coleman: Oh, great.
+
+732
+00:44:51,720 --> 00:44:54,390
+I was just going to add my
+son at their school they have
+
+733
+00:44:54,390 --> 00:44:55,799
+an interesting wall hanging.
+
+734
+00:44:55,799 --> 00:44:59,729
+That's a weaving and there's
+kids brought in found objects and
+
+735
+00:44:59,729 --> 00:45:01,770
+they included an old keyboard.
+
+736
+00:45:01,770 --> 00:45:04,339
+And I think like a computer
+mouse, some interesting things.
+
+737
+00:45:04,339 --> 00:45:08,939
+So while we won't all make art out of
+our unused cables, it's an option and
+
+738
+00:45:09,209 --> 00:45:13,109
+something that kids are even seeing, you
+know, as beautiful and, and recreate.
+
+739
+00:45:13,540 --> 00:45:14,660
+So cool thanks.
+
+740
+00:45:14,680 --> 00:45:19,360
+Um, add this question from Fahim,
+uh, what are some alternatives to
+
+741
+00:45:19,360 --> 00:45:23,440
+Google analytics you mentioned, um,
+that it may not be needed and it's
+
+742
+00:45:23,440 --> 00:45:25,630
+kind of a heavy load on a site.
+
+743
+00:45:25,630 --> 00:45:27,490
+Do you have some preferences
+you can recommend?
+
+744
+00:45:27,820 --> 00:45:28,450
+Hannah Smith: Absolutely.
+
+745
+00:45:28,450 --> 00:45:28,810
+I do.
+
+746
+00:45:28,810 --> 00:45:30,140
+Thank you for the question Fahim.
+
+747
+00:45:30,160 --> 00:45:34,300
+I wanted to put it in my talk, but
+there was so much to talk through so I'm
+
+748
+00:45:34,300 --> 00:45:35,950
+glad that we can talk about this now.
+
+749
+00:45:36,370 --> 00:45:40,775
+Um, A couple of options.
+
+750
+00:45:40,775 --> 00:45:44,525
+There's plausible analytics
+and fathom analytics.
+
+751
+00:45:44,525 --> 00:45:49,295
+Now I believe that both are paid for
+services, but the thing is with Google,
+
+752
+00:45:49,295 --> 00:45:54,694
+like they are giving us stuff for
+free, but it's not free to society.
+
+753
+00:45:55,174 --> 00:45:59,674
+Somebody somewhere is paying for that
+society as a whole is paying for.
+
+754
+00:45:59,674 --> 00:46:01,595
+Now that's a real moral thing.
+
+755
+00:46:02,105 --> 00:46:07,680
+Um, It's not always something that a small
+startup or a small charity wants to hear.
+
+756
+00:46:08,220 --> 00:46:11,880
+Um, so a free option at the
+moment is called cabin analytics.
+
+757
+00:46:11,910 --> 00:46:15,180
+I love cabin analytics, their
+analytics loads in like, I think
+
+758
+00:46:15,180 --> 00:46:16,470
+it's less than two kilobits.
+
+759
+00:46:16,980 --> 00:46:20,460
+Whereas I think Google analytics
+is like somewhere between 60 and
+
+760
+00:46:20,460 --> 00:46:22,920
+80, like massive, big difference.
+
+761
+00:46:23,160 --> 00:46:27,690
+Um, so having a look at a cabin
+now they're in beta at the moment,
+
+762
+00:46:27,690 --> 00:46:29,170
+which is why the service is free.
+
+763
+00:46:29,475 --> 00:46:36,025
+If you get in there quickly, and then an
+open source option is  matoma analytics.
+
+764
+00:46:36,045 --> 00:46:37,035
+I think I've said that, right?
+
+765
+00:46:37,065 --> 00:46:41,595
+My tone, my Toma Miitomo it's either
+an OER and a at the end, their
+
+766
+00:46:41,595 --> 00:46:43,995
+analytics is entirely open source.
+
+767
+00:46:44,055 --> 00:46:47,685
+So you can actually run that
+yourself, but it requires a lot
+
+768
+00:46:47,685 --> 00:46:49,455
+more effort than Google analytics.
+
+769
+00:46:49,935 --> 00:46:54,405
+So if you're techie, you might get
+on well with Miitomo Metova I hope
+
+770
+00:46:54,405 --> 00:46:56,235
+somebody will correct me on which it is.
+
+771
+00:46:56,625 --> 00:47:01,485
+Um, I think they do also offer
+a subscription as a service
+
+772
+00:47:01,485 --> 00:47:02,715
+type type thing as well.
+
+773
+00:47:02,715 --> 00:47:06,165
+So there are options out there and
+within the WordPress community as well.
+
+774
+00:47:06,165 --> 00:47:09,975
+There's one more that I should mention,
+which is Koko analytics, which is a
+
+775
+00:47:09,975 --> 00:47:16,725
+free plugin, um, written by the same
+guy that does the main MailChimp plugin.
+
+776
+00:47:16,905 --> 00:47:19,725
+Ah, his name's gone out
+of my head at the moment.
+
+777
+00:47:19,785 --> 00:47:20,925
+I remember on my drive home.
+
+778
+00:47:20,925 --> 00:47:21,315
+I'm sure.
+
+779
+00:47:22,665 --> 00:47:24,615
+Probably have a look at Koko analytics.
+
+780
+00:47:24,645 --> 00:47:28,935
+If you just want simple information
+about page loads, Koko is a really
+
+781
+00:47:28,935 --> 00:47:32,505
+great choice, but you need something
+more in depth than more complex.
+
+782
+00:47:32,505 --> 00:47:34,605
+You're probably looking
+at plausible or fathom.
+
+783
+00:47:35,065 --> 00:47:36,055
+I mentioned that at the beginning.
+
+784
+00:47:39,915 --> 00:47:40,545
+Lindsey Miller: Perfect.
+
+785
+00:47:40,565 --> 00:47:42,455
+Thank you so much for
+answering that for us.
+
+786
+00:47:42,455 --> 00:47:45,635
+There's a lot of you mentioned,
+I hadn't heard of any of those
+
+787
+00:47:45,645 --> 00:47:48,755
+analytics programs, so, um, thank you.
+
+788
+00:47:48,785 --> 00:47:50,795
+I will definitely be
+Googling them afterwards.
+
+789
+00:47:51,185 --> 00:47:52,175
+Hannah Smith: Um, and we'll do.
+
+790
+00:47:54,100 --> 00:47:58,120
+Uh, just say Lindsey on that point
+as well, that not only have a
+
+791
+00:47:58,120 --> 00:48:01,720
+more efficient programs to use,
+but they also care a little more
+
+792
+00:48:01,720 --> 00:48:03,850
+about privacy as well in Google.
+
+793
+00:48:03,850 --> 00:48:07,660
+So for those of us, and, you know,
+in Europe, thinking about things
+
+794
+00:48:07,660 --> 00:48:11,140
+like GDPR, we're being pushed a bit
+more in that direction, but there
+
+795
+00:48:11,140 --> 00:48:13,840
+is that added benefit of privacy.
+
+796
+00:48:14,170 --> 00:48:17,110
+Um, better privacy, um, handling as well.
+
+797
+00:48:17,230 --> 00:48:21,040
+Anyway, we could like do analytics.
+
+798
+00:48:22,465 --> 00:48:27,955
+Lindsey Miller: We could, and the
+WordPress person is Danny Van Kooten.
+
+799
+00:48:28,585 --> 00:48:29,035
+You're welcome.
+
+800
+00:48:29,605 --> 00:48:29,965
+Kim Coleman: Yeah.
+
+801
+00:48:32,125 --> 00:48:35,725
+And I'm going to close that tab
+down so that I'm not loading
+
+802
+00:48:35,725 --> 00:48:37,355
+any anymore on that tab.
+
+803
+00:48:37,375 --> 00:48:38,305
+Like Googled it.
+
+804
+00:48:38,305 --> 00:48:39,025
+And I closed it.
+
+805
+00:48:42,175 --> 00:48:46,555
+Lindsey Miller: Which gets us into the
+next question, which is how do we begin
+
+806
+00:48:46,555 --> 00:48:52,225
+talking about this with our teams, our
+colleagues, and anyone else, especially as
+
+807
+00:48:52,225 --> 00:48:57,535
+we're talking about really changing entire
+workflows and what people are used to.
+
+808
+00:48:57,535 --> 00:49:00,685
+So what are your suggestions, um,
+to approach those conversations?
+
+809
+00:49:00,955 --> 00:49:03,355
+Hannah Smith: I think that's
+an excellent conversation.
+
+810
+00:49:03,895 --> 00:49:09,295
+And I think one of the key
+things that I've learnt is that.
+
+811
+00:49:10,305 --> 00:49:13,935
+Often, if you just talk about
+sustainability for sustainability
+
+812
+00:49:14,385 --> 00:49:18,405
+sake, you'll only get a very small
+amount of people that are really
+
+813
+00:49:18,405 --> 00:49:20,565
+interested in making a difference.
+
+814
+00:49:20,955 --> 00:49:25,365
+But if you talk about it as
+sustainability plus performance,
+
+815
+00:49:25,425 --> 00:49:31,710
+plus cost-saving plus making it more
+accessible plus improving the UX.
+
+816
+00:49:32,310 --> 00:49:36,360
+If you talk about it in all of
+those ways, you are far more
+
+817
+00:49:36,360 --> 00:49:37,710
+likely for people to go, right?
+
+818
+00:49:37,710 --> 00:49:37,920
+Yeah.
+
+819
+00:49:37,930 --> 00:49:40,350
+So basically we just need
+to kind of do better.
+
+820
+00:49:41,700 --> 00:49:45,810
+And I find that that's a really great
+way to get the conversation going.
+
+821
+00:49:46,650 --> 00:49:51,090
+I didn't get time to really talk about
+all the tools, which is a shame, but
+
+822
+00:49:51,090 --> 00:49:56,170
+there's a fantastic tool called website
+carbon calculator, websitecarbon.com.
+
+823
+00:49:56,700 --> 00:50:00,090
+And the creator of that Tom Greenwood
+was giving a talk this morning.
+
+824
+00:50:00,180 --> 00:50:01,680
+Maybe it came up in Tom's talk.
+
+825
+00:50:01,770 --> 00:50:02,310
+I bet it did.
+
+826
+00:50:02,790 --> 00:50:06,420
+Um, a really fun thing that you can
+do as a team is just put your website
+
+827
+00:50:06,450 --> 00:50:12,020
+in that tool and it will tell you what
+the carbon emissions are of that site.
+
+828
+00:50:12,730 --> 00:50:16,425
+And again, I think like when I've tried
+to engage people in the topic for the very
+
+829
+00:50:16,425 --> 00:50:22,515
+first time using that little measurement
+tool is great because it tells you not
+
+830
+00:50:22,515 --> 00:50:25,695
+only does it give you a number, but
+it tells you how good or bad your site
+
+831
+00:50:25,695 --> 00:50:27,225
+is compared to the rest of the world.
+
+832
+00:50:28,710 --> 00:50:32,759
+And it's green, if you do well, and
+it's red, if you're not doing so good
+
+833
+00:50:32,759 --> 00:50:36,720
+and, and people often go, oh my gosh,
+like we had no idea it was this bad.
+
+834
+00:50:37,200 --> 00:50:41,160
+Um, and that can galvanize a bit
+of motivation and action as well.
+
+835
+00:50:42,700 --> 00:50:45,910
+Lindsey Miller: Yeah, it reminds
+me of, um, there's a WordPress
+
+836
+00:50:45,910 --> 00:50:49,960
+agency in Texas called cause
+labs that Cheryl Gillihan owns.
+
+837
+00:50:50,200 --> 00:50:51,390
+And I wonder if.
+
+838
+00:50:52,515 --> 00:50:56,444
+She and others, like her could make that
+part of their process, even with our
+
+839
+00:50:56,444 --> 00:51:02,504
+clients is like in the, um, discovery
+phase or the pitch phase of saying
+
+840
+00:51:02,504 --> 00:51:06,254
+we ran it through this calculator
+because that therapy court right.
+
+841
+00:51:06,254 --> 00:51:06,484
+And so.
+
+842
+00:51:07,305 --> 00:51:10,905
+That's what they're, um, part
+of their mission is focused on.
+
+843
+00:51:11,235 --> 00:51:15,315
+And so adding that as part of your,
+um, space could be really interesting.
+
+844
+00:51:15,315 --> 00:51:16,785
+So thanks for sharing that.
+
+845
+00:51:17,475 --> 00:51:18,675
+Hannah Smith: An absolute pleasure.
+
+846
+00:51:18,735 --> 00:51:21,735
+And the other thing that website
+carbon calculator have as well
+
+847
+00:51:21,735 --> 00:51:24,825
+as a little badge that you can
+put in the footer of your site.
+
+848
+00:51:25,155 --> 00:51:28,935
+And we'll give you, um, a
+carbon emission in the footer
+
+849
+00:51:28,965 --> 00:51:30,825
+for each single page as well.
+
+850
+00:51:31,155 --> 00:51:32,835
+So is ongoing measurement.
+
+851
+00:51:32,865 --> 00:51:34,305
+That can be quite useful too.
+
+852
+00:51:34,665 --> 00:51:35,565
+And just making sure.
+
+853
+00:51:36,315 --> 00:51:40,845
+Um, yeah, your emissions, are you
+keeping an eye on, but yeah, I love
+
+854
+00:51:40,845 --> 00:51:44,895
+the idea of including, including it in
+the delivery, in the discovery phase.
+
+855
+00:51:44,895 --> 00:51:46,335
+I think that's a great suggestion.
+
+856
+00:51:48,455 --> 00:51:49,055
+Kim Coleman: Awesome.
+
+857
+00:51:49,775 --> 00:51:51,065
+We might have time for one or two more.
+
+858
+00:51:51,065 --> 00:51:54,215
+So I'm going to throw this one in,
+um, since we're all more working
+
+859
+00:51:54,215 --> 00:51:58,265
+remote these days, have you seen any
+positive or negative impact on the
+
+860
+00:51:58,265 --> 00:52:02,435
+sustainability and digital technology
+as we've moved to working from our
+
+861
+00:52:02,435 --> 00:52:04,145
+independent homes and environments?
+
+862
+00:52:09,480 --> 00:52:09,960
+Hannah Smith: Hmm.
+
+863
+00:52:09,990 --> 00:52:11,550
+That's a really great question.
+
+864
+00:52:11,550 --> 00:52:13,950
+And I don't think anybody's
+really asked me that before.
+
+865
+00:52:14,550 --> 00:52:21,600
+Um, I do wonder whether we have
+started to question how much
+
+866
+00:52:21,630 --> 00:52:23,790
+digital technology is in our lives.
+
+867
+00:52:23,940 --> 00:52:29,460
+Certainly for my own experience in lock
+down, I existed entirely in the digital
+
+868
+00:52:29,460 --> 00:52:31,380
+arena, as I'm sure many of you did.
+
+869
+00:52:31,380 --> 00:52:33,810
+It's the only way I was talking
+to people and the only way I
+
+870
+00:52:33,810 --> 00:52:35,009
+was speaking with my clients.
+
+871
+00:52:35,759 --> 00:52:41,040
+So I wonder perhaps whether there's been
+a bit more of a wake up of gosh, you know,
+
+872
+00:52:41,040 --> 00:52:44,160
+digital technology everywhere in our life.
+
+873
+00:52:44,250 --> 00:52:49,080
+And certainly we're having more
+conversations and, you know, Big Orange
+
+874
+00:52:49,080 --> 00:52:53,340
+Heart are having those conversations as
+well about mental health and the impacts
+
+875
+00:52:53,340 --> 00:52:55,500
+of digital technology on mental health.
+
+876
+00:52:56,160 --> 00:52:59,400
+Mental health does have
+a link to sustainability.
+
+877
+00:52:59,430 --> 00:53:01,320
+You know, I was talking
+about these social issues.
+
+878
+00:53:01,320 --> 00:53:04,800
+It may not be like a really like
+obvious, strong link, but there
+
+879
+00:53:04,800 --> 00:53:07,350
+is a relationship there as well.
+
+880
+00:53:08,430 --> 00:53:15,200
+So I mean, Beyond that I, I
+couldn't really say whether I'd
+
+881
+00:53:15,200 --> 00:53:16,520
+seen a sort of specifically.
+
+882
+00:53:17,580 --> 00:53:21,870
+Um, specific spin one way or the other,
+but it's an excellent question and one
+
+883
+00:53:21,870 --> 00:53:26,100
+I'll have a little think on, um, might
+pop back up with a blog post on that.
+
+884
+00:53:27,540 --> 00:53:29,879
+Kim Coleman: And if you love to read
+that, I would love to read that.
+
+885
+00:53:29,879 --> 00:53:32,819
+I think a lot of people during the
+pandemic, while they did absorb
+
+886
+00:53:32,819 --> 00:53:35,640
+themselves in more technology,
+I think they found these like
+
+887
+00:53:35,640 --> 00:53:37,560
+non-tech hobbies that they nurtured.
+
+888
+00:53:37,560 --> 00:53:40,830
+And, um, I've seen more
+conversations about that stuff then
+
+889
+00:53:40,830 --> 00:53:42,509
+bingeing, Netflix every day, so.
+
+890
+00:53:43,109 --> 00:53:43,560
+Hannah Smith: Oh, good.
+
+891
+00:53:43,589 --> 00:53:44,580
+Well, that's good for everyone.
+
+892
+00:53:44,580 --> 00:53:44,939
+I think.
+
+893
+00:53:51,555 --> 00:53:52,245
+Lindsey Miller: Well, awesome.
+
+894
+00:53:52,245 --> 00:53:53,745
+I think we're out of time.
+
+895
+00:53:53,805 --> 00:53:57,585
+Um, Hannah, thank you so much
+for your presentation today and
+
+896
+00:53:57,585 --> 00:53:59,325
+answering all of our questions.
+
+897
+00:53:59,655 --> 00:54:01,905
+Um, and we'll continue the
+conversation on Twitter.
+
+898
+00:54:02,505 --> 00:54:02,985
+Hannah Smith: Excellent.
+
+899
+00:54:03,015 --> 00:54:03,795
+I hope so.
+
+900
+00:54:04,565 --> 00:54:05,255
+Tap me up.
+
+901
+00:54:05,404 --> 00:54:09,845
+If you want to chat any more about surf,
+if you want advice on things I'm always
+
+902
+00:54:09,845 --> 00:54:14,525
+happy to share, um, and always happy to
+strike up conversations with people too.
+
+903
+00:54:14,525 --> 00:54:16,025
+This is an important topic.
+
+904
+00:54:16,025 --> 00:54:19,865
+So, you know, let's chat as a
+community and, and, and make some
+
+905
+00:54:19,924 --> 00:54:21,154
+moves in the right direction.
+
+906
+00:54:22,775 --> 00:54:22,985
+Lindsey Miller: Yep.
+
+907
+00:54:23,015 --> 00:54:23,615
+Perfect.
+
+908
+00:54:23,705 --> 00:54:24,785
+Thank you so much.
+
+909
+00:54:25,235 --> 00:54:25,475
+Thanks.
+
+910
+00:54:25,505 --> 00:54:25,835
+Okay.
+
+911
+00:54:25,835 --> 00:54:26,615
+We want to make sure that.
+
+912
+00:54:27,405 --> 00:54:28,575
+And tell our sponsors.
+
+913
+00:54:28,575 --> 00:54:29,775
+Thank you one more time.
+
+914
+00:54:29,805 --> 00:54:31,035
+So that is thank you.
+
+915
+00:54:31,035 --> 00:54:37,525
+A big thank you to BlueHost Cloudways
+GoDaddy Pro Nexcess Yoast and Weglot.
+
+916
+00:54:37,845 --> 00:54:41,025
+And please be sure to visit their
+tents and chat with them, and you
+
+917
+00:54:41,025 --> 00:54:46,055
+may even win some prizes and also
+get your photo snapped and the photo.
+
+918
+00:54:46,910 --> 00:54:50,060
+It's sponsored by multi
+collab and DreamHost.
+
+919
+00:54:50,090 --> 00:54:52,940
+And don't forget when you take your
+picture to tweet it out with the
+
+920
+00:54:52,940 --> 00:54:58,010
+hashtag #WordFestLive, and also a
+big thank you to all of our media
+
+921
+00:54:58,010 --> 00:55:01,040
+partners and micro sponsors that
+are helping put this on today.
+
+922
+00:55:02,660 --> 00:55:03,980
+Kim Coleman: We're going
+to take a short break.
+
+923
+00:55:04,190 --> 00:55:06,470
+Um, we'll be back at the top
+of the hour, but you can head
+
+924
+00:55:06,470 --> 00:55:07,820
+over to the community tent.
+
+925
+00:55:08,120 --> 00:55:12,020
+Um, for the next hour, you'll be able
+to meet with Cloudways and have their
+
+926
+00:55:12,020 --> 00:55:14,570
+QBO tent takeover with Elena QBO.
+
+927
+00:55:15,420 --> 00:55:18,630
+GoDaddy pro are running a
+panel on web security with
+
+928
+00:55:18,630 --> 00:55:21,540
+Nestor and Gullo  and guests.
+
+929
+00:55:22,050 --> 00:55:26,410
+Uh, you can join Nexcess, uh, with a
+chance to win a mystery prize and Yoast
+
+930
+00:55:26,430 --> 00:55:28,290
+are also running games with your sisters.
+
+931
+00:55:28,740 --> 00:55:29,430
+Uh, thank you so much.
+
+932
+00:55:29,430 --> 00:55:30,180
+Enjoy the break.
+
+933
+00:55:30,180 --> 00:55:31,080
+We'll see you in a bit.
+
+934
+00:55:31,200 --> 00:55:44,070
+You make our Big Orange Hearts full.
+
