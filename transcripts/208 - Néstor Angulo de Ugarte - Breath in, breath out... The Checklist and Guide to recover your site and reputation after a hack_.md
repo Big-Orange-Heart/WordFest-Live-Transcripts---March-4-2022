@@ -12,19 +12,19 @@ Discover Weglot the simple translation solution for your website. All you have t
 
 **Michelle:** Well Hello? 
 
-**Olamideyelo:** Hello, Michelle.
+**Olamide Egbayelo:** Hello, Michelle.
 
 **Michelle:** How are you? 
 
-**Olamideyelo:** I'm very well, thank you. The second session that I'm very excited. 
+**Olamide Egbayelo:** I'm very well, thank you. The second session that I'm very excited. 
 
 **Michelle:** Very good. Well O'Neil is having all kinds of problems. The internet is, um, given trouble right now in the Philippines. So I jumped in and said, I would be more than happy to co-host with you this time. How are you doing?
 
-**Olamideyelo:** I'm very well, thank you for joining in. 
+**Olamide Egbayelo:** I'm very well, thank you for joining in. 
 
 **Michelle:** Oh, of course. Do you mind if I introduce our next speaker? 
 
-**Olamideyelo:** Okay. Yeah, that's good. Okay. 
+**Olamide Egbayelo:** Okay. Yeah, that's good. Okay. 
 
 **Michelle:** Great. Um, so our next speaker is Néstor Angulo de Ugarte. I hope I said that, right? Presenting Breathe in, breathe out the checklist and guide to recover your site and reputation after a hack, Néstor is a technology enthusiasts, computer science engineer, and web security geek.
 
@@ -32,7 +32,7 @@ He loves to travel and although he's based in Spain, you can find him learning f
 
 So we will listen to Néstor and then go back and we'll be asking him a ton of questions. 
 
-**Olamideyelo:** Yeah. Looking forward to this session. Me too.
+**Olamide Egbayelo:** Yeah. Looking forward to this session. Me too.
 
 **Néstor Angulo de Ugarte:** Hey. Hi. How are you guys? Thank you very much for the presentation for introductions. Sorry, Michelle and Ola. Um, here we are so sorry, because it's really early here. It's 6am am in the morning, so let's do our best. Um, okay. Let's talk about hacking, security and so on and how to recover after a hack.
 
@@ -234,7 +234,7 @@ The, you know, the, the intrusion and faster to avoid that. For example, the rep
 
 **Michelle:** It doesn't matter. That's right. Ola, do you have any questions for Néstor before I let let him go. 
 
-**Olamideyelo:** All right. Just the mean, I think my favorite part of the favorite part of the session was, um, what you said about. You know, there are two types of companies, those who have been hacked, and those who don't know they have been hacked. I mean, how will you not know that you have been hacked? So I, my question will be, I mean, you you've said you you've said so much about, um, updating plugins and all of that. What, how often should.
+**Olamide Egbayelo:** All right. Just the mean, I think my favorite part of the favorite part of the session was, um, what you said about. You know, there are two types of companies, those who have been hacked, and those who don't know they have been hacked. I mean, how will you not know that you have been hacked? So I, my question will be, I mean, you you've said you you've said so much about, um, updating plugins and all of that. What, how often should.
 
 The company, I mean, maybe small organizations who can't really afford the retainer services or the hackers. How do they check? You know, so is that, is that a checklist or a timeline they should check, um, security of dates or functions of their websites?
 
@@ -272,7 +272,7 @@ If you have a big company, you have a lot of access. It's very, very costly. Uh,
 
 Oh, that's so funny. Well, thank you so much for being with us. It was wonderful, especially to hear you talk live and to have the great conversation with you. Um, Ola you want to read our thanks for our sponsors. 
 
-**Olamideyelo:** Um, thank you. Thank you.
+**Olamide Egbayelo:** Um, thank you. Thank you.
 
 So thank you, please make sure that I'm well, thanks. Well, thank all. Thanks to our sponsors. Bluehost, Cloudways, GoDaddy Pro, Nexcess, Yoast , Weglot. Please be sure to visit their tents and chat with them. We might event have have some giveaways, some prizes. Yeah. 
 
