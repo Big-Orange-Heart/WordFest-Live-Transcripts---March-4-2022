@@ -1,4 +1,4 @@
-# 208 - Néstor Angulo de Ugarte - Breath in, breath out... The Checklist and Guide to recover your site and reputation after a hack.
+### Néstor Angulo de Ugarte - Breath in, breath out... The Checklist and Guide to recover your site and reputation after a hack.
 
 **Yoast:** Do you know, the Yoast SEO, plugin, they're red, orange, and green feedback bullets that help you optimize your posts for the web. It runs on millions of websites. We tried to make SEO understandable and accessible to everyone.
 
