@@ -1,0 +1,3520 @@
+1
+00:00:28,005 --> 00:00:31,185
+Yoast: Do you know, the Yoast SEO,
+plugin, they're red, orange, and
+
+2
+00:00:31,185 --> 00:00:34,335
+green feedback bullets that help
+you optimize your posts for the web.
+
+3
+00:00:34,545 --> 00:00:36,435
+It runs on millions of websites.
+
+4
+00:00:36,855 --> 00:00:40,545
+We tried to make SEO understandable
+and accessible to everyone.
+
+5
+00:01:12,790 --> 00:01:15,820
+Bluehost: Who says building
+an online store has to be hard
+
+6
+00:01:16,090 --> 00:01:17,470
+with Bluehost website builder.
+
+7
+00:01:17,590 --> 00:01:19,150
+It's more than just easy.
+
+8
+00:01:19,360 --> 00:01:21,310
+It's tell us your thing in smart AI.
+
+9
+00:01:21,310 --> 00:01:22,450
+We'll take it from there.
+
+10
+00:01:22,450 --> 00:01:24,730
+Easy it's WooCommerce friendly.
+
+11
+00:01:24,790 --> 00:01:27,670
+So you can add one of these
+or swap this for that.
+
+12
+00:01:28,429 --> 00:01:31,550
+It's set up shop in minutes
+with unlimited products.
+
+13
+00:01:31,580 --> 00:01:32,060
+Easy.
+
+14
+00:01:32,120 --> 00:01:36,470
+Whether you sell boots, books
+or bowls, it's create an online
+
+15
+00:01:36,470 --> 00:01:40,810
+store with Bluehost, easy build
+beyond boundaries with Bluehost.
+
+16
+00:01:42,360 --> 00:01:42,960
+Nexcess: Oh, great.
+
+17
+00:01:43,080 --> 00:01:44,820
+My website crashed again.
+
+18
+00:01:44,970 --> 00:01:50,640
+I give up, don't give up on your
+dreams, Jordan, who are you?
+
+19
+00:01:50,700 --> 00:01:51,210
+It's me.
+
+20
+00:01:51,750 --> 00:01:53,340
+You from the future.
+
+21
+00:01:53,640 --> 00:01:55,680
+Your professional website
+is not at a breach.
+
+22
+00:01:55,710 --> 00:02:00,180
+You just need Nexcess with Nexcess managed
+hosting, you get lightning fast load
+
+23
+00:02:00,180 --> 00:02:04,770
+times built-in performance monitoring
+and updates, and always awesome support.
+
+24
+00:02:04,800 --> 00:02:06,690
+24 7 365.
+
+25
+00:02:06,720 --> 00:02:07,350
+For all your props.
+
+26
+00:02:07,845 --> 00:02:08,414
+Whoa.
+
+27
+00:02:08,655 --> 00:02:09,014
+Yeah.
+
+28
+00:02:12,375 --> 00:02:17,745
+Discover Weglot the simple
+translation solution for your website.
+
+29
+00:02:18,105 --> 00:02:21,945
+All you have to do is add
+Weglot to your website, select
+
+30
+00:02:21,945 --> 00:02:23,225
+the languages that you need.
+
+31
+00:02:23,725 --> 00:02:24,595
+And that's it.
+
+32
+00:02:24,775 --> 00:02:27,934
+Your website is now available
+in multiple languages.
+
+33
+00:02:29,714 --> 00:02:50,704
+Michelle: Well Hello?
+
+34
+00:02:59,105 --> 00:03:03,055
+Olamideyelo: Hello, Michelle.
+
+35
+00:03:04,674 --> 00:03:05,515
+Michelle: How are you?
+
+36
+00:03:07,035 --> 00:03:09,075
+Olamideyelo: I'm very well, thank you.
+
+37
+00:03:09,285 --> 00:03:11,864
+The second session that I'm very excited.
+
+38
+00:03:12,765 --> 00:03:13,605
+Michelle: Very good.
+
+39
+00:03:13,815 --> 00:03:16,725
+Well O'Neil is having
+all kinds of problems.
+
+40
+00:03:16,725 --> 00:03:20,475
+The internet is, um, given trouble
+right now in the Philippines.
+
+41
+00:03:20,475 --> 00:03:24,795
+So I jumped in and said, I would be more
+than happy to co-host with you this time.
+
+42
+00:03:24,795 --> 00:03:25,725
+How are you doing?
+
+43
+00:03:26,415 --> 00:03:29,265
+Olamideyelo: I'm very well,
+thank you for joining in.
+
+44
+00:03:29,864 --> 00:03:32,804
+Michelle: Oh, of course.
+
+45
+00:03:32,834 --> 00:03:34,785
+Do you mind if I introduce
+our next speaker?
+
+46
+00:03:36,435 --> 00:03:36,855
+Olamideyelo: Okay.
+
+47
+00:03:36,855 --> 00:03:37,705
+Yeah, that's good.
+
+48
+00:03:38,745 --> 00:03:39,075
+Okay.
+
+49
+00:03:39,075 --> 00:03:39,525
+Michelle: Great.
+
+50
+00:03:39,885 --> 00:03:43,685
+Um, so our next speaker is
+Néstor Angulo de Ugarte.
+
+51
+00:03:43,815 --> 00:03:44,985
+I hope I said that, right?
+
+52
+00:03:45,405 --> 00:03:49,605
+Presenting Breathe in, breathe out the
+checklist and guide to recover your
+
+53
+00:03:49,605 --> 00:03:56,295
+site and reputation after a hack, Néstor
+is a technology enthusiasts, computer
+
+54
+00:03:56,295 --> 00:03:58,905
+science engineer, and web security geek.
+
+55
+00:03:59,265 --> 00:04:03,135
+He loves to travel and although he's
+based in Spain, you can find him learning
+
+56
+00:04:03,135 --> 00:04:07,415
+from other cultures and meeting people
+wherever and internet connection is
+
+57
+00:04:07,415 --> 00:04:13,155
+available Néstor has been with security
+and GoDaddy web security since 2015,
+
+58
+00:04:13,455 --> 00:04:18,945
+and learns a ton about hackers, malware,
+and strange cases to study kind of
+
+59
+00:04:18,945 --> 00:04:23,085
+like a CSI for security analysts.
+
+60
+00:04:23,715 --> 00:04:26,565
+So we will listen to Néstor
+and then go back and we'll be
+
+61
+00:04:26,565 --> 00:04:27,945
+asking him a ton of questions.
+
+62
+00:04:28,815 --> 00:04:29,355
+Olamideyelo: Yeah.
+
+63
+00:04:29,415 --> 00:04:30,765
+Looking forward to this session.
+
+64
+00:04:31,395 --> 00:04:31,905
+Me too.
+
+65
+00:04:35,395 --> 00:04:36,045
+Néstor Angulo de Ugarte: Hey.
+
+66
+00:04:36,765 --> 00:04:37,065
+Hi.
+
+67
+00:04:37,365 --> 00:04:38,415
+How are you guys?
+
+68
+00:04:39,495 --> 00:04:42,515
+Thank you very much for the
+presentation for introductions.
+
+69
+00:04:42,515 --> 00:04:44,435
+Sorry, Michelle and Ola.
+
+70
+00:04:44,955 --> 00:04:50,005
+Um, here we are so sorry,
+because it's really early here.
+
+71
+00:04:50,055 --> 00:04:52,935
+It's 6am am in the morning,
+so let's do our best.
+
+72
+00:04:53,535 --> 00:04:54,375
+Um, okay.
+
+73
+00:04:54,375 --> 00:04:59,355
+Let's talk about hacking, security and
+so on and how to recover after a hack.
+
+74
+00:04:59,955 --> 00:05:00,525
+Um,
+
+75
+00:05:04,620 --> 00:05:07,140
+I hope that you guys were up up already.
+
+76
+00:05:07,380 --> 00:05:11,190
+Um, but, uh, one of the
+questions, uh, important here
+
+77
+00:05:11,190 --> 00:05:13,230
+is have you been hacked already?
+
+78
+00:05:13,830 --> 00:05:16,500
+Uh, just please raise your hand.
+
+79
+00:05:18,210 --> 00:05:19,799
+Oh, yeah, I see a lot of hands there.
+
+80
+00:05:20,039 --> 00:05:20,760
+No, I was kidding.
+
+81
+00:05:21,059 --> 00:05:21,840
+We are digital.
+
+82
+00:05:21,840 --> 00:05:28,229
+This isn't possible, but probably, a lot
+of you guys has, uh, suffer a hack, uh,
+
+83
+00:05:28,950 --> 00:05:34,590
+in one moment or another, uh, in your
+digital world and your digital life.
+
+84
+00:05:34,799 --> 00:05:35,969
+And if not, you will.
+
+85
+00:05:36,299 --> 00:05:38,280
+So this guy is important.
+
+86
+00:05:38,280 --> 00:05:42,750
+Let me share with you so on my
+impression, because I suffered in that.
+
+87
+00:05:43,815 --> 00:05:50,085
+And um, uh, in first person,
+uh, this kind of hack, uh, and I
+
+88
+00:05:50,085 --> 00:05:55,065
+feel, I felt all the answer to the
+older, all the, what I have to do.
+
+89
+00:05:55,065 --> 00:05:59,595
+And so on just before, before I
+came, I joined, uh, security and
+
+90
+00:05:59,595 --> 00:06:02,985
+GoDaddy, eh, and it was just a.
+
+91
+00:06:04,185 --> 00:06:07,845
+It was an er it was a nightmare
+because, uh, you know, uh,
+
+92
+00:06:07,965 --> 00:06:09,135
+you don't know what to do.
+
+93
+00:06:09,135 --> 00:06:10,485
+You don't know where to go.
+
+94
+00:06:10,485 --> 00:06:11,745
+You don't  know what to find.
+
+95
+00:06:11,745 --> 00:06:13,575
+And the customers are yes.
+
+96
+00:06:13,815 --> 00:06:15,405
+Uh, ringing you and so on.
+
+97
+00:06:15,405 --> 00:06:18,225
+So then let me share with you some tricks.
+
+98
+00:06:18,255 --> 00:06:22,235
+You can do some, uh, uh,
+again, a little guide.
+
+99
+00:06:23,550 --> 00:06:27,900
+To help you with, uh, you know,
+to help you with your anxiety and
+
+100
+00:06:27,900 --> 00:06:31,710
+your, or your feelings, uh, with
+the power of action right now.
+
+101
+00:06:32,190 --> 00:06:39,570
+So let's just, uh, let's just put in the
+situation that you have being hacked.
+
+102
+00:06:39,600 --> 00:06:45,000
+For example, you have been defaced
+with a skin like this one, uh, yeah.
+
+103
+00:06:45,060 --> 00:06:48,170
+Or, or you get all your
+files encrypted and so-on.
+
+104
+00:06:48,750 --> 00:06:48,930
+Yeah.
+
+105
+00:06:48,990 --> 00:06:49,290
+I know.
+
+106
+00:06:50,325 --> 00:06:51,195
+It's pretty tough.
+
+107
+00:06:51,255 --> 00:06:51,555
+Okay.
+
+108
+00:06:51,615 --> 00:06:52,695
+So let's scream.
+
+109
+00:06:52,725 --> 00:06:53,355
+You can, yes.
+
+110
+00:06:54,315 --> 00:06:55,905
+Let's your feel out?
+
+111
+00:06:56,085 --> 00:07:00,974
+Um, um, this, and is accepted also
+to be down a little bit, uh, but the
+
+112
+00:07:00,974 --> 00:07:07,995
+important part is after that, when you
+get all your feelings out, let's act.
+
+113
+00:07:08,174 --> 00:07:08,565
+Okay.
+
+114
+00:07:08,625 --> 00:07:13,664
+So this is the guide of the things
+that should you should do before that.
+
+115
+00:07:13,695 --> 00:07:19,815
+Uh, normally I am, uh, share some kind of
+concepts because we should put some care.
+
+116
+00:07:20,625 --> 00:07:25,065
+Uh, things clear before, um,
+uh, troubleshooting these
+
+117
+00:07:25,065 --> 00:07:26,385
+kind of scenarios, right?
+
+118
+00:07:26,805 --> 00:07:33,285
+So those of you that, uh, has, uh, seen
+any of my presentation, you will see
+
+119
+00:07:33,285 --> 00:07:40,245
+that this slide is appearing in all
+of them, this guy is a CIA, a C E O of
+
+120
+00:07:40,245 --> 00:07:44,505
+Cisco, which is a very big company of
+global communications around the world.
+
+121
+00:07:45,105 --> 00:07:48,405
+And he says that there are two
+types of companies, those who has
+
+122
+00:07:48,405 --> 00:07:52,195
+been hacked and those who don't
+yet know they have been hacked.
+
+123
+00:07:53,515 --> 00:07:58,375
+So, you know, dealing with, uh, cyber
+security or with the internet could
+
+124
+00:07:58,375 --> 00:08:00,025
+be a little bit of stress, right.
+
+125
+00:08:00,025 --> 00:08:04,565
+They used to have a lot of,
+um, uh, threats are out there.
+
+126
+00:08:04,565 --> 00:08:09,325
+There is a lot of terms and
+there is a lot of things to know.
+
+127
+00:08:09,415 --> 00:08:12,015
+Um, yeah, it could be a
+little bit of a warning.
+
+128
+00:08:13,155 --> 00:08:15,585
+So, let me put some things clear.
+
+129
+00:08:15,795 --> 00:08:19,335
+For example, I normally talk about
+hackers, the difference between
+
+130
+00:08:19,335 --> 00:08:23,205
+hackers and cyber terrorists
+hackers, a curious person who will
+
+131
+00:08:23,205 --> 00:08:24,585
+be your limits and convention.
+
+132
+00:08:24,585 --> 00:08:28,515
+I always say that, um, if you
+are a little bit sleepy and you
+
+133
+00:08:28,515 --> 00:08:30,455
+just, take a coffee, you are just
+
+134
+00:08:30,665 --> 00:08:31,625
+hacking yourself.
+
+135
+00:08:31,680 --> 00:08:35,600
+You are, uh, what we call bio-hacking.
+
+136
+00:08:35,600 --> 00:08:35,840
+Right.
+
+137
+00:08:36,530 --> 00:08:42,230
+Um, even if you use a part of a
+bottle for all the thing or something
+
+138
+00:08:42,230 --> 00:08:43,340
+like that, you are hacking as well.
+
+139
+00:08:43,340 --> 00:08:44,930
+So it's important to not.
+
+140
+00:08:46,199 --> 00:08:49,110
+Uh, take wrong this, this term, right?
+
+141
+00:08:49,560 --> 00:08:54,870
+So as cyber terrorist is a one kind of
+hackers, a computer hacker, which is, um,
+
+142
+00:08:55,730 --> 00:08:58,560
+whose mission is to enrich himself, right?
+
+143
+00:08:58,630 --> 00:08:59,069
+Yes.
+
+144
+00:08:59,069 --> 00:09:02,490
+Uh, we always say that the bad
+guy, right or the bad hacker.
+
+145
+00:09:04,165 --> 00:09:07,675
+Also it's important to understand
+that security is not a whole list
+
+146
+00:09:08,395 --> 00:09:10,734
+is component of the layers, right?
+
+147
+00:09:10,734 --> 00:09:16,314
+Is, um, uh, this is a simplified
+model in, in the web security part,
+
+148
+00:09:16,344 --> 00:09:19,420
+but the, you know, Cyber security.
+
+149
+00:09:19,810 --> 00:09:23,540
+There has a lot of fields and we
+are talking right now about, uh,
+
+150
+00:09:23,890 --> 00:09:25,990
+WordPress sites or web security.
+
+151
+00:09:26,620 --> 00:09:32,290
+So let me just pull it up in the
+screen, the layers more or less.
+
+152
+00:09:32,350 --> 00:09:38,290
+I mean, it's, I mean, this is a
+simplified model, uh, the layers we
+
+153
+00:09:38,290 --> 00:09:43,330
+have to take care on just to, uh,
+decrease the risk of being hacked.
+
+154
+00:09:43,360 --> 00:09:43,600
+Right?
+
+155
+00:09:44,140 --> 00:09:46,510
+So at the end, we are users.
+
+156
+00:09:48,090 --> 00:09:51,690
+It doesn't matter if you are
+the admin, you are the customer
+
+157
+00:09:51,690 --> 00:09:53,730
+or you are a hosting provider.
+
+158
+00:09:54,060 --> 00:10:01,635
+Uh, uh, Operator or whatever,
+there's a person, you know, we
+
+159
+00:10:01,635 --> 00:10:05,925
+can be, eh, eh, can be cheated.
+
+160
+00:10:05,925 --> 00:10:06,225
+Right?
+
+161
+00:10:06,225 --> 00:10:09,255
+So we are, we always say that
+the, that the persons, the
+
+162
+00:10:09,255 --> 00:10:10,995
+human being is weakest today.
+
+163
+00:10:11,055 --> 00:10:11,265
+Right?
+
+164
+00:10:11,835 --> 00:10:13,995
+So there is a device we use to connect.
+
+165
+00:10:14,025 --> 00:10:20,520
+We use the connection, things just goes
+through, uh, We have, you know, the
+
+166
+00:10:20,520 --> 00:10:25,890
+traffic that hits your website, there
+is the use of credentials, password
+
+167
+00:10:25,920 --> 00:10:33,989
+for authorization, for the different
+tasks you will like to do in a website.
+
+168
+00:10:35,130 --> 00:10:39,329
+There's a, some kind of layer of
+where security website security.
+
+169
+00:10:39,329 --> 00:10:43,410
+There is some kind of layer in the
+server security and also the database.
+
+170
+00:10:43,410 --> 00:10:46,739
+Keep in mind that the web model has also.
+
+171
+00:10:46,789 --> 00:10:52,324
+separated, the presentation part and
+the information part information in
+
+172
+00:10:52,324 --> 00:10:56,255
+the database and the presentation
+is all the files, design and so on.
+
+173
+00:10:57,545 --> 00:11:05,525
+So the counter measures or, um, the,
+the things we have to, uh, work in for
+
+174
+00:11:05,525 --> 00:11:11,344
+protecting these layers of course in
+the, in the part of persons of, of human
+
+175
+00:11:11,344 --> 00:11:13,724
+beings, uh, isn't knowledge, we should.
+
+176
+00:11:15,945 --> 00:11:16,875
+Learn things.
+
+177
+00:11:16,875 --> 00:11:19,845
+So we should just attend to
+this kind of lectures and so
+
+178
+00:11:19,845 --> 00:11:22,125
+on to know what is going on.
+
+179
+00:11:22,125 --> 00:11:24,465
+I where to, uh, where to look, right.
+
+180
+00:11:25,305 --> 00:11:29,065
+And again, if you are using a
+device, you can start antivirus
+
+181
+00:11:29,085 --> 00:11:30,465
+or you're using a connection.
+
+182
+00:11:31,125 --> 00:11:35,965
+Keep also keep in mind to use a
+SSL certificate so you can use.
+
+183
+00:11:36,675 --> 00:11:42,795
+Eh, S no, it's the HTTP protocol
+is the HTTPS, the secure one.
+
+184
+00:11:43,694 --> 00:11:47,125
+So if you're talking about
+traffic, you can install a WAF,
+
+185
+00:11:47,145 --> 00:11:49,685
+for me is the best protection.
+
+186
+00:11:49,694 --> 00:11:52,245
+So it's a web application firewall.
+
+187
+00:11:52,305 --> 00:11:52,365
+Yeah.
+
+188
+00:11:53,045 --> 00:11:58,445
+So then outside of there, um, in
+the kind of  authorisation and so
+
+189
+00:11:58,445 --> 00:12:03,055
+on, you got to use strong passwords,
+second factor authentication on in
+
+190
+00:12:03,055 --> 00:12:07,145
+the part of the website, both side
+on the server and the database.
+
+191
+00:12:07,315 --> 00:12:09,815
+The important is just
+to monitor it closely.
+
+192
+00:12:09,815 --> 00:12:12,980
+And install the updates,
+but there's another layer.
+
+193
+00:12:13,000 --> 00:12:13,680
+This is important.
+
+194
+00:12:13,680 --> 00:12:17,210
+This is not a once in lifetime checklist.
+
+195
+00:12:17,210 --> 00:12:21,540
+This is something we have to
+check continuously, continuously.
+
+196
+00:12:21,540 --> 00:12:24,660
+That's why I put another layer,
+which is the maintenance.
+
+197
+00:12:24,660 --> 00:12:25,920
+So we have to do this.
+
+198
+00:12:26,490 --> 00:12:27,900
+and check this every time.
+
+199
+00:12:28,380 --> 00:12:29,570
+So this is important.
+
+200
+00:12:30,330 --> 00:12:32,760
+Other part importantly,
+how WordPress is infected.
+
+201
+00:12:32,760 --> 00:12:34,010
+So we have.
+
+202
+00:12:35,235 --> 00:12:35,505
+Yeah.
+
+203
+00:12:35,535 --> 00:12:39,584
+If we get infected, these are the
+parts of the infection, right?
+
+204
+00:12:39,584 --> 00:12:44,834
+So to get a WordPress infected, there
+should be a vulnerability somewhere
+
+205
+00:12:46,094 --> 00:12:51,975
+when there is a piece of software
+that, uh, exploits that vulnerability
+
+206
+00:12:52,245 --> 00:12:54,255
+and then happens to the injection.
+
+207
+00:12:54,285 --> 00:12:56,564
+The injection could be just final code.
+
+208
+00:12:56,594 --> 00:13:00,105
+They just put the spam, I guess, the
+deface, your website, I just, put it
+
+209
+00:13:00,105 --> 00:13:01,814
+down and remove the fires or whatever.
+
+210
+00:13:03,675 --> 00:13:08,535
+Or the worst scenario if we brought the
+up backdoor, which is a piece of software
+
+211
+00:13:08,535 --> 00:13:12,825
+that allows me to access to the website,
+even if the vulnerability is  black.
+
+212
+00:13:12,915 --> 00:13:13,215
+Right?
+
+213
+00:13:13,755 --> 00:13:17,985
+So when you have a backdoor inside, you
+can do all the final code things also.
+
+214
+00:13:18,045 --> 00:13:22,035
+Uh, but whenever you want, not
+only when they went brevity, sorry.
+
+215
+00:13:23,415 --> 00:13:27,955
+So facts, I would love also to share
+with you guys, normally, uh, hacking
+
+216
+00:13:27,975 --> 00:13:31,125
+is not easily is not client oriented.
+
+217
+00:13:31,125 --> 00:13:35,145
+So if you, when you get hack,
+normally the first question is why me?
+
+218
+00:13:35,595 --> 00:13:35,925
+Why me?
+
+219
+00:13:35,925 --> 00:13:42,585
+I half a kitty, uh, feed the shop online.
+
+220
+00:13:42,675 --> 00:13:45,045
+So why they attack me normally they are.
+
+221
+00:13:45,045 --> 00:13:51,314
+don't care, what you are, what
+you are a using you WordPress, how
+
+222
+00:13:51,375 --> 00:13:52,605
+you are using the word purpose.
+
+223
+00:13:53,025 --> 00:13:55,995
+If you are using this state, just enroll.
+
+224
+00:13:56,025 --> 00:13:59,625
+There were the website using the
+vulnerabilities in their, uh,
+
+225
+00:13:59,625 --> 00:14:02,925
+vulnerable sites so they can hack
+whatever they need something.
+
+226
+00:14:04,465 --> 00:14:09,120
+It always, almost always happens
+because of that lack of maintenance.
+
+227
+00:14:09,150 --> 00:14:09,450
+Right.
+
+228
+00:14:09,450 --> 00:14:10,890
+So that's why it's important.
+
+229
+00:14:11,460 --> 00:14:14,670
+Uh, keeping also keep in mind
+also that SSL certificate is
+
+230
+00:14:14,670 --> 00:14:15,900
+not an anti-hacking shield.
+
+231
+00:14:15,900 --> 00:14:20,520
+So you should, uh, understand that
+having SSL certificate is not going
+
+232
+00:14:20,520 --> 00:14:22,540
+to protect you from getting hack.
+
+233
+00:14:22,710 --> 00:14:25,680
+It's going to protect the
+communications between that entity
+
+234
+00:14:25,680 --> 00:14:29,190
+or user your wherever and the server.
+
+235
+00:14:29,190 --> 00:14:32,010
+So the communications
+here is a secure channel.
+
+236
+00:14:32,310 --> 00:14:37,845
+If you hope put here as an
+entity, . an, er, bad hacker, which
+
+237
+00:14:37,845 --> 00:14:39,495
+is trying to hack your website.
+
+238
+00:14:39,495 --> 00:14:43,335
+So there's a certificate when I made
+this hacking attempts secure, right?
+
+239
+00:14:43,905 --> 00:14:47,595
+So it's, it's a  important part,
+but it's not an anti-hacking shield.
+
+240
+00:14:48,855 --> 00:14:52,425
+Also keep in mind, this is very important
+that patches and security updates
+
+241
+00:14:52,785 --> 00:14:57,015
+appear, uh, after an exploit discover.
+
+242
+00:14:57,075 --> 00:15:01,835
+So if you find that you see there is
+an update, like with a security patch.
+
+243
+00:15:02,755 --> 00:15:07,969
+Be sure or almost sure that there is
+an exploited, uh, being used on the
+
+244
+00:15:07,969 --> 00:15:14,930
+wild out there also, but hackers or
+bad guys, uh, are always checking them
+
+245
+00:15:15,319 --> 00:15:19,819
+their patches because when they say
+that there is a patch of the security,
+
+246
+00:15:19,969 --> 00:15:22,250
+uh, That's a good patch inside.
+
+247
+00:15:22,700 --> 00:15:24,500
+Uh, they try to figure it out.
+
+248
+00:15:24,530 --> 00:15:30,170
+The why has been, uh, uh, deployed
+so they can leverage all of the older
+
+249
+00:15:30,170 --> 00:15:32,120
+sites that haven't been updated.
+
+250
+00:15:32,120 --> 00:15:37,380
+So that's why it's important to
+update, uh, Very quickly, right.
+
+251
+00:15:38,130 --> 00:15:43,200
+And the other part is er, assuming
+that we are human we've failed.
+
+252
+00:15:43,200 --> 00:15:47,400
+So that's why it's a security
+is never, nor will never is.
+
+253
+00:15:47,400 --> 00:15:50,460
+And nor will be in the
+future 100% effective.
+
+254
+00:15:50,490 --> 00:15:54,160
+We have to reduce the
+risk of being hacked.
+
+255
+00:15:55,650 --> 00:15:59,680
+So going into, into the, into
+the mother, if you get hacked.
+
+256
+00:16:00,550 --> 00:16:03,615
+Well, uh, what's um, what are the steps?
+
+257
+00:16:03,615 --> 00:16:03,915
+Right.
+
+258
+00:16:03,915 --> 00:16:10,814
+So let me put here the agents in
+bold, if that happens, it's you at
+
+259
+00:16:10,814 --> 00:16:13,795
+your site, but also your customers.
+
+260
+00:16:13,795 --> 00:16:16,064
+So if you are, uh, under.
+
+261
+00:16:16,535 --> 00:16:22,265
+Uh, country, which has data, privacy,
+law, uh, law, or something like that.
+
+262
+00:16:22,265 --> 00:16:23,795
+You have to be aware of that.
+
+263
+00:16:23,795 --> 00:16:27,785
+So if there is a leak of information
+of sensitive information from your
+
+264
+00:16:27,785 --> 00:16:31,895
+website, you have to know the law that
+is applied to you and to your customer,
+
+265
+00:16:32,375 --> 00:16:37,775
+because maybe you have to, uh, mega
+worry that the authorities about that.
+
+266
+00:16:37,835 --> 00:16:40,285
+And we were going to
+talk about this later.
+
+267
+00:16:41,455 --> 00:16:43,665
+There's another layer, which
+is the hosting providers.
+
+268
+00:16:43,665 --> 00:16:48,255
+After these parts of this taking
+care of this part, we can't
+
+269
+00:16:48,255 --> 00:16:50,055
+just contact hosting providers.
+
+270
+00:16:51,075 --> 00:16:56,025
+Majority of securities can be, uh, can
+be solved digitally with the by, the
+
+271
+00:16:56,025 --> 00:16:58,665
+hosting providers support department.
+
+272
+00:16:58,875 --> 00:17:02,475
+And also you can apply as a backup or
+something like that with their help.
+
+273
+00:17:03,345 --> 00:17:09,800
+And if those agents are not able and not
+able to solve the security issue, This
+
+274
+00:17:09,890 --> 00:17:13,790
+is the moment when you have to hire, or
+you have to get in touch with security
+
+275
+00:17:13,790 --> 00:17:19,250
+expert, that can be internal, your hosting
+provider or external services, but this
+
+276
+00:17:19,310 --> 00:17:21,590
+talk, going to be in this part, right?
+
+277
+00:17:21,620 --> 00:17:25,850
+So what can you do if you get
+a hack on what are the first
+
+278
+00:17:25,960 --> 00:17:27,730
+aids you will, er should do.
+
+279
+00:17:29,470 --> 00:17:32,985
+So it's important that mission,
+we can take our two kind
+
+280
+00:17:32,985 --> 00:17:34,845
+of measures fire up fair.
+
+281
+00:17:35,085 --> 00:17:36,795
+The first of one is the reactive one.
+
+282
+00:17:37,035 --> 00:17:40,665
+Whereas this is when
+something already happened.
+
+283
+00:17:40,745 --> 00:17:42,175
+Something bad already happened.
+
+284
+00:17:42,195 --> 00:17:45,525
+It's a pain, mitigation
+or damage mitigation.
+
+285
+00:17:45,585 --> 00:17:47,745
+And this is what we
+call incident response.
+
+286
+00:17:48,045 --> 00:17:53,865
+And there is a proactive, uh, set
+of, uh, actions we can take before.
+
+287
+00:17:54,645 --> 00:17:58,515
+Anything bad happens, but this still
+going up, but going to center, we're
+
+288
+00:17:58,515 --> 00:18:02,115
+going to focus in the react part
+because we put in this scenario
+
+289
+00:18:02,115 --> 00:18:03,765
+that you have been hacked already.
+
+290
+00:18:04,695 --> 00:18:05,865
+So The response.
+
+291
+00:18:06,840 --> 00:18:11,310
+Here's the response is the effort
+to quickly identify, minimize the
+
+292
+00:18:11,310 --> 00:18:17,040
+effects and contain the damage,
+uh, or the, these adverse events.
+
+293
+00:18:17,070 --> 00:18:17,340
+Right?
+
+294
+00:18:17,909 --> 00:18:24,830
+So reactive measure, as we
+normally  as interim response, it
+
+295
+00:18:24,840 --> 00:18:27,149
+starts with it's scan of your site.
+
+296
+00:18:27,210 --> 00:18:29,189
+So the first of the fault is.
+
+297
+00:18:29,785 --> 00:18:32,275
+Don't do a blind hits.
+
+298
+00:18:32,335 --> 00:18:35,004
+Just let's try to figure
+out what happened.
+
+299
+00:18:35,004 --> 00:18:35,245
+Right?
+
+300
+00:18:35,695 --> 00:18:36,745
+So scan your site.
+
+301
+00:18:36,925 --> 00:18:41,125
+We'll be keeping in mind that
+normally with separate sites in
+
+302
+00:18:41,125 --> 00:18:43,315
+two, in two ways, in three ways.
+
+303
+00:18:44,625 --> 00:18:47,955
+Really the first one is the
+front end is what they use
+
+304
+00:18:47,955 --> 00:18:50,054
+or receive in their browsers.
+
+305
+00:18:50,354 --> 00:18:53,115
+The second one is the backend
+is what happened in the server.
+
+306
+00:18:53,115 --> 00:18:54,645
+You are, you have higher.
+
+307
+00:18:55,425 --> 00:18:58,995
+And the third one is we're
+happening the database, right?
+
+308
+00:19:01,094 --> 00:19:05,745
+The last two is difficult to
+scan if you are not skilled,
+
+309
+00:19:05,774 --> 00:19:07,194
+but the front end is easy.
+
+310
+00:19:07,245 --> 00:19:12,675
+You can use, for example, site check,
+uh,  from Securi, free a scanner that
+
+311
+00:19:13,155 --> 00:19:14,534
+you're going to take a snapshot of.
+
+312
+00:19:14,534 --> 00:19:20,895
+What is the scene in your website and
+analyze it, the checking for patterns.
+
+313
+00:19:20,895 --> 00:19:21,405
+And so on.
+
+314
+00:19:21,705 --> 00:19:25,125
+Also you have, uh, uh,
+plugins in your website.
+
+315
+00:19:25,395 --> 00:19:28,125
+Some of them yesterday
+includes some scanners.
+
+316
+00:19:29,835 --> 00:19:35,565
+Uh, I normally, I normally, I
+assume that we are talking the, we
+
+317
+00:19:35,565 --> 00:19:39,705
+are, we are assuming he has will
+have a big budget of security.
+
+318
+00:19:39,705 --> 00:19:42,945
+So that's why I recommend the
+free tail free trial plugins
+
+319
+00:19:42,965 --> 00:19:44,205
+scanners, like the Wordfence one.
+
+320
+00:19:44,535 --> 00:19:44,775
+Okay.
+
+321
+00:19:45,285 --> 00:19:47,595
+So update everything, including service.
+
+322
+00:19:47,725 --> 00:19:51,015
+Are we going to get to this
+point later is this is just a.
+
+323
+00:19:51,780 --> 00:19:57,720
+Yes, uh, uh, quickly checklist
+and then the CRC check remove or
+
+324
+00:19:57,720 --> 00:20:01,710
+change, which is the most boring
+part, but this is important as well.
+
+325
+00:20:03,300 --> 00:20:06,930
+And if any of these is not working,
+or, you need to restore a backup.
+
+326
+00:20:06,990 --> 00:20:09,300
+Keep in mind that after
+restoring a backup, we'll have
+
+327
+00:20:09,300 --> 00:20:10,710
+to back to the first part.
+
+328
+00:20:11,100 --> 00:20:11,370
+Okay.
+
+329
+00:20:11,370 --> 00:20:12,960
+So scanning as a, as a.
+
+330
+00:20:14,235 --> 00:20:16,125
+Uh, told before is yes.
+
+331
+00:20:16,485 --> 00:20:18,555
+Let's, uh, figure it out  what happened?
+
+332
+00:20:19,335 --> 00:20:21,315
+Uh, the site check, we don't
+have talking about that.
+
+333
+00:20:21,435 --> 00:20:26,115
+And eh, the use of any
+file plugins can answer.
+
+334
+00:20:26,175 --> 00:20:29,565
+And if you have, uh, access to the
+server and you have skill enough, you
+
+335
+00:20:29,565 --> 00:20:31,515
+can use  ClamAV or something like that.
+
+336
+00:20:31,515 --> 00:20:35,535
+So these kinds of things going to give
+some information, for example, this is
+
+337
+00:20:36,155 --> 00:20:39,425
+a screenshot for, from a site check.
+
+338
+00:20:39,495 --> 00:20:42,135
+And in this case, are
+you going to see here?
+
+339
+00:20:42,375 --> 00:20:46,300
+There's a jQuery.js uh, infected, right?
+
+340
+00:20:46,300 --> 00:20:50,410
+So yeah, we can, in this way,
+we can know that there is
+
+341
+00:20:50,410 --> 00:20:53,740
+something in the BP includes,
+which is a core file or a folder.
+
+342
+00:20:53,770 --> 00:20:54,160
+Sorry.
+
+343
+00:20:54,670 --> 00:20:59,380
+So this is a file infected is infected
+inside of the core files of WordPress.
+
+344
+00:21:00,855 --> 00:21:02,445
+And this is invaluable information.
+
+345
+00:21:02,655 --> 00:21:08,295
+So the update, why I say that to update
+we should today, everything right.
+
+346
+00:21:08,655 --> 00:21:13,875
+And keep in mind that this patches a
+security world is, but the most important
+
+347
+00:21:13,875 --> 00:21:16,455
+part for me in this talk is study.
+
+348
+00:21:16,515 --> 00:21:21,355
+When you update, you will override
+compromised and corrupt code with a
+
+349
+00:21:21,355 --> 00:21:25,425
+trustworthy code from official repository,
+which means that if you are, they were,
+
+350
+00:21:25,495 --> 00:21:27,235
+for example, they be being closed on.
+
+351
+00:21:27,235 --> 00:21:34,530
+VPN in, all the files that are needed is
+get over-written with the, uh, good ones.
+
+352
+00:21:34,620 --> 00:21:34,980
+Right?
+
+353
+00:21:35,010 --> 00:21:41,190
+So if there is malware, as we saw,
+so in the previous example, inside of
+
+354
+00:21:41,190 --> 00:21:47,190
+the core file of  of folders, uh, in
+this way, you just get rid of them.
+
+355
+00:21:47,925 --> 00:21:52,905
+It is a very easy way, eh, to
+troubleshoot this kind of thing.
+
+356
+00:21:52,925 --> 00:21:57,135
+So as I mentioned, just go to
+wordpress.org  download the
+
+357
+00:21:57,135 --> 00:22:02,264
+WordPress, eh, uh, separate
+file the exact version you have.
+
+358
+00:22:02,865 --> 00:22:06,524
+And then just remove, uh, when,
+when you extract, uh, what is
+
+359
+00:22:06,524 --> 00:22:10,764
+inside of this secret file, remove
+the  wp-content, wp-config.PHP
+
+360
+00:22:10,784 --> 00:22:14,835
+file because those are important
+for our website and we don't want.
+
+361
+00:22:15,510 --> 00:22:19,230
+Uh, you know, uh,
+accidentally overwrite them.
+
+362
+00:22:20,250 --> 00:22:25,159
+So removing those are highlighted, the
+wp-content folder and wp-config.php.
+
+363
+00:22:25,290 --> 00:22:27,360
+We can just go and.
+
+364
+00:22:28,155 --> 00:22:33,885
+Uh, take all these files and folder
+and just over-writ, override what
+
+365
+00:22:33,885 --> 00:22:35,835
+we have in our website, doing this.
+
+366
+00:22:36,075 --> 00:22:42,045
+We just get a fresh and updated  WordPress
+version that we know that the all, all
+
+367
+00:22:42,045 --> 00:22:43,935
+the core files and folders are clean.
+
+368
+00:22:45,635 --> 00:22:49,190
+The most more important, which is check,
+remove, and change, which is yeah.
+
+369
+00:22:49,430 --> 00:22:53,870
+Check for undeeded  admin users,
+plugins that we don't need themes
+
+370
+00:22:53,870 --> 00:22:56,149
+that are themes that we don't need.
+
+371
+00:22:56,270 --> 00:23:00,139
+Keep in mind that themes should
+be only two always in your list.
+
+372
+00:23:00,170 --> 00:23:01,910
+There should be only two themes.
+
+373
+00:23:02,240 --> 00:23:06,719
+The theme that you are actually using
+and at the default one only one default
+
+374
+00:23:06,740 --> 00:23:11,540
+one, because it's going to, uh, you
+got to work as a fail over themes.
+
+375
+00:23:11,540 --> 00:23:13,310
+If something bad happened
+with the other theme.
+
+376
+00:23:13,919 --> 00:23:19,320
+You're going to start with a default
+one, remove  with any updated backups,
+
+377
+00:23:19,350 --> 00:23:24,090
+uh, any defin, uh, under development or
+test sites in your brochure and started.
+
+378
+00:23:24,090 --> 00:23:30,450
+But you should understand that, um,
+a website secure, uh, mostly secured
+
+379
+00:23:30,480 --> 00:23:32,490
+website in internet should have.
+
+380
+00:23:33,420 --> 00:23:40,320
+The finest WordPress final version in our
+production server are all the experiments,
+
+381
+00:23:40,350 --> 00:23:44,970
+all the tests, all under-development
+themes  in a separate server.
+
+382
+00:23:45,000 --> 00:23:45,360
+Okay.
+
+383
+00:23:46,080 --> 00:23:46,870
+This is boredom.
+
+384
+00:23:47,550 --> 00:23:52,610
+Change all the password of the admin
+users, all the password, including the
+
+385
+00:23:52,639 --> 00:23:55,500
+database, including the cPanel FTP, SSH
+
+386
+00:23:55,520 --> 00:23:59,550
+because if a hacker a bad
+hacker gets into your website.
+
+387
+00:24:00,440 --> 00:24:03,760
+Reading the BB config PHP you
+have, for example, the password
+
+388
+00:24:04,190 --> 00:24:05,900
+to expose your database.
+
+389
+00:24:05,930 --> 00:24:09,320
+So it's important to review all
+of the, and also it's a good
+
+390
+00:24:09,320 --> 00:24:11,270
+habit to periodically change.
+
+391
+00:24:12,379 --> 00:24:12,620
+them.
+
+392
+00:24:12,675 --> 00:24:14,864
+So this is an example that
+you can see in the left.
+
+393
+00:24:15,254 --> 00:24:19,274
+Do we have a lot of
+default themes in style?
+
+394
+00:24:19,425 --> 00:24:20,925
+They shouldn't be like this.
+
+395
+00:24:21,344 --> 00:24:23,324
+Just keep one and update it.
+
+396
+00:24:23,745 --> 00:24:28,334
+And in the right, you can see
+a lot of means, which maybe
+
+397
+00:24:28,334 --> 00:24:30,495
+they add mean for a user.
+
+398
+00:24:30,495 --> 00:24:34,245
+And the janitor on the levy, the docent
+in the red tapes, uh, are probably
+
+399
+00:24:34,245 --> 00:24:36,405
+legit, but the admin is not one.
+
+400
+00:24:37,010 --> 00:24:40,220
+Let's see the email and the
+other ones could be just, you
+
+401
+00:24:40,220 --> 00:24:43,580
+know, leftovers or, uh, outdated.
+
+402
+00:24:44,000 --> 00:24:46,070
+So check this from time to time.
+
+403
+00:24:47,300 --> 00:24:49,570
+And that's the last
+option restore a backup.
+
+404
+00:24:50,410 --> 00:24:53,510
+Keep in mind, as you restore a backup,
+it shouldn't be the first option
+
+405
+00:24:53,510 --> 00:24:55,250
+because you can lose information.
+
+406
+00:24:55,700 --> 00:24:59,330
+And with us always, we don't
+always know what, sorry.
+
+407
+00:24:59,360 --> 00:25:00,920
+When will the infection began?
+
+408
+00:25:01,785 --> 00:25:04,335
+We can restart then the malware.
+
+409
+00:25:05,425 --> 00:25:09,975
+About backups is important to check
+that we have a good backup strategy.
+
+410
+00:25:10,155 --> 00:25:13,889
+Uh, if you you don't know how to
+do this, It's better if you just
+
+411
+00:25:13,889 --> 00:25:16,210
+rely in the hosting provider ones.
+
+412
+00:25:16,230 --> 00:25:21,570
+So invest in a good hosting,
+which has, uh, backups, a good
+
+413
+00:25:21,570 --> 00:25:25,600
+backup strategy, never restore the
+backups in the production server.
+
+414
+00:25:25,659 --> 00:25:28,770
+As I mentioned before, we
+can, we can infect the backup.
+
+415
+00:25:29,129 --> 00:25:33,450
+And then from there we can infect
+from inside the real sites.
+
+416
+00:25:33,450 --> 00:25:40,110
+So, eh, any, any security rule
+you may have going to be useless
+
+417
+00:25:40,139 --> 00:25:41,399
+if the infection comes from.
+
+418
+00:25:42,465 --> 00:25:42,915
+That's it.
+
+419
+00:25:42,965 --> 00:25:47,325
+That's why also way we recommend all
+to have the approach and server to
+
+420
+00:25:47,325 --> 00:25:52,035
+have there only there the production,
+the final WordPress in that server
+
+421
+00:25:52,845 --> 00:25:54,485
+check that their backup is functional.
+
+422
+00:25:54,485 --> 00:25:54,795
+Okay.
+
+423
+00:25:54,795 --> 00:25:57,285
+So let me remain functional.
+
+424
+00:25:57,675 --> 00:26:01,935
+So sometimes we just do backups, but
+the, they don't work or they are not
+
+425
+00:26:01,935 --> 00:26:02,955
+completed or something like that.
+
+426
+00:26:02,955 --> 00:26:06,855
+So check their backups are
+complete in a separate environment.
+
+427
+00:26:06,855 --> 00:26:08,525
+So something like that is a good habit.
+
+428
+00:26:10,335 --> 00:26:13,425
+So remember  scan, there was updates CRC.
+
+429
+00:26:13,515 --> 00:26:16,575
+And if you had to restore a
+backup, just go back to one.
+
+430
+00:26:18,705 --> 00:26:19,335
+I understand again.
+
+431
+00:26:19,575 --> 00:26:22,305
+So this is the checklist.
+
+432
+00:26:22,545 --> 00:26:28,995
+So what happens with reputation, uh, is
+important that, uh, we should understand
+
+433
+00:26:28,995 --> 00:26:33,525
+that internet is constantly being crawled
+by boats, not only searching giants
+
+434
+00:26:33,525 --> 00:26:38,445
+bots, we know, you know, for example,
+Google ones and so on, but also bots for.
+
+435
+00:26:39,870 --> 00:26:42,510
+Uh, other entities are
+just crawling internet.
+
+436
+00:26:43,590 --> 00:26:47,070
+So certain, certain Jina
+and security vendors have
+
+437
+00:26:47,280 --> 00:26:49,110
+normally have their block list.
+
+438
+00:26:49,260 --> 00:26:49,590
+Right?
+
+439
+00:26:49,680 --> 00:26:52,950
+So those are minds that they
+don't re they don't trust on them.
+
+440
+00:26:52,950 --> 00:26:57,990
+So the blocks is hard, hard linkage
+with the reputation because eh, the
+
+441
+00:26:57,990 --> 00:27:03,210
+most, the far most block list, the more
+widely accepted and the more actions
+
+442
+00:27:03,290 --> 00:27:08,565
+take  uh, So where's your post or your
+domain, or is your customer so on if
+
+443
+00:27:08,565 --> 00:27:12,284
+you are, uh, under their, their network?
+
+444
+00:27:12,315 --> 00:27:12,524
+Right?
+
+445
+00:27:14,115 --> 00:27:17,925
+So as what they mean is if you are, for
+example, posting something in Facebook
+
+446
+00:27:18,195 --> 00:27:23,295
+and Google or Facebook, Facebook, I don't
+think if they will have a block-list,
+
+447
+00:27:23,315 --> 00:27:27,135
+but the, for example, Google has a
+block list, block list at your domain.
+
+448
+00:27:27,695 --> 00:27:34,320
+Uh, Uh, Facebook is just going to put that
+your domain,  has been blacklisted, so
+
+449
+00:27:34,440 --> 00:27:38,730
+they don't allow you to post or they going
+to add something like, okay, decide maybe,
+
+450
+00:27:39,000 --> 00:27:40,830
+uh, having hack or something like that.
+
+451
+00:27:40,830 --> 00:27:43,830
+So you're going to affect your
+reputation, but keep in mind that the
+
+452
+00:27:43,830 --> 00:27:52,105
+reputation link to the, uh, To their
+black list is not an immediate process.
+
+453
+00:27:52,195 --> 00:27:52,525
+Okay.
+
+454
+00:27:52,525 --> 00:27:55,105
+So the inclusions in the
+black list takes time.
+
+455
+00:27:55,135 --> 00:28:01,585
+So if you are in a black list is because
+your infection hasn't been a detected.
+
+456
+00:28:02,055 --> 00:28:05,865
+And there's time that it
+has been in your  website.
+
+457
+00:28:05,955 --> 00:28:11,265
+So that's why it's important to
+detect faster, uh, any intrusion and
+
+458
+00:28:11,275 --> 00:28:13,275
+the de-listing also, it takes time.
+
+459
+00:28:13,275 --> 00:28:17,895
+So normally there are reconsiderations
+is a manual process normally, so it
+
+460
+00:28:17,895 --> 00:28:20,685
+could take three to five business days.
+
+461
+00:28:21,105 --> 00:28:21,945
+So it's important.
+
+462
+00:28:23,100 --> 00:28:28,500
+Even more, if you are talking
+about ads companies, um, some
+
+463
+00:28:28,530 --> 00:28:32,260
+normally they don't give you
+information why they had your site.
+
+464
+00:28:32,280 --> 00:28:35,010
+well have been is included
+in our block list.
+
+465
+00:28:35,280 --> 00:28:39,390
+Well, sometimes not always, but
+sometimes just for giving you an
+
+466
+00:28:39,390 --> 00:28:43,780
+example, I remember social networks
+block or worry about your post.
+
+467
+00:28:43,800 --> 00:28:44,400
+If you are in a.
+
+468
+00:28:45,495 --> 00:28:49,875
+In a blocked company, but ads
+company can block a whole campaigns.
+
+469
+00:28:49,875 --> 00:28:54,795
+And this is very interesting because for
+example, I know the example of Google
+
+470
+00:28:54,795 --> 00:28:57,705
+ads, because it's pretty, pretty funny.
+
+471
+00:28:58,245 --> 00:29:02,685
+Even if Google says it clear every
+blacklist vendor out there says
+
+472
+00:29:02,685 --> 00:29:08,085
+it's clear, eh, they normally
+take a lot of time to, to.
+
+473
+00:29:08,845 --> 00:29:13,885
+To allow your campaigns
+going and going live again.
+
+474
+00:29:14,215 --> 00:29:19,105
+So they talk normally around two
+weeks or sometimes even a month.
+
+475
+00:29:19,285 --> 00:29:20,465
+So don't delay.
+
+476
+00:29:20,905 --> 00:29:24,175
+That's why it's important to
+not get into any block lists.
+
+477
+00:29:24,385 --> 00:29:29,835
+And that's why it's important
+to get, uh, uh, to get to detect
+
+478
+00:29:30,535 --> 00:29:35,755
+faster, your intrusion and your
+site before this hits this step.
+
+479
+00:29:37,094 --> 00:29:43,115
+Oh, so if someone's search
+giants remove some of you results
+
+480
+00:29:43,495 --> 00:29:46,675
+and some of them also just to
+remove or resets your ranking,
+
+481
+00:29:46,695 --> 00:29:48,284
+so it could be very damage.
+
+482
+00:29:48,824 --> 00:29:52,605
+There's another important thing
+to mention, I mentioned it before.
+
+483
+00:29:52,605 --> 00:29:56,739
+It's, according to data protection it
+might be mandatory to report the personnel
+
+484
+00:29:56,739 --> 00:29:58,750
+data breached to supervisory authorities.
+
+485
+00:29:58,780 --> 00:30:04,330
+For example, in Europe, GDPR, give 70
+72 hours after a breach is detected.
+
+486
+00:30:04,990 --> 00:30:06,230
+So check the law.
+
+487
+00:30:06,770 --> 00:30:11,460
+Uh, which can be applied to the
+person who is affected for a breach.
+
+488
+00:30:11,780 --> 00:30:14,870
+I say, know, there are some
+laws and not from ASIA.
+
+489
+00:30:15,510 --> 00:30:19,170
+Uh, I'm not sure about that, but there
+is some examples I collected for you.
+
+490
+00:30:19,560 --> 00:30:24,960
+There's a, you know, the New Zealand
+privacy act 2020, the APPI for in Japan.
+
+491
+00:30:24,960 --> 00:30:31,540
+So it's called a P IPA, eh, PA
+uh, Thailand PDPA, and so on.
+
+492
+00:30:31,640 --> 00:30:31,790
+So.
+
+493
+00:30:33,215 --> 00:30:35,465
+Just be aware of this
+is not only your site.
+
+494
+00:30:35,465 --> 00:30:39,875
+It's also, uh, the applicable
+law in the country.
+
+495
+00:30:39,875 --> 00:30:44,625
+You are operating on the country of
+your customers who suffer a leak.
+
+496
+00:30:45,975 --> 00:30:50,375
+So the troubleshooting you know, now
+what happened with the reputation
+
+497
+00:30:50,525 --> 00:30:52,445
+and the, these kind of things.
+
+498
+00:30:52,655 --> 00:30:56,715
+Uh, so once the site is
+cleared, Go to VirusTotal.
+
+499
+00:30:56,735 --> 00:31:00,855
+total.com puts your URL of your
+domain there, and you can get
+
+500
+00:31:00,855 --> 00:31:04,455
+a huge list,, a huge list of
+black list of vendors out there.
+
+501
+00:31:04,875 --> 00:31:09,285
+So every one of these points
+that says anything else done
+
+502
+00:31:09,285 --> 00:31:11,175
+clear that clean, sorry.
+
+503
+00:31:11,535 --> 00:31:15,435
+You have to submit individually
+to them for a reconsideration,
+
+504
+00:31:15,435 --> 00:31:17,535
+but only once the site is clean.
+
+505
+00:31:17,535 --> 00:31:20,355
+Because if not, they're
+going to just say something.
+
+506
+00:31:20,415 --> 00:31:23,385
+I don't get your, your
+domain from the black list.
+
+507
+00:31:23,415 --> 00:31:30,660
+And maybe you can put yourself
+in a . Uh, More, uh, time
+
+508
+00:31:30,660 --> 00:31:34,690
+list, right on the last part.
+
+509
+00:31:34,690 --> 00:31:39,750
+Then the reputation part is just to give
+a post-mortem report is hard because
+
+510
+00:31:39,750 --> 00:31:42,270
+sometime exposes your management, but.
+
+511
+00:31:43,380 --> 00:31:49,920
+It should be something like, okay guys, I
+have, uh, I have, um, suffer a hack attack
+
+512
+00:31:49,920 --> 00:31:51,810
+and this is more or less what's happening.
+
+513
+00:31:51,840 --> 00:31:56,010
+How I did discover when I covered
+this is the lessons learned one
+
+514
+00:31:56,490 --> 00:32:00,780
+where you have what I going to
+apply to not letting this happen.
+
+515
+00:32:00,780 --> 00:32:04,910
+Again, this is important because
+you can learn from these situations.
+
+516
+00:32:05,370 --> 00:32:08,180
+You can recover users
+trust because at the end.
+
+517
+00:32:08,890 --> 00:32:16,110
+You going to take all of us,
+uh, in one moment and also shows
+
+518
+00:32:16,110 --> 00:32:17,430
+your company has a transparency.
+
+519
+00:32:17,430 --> 00:32:17,940
+Advocated.
+
+520
+00:32:17,940 --> 00:32:21,570
+This is something I recommend is not
+mandatory, but I recommend that is
+
+521
+00:32:21,570 --> 00:32:25,120
+you suffer a major leak or a hack.
+
+522
+00:32:25,435 --> 00:32:29,274
+Especially, if you have density formation,
+do a post mortem sensitive public.
+
+523
+00:32:29,565 --> 00:32:29,865
+Okay.
+
+524
+00:32:29,865 --> 00:32:35,205
+So not that it's not important
+to, to give, uh, you know, secrets
+
+525
+00:32:35,264 --> 00:32:39,825
+in this post-mortem, but just to
+transmit to people that, Hey, okay,
+
+526
+00:32:39,825 --> 00:32:46,155
+we have this, we have suffered these
+transparency abrogated, so, okay.
+
+527
+00:32:46,185 --> 00:32:47,475
+So at this moment we have.
+
+528
+00:32:48,115 --> 00:32:53,335
+Covered the checklist cover the reputation
+point and you know, I always talk
+
+529
+00:32:53,335 --> 00:32:56,845
+house out loud practice measure what
+we can do to avoid that this happens.
+
+530
+00:32:57,785 --> 00:33:03,325
+And anytime again, so just the
+CRC applied the same yesterday.
+
+531
+00:33:03,325 --> 00:33:06,274
+This admins, plugins and themes
+apply the least privileged.
+
+532
+00:33:07,784 --> 00:33:11,574
+Use password manager check
+periodically strong ones back ups.
+
+533
+00:33:11,595 --> 00:33:12,345
+Validate them.
+
+534
+00:33:12,345 --> 00:33:14,264
+Please updates apply.
+
+535
+00:33:14,264 --> 00:33:20,175
+Always, as I said is important because
+it overrides any, eh, malware in the
+
+536
+00:33:20,175 --> 00:33:23,895
+core files,  folders, monitor your site.
+
+537
+00:33:23,925 --> 00:33:25,695
+You can use WPSane.com for example.
+
+538
+00:33:27,300 --> 00:33:30,150
+your site or use a file integrity scanner.
+
+539
+00:33:30,180 --> 00:33:33,840
+Normally the final stage, the scanner
+is included in any security plugin, like
+
+540
+00:33:33,980 --> 00:33:38,340
+Wordfence or Securi  or all in one themes.
+
+541
+00:33:38,910 --> 00:33:39,240
+Themes.
+
+542
+00:33:42,135 --> 00:33:44,205
+. But install a WAF, this
+is important as well.
+
+543
+00:33:44,435 --> 00:33:47,195
+WAF is probably the
+best proactive measures.
+
+544
+00:33:47,195 --> 00:33:48,375
+You can start in your website.
+
+545
+00:33:48,405 --> 00:33:52,155
+It's something like if you go out and it's
+raining, you're going to take a umbrella.
+
+546
+00:33:52,155 --> 00:33:53,955
+That's why I put the red icon there.
+
+547
+00:33:54,165 --> 00:33:59,115
+So the WAF is the same as you go online,
+put that in front of your website.
+
+548
+00:33:59,475 --> 00:34:03,705
+So you can , it's going
+to act as an umbrella.
+
+549
+00:34:05,560 --> 00:34:07,540
+And remember to invest
+in hosting as security.
+
+550
+00:34:07,540 --> 00:34:14,260
+So, uh, we should have this in our mind
+when we design a site that we have to
+
+551
+00:34:14,260 --> 00:34:19,429
+invest some money in hosting of security,
+always by default in the beginning, so
+
+552
+00:34:19,460 --> 00:34:22,449
+I was saying, see everybody in a hacker.
+
+553
+00:34:22,449 --> 00:34:27,490
+I think hackers just improve
+the curiosity of the human
+
+554
+00:34:27,490 --> 00:34:31,090
+being and they are obligated to.
+
+555
+00:34:31,850 --> 00:34:37,165
+make things always better in the, in the
+world is not a lift the same as a bad
+
+556
+00:34:37,165 --> 00:34:45,045
+hacker  person, curious, which will help
+a lot in the progress of the human being.
+
+557
+00:34:45,915 --> 00:34:46,725
+That's all guys.
+
+558
+00:34:47,205 --> 00:34:48,045
+Thanks a lot.
+
+559
+00:34:48,075 --> 00:34:53,165
+Hope, uh, this, uh, has of, up to
+you guys and I open to questions.
+
+560
+00:35:09,295 --> 00:35:09,715
+Michelle: Yeah.
+
+561
+00:35:11,965 --> 00:35:12,085
+Néstor Angulo de Ugarte: Okay.
+
+562
+00:35:12,085 --> 00:35:14,425
+Well, thank you very much.
+
+563
+00:35:15,415 --> 00:35:16,435
+Michelle: It's a good to have you.
+
+564
+00:35:21,020 --> 00:35:24,050
+Yeah, your presentation was wonderful.
+
+565
+00:35:24,380 --> 00:35:26,150
+Uh, I'm not seeing a ton of questions.
+
+566
+00:35:26,150 --> 00:35:29,360
+I'm seeing everybody agreeing
+with you, which was wonderful.
+
+567
+00:35:29,750 --> 00:35:34,080
+I think lots of people are saying yes,
+functional backups, functional backups.
+
+568
+00:35:35,590 --> 00:35:36,840
+Néstor Angulo de Ugarte:
+I have faced this.
+
+569
+00:35:36,925 --> 00:35:40,025
+I have faced this that lots of times
+the customers say no, I have a backup.
+
+570
+00:35:40,045 --> 00:35:40,335
+Okay.
+
+571
+00:35:40,335 --> 00:35:45,285
+Share with me when I check it is
+corrupt that, oh, it's only one half.
+
+572
+00:35:47,045 --> 00:35:49,165
+This is a pain, is a pain.
+
+573
+00:35:49,475 --> 00:35:51,755
+Michelle: I have it on
+a thumb drive somewhere.
+
+574
+00:35:54,155 --> 00:35:54,365
+Néstor Angulo de Ugarte: Yeah.
+
+575
+00:35:54,365 --> 00:35:54,995
+That happened.
+
+576
+00:35:55,265 --> 00:35:58,655
+That happened to me as well, a customer
+I would say something like, Hey, I have
+
+577
+00:35:58,655 --> 00:36:00,425
+a memory flash with a backup somewhere.
+
+578
+00:36:00,515 --> 00:36:00,725
+Yes.
+
+579
+00:36:00,845 --> 00:36:03,305
+Give me some days to
+look at it and say, okay,
+
+580
+00:36:05,495 --> 00:36:11,705
+Michelle: I was speaking at WordCamp
+Montreal one year, maybe five years ago.
+
+581
+00:36:11,735 --> 00:36:12,635
+And I was free.
+
+582
+00:36:12,635 --> 00:36:14,075
+This was back in my freelance days.
+
+583
+00:36:14,075 --> 00:36:17,275
+When I didn't know better
+and made so many mistakes.
+
+584
+00:36:17,895 --> 00:36:22,065
+And as I'm driving to Montreal, I'm
+getting all of these phone calls from
+
+585
+00:36:22,065 --> 00:36:27,045
+customers because I was using the
+same hosting space for everybody.
+
+586
+00:36:27,435 --> 00:36:33,855
+So one customer got hacked and
+it bled into 23 other websites.
+
+587
+00:36:34,830 --> 00:36:39,660
+And I'm in the middle of a six hour
+drive and can do nothing, nothing to
+
+588
+00:36:39,660 --> 00:36:42,959
+like, and I didn't know what to do.
+
+589
+00:36:42,959 --> 00:36:47,399
+And so I, I went through and cleaned
+up like 1300 files overnight.
+
+590
+00:36:47,879 --> 00:36:51,720
+And by the next day it was hacked
+again, because I had no idea that
+
+591
+00:36:51,720 --> 00:36:53,520
+they just created their own users.
+
+592
+00:36:53,580 --> 00:36:57,569
+And I had to go in and delete the, oh
+my gosh, it was the worst experience.
+
+593
+00:36:57,629 --> 00:36:59,120
+And I wish that on nobody.
+
+594
+00:37:00,600 --> 00:37:01,814
+Néstor Angulo de Ugarte: I
+will there that will bear this.
+
+595
+00:37:01,814 --> 00:37:05,265
+Uh, that's what we call
+cross site contamination.
+
+596
+00:37:05,294 --> 00:37:08,415
+That's why I mentioned the
+two to remove all the backups.
+
+597
+00:37:08,415 --> 00:37:12,854
+And if you can also get all the
+websites, separating insulate in your,
+
+598
+00:37:12,854 --> 00:37:17,595
+in your own server is the best way to
+avoid this cross' site contamination.
+
+599
+00:37:17,595 --> 00:37:22,185
+Because even as you have a WAF, you
+have, uh, any security thing or whatever.
+
+600
+00:37:22,185 --> 00:37:26,380
+It er it into her in a cross
+site contamination situation.
+
+601
+00:37:26,420 --> 00:37:29,890
+They, they are useless because
+they contamination goes from in.
+
+602
+00:37:30,070 --> 00:37:34,060
+So it's, it's impossible to stop
+that, that you can guess monitor.
+
+603
+00:37:34,060 --> 00:37:38,780
+And you can just see the, the, you
+know, the reports, if you have a file
+
+604
+00:37:38,950 --> 00:37:42,110
+triggered the scanner or something like
+that saying, oh, there's a lot of files
+
+605
+00:37:42,130 --> 00:37:44,170
+that has been changed in the last hour.
+
+606
+00:37:44,460 --> 00:37:49,960
+Why then that's the only part that you
+can just only expect that be a spectator.
+
+607
+00:37:50,865 --> 00:37:54,615
+Michelle: And they usually wait until
+after 30 days until it fires so that
+
+608
+00:37:54,615 --> 00:37:56,955
+you don't have the backups on the host.
+
+609
+00:37:56,955 --> 00:38:00,884
+So you have to look for backups someplace
+else, which is never, never fun.
+
+610
+00:38:01,275 --> 00:38:03,975
+And for this case, it was the CGI bin.
+
+611
+00:38:04,065 --> 00:38:06,115
+Like nobody looks in their CGI bin.
+
+612
+00:38:06,134 --> 00:38:06,465
+Right?
+
+613
+00:38:06,465 --> 00:38:09,555
+So like, it was, that's where
+the, the original file was.
+
+614
+00:38:09,555 --> 00:38:11,475
+It's like I went through
+and deleted all of that.
+
+615
+00:38:11,475 --> 00:38:12,705
+It was terrible.
+
+616
+00:38:12,825 --> 00:38:15,945
+Néstor Angulo de Ugarte: So
+I was saying, damn not.world.
+
+617
+00:38:17,169 --> 00:38:22,240
+When the SSL certificates gets in, but
+inside of that folder, there is a lot
+
+618
+00:38:22,240 --> 00:38:25,810
+of malware sometimes as well, because
+it's a typical one that you don't know,
+
+619
+00:38:25,810 --> 00:38:29,589
+you don't check, but also because in
+their file managers, you don't have
+
+620
+00:38:29,680 --> 00:38:32,950
+activated the dot visability files.
+
+621
+00:38:33,100 --> 00:38:37,870
+So the dot well known folder
+is not visible, visible, so you
+
+622
+00:38:37,870 --> 00:38:40,690
+don't check it and get infected.
+
+623
+00:38:41,555 --> 00:38:45,225
+Michelle: It's not fun when that happens
+and your customers do not like it.
+
+624
+00:38:49,515 --> 00:38:51,195
+Néstor Angulo de Ugarte: And especially
+if you are in the middle, right.
+
+625
+00:38:52,155 --> 00:38:55,365
+and so on something like, oh, come
+on, I have to deal with my anxiety
+
+626
+00:38:55,365 --> 00:38:59,505
+with the customer anxiety, and
+then you have to deal with any,
+
+627
+00:38:59,755 --> 00:39:02,835
+any security team or something like
+that to recover your, your status.
+
+628
+00:39:04,410 --> 00:39:07,470
+Michelle: But, but only a
+person who works at a place like
+
+629
+00:39:07,470 --> 00:39:11,580
+Securi ends their presentation
+with everybody needs a hacker.
+
+630
+00:39:13,800 --> 00:39:14,370
+Néstor Angulo de Ugarte: Yeah.
+
+631
+00:39:14,370 --> 00:39:18,360
+It's, it's something like, uh, you
+know, personal campaign I would
+
+632
+00:39:18,360 --> 00:39:24,610
+like to, to doing, to encourage
+people to these  curious right.
+
+633
+00:39:24,690 --> 00:39:28,980
+To, to go beyond, but the problem is, are
+they going to beyond the laws is not the,
+
+634
+00:39:29,880 --> 00:39:32,790
+is not the point I'm trying to force.
+
+635
+00:39:32,940 --> 00:39:33,180
+Right.
+
+636
+00:39:34,950 --> 00:39:38,790
+That's why I made a distinction,
+but the yes, I don't know.
+
+637
+00:39:39,180 --> 00:39:39,660
+I don't know.
+
+638
+00:39:39,670 --> 00:39:44,790
+I super fan of this kind of video of
+five minutes of hackings something
+
+639
+00:39:44,790 --> 00:39:49,560
+and you know, they, they, they take
+the cap of the bottles to do some
+
+640
+00:39:49,710 --> 00:39:51,780
+funny stuffs or they're using another.
+
+641
+00:39:52,330 --> 00:39:56,174
+totally blow your mind, uh,
+situations, uh, something like that.
+
+642
+00:39:56,174 --> 00:40:00,835
+That for me, that's hacking as well and,
+and I don't know, it's something personal
+
+643
+00:40:01,855 --> 00:40:05,105
+Michelle: having a good, um, a
+good security plugin is good, but
+
+644
+00:40:05,105 --> 00:40:07,595
+you also have to make sure the
+security plugin stays up to date.
+
+645
+00:40:07,595 --> 00:40:09,694
+So if you're not updating your
+plugins and things like that,
+
+646
+00:40:09,694 --> 00:40:11,225
+you're running those risks as well.
+
+647
+00:40:11,635 --> 00:40:11,825
+Yeah.
+
+648
+00:40:12,535 --> 00:40:14,270
+Néstor Angulo de Ugarte: And the
+people listen, understand why?
+
+649
+00:40:14,270 --> 00:40:19,400
+Because the, you know, Brian's updates
+because they, they get new signature
+
+650
+00:40:19,460 --> 00:40:24,380
+Neo techniques discovered just
+recently discovered to hack websites
+
+651
+00:40:24,380 --> 00:40:31,340
+or the most updated, the plugin you
+have, uh, more able to get there.
+
+652
+00:40:31,759 --> 00:40:36,230
+The, you know, the, the intrusion
+and faster to avoid that.
+
+653
+00:40:36,230 --> 00:40:37,610
+For example, the reputational harm.
+
+654
+00:40:38,640 --> 00:40:38,880
+Michelle: Yeah.
+
+655
+00:40:39,210 --> 00:40:41,730
+It's like shutting all the windows,
+but leaving the front door open.
+
+656
+00:40:44,850 --> 00:40:47,650
+Néstor Angulo de Ugarte: I always
+say that you can close everything in
+
+657
+00:40:47,670 --> 00:40:52,050
+your and yours and your house, but if
+you leave her one, one window open?
+
+658
+00:40:52,530 --> 00:40:53,220
+It's useless.
+
+659
+00:40:53,580 --> 00:40:54,360
+Michelle: It doesn't matter.
+
+660
+00:40:54,390 --> 00:40:54,930
+That's right.
+
+661
+00:40:55,260 --> 00:40:58,440
+Ola, do you have any questions for
+Néstor before I let let him go.
+
+662
+00:40:58,920 --> 00:40:59,250
+Olamideyelo: All right.
+
+663
+00:40:59,250 --> 00:41:03,900
+Just the mean, I think my favorite
+part of the favorite part of the
+
+664
+00:41:03,900 --> 00:41:06,630
+session was, um, what you said about.
+
+665
+00:41:07,740 --> 00:41:11,820
+You know, there are two types
+of companies, those who have
+
+666
+00:41:11,820 --> 00:41:15,380
+been hacked, and those who don't
+know they have been hacked.
+
+667
+00:41:15,400 --> 00:41:18,180
+I mean, how will you not know
+that you have been hacked?
+
+668
+00:41:18,300 --> 00:41:24,180
+So I, my question will be, I mean, you
+you've said you you've said so much about,
+
+669
+00:41:24,240 --> 00:41:26,220
+um, updating plugins and all of that.
+
+670
+00:41:26,580 --> 00:41:28,230
+What, how often should.
+
+671
+00:41:29,235 --> 00:41:33,345
+The company, I mean, maybe small
+organizations who can't really afford
+
+672
+00:41:34,185 --> 00:41:38,384
+the retainer services or the hackers.
+
+673
+00:41:38,714 --> 00:41:41,265
+How do they check?
+
+674
+00:41:41,535 --> 00:41:45,435
+You know, so is that, is that
+a checklist or a timeline they
+
+675
+00:41:45,435 --> 00:41:50,055
+should check, um, security of dates
+or functions of their websites?
+
+676
+00:41:51,944 --> 00:41:53,595
+Néstor Angulo de Ugarte: It depends.
+
+677
+00:41:53,685 --> 00:41:57,555
+There are some people that just check
+it daily, some say you can use, for
+
+678
+00:41:57,555 --> 00:42:01,694
+example, this, site check to to check,
+uh, if there's something wrong or you
+
+679
+00:42:01,694 --> 00:42:04,995
+have a hosting provider that makes these.
+
+680
+00:42:05,920 --> 00:42:11,950
+Performed these daily scans in your
+website and so on, but it's nothing fixed.
+
+681
+00:42:11,950 --> 00:42:13,750
+It's something that's depending on you.
+
+682
+00:42:13,750 --> 00:42:16,600
+For me, it's important to
+have a good maintenance and
+
+683
+00:42:16,600 --> 00:42:17,950
+a good maintenance includes.
+
+684
+00:42:17,950 --> 00:42:21,430
+For example, how to
+have scan your website.
+
+685
+00:42:21,520 --> 00:42:23,140
+Eh, very often.
+
+686
+00:42:24,190 --> 00:42:28,000
+The faster, you, you, the detect,
+these kind of things, the faster you
+
+687
+00:42:28,000 --> 00:42:34,120
+recover and the less harms, what I
+always say, but, uh, for small companies
+
+688
+00:42:34,149 --> 00:42:39,470
+just using, for example,  site check
+scanner, a have a Wordfence plugin
+
+689
+00:42:39,490 --> 00:42:41,109
+um, something like that.
+
+690
+00:42:41,299 --> 00:42:47,029
+If you are a skill enough, has
+the WPSCAN running in your server?
+
+691
+00:42:47,550 --> 00:42:51,570
+It's  with that part, you, uh, Ready?
+
+692
+00:42:51,570 --> 00:42:56,350
+High, you have higher possibilities
+to get the infection or intrusion,
+
+693
+00:42:56,370 --> 00:42:58,860
+or vulnerability a faster enough.
+
+694
+00:43:00,930 --> 00:43:04,890
+Michelle: Uh, Jenna had a question for
+you from the  or from the, um, from the
+
+695
+00:43:04,890 --> 00:43:09,480
+chat there she says, would you recommend
+storing a copy of the latest backup, both
+
+696
+00:43:09,480 --> 00:43:11,730
+in the cloud and on a physical device.
+
+697
+00:43:14,174 --> 00:43:16,754
+Néstor Angulo de Ugarte: I think from
+my point of view, this is a little bit,
+
+698
+00:43:16,754 --> 00:43:20,055
+uh, uh, depending on the person, right?
+
+699
+00:43:20,375 --> 00:43:23,055
+Of the need, that's the
+needs of the company.
+
+700
+00:43:23,504 --> 00:43:29,415
+Uh, I recommend having it in the cloud,
+not the physical device, uh, because
+
+701
+00:43:29,555 --> 00:43:35,925
+the, the physical device can just, uh,
+You know, can get damaged, can get lost
+
+702
+00:43:36,105 --> 00:43:39,345
+or whatever on the end, if you get lost,
+for example, you are sharing with others.
+
+703
+00:43:39,615 --> 00:43:43,995
+Uh, what happened even if you
+have, for example, a NAS network
+
+704
+00:43:43,995 --> 00:43:48,525
+access, storage or something like
+that in your, in your network.
+
+705
+00:43:49,095 --> 00:43:54,065
+If it got, if it get hacked, it gets
+all information as well of the backups.
+
+706
+00:43:54,065 --> 00:43:58,515
+So I normally recommend, I prefer
+to rely in a cloud services and
+
+707
+00:43:58,545 --> 00:44:00,955
+this is my, my, from my part.
+
+708
+00:44:00,955 --> 00:44:06,649
+Truly, it's very redundant to have to
+do this kind of backups, but it depends.
+
+709
+00:44:07,029 --> 00:44:09,279
+If you have a big company,
+you have a lot of access.
+
+710
+00:44:09,299 --> 00:44:10,910
+It's very, very costly.
+
+711
+00:44:10,910 --> 00:44:13,950
+Uh, your needs to do assure
+that they are working and.
+
+712
+00:44:13,970 --> 00:44:15,709
+So on you have in both places.
+
+713
+00:44:16,040 --> 00:44:16,399
+It's okay.
+
+714
+00:44:17,910 --> 00:44:18,839
+Michelle: Not too long ago.
+
+715
+00:44:18,839 --> 00:44:22,529
+I actually found one of the first
+websites that I built on three
+
+716
+00:44:22,529 --> 00:44:24,060
+and a half inch floppy disks.
+
+717
+00:44:24,419 --> 00:44:25,410
+What do you think of that?
+
+718
+00:44:25,839 --> 00:44:31,079
+Néstor Angulo de Ugarte:
+Floppy disks, come on?
+
+719
+00:44:31,079 --> 00:44:33,729
+How many, how many floppy disks?
+
+720
+00:44:33,750 --> 00:44:36,270
+Michelle: This for like four or five?
+
+721
+00:44:38,440 --> 00:44:43,569
+Néstor Angulo de Ugarte: Well, I
+would say not to put your mobile phone
+
+722
+00:44:43,569 --> 00:44:48,759
+near to them, something like that
+because the end is magnetized, right?
+
+723
+00:44:50,080 --> 00:44:50,310
+Michelle: Yeah.
+
+724
+00:44:50,359 --> 00:44:51,450
+Three and a half inch floppy.
+
+725
+00:44:51,669 --> 00:44:56,140
+It was I, yes, I'm old,
+but also very funny.
+
+726
+00:44:56,290 --> 00:44:58,149
+It was from my classes 20 years ago.
+
+727
+00:44:59,065 --> 00:44:59,825
+Yeah,
+
+728
+00:44:59,825 --> 00:45:05,195
+Néstor Angulo de Ugarte: Probably, if
+we know about that, there are probably
+
+729
+00:45:05,195 --> 00:45:09,035
+people in the, in the audience that
+they don't know actually, but the
+
+730
+00:45:09,035 --> 00:45:14,214
+floppy disks is what the problems
+we had with those floppy disks.
+
+731
+00:45:15,155 --> 00:45:16,355
+Michelle: And you don't
+know what they are.
+
+732
+00:45:16,355 --> 00:45:16,895
+Go Google.
+
+733
+00:45:17,065 --> 00:45:18,555
+We're not going to explain any more.
+
+734
+00:45:22,085 --> 00:45:22,815
+Néstor Angulo de Ugarte: Yeah, for sure.
+
+735
+00:45:22,845 --> 00:45:24,765
+I remember the big ones.
+
+736
+00:45:24,765 --> 00:45:28,005
+The 3.5, not the dead second, 2.5.
+
+737
+00:45:28,545 --> 00:45:28,785
+Yeah.
+
+738
+00:45:28,785 --> 00:45:31,215
+Michelle: The five inch, five and
+a half inch or five and a quarter.
+
+739
+00:45:35,025 --> 00:45:35,865
+Oh, that's so funny.
+
+740
+00:45:35,895 --> 00:45:37,575
+Well, thank you so much for being with us.
+
+741
+00:45:37,575 --> 00:45:40,665
+It was wonderful, especially to
+hear you talk live and to have
+
+742
+00:45:40,665 --> 00:45:42,375
+the great conversation with you.
+
+743
+00:45:42,735 --> 00:45:46,365
+Um, Ola you want to read
+our thanks for our sponsors.
+
+744
+00:45:48,705 --> 00:45:50,625
+Olamideyelo: Um, thank you.
+
+745
+00:45:50,655 --> 00:45:51,045
+Thank you.
+
+746
+00:45:54,135 --> 00:45:57,915
+So thank you, please make
+sure that I'm well, thanks.
+
+747
+00:45:57,945 --> 00:45:58,755
+Well, thank all.
+
+748
+00:45:58,755 --> 00:46:00,285
+Thanks to our sponsors.
+
+749
+00:46:00,285 --> 00:46:06,964
+Bluehost, Cloudways, GoDaddy
+Pro, Nexcess, Yoast , Weglot.
+
+750
+00:46:07,665 --> 00:46:12,645
+Please be sure to visit their
+tents and chat with them.
+
+751
+00:46:12,645 --> 00:46:16,125
+We might event have have
+some giveaways, some prizes.
+
+752
+00:46:16,125 --> 00:46:16,575
+Yeah.
+
+753
+00:46:16,575 --> 00:46:17,715
+I'm all for the prizes.
+
+754
+00:46:18,055 --> 00:46:23,175
+But also don't forget to get photo
+snapped, I just shared mine on Twitter.
+
+755
+00:46:23,175 --> 00:46:28,365
+So make sure you engage, get your photo
+snaps in the portal booth and share tweet
+
+756
+00:46:28,365 --> 00:46:31,505
+it at us with the WordFest live, hashtag.
+
+757
+00:46:32,160 --> 00:46:37,589
+And also thank you to our media
+partners and our micro sponsors.
+
+758
+00:46:37,589 --> 00:46:41,069
+We're grateful to everyone of
+you and also in the community.
+
+759
+00:46:41,460 --> 00:46:44,520
+The community tent is
+up for the next hour.
+
+760
+00:46:44,520 --> 00:46:48,839
+So make sure you go there,
+network, meet other people, check
+
+761
+00:46:48,839 --> 00:46:51,309
+sites and news and cloudways
+
+762
+00:46:51,674 --> 00:46:57,194
+have their hourly giveaway would
+associate with a special guest activity.
+
+763
+00:46:57,194 --> 00:46:58,305
+You don't want to miss that.
+
+764
+00:46:58,544 --> 00:47:02,415
+So we're right back, Michelle, is there
+anything you want to add or is there that,
+
+765
+00:47:04,095 --> 00:47:04,575
+Michelle: yeah.
+
+766
+00:47:04,575 --> 00:47:08,625
+And so on the next hour, so as we hit
+the next, at the top of the next hour,
+
+767
+00:47:08,625 --> 00:47:14,455
+we're going to be into our lightning
+talks for this round, with Imran Sayed.
+
+768
+00:47:14,475 --> 00:47:19,004
+And Suresha N, and, and so he
+will see you back here on a
+
+769
+00:47:19,004 --> 00:47:45,944
+stage two at that point in time.
+
